@@ -1,4 +1,6 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR red][B]Mikes Senderliste Update vom 11.02.2020 RBB funzt wieder[/B][/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/2a2a4aee64bbd6f7f817/black/210x120.png" group-title="DEUTSCH", Das Erste HD
 https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/42a29350387ee5fda8fe/black/210x120.png" group-title="DEUTSCH", ZDF HD
