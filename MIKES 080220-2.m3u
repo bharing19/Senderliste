@@ -5,7 +5,7 @@ https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
 https://streams.wilmaa.com/m3u8/get?channelId=zdf_hd&profile=64
 #EXTINF:-1 tvg-id="SWR.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/5edb77a08387f0b820f6/black/210x120.png" group-title="DEUTSCH", SWR HD
 https://streams.wilmaa.com/m3u8/get?channelId=swr_hd&profile=64
-#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="DEUTSCH",hr-fernsehen
+#EXTINF:-1 tvg-id="HR.de" tvg-name="HR.de" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="DEUTSCH", HR
 http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
 #EXTINF:-1 tvg-id="BR.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/7bede2308528e63feaac/black/210x120.png" group-title="DEUTSCH", BR HD
 https://streams.wilmaa.com/m3u8/get?channelId=br_hd&profile=64
@@ -15,8 +15,8 @@ https://streams.wilmaa.com/m3u8/get?channelId=wdr_hd&profile=64
 https://streams.wilmaa.com/m3u8/get?channelId=ndr_hd&profile=64
 #EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/6905c0ca78ffcec7b2af/black/210x120.png" group-title="DEUTSCH", MDR S-Anhalt
 https://streams.wilmaa.com/m3u8/get?channelId=mdr&profile=16
-#EXTINF:-1 tvg-id="           ACHTUNG GEHT NICHT " tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rbb.png" group-title="", rbb Berlin
-http://telerising.de:8080/index.m3u8?channel=rbb&bw=3000
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rbb.png" group-title="", rbb Berlin
+https://streams.wilmaa.com/m3u8/get?channelId=rbb&profile=16
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/de09c10b090491ef8806/black/210x120.png" group-title="DEUTSCH", ZDF Neo HD
 https://streams.wilmaa.com/m3u8/get?channelId=zdf_neo_hd&profile=64
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/bfabafc809aa7b6db677/black/210x120.png" group-title="DEUTSCH", ZDF Info HD
