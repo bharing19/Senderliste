@@ -15,7 +15,7 @@ https://streams.wilmaa.com/m3u8/get?channelId=wdr_hd&profile=64
 https://streams.wilmaa.com/m3u8/get?channelId=ndr_hd&profile=64
 #EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/6905c0ca78ffcec7b2af/black/210x120.png" group-title="DEUTSCH", MDR S-Anhalt
 https://streams.wilmaa.com/m3u8/get?channelId=mdr&profile=16
-#EXTINF:-1 tvg-id="rbb.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rbb.png" group-title="", rbb Berlin
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/rbb.png" group-title="DEUTSCH", rbb Berlin
 https://streams.wilmaa.com/m3u8/get?channelId=rbb&profile=16
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/de09c10b090491ef8806/black/210x120.png" group-title="DEUTSCH", ZDF Neo HD
 https://streams.wilmaa.com/m3u8/get?channelId=zdf_neo_hd&profile=64
