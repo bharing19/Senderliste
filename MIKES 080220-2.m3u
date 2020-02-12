@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://mikestvbox.com/wp-content/uploads/2017/09/mikesLIveTV.png" group-title="",[COLOR red][B]NEU 12.02.2020  - TOTE UND DOPPELTE SENDER GELÖSCHT - LISTE IN KATEGORIEN ANGELEGT - REIENFOLGE - D A CH REGIONAL - NACHRICHTEN - SPORT - MUSIK - ENGLISCH - ITALIENISCH - POLNISCH[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://mikestvbox.com/wp-content/uploads/2017/09/mikesLIveTV.png" group-title="",[COLOR red][B]NEU 12.02.2020  - LISTE IN KATEGORIEN - REIENFOLGE - D A CH REGIONAL - NACHRICHTEN - SPORT - MUSIK - ENGLISCH - ITALIENISCH - POLNISCH[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://external-preview.redd.it/sadQi3MUuONLdMIdDbzYQOQkYKx-kS7NCFJzWiHFDNg.png?auto=webp&s=c219eda69afca6b3e1b78e821d2151b624b136c3" group-title="",D - A - CH - REGIONAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://external-preview.redd.it/sadQi3MUuONLdMIdDbzYQOQkYKx-kS7NCFJzWiHFDNg.png?auto=webp&s=c219eda69afca6b3e1b78e821d2151b624b136c3" group-title="",[COLOR blue][B]D - A - CH - REGIONAL[/B][/COLOR]
 https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/2a2a4aee64bbd6f7f817/black/210x120.png" group-title="DEUTSCH", Das Erste HD
 https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
@@ -645,10 +645,6 @@ https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepubli
 http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Wielkopolska" tvg-name="TV Wielkopolska" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+Wielkopolska.png" group-title="",TV Wielkopolska
 http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hope Channel" tvg-name="Hope Channel" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Hope+Channel.png" group-title="",Hope Channel
-http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1920px-Flag_of_Poland.svg.png" group-title="",[COLOR red][B]POLNSCH[/B][/COLOR]
-http://cdn.stream360.pl/CW24/cw24live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CW24 TV" tvg-shift="" radio="" tvg-logo="http://cw24.tv/wp-content/uploads/2014/05/logo_cw24-300x1961.jpg" group-title="",CW24 TV
 http://cdn.stream360.pl/CW24/cw24live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mango24" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/NewLogoMango.svg/360px-NewLogoMango.svg.png" group-title="",Mango24
@@ -657,12 +653,6 @@ https://stream.mango.pl:4443/mango/_definst_/live/playlist.m3u8
 http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV K Kujawy" tvg-name="TV K Kujawy" tvg-shift="" radio="" tvg-logo="http://www.kujawy.info/wp-content/uploads/kujawy-info-logo-top.jpg" group-title="",TV K Kujawy
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="TVP3 Warszawa" tvg-name="TVP3 Warszawa" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="",TVP3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:-1 tvg-id="TVT Zgorzelec" tvg-name="TVT Zgorzelec" tvg-shift="" radio="" tvg-logo="http://haldajazz.com/2016/images/sponsor/tvt.jpg" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="TV Torun" tvg-name="TV Torun" tvg-shift="" radio="" tvg-logo="http://www.toruntv.pl/public/img/new/logo.png" group-title="",TV Torun
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 #EXTINF:-1 tvg-id="TV Trwam" tvg-name="TV Trwam" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/db/TV_Trwam_Logo.png/300px-TV_Trwam_Logo.png" group-title="",TV Trwam
 http://trwamtv.live.e55-po.insyscd.net/trwamtv2.smil/chunklist_b950000.m3u8
 #EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP Info" tvg-shift="" radio="" tvg-logo="http://s.tvp.pl/images/b/c/3/uid_bc337ce8f24a5496ed394a9ff8b114e21412249630300_width_300_height_150_play_0_pos_0_gs_0.png" group-title="",TVP Info
@@ -675,15 +665,5 @@ http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8
 http://hls.redefine.pl/4C97F3A2/11306/0/hls576/masterlist.m3u8
 #EXTINF:-1 tvg-id="Polsat Viasat Nature" tvg-name="Polsat Viasat Nature" tvg-shift="" radio="" tvg-logo="http://epg.5v.pl/logo/Polsat+Viasat+Nature.png" group-title="",Polsat Viasat Nature
 http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8
-#EXTINF:-1 tvg-id="TVT Rybnik" tvg-name="TVT Rybnik" tvg-shift="" radio="" tvg-logo="http://epg.5v.pl/logo/TVT.png" group-title="",TVT Rybnik
-http://176.107.129.219/media/tvt/index.m3u8
-#EXTINF:-1 tvg-id="SFERA TV" tvg-name="SFERA TV" tvg-shift="" radio="" tvg-logo="http://epg.5v.pl/logo/SFERA+TV.png" group-title="",SFERA TV
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_w1591103044_b1128000_slpl.m3u8 
-#EXTINF:-1 tvg-id="TVP Opole" tvg-name="TVP Opole" tvg-shift="" radio="" tvg-logo="http://s.tvp.pl/images/e/d/e/uid_ede4d29bcfd0f92205813603db96d36d1451925559781_width_300_height_150_play_0_pos_0_gs_0.png" group-title="",TVP Opole
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-#EXTINF:-1 tvg-id="TV Pogranicze" tvg-name="TV Pogranicze" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+Pogranicze.png" group-title="",TV Pogranicze
-http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
-#EXTINF:-1 tvg-id="Republika TV HD" tvg-name="Republika TV HD" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Republika+TV.png" group-title="",Republika TV HD
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
 #EXTINF:-1 tvg-id="Hope Channel" tvg-name="Hope Channel" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Hope+Channel.png" group-title="",Hope Channel
 http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
