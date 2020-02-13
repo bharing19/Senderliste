@@ -305,7 +305,7 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8?fluxustv
 https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499968=10-AustraliaPlus-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517200904400646_Animal_Planetlogo365.gif&h=570&w=855&q=100&v=20170226&c=1" group-title="",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517200904400646_Animal_Planetlogo365.gif&h=570&w=855&q=100&v=20170226&c=1" group-title="",Animal Planet US
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-id="History2 USA" tvg-name="" tvg-shift="" radio="" tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="",History2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
