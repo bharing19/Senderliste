@@ -265,6 +265,26 @@ https://streams.wilmaa.com/m3u8/get?channelId=netviet_vn&profile=8
 https://streams.wilmaa.com/m3u8/get?channelId=bloomberg_tv&profile=8
 #EXTINF:-1 tvg-id="PressTV.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png" group-title="",Press TV
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RT America" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfamvnBMBECp3Ta-scNb_hE3su-Ew0TgpxNldJZyzekKqQtE_RPdrD1Qs" group-title="",RT America (Public-News) (RU) (English)
+http://rt-news.secure.footprint.net:80/1103.m3u8?streamType=live
+#EXTINF:-1 tvg-id="CSPAN" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazE_CJXySYO5rxKknVbEUyEdnxdhlhyrF-4qPXAh5PehJAXnulf5vvw" group-title="",CSPAN (Public-News) (US) (English)
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-id="News 12 New Jersey" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/images/regions/selectregion_6.jpg" group-title="",News 12 New Jersey (Public-News) (US) (English)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:-1 tvg-id="Cheddar Big News" tvg-name="" tvg-shift="" radio="" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26591/cheddar_news_440x330_NETWORK_LARGE_440_330.png" group-title="",Cheddar Big News (Public-News) (US) (English)
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 tvg-id="CBS News Opt1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQei3GtXdd8fWXVBqvHzfAM4BX09nj2aeDKISUI0lpTr3l182mD7t_Qs" group-title="",CBS News Opt1 (Public-News) (US) (English)
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnGK5SzCBe5Hw9iJi2xwPc_0sz-TSf_tqe4Tfsiizw7uxVov7RPTJsw_E" group-title="",CBS News Los Angeles (Public-News) (US) (English)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 tvg-id="CBS Action News Jax  (WJAX)" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1mvQoaw-donigtc-C1ZHrNJ5EOo7Z5uoyqzEHKjRhwS9K1ZIAEf8o1s" group-title="",CBS Action News Jax  (WJAX) (Public-News) (US) (English)
+https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+#EXTINF:-1 tvg-id="Sky News UK Opt2" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR92PjRDHbt9ENTISKHaym_SK9cZL-JPb43T4p_p5lBXn8NtbKN5fG" group-title="",Sky News UK Opt2 (Public-News) (UK) (English)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-id="ABC News Digital 5" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIuurygzwpPdHR8NkPyJau5RdrjbQO6dO23IEd85cyOdx3v9QuZX7fA" group-title="",ABC News Digital 5 (Public-Special Events) (US) (English)
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1 tvg-id="NBC 4 News Washington DC" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudyoaBYguDcMmr3QpX7W3fZE2_roJSVV18COT5WOpzC3l1uwhbHcx5zI" group-title="",NBC 4 News Washington DC (Public-News) (US) (English)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/bbc-parliament.png" group-title="", BBC Parliament
 https://streams.wilmaa.com/m3u8/get?channelId=bbc-parliament&profile=8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/122011/logo_sport-o_0.png?itok=6uGnMH5j" group-title="",[COLOR red][B]SPORT[/B][/COLOR]
@@ -299,20 +319,26 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports Tonight UK" tvg-name="" tvg-shift="" radio="" tvg-logo="http://www.sportstonightlive.com/img/logo.png" group-title="",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="Flow Sports 1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5TOrbFYQYZm6G61y3HMTmQmFBrCfPiRO_AXx33Mv0XaVeL0O2QQaf6w" group-title="",Flow Sports 1 (Public-Sports) (UK) (English)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-id="791" tvg-name="" tvg-shift="" radio="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="DUKUMENTATIONEN" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.logolynx.com/images/logolynx/a3/a3438d22c48b5ecd6de03a57789f72c8.jpeg" group-title="",[COLOR red][B]DOKUS[/B][/COLOR]
 https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499968=10-AustraliaPlus-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nz-wl2EESgvDITNJb1KeNF6xr4WVawuiwJd9f6ui7dZzZAVw5tqIAVk" group-title="",Discovery Channel (Public-Entertainment) (CZ) (Czech/English)
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://w0.pngwave.com/png/987/795/kodi-national-geographic-thetvdb-television-fan-art-others-png-clip-art.png" group-title="",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_vgp5nZ8LmN0B-_3LQnlwNJpsoqrbGHWvRMCcLqMZ4TE-gPRZsp9dPQ" group-title="",National Geographic (Public-Entertainment) (TW) (English)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://d-tm.ppstatic.pl/kadry/9e/d9/3c6c9177c3223fbc63374f57fa64.1000.jpg" group-title="",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160517200904400646_Animal_Planetlogo365.gif&h=570&w=855&q=100&v=20170226&c=1" group-title="",Animal Planet US
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-id="History2 USA" tvg-name="" tvg-shift="" radio="" tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="",History2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://w0.pngwave.com/png/987/795/kodi-national-geographic-thetvdb-television-fan-art-others-png-clip-art.png" group-title="",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://d-tm.ppstatic.pl/kadry/9e/d9/3c6c9177c3223fbc63374f57fa64.1000.jpg" group-title="",Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://uni-24.de/wp-content/uploads/2017/06/DocuBox-im-Live-Stream-legal-online-schauen-696x183.jpg" group-title="",DocuBox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1 tvg-id="Docurama USA" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Docurama_Logo_August_2015.jpg/220px-Docurama_Logo_August_2015.jpg" group-title="",Docurama
@@ -417,14 +443,24 @@ https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/11/abc28-590x295.jpg" group-title="",ABC
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
+#EXTINF:-1 tvg-id="ABC 7 WWSB" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqbShzr1ZZZi6KMWV4gHa5Qy4wacnwqIathi2I0ml_eNKle24hfQMFtY" group-title="",ABC 7 WWSB (Public-Entertainment) (US) (English)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-id="CBS HD" tvg-name="CBS HD" tvg-shift="" radio="" tvg-logo="https://i2.wp.com/urgenttaxhelp.org/wp-content/uploads/2017/07/cbs-logo.png?w=664&ssl=1" group-title="",CBS HD
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i2.wp.com/urgenttaxhelp.org/wp-content/uploads/2017/07/cbs-logo.png?w=664&ssl=1" group-title="",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/NBC_Peacock_logo_2013.svg/800px-NBC_Peacock_logo_2013.svg.png" group-title="",NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="NBC15 Madison" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnrRw1ME6Ko_anOSMWRCog0ETBAthaNhFbBMMbaKetuQM_785-zjYe_c" group-title="",NBC15 Madison (Public-Entertainment) (US) (English)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 tvg-id="NBC 6 South Florida" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR129wdKUCZyMrrjI4fV9csgn7vjcW1EyELpQK4boda1HIyVLyq23qwzHc" group-title="",NBC 6 South Florida (Public-Entertainment) (US) (English)
+http://161.0.157.6/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 tvg-id="The CW South Florida (WSFL TV)" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKkA2fTClc9_SkdzjehLd6i_uuiJMwQsr8VvM6B2D3l1AIvbdvByXPQA" group-title="",The CW South Florida (WSFL TV) (Public-Entertainment) (US) (English)
+http://190.80.3.28/CW/CW.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://thespinoff.co.nz/wp-content/uploads/2019/10/THREEFLAMES.jpg" group-title="",Three New Zealand
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxpzMgZMILPpvmdKccMSeGntdV3xR7RCiCzVEFKQ-6m_SDIcNXPs4w0U" group-title="",VH1 (Public-Entertainment) (US) (English)
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180414/baw/kisspng-australian-broadcasting-corporation-television-abc-5ad1be87c3c708.8576444715236952398019.jpg" group-title="",ABC Australia
 https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499968=10-AustraliaPlus-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="Atlanta Channel" tvg-name="Atlanta Channel" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="",Atlanta Channel
