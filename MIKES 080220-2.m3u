@@ -733,7 +733,7 @@ http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 http://trwamtv.live.e55-po.insyscd.net/trwamtv2.smil/chunklist_b950000.m3u8
 #EXTINF:-1 tvg-id="Hope Channel" tvg-name="Hope Channel" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Hope+Channel.png" group-title="",Hope Channel
 http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR red][B]TURKISCH[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2000px-Flag_of_Turkey.svg.png" group-title="",[COLOR red][B]TURKISCH[/B][/COLOR]
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="Türkiye",TRT 1
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
