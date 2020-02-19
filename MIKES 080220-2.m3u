@@ -325,14 +325,10 @@ https://streams.wilmaa.com/m3u8/get?channelId=bbc-parliament&profile=8
 https://streams.wilmaa.com/m3u8/get?channelId=eurosport&profile=16
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/017e2e70a135717fe1b1/black/210x120.png" group-title="DEUTSCH", Eurosport 1
 https://streams.wilmaa.com/m3u8/get?channelId=eurosport&profile=16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="",Eurosport 1-2
-http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="" tvg-shift="" radio="" tvg-logo="http://images.zattic.com/logos/5e0aa4e78223bf42877d/black/210x120.png" group-title="DEUTSCH", SPORT1
 https://streams.wilmaa.com/m3u8/get?channelId=sport_1&profile=16
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-shift="" radio="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="",Red Bull TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-shift="" radio="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/nz/ESPN.nz.png" group-title="",ESPN
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="",ESPN 2
@@ -397,8 +393,6 @@ https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 http://claro2-pi-dns.herokuapp.com/master.php?id=388&f=.m3u8
 #EXTINF:-1 tvg-id="770" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="",Olympic Channel
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="",Olympic Channel 2
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="",Stadium
@@ -417,6 +411,22 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-id="791" tvg-name="" tvg-shift="" radio="" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV (English)1
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV (English)2
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV ES1
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV ES2
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV ES3
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV ES4
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV ES5
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV ES6
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="DUKUMENTATIONEN" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.logolynx.com/images/logolynx/a3/a3438d22c48b5ecd6de03a57789f72c8.jpeg" group-title="",[COLOR red][B]DOKUS[/B][/COLOR]
 https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499968=10-AustraliaPlus-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="",Discovery
@@ -1033,67 +1043,5 @@ http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8#EXTM3U
 https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://www.giniko.com/logos/190x110/404.png" group-title="Türkiye",Minika ÇOCUK
 http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR red][B]TEST[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR red][B]0[/B][/COLOR]
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA/Canada",WSVI-TV (Virgin Islands)
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/at/ORF1.at.png" group-title="Österreich",ORF 1
-https://wer11.wertvlive.com/w10/video.m3u8?token=Rh45MoyoC3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/at/ORF2.at.png" group-title="Österreich",ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
-https://mcdn.daserste.de/daserste/int/master_3744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/ZDF.de.png" group-title="Deutschland",ZDF
-http://137.74.203.67:4780/zdf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/Kika.de.png" group-title="Deutschland",Kika
-http://kika-lh.akamaihd.net/i/livetvkika_ww@72295/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle +
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/ntv.de.png" group-title="Deutschland",N-TV
-https://wer222.wertvlive.com/hls/q6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/ProSiebenMaxx.de.png" group-title="Deutschland",ProSiben Max
-http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/RTL.de.png" group-title="Deutschland",RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/RTL2.de.png" group-title="Deutschland",RTL Zwei
-http://5.135.92.133:52841/out/u/119_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/RTLNitro.de.png" group-title="Deutschland",RTL Nitro
-http://137.74.203.67:4780/nitro/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="Deutschland",Sat1 Gold
-http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/sixx.de.png" group-title="Deutschland",Sixx
-https://wer11.wertvlive.com/w7/video.m3u8?token=Rh45MoyoC3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
-http://5.135.92.133:52841/out/u/127_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
-http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/WDR.de.png" group-title="Deutschland",WDR Fernsehen
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/ComedyCentral.de.png" group-title="Deutschland",Comedy Central Deutsch
-https://wer11.wertvlive.com/w12/video.m3u8?token=Rh45MoyoC3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Deutschland",Disney Deutsch
-https://wer11.wertvlive.com/w14/video.m3u8?token=Rh45MoyoC3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="Deutschland",TLC Deutsch
-http://84.22.33.254/unicast.tlc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.motorvision.tv/images/mv-logo.png" group-title="Deutschland",Motorvision
-https://1814479192.rsc.cdn77.org/1426007241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Deutschland",BR Fernsehen Süd
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png" group-title="Deutschland",Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://drf-tv.de/media/tv_group/images_21/img_1/works/Druck_DRF1_246pxfw.png" group-title="Deutschland",DRF 1
-http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg" group-title="Deutschland",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="Deutschland",HR Fernsehen
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="Deutschland",NDR Hamburg
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png" group-title="Deutschland",Rhein Neckar Fernsehen
-http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.film-tv-video.de/wp-content/gallery/sport1-hd-jetzt-auch-per-iptv/B_0910_SPORT1-HD_Logo.jpg" group-title="",Sport 1
-https://wer11.wertvlive.com/w13/video.m3u8?token=Rh45MoyoC3
