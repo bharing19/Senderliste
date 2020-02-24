@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i1.sndcdn.com/avatars-000037013343-tsc6on-t500x500.jpg" group-title="",[COLOR gold][B]EPG URL: https://rytec.ricx.nl/epg_data/rytecDE_Basic.gz[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR gold][B]NEUE SENDER HINZUGEFUEGT IN ALLEN SPARTEN 18 FEB[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR gold][B]AKTUALISIERT 23 FEB[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://external-preview.redd.it/sadQi3MUuONLdMIdDbzYQOQkYKx-kS7NCFJzWiHFDNg.png?auto=webp&s=c219eda69afca6b3e1b78e821d2151b624b136c3" group-title="",[COLOR red][B]D - A - CH - REGIONAL[/B][/COLOR]
 https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
@@ -343,24 +343,8 @@ https://gma2.blab.email/espnews.m3u8
 https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="",MySports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-354x200.jpg" group-title="",Fox Sports 1 USA
-http://claro2-pi-dns.herokuapp.com/master.php?id=108&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-354x200.jpg" group-title="",Fox Sports 2 USA
-http://claro2-pi-dns.herokuapp.com/master.php?id=109&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="",Sky Sports Action
-http://claro2-pi-dns.herokuapp.com/master.php?id=187&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="",Sky Sports F1
-http://claro2-pi-dns.herokuapp.com/master.php?id=188&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="",Sky Sports Main Event
-http://claro2-pi-dns.herokuapp.com/master.php?id=190&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="",Sky Sports Mix
-http://claro2-pi-dns.herokuapp.com/master.php?id=191&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="",Sky Sports Golf
-http://claro2-pi-dns.herokuapp.com/master.php?id=189&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="",Sky Sports EPL
-http://claro2-pi-dns.herokuapp.com/master.php?id=192&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="",Premier Football 2
@@ -427,6 +411,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="",Real Madrid TV ES6
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="DUKUMENTATIONEN" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.logolynx.com/images/logolynx/a3/a3438d22c48b5ecd6de03a57789f72c8.jpeg" group-title="",[COLOR red][B]DOKUS[/B][/COLOR]
 https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499968=10-AustraliaPlus-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="",Discovery
@@ -473,6 +459,10 @@ https://tv.artcom-venture.de/dmf/tv_720.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://www.marcello-alexander.ch/images/musig24-Logo01-2-2.gif" group-title="",Musig24
 https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="",Keep It Country TV 1
+http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="",Keep It Country TV 2
+http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="CMC 2 USA" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png" group-title="",CMC 2 (US)
@@ -923,7 +913,7 @@ http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 http://trwamtv.live.e55-po.insyscd.net/trwamtv2.smil/chunklist_b950000.m3u8
 #EXTINF:-1 tvg-id="Hope Channel" tvg-name="Hope Channel" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Hope+Channel.png" group-title="",Hope Channel
 http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2000px-Flag_of_Turkey.svg.png" group-title="",[COLOR red][B]TURKISCH[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2000px-Flag_of_Turkey.svg.png" group-title="",[COLOR red][B]TÜRKISCH[/B][/COLOR]
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="Türkiye",TRT 1
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
@@ -1041,5 +1031,7 @@ http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8#EXTM3U
 https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://www.giniko.com/logos/190x110/404.png" group-title="Türkiye",Minika ÇOCUK
 http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR red][B]0[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR red][B]TEST[/B][/COLOR]
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://start.sportdigital.de/assets/img/SD_HDSenderLOutlWEB.png" group-title="",Sportdigital
+http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
