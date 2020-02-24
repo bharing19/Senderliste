@@ -237,10 +237,6 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="" tvg-shift="" radio="" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/france-24-en.png" group-title="", France 24 EN
 https://streams.wilmaa.com/m3u8/get?channelId=france-24-en&profile=8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/11/fox-networks-logo.jpg?w=1000&h=563&crop=1" group-title="",FOX US
-https://gfd3bww887q.a.trbcdn.net/livemaster/3u1m1_live-t0p2vzyei1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/11/fox-networks-logo.jpg?w=1000&h=563&crop=1" group-title="",Fox News
-https://live.hinews.live/stream/fox/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/236x/6c/76/3f/6c763f31338f20a7745ebacf8f25690e--sky-news-logo-google.jpg" group-title="",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="",Sky News Extra 1
