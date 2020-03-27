@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i1.sndcdn.com/avatars-000037013343-tsc6on-t500x500.jpg" group-title="",[COLOR gold][B]MIKES SENDERLISTE[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/15390879_356983414678386_8972084313491494915_n.png?_nc_cat=111&_nc_sid=85a577&_nc_eui2=AeG9HYI8VD7PUPvV4KktCyJT4dLkMui90P7uekq7_IWrj2LSo6g_UHdikCo4IuuqanXD7faWR7KiA9CgPzIYFPMc6VlY8Au_OAyJ4jJt_pZfcw&_nc_oc=AQkfLhxW2Z2seo4HDdIBIRF4Ps2HkXM6fVuIQY5w7MgYT48wELPVB7-dqy6sPfFxmzI&_nc_ht=scontent-frx5-1.xx&oh=b3b5ec6fdf26e11130f5c255d5d8a814&oe=5EA0DFCF" group-title="",[COLOR gold][B]D ohne VPN und Radio hinzugefügt[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/15390879_356983414678386_8972084313491494915_n.png?_nc_cat=111&_nc_sid=85a577&_nc_eui2=AeG9HYI8VD7PUPvV4KktCyJT4dLkMui90P7uekq7_IWrj2LSo6g_UHdikCo4IuuqanXD7faWR7KiA9CgPzIYFPMc6VlY8Au_OAyJ4jJt_pZfcw&_nc_oc=AQkfLhxW2Z2seo4HDdIBIRF4Ps2HkXM6fVuIQY5w7MgYT48wELPVB7-dqy6sPfFxmzI&_nc_ht=scontent-frx5-1.xx&oh=b3b5ec6fdf26e11130f5c255d5d8a814&oe=5EA0DFCF" group-title="",[COLOR gold][B]USA ohne VPN hinzugefügt[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://external-preview.redd.it/sadQi3MUuONLdMIdDbzYQOQkYKx-kS7NCFJzWiHFDNg.png?auto=webp&s=c219eda69afca6b3e1b78e821d2151b624b136c3" group-title="",[COLOR red][B]D - A - CH  nur mit VPN CH[/B][/COLOR]
 https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
@@ -455,6 +455,10 @@ https://tv.artcom-venture.de/dmf/tv_720.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://www.marcello-alexander.ch/images/musig24-Logo01-2-2.gif" group-title="",Musig24
 https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="",Hot Country
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/originals/b1/9f/3c/b19f3c389e3a52f14fc90736e4a00bd6.jpg" group-title="",Country Music
+https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="",Keep It Country TV 1
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/RO0Lpps.png" group-title="",Keep It Country TV 2
@@ -965,7 +969,127 @@ https://tv.artcom-venture.de/dmf/tv_720.m3u8
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="Deutsche Welle" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/357/782/non_2x/radio-vector-icon.jpg" group-title="",[COLOR red][B]RADIO[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX6036574.jpg" group-title="",[COLOR red][B]USA -  OHNE VPN[/B][/COLOR]
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://gray.tv/uploads/redesign/COMPANIES/logos/WWSB.png" group-title="",ABC
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-shift="" radio="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="",CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-shift="" radio="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="",H2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://investinholland.com/wp-content/uploads/2019/01/discovery-corporate-new-logo.jpg" group-title="",Discovery
+http://78.110.169.226:8000/play/a013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/originals/67/0e/e8/670ee8d465a9c049d567c23dc9e673fe.jpg" group-title="",Disc.History
+http://78.110.169.226:8000/play/a05r
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Discovery_Shed.png" group-title="",Discovery Shed
+http://78.110.169.226:8000/play/a00z
+#EXTINF:-1 tvg-id="9ba9a128eff02479da120a4226cd807c" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",National Geographic
+http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild ARB" tvg-name="National Geographic Wild ARB" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-id="National Geographic People ARB" tvg-name="National Geographic People ARB" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Animal_Planet_Scandinavia.svg/1200px-Animal_Planet_Scandinavia.svg.png" group-title="",Animal Planet
+http://78.110.169.226:8000/play/a05p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.astra2sat.com/wp-content/uploads/2015/10/pbs_america.jpg" group-title="",PBS America
+http://78.110.169.226:8000/play/a033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" group-title="Documentary",DocuBox HD
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="",Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="",Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/10/et-live1-e1541006731547.png" group-title="News",Entertainment Tonight
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.tvwhirl.co.uk/media/97664/5usabreak2017_4.jpg" group-title="",5 USA
+http://78.110.169.226:8000/play/a00i
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/5Star_logo_2019.svg/1200px-5Star_logo_2019.svg.png" group-title="",5STAR
+http://78.110.169.226:8000/play/a00k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MGM-Sci-Fi_203x203.png?raw=true" group-title="",MGM Sci-Fi Channel
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="",Paramount Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.pngfind.com/pngs/m/121-1212090_cine-sony-va-a-sostituire-capri-gourmet-sul.png" group-title="",Cine Sony
+http://iptvtree.net:8080/sckmydck/362a63707882/82314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="",Sony Channel
+http://78.110.169.226:8000/play/a02s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="",Sony Movies
+http://78.110.169.226:8000/play/a02h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://media.info/i/lf/0/1569972372/1373.png" group-title="",Sony Action
+http://78.110.169.226:8000/play/a02g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/SonyCrimeChannelUK.png/revision/latest/scale-to-width-down/340?cb=20180126010145" group-title="",Sony Crime
+http://78.110.169.226:8000/play/a02u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://criticalpopcorn.files.wordpress.com/2020/01/sony-movies-classic.png?w=610" group-title="",Sony Classic
+http://78.110.169.226:8000/play/a02i
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.cdn.turner.com/v5cache/TCM/images/tcm-share-1200x630.png" group-title="",TCM Movies
+http://78.110.169.226:8000/play/a022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://spng.pngfind.com/pngs/s/215-2150634_cbs-drama-cbs-drama-channel-logo-hd-png.png" group-title="",CBS Drama
+http://78.110.169.226:8000/play/a038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/1070255735848742912/d33jAwKV_400x400.jpg" group-title="",CBS Justice
+http://78.110.169.226:8000/play/a03c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARQAAAC3CAMAAADkUVG/AAAA7VBMVEX////6uADwYiH7thP6tgD6tADvVwDwYR795qj6vCX/9tr+68r71sb/+OT+9NrwXxv7vzH80n384NPwXBD//fX957b+8+77zFnvWADxai77xjH915f1o4rvUgD95rn936382oTyfk77y1L92Hn97ebxbjj++Pb5zL/95dv/++/3uKP0kGj72c7///n7vTn+68n3r5P1noHyeET6yLPyekr92o/+89/0lXTzjGTxcTX5wa30kG/2pob3tZ3xaSr5xLP7zGX7x0H93pT7yWHzglj0l3n80mP80YP+6K77zVD7vT37wRD95KD7xzv8znEC5PU/AAATdklEQVR4nO1ceV/iOhcGposIUqECZUYYwVIKwssiCDiIyzB3vNfl+3+ct3uTk6QtWkYceP649zc1aZInJydnK4nEHnvssccee+yxrdDUQrdlItvVSxsbpaTbg7S6BXVjg8SFwmJWn6dkxYC8bK6m11ReSmxoEQYp3fxYNZ1BUvP6bJiN0uuDUBgogixJopiyIIqSrFTHLYKXbDUQy8Vtly1jakuu4oNIslC9aEXgRe22BrOKXFXms0Gr+0ckTB+KsjNTFJKwugEtswLZDIFoyMBqwKClMxYog6Tk6qwVMr/OcCQosmT2NndLGA87vTjWHYDSQqZRYtGijLJY2xBSrD6yvKDsfWEuS6weyixg79Wp8UYJDiFPNyouhZHCoMQev4M2jkCKsZvKihCWlsiixIQMuPeh0oXYkElxuDlargNna44+RPY9EinmIoGsXLNk0YG07NImp3WWzI6ivOxsSEtfV4Nna0CY+mNHJCUlX2DzbQUJo81KUycnp15QtZBHi3CxEWEJ20F7hadrk5JS0J3Xl7g0GteOdwd5gzSJyRWactjMKoX4OWlBOTGnK0mQqKqnVyKTIi2RYero4iRFmtdXhkkk4BsiD8DkLkMOtvUy6TJuTvQKNi1DqYvz+sVslALqXhRd2UZJMe8AFPgSBF/Xop1EeXSpq4app+rdKaZD4QFqpcI5MXqlWCr6jdCwHUwp41NXGNXBSkH/JM80Yn3yVC/4yHZOZ9jOy76JM/WHESvYzg6WSBcFM4qyUhROTFmhqug34wY9C1J1gGqtUqeKTkrOkqScgtdpWVRY5KH7vIDIYxXo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" group-title="",CBS Reality
+http://78.110.169.226:8000/play/a03g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.dwdl.de/images/1543748426_comedy-central.jpg" group-title="",ComedyCentral
+http://78.110.169.226:8000/play/a01v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="",Pluto Classic Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=584b5e17-5488-444c-b4b1-fb87f92e5092&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="",Redbox | Spotlight
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="",Redbox | Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="",Redbox | Comedy
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="",popcornflix Action Movies
+https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="",Stirr Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="",Stirr | Filmrise 
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="",Stirr | MovieMix
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="",Stirr Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="",Stirr Comedy
+https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="",Stirr Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="",Stirr | Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.filmon.com/assets/channels/3524/extra_big_logo.png" group-title="",The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-id="VH1 - Eastern Feed-US" tvg-name="VH1 - Eastern Feed-US" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="",VH1
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" group-title="",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="News",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="News",CBS News New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/KSAZ_logo_2006.png/225px-KSAZ_logo_2006.png" group-title="Local",FOX 10 Phoenix AZ (KSAZ-TV)
+http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="News",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="",CMC-Country
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/vTlQAIX.jpg" group-title="Entertainment",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png" group-title="",Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="",VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://media-usla.mybtv.net/logos/8.2.png" group-title="",The Country Network
+https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2026&env=prd&uid=24610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",The Country Network
+https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2046&env=prd&uid=24610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://cdn.dribbble.com/users/2556442/screenshots/5257569/logo.png" group-title="",[COLOR red][B]RADIO[/B][/COLOR]
 http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png" group-title="",100'5 Alemannia
 http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3
