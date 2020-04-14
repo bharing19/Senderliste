@@ -1055,8 +1055,2540 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2026&env=prd&uid=24610
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",The Country Network
 https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2046&env=prd&uid=24610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://cdn.dribbble.com/users/2556442/screenshots/5257569/logo.png" group-title="",[COLOR red][B]RADIO[/B][/COLOR]
-http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX10 (WALA) Alabama
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42035
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY25 Alabama
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42036
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC15 (WPMI) Alabama
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC13 (KYUR) Anchorage
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42071
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS22 (KTVA) Anchorage
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42072
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX4 (KTBY) Anchorage
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42073
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC2 (KTUU) Anchorage
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Albany GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41495
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Albany NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Albany NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Albany NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22836
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Albuquerque NM
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Albuquerque NM
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37853
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Albuquerque NM
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Atlanta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Atlanta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19882
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD Atlanta
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22884
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Atlanta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Atlanta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19883
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Altoona PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37836
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC13 (WLOS) Asheville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX21 (WHNS) Asheville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",KTVK 3TV Arizona's Family Phoenix
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC6 (WJBF) Augusta
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Augusta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38437
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Augusta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38368
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Augusta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Austin TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37854
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Austin TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11710
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Austin TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38434
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Bakersfield CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37837
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Bakersfield CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Baltimore MD (WMAR)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19819
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Baltimore MD (WBFF)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Baltimore MD (WBAL)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Baltimore MD (WJZ)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Baton Rouge LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 32 (WVLA) Baton Rouge
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42215
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Bay City MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC4 (WOTV) Battle Creek
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Belmont
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Birmingham AL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Birmingham AL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37855
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Birmingham AL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Bluefield WV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38465
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Boise ID
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38430
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Boise ID
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37856
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Boise ID
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",KTVB CHANNEL 7 BOISE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Boston MA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19833
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Boston MA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY 38 HD Boston MA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37842
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Boston MA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19872
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Boston MA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5947
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 40 40 (WNKY) Bowling Green
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42348
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",News 12 Bronx
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",News 12 Brooklyn
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC25 (KXXV) Bryan
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS3 (KBTX) Bryan
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC23 (KAGS) Bryan
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Buffalo NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37857
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Buffalo NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11791
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Buffalo NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38452
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC7 (WKBW) Buffalo
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY49 (WNYO) Buffalo
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Burlington VT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX Burlington VT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22839
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Cadillac MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY40 (WMYA) Carolina
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Cape Girardeau MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Cape Girardeau MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Cedar Rapids IA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Champaign IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38350
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Charlotte NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19884
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Charlotte NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19881
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Charlotte NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19825
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Charlotte NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Charleston SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Charleston SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22840
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Charleston WV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC4 (WCIV) Charleston
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42060
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MyNet (WCIV) Charleston
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Chattanooga TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Chicago IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Chicago IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19839
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD Chicago IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Chicago IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11752
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WGN HD Chicago
+http://nitro.ltd:25461/StevenD2020/StevFr2019/7958
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Chicago IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Cincinnati OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37798
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Cincinnati OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Cincinnati OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Cleveland OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19823
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Cleveland
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Cleveland OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Cleveland OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19885
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS Colorado Springs
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Colorado Springs CO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37799
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Colorado Springs CO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38321
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Colorado Springs CO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox HD Columbia SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Columbia SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Columbia SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37823
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 8 (KOMU) Columbia MS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Columbus GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38456
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Columbus MS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Columbus
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Columbus OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11722
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Columbus OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Columbus OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38442
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",News 12 Connecticut
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Corpus Christi TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Corpus Christi TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37878
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Corpus Christi TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38426
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Dallas TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19831
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Dallas TX KTVT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11789
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Dallas TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Dallas TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Dallas TX KTXA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TXA21 (KTXA) Dallas
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Davenport IA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22845
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Davenport IA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38433
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Dayton OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38444
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Dayton OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Dayton OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22846
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC22 (WKEF) Dayton
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Denver CO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Denver CO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Denver CO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Denver CO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Des Moines IA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Des Moines IA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Detroit MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Detroit MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Detroit MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11683
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Detroit MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD Detroit
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22885
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Durham
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19837
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Eau Claire WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD El Paso TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37919
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD El Paso TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37879
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC7 (KVIA) El Paso
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42063
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 9 (KTSM) El paso
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Eugene OR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Evansville IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Evansville IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38448
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Fargo ND
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Fargo ND
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 30 (KXJB) Fargo
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC 12 Flint
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42441
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Flint MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Florence SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38348
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Fort Myers
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Fort Myers FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Fort Myers FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38439
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Fort Wayne IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Fort Wayne IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Fort Wayne IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38459
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Fresno CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19836
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Fresno CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Fresno CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Fresno CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38427
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Gainsville FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC20 (WCJB) Gainesville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42069
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS4 (WGFL) Gainesville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42070
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 13 (WMAZ) Macon
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Goldsboro NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38363
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Grand Rapids MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Grand Rapids MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37793
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Green Bay WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Green Bay WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22853
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Green Bay WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC13 (WZZM) Grand Rapids
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Greensboro NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Greensboro NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37781
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Greensboro NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37782
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY48 Greensboro
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Greenville NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Greenville NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37818
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 7 (WSPA) Greenville SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38370
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 4 (WYFF) Greenville SC 
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42450
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC2 (WBAY) Green Bay
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW14 (WCWF) Green Bay
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 25 (WXXV) Gulfport
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42214
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Hampton Roads VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Hardeeville SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22872
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC13 (WVEC) Hampton Roads
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42077
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY33 (WTVZ) Hampton Roads
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42078
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Harrisburg PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD Harrisburg
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22891
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MyNet Harrisburg
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Harrisburg PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37872
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC27 Harrisburg
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42283
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Hartford CT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19835
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Hartford CT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31031
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Hartford CT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11680
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Hartford CT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11712
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Hastings NE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38428
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Hazleton PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22883
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cbs Hazard
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42439
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD High Point NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Honolulu HI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Honolulu HI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22854
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Honolulu HI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC4 (KITV) Honolulu
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Houston TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Houston TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19879
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Houston TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/10163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Houston TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/10160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",News 12 Hudson Valley
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Huntington WV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Huntington WV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37833
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Huntsville AL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Huntsville AL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38436
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Indianapolis IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Indianapolis IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Indianapolis IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC3 (WSIL) Illinois
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Jackson MS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Jackson MS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Jackson MS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38454
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Jacksonville FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Jacksonville FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Jacksonville FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC17 (KMIZ) Jefferson City
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS13 (KRCG) Jefferson City
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX22 (KQFX) Jefferson City
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC8 (KOMU) Jefferson City
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD Jeannette
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Johnson City TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38354
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Kalamazoo MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Kansas City MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19815
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Kansas City MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Kansas City MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY62 (KSMO) Kansas City
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42031
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Kansas City MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19860
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Kennewick WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Knoxville TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Knoxville TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22855
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Knoxville TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38440
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD La Crosse WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38358
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD La Crosse WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Lafayette LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Lafayette LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Lancaster PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Lansing MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38453
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Lansing MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Lansing MI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38361
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Las Vegas
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Las Vegas NV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 3 (KSNV) Las Vegas
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42185
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MyNet Las Vagas
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Lexington KY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22856
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Lexington KY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Lexington KY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC36 (WTVQ) Lexington
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 8 (WLIO) Lima
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Lincoln NE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22857
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Lincoln NE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12570
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Lincoln NB
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Little Rock AR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Little Rock AR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38416
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Little Rock AR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",News 12 Long Island
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Los Angeles CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5963
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Los Angeles CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5950
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD KTLA CH 5 Los Angeles CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Los Angeles CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",KCAL CH9 Los Angeles CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Los Angeles CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38380
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",My 13 KCOP Los Angeles
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CH 56 KDOC Los Angeles
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42453
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Louisville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Louisville KY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Louisville KY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Louisville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",KET
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",KET (PBS Kids)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC28 (KAMC) Lubbock
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42057
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS13 (KLBK) Lubbock
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC11 (KCBD) Lubbock
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42059
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD McAllen TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37881
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Macon GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Madison WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37829
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Madison WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37846
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Madison WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC27 (WKOW) Madison
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42075
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC9 Manchester
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42042
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Memphis TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37827
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Memphis TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22860
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox 30 (WGBC) Meridian
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Miami FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY 33 HD Miami FL WBFS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Miami FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5953
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Miami FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Miami FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY33 (WBFS) Miami
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Milwaukee WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Milwaukee WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Milwaukee WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Milwaukee WI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW18 (WVTV) Milwaukee
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Minneapolis MN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Minneapolis MN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19818
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Minneapolis MN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Minneapolis MN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC33 (KSPR) Missouri
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Mobile AL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38359
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Monterey Bay CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37840
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Montgomery AL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38461
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Moorefield
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX Myrtle Beach SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Myrtle Beach SC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38457
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Nashville TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19828
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Nashville TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Nashville TN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19889
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Nashville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19890
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY30 Nashville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",My9 New Jersey
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",News 12 New Jersey
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD New Orleans LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD New York NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD New York NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PIX11 (WPIX) NewYork
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC7 (KOAT) New Mexico
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD New Orleans LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD New Orleans LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19871
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD New York NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5951
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD New York NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WLNY HD New York
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox HD Norfolk VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Oakland CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Oklahoma City OK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Oklahoma City OK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22863
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Omaha NE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37839
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Omaha NE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37825
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Orlando FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19827
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Orlando FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11709
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Orlando FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Orlando FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38447
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Paducah KY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY49 (WDKA) Paducah
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Panama City FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37815
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Peoria IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38446
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Peoria IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Peoria IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38362
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC (WEAR) Pensacola
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Philadelphia
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3684
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Phiadelphia
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Philadelphia
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41553
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Philadelphia
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Philadelphia PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Philadelphia PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3682
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD Philadelphia 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Phoenix AZ
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19821
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Phoenix AZ
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19891
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Phoenix AZ
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Phoenix AZ
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Pittsburgh PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19832
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Pittsburgh PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Pittsburgh PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Pittsburgh PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11695
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW 19 (WPCW) Pittsburgh
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Plattsburgh NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37817
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Portland ME
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Portland ME
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38443
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Portand OR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Portland OR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox HD Portland OR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19867
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Portland OR
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Portsmouth VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38438
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Providence RI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Providence RI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Raleigh NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Raleigh NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22867
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Reno NV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38341
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Reno NV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 6 Richmond
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42443
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Richmond VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Richmond VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:ABC Richmond
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42380
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Rio Grande Vly TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38318
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Rio Grande Vly TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Riverhead NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Roanoke VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Roanoke VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37871
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Roanoke VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38462
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Rochester NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Rochester NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37821
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Rock Island IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC 17 (WTVO) Rockford
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42461
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 23 (WIFR-LD) Rockford
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42462
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX 39 (WQRF) Rockford
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC5 (KSTP) Saint Paul
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42064
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW23 (WUCW) Saint Paul
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42065
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Sacramento CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Sacramento CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Sacramento CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11723
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD Sacramento
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Sacramento CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38418
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Salinas CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Salinas CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Salinas CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Salt Lake City UT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11716
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Salt Lake City UT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19817
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Salt Lake City UT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD San Antonio TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19816
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD San Antonio TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD San Antonio TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31054
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD San Diego CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19829
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD San Diego CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD San Diego
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD San Diego CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11782
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",KUSI San Diego
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42500
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD San Francisco
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD San Francisco CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19842
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD San Francisco CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5962
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD San Francisco
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5949
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD San Francisco
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD San Jose CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37820
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD San Jose CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD San Luis Obispo CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22871
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD San Luis Obispo CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Salt Lake City UT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Santa Maria CA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS Savannah
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Savannah GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Savannah GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37867
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Savannah GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Scranton PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Scranton PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38441
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Seattle WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD Seattle
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22889
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Seattle WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Seattle WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Seattle WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37789
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Selma AL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC3 (KTBS) Shreveport
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42079
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Shreveport LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38429
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Shreveport LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38340
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Shreveport LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Sioux City IA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Sioux Falls SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Sioux Falls SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Sioux Falls SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD South Bend IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 22 South Bend
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42442
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC 57 (WBND) South Bend
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42459
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD South Bend IN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Spokane WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37845
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Spokane WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38378
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Spokane WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Springfield IL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Springfield MA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38467
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 3 (WSHM) Springfield
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Springfield MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38435
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Springfield MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Springfield MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13118
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD St Louis MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD St. Louis MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37831
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD St Louis MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37786
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD St Louis MO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD ST Petersburg FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CW HD St. Petersburg
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22890
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC9 (WSYR) Syracuse
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42067
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC3 (WSTM) Syracuse
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42068
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Syracuse NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Syracuse NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38374
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Tacoma
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Tallahasee FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41493
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Tallahassee FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22878
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Tampa Bay FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38450
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Tampa Bay FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19820
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Tampa Bay FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Tampa Bay FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11682
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Temple TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37832
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Toledo OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Toledo OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Tucson AZ
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12545
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Tucson AZ
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22879
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Tucson AZ
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38432
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Tulsa OK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Tulsa OK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Tulsa OK
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37828
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC8 (KTUL) Tulsa
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Tyler TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22881
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Tyler TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38421
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 19 (KYTX) Tyler
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Virginia Beach VA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37863
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Waco TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Waco TX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Washington DC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37917
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Washington DC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox  HD  Washington DC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Washington DC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Waterloo IA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Waterville
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",News 12 Westchester
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD West Palm Beach FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38365
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD West Palm Beach FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD West Palm Beach FL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37816
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC 45 (WVNC) Watertown
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42350
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MY53 Williamsport
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS 22 (WYOU) Williamsport PA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42509
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WGN AMERICA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WGN- TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Wichita KS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12542
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Wichita KS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22882
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Wilmington NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Wilmington NC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WPIX11 HD NY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Yakima WA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38320
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC 33 Youngstown
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42440
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Youngstown OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38357
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Youngstown OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Youngstown OH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ATG Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 10
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 4
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15175
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 5
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 6
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15173
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 7
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 8
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bein Sports 9
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Coral TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38599
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Kanal 75 INT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38597
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Ladbrokes
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38600
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SIS One
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40956
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SIS Racing
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40955
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SIS Two
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40954
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVG
+http://nitro.ltd:25461/StevenD2020/StevFr2019/35238
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVG 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/35239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO  (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO  (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO  (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19658
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO 2 (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42045
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO 2 (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Comedy (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5879
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Comedy (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Family (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Family (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Family (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Signature (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Signature (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42392
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Signature (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42393
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Zone (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42394
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO Zone (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz HD (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42414
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz (West backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41397
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Cinema (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42416
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Cinema (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Comedy (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42418
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Comedy (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Kids & Family (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41388
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Kids & Family (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Edge (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42420
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Edge (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42421
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42423
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Action
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41393
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Action (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42424
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Action (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Black (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42426
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Black (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42427
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Classic
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41392
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Classic (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42428
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Classic (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42429
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Family
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Family (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42430
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Family (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Suspense
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Suspense (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42432
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Suspense (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42433
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Westerns
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Westerns (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42434
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Westerns (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42435
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz in Black
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41389
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz in Black (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42436
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz in Black (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42437
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime (east)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/8186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime (East backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19846
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime (East backup 2)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3670
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime (West backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41399
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime 2 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5883
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime 2 (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime 2 (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42399
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Beyond (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Beyond (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Extreme HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19666
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Family Zone (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Familyzone (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Next (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Next (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Showcase HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19664
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Women (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime Women (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cinemax East HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CineMAX (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cinemax Moremax HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19655
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ActionMAX (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ActionMAX (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",OuterMAX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42388
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ThrillerMAX (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ThrillerMAX (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42386
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",5 StarMAX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42389
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sony Movies HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",EPIX HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",EPIX2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Epix Hits
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40890
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IndiePlex (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IndiePlex (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MoviePlex (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MoviePlex (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",RetroPlex (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",RetroPlex (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Redbox Comedy
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42454
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Redbox Rush
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42456
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Redbox Spotlight
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42457
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Baby First
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Boomerang HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cartoon Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19654
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney Channel (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19683
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney Channel (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney Jr (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney Jr (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney XD 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney XD HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19657
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nickelodeon East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nickelodeon West
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nick Jr East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nick Jr West
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42090
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nick Toons
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PBS Kids   East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/37916
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PBS Kids   West
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42107
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Teen Nick
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Universal Kids
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3658
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Universal Kids (sprout)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",A&E 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",A&E 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41607
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Adult Swim (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Adult Swim (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AHC HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AHC HD 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22427
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AMC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AMC HD (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41608
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Animal Planet (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Animal Planet (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Aspire
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Audience
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXS TV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22936
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC America HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3683
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BET (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BET (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BET (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BET Her
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19688
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bet Jams
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bet Soul
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40889
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bounce TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bravo (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bravo (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bravo (Back Up)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Buzzr
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CMT HD 
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CMT HD (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11665
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central East (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41613
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",COMET
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cooking Channel HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Court TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cozi HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/7372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CRIME & INVESTIGATION HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22428
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Crime & Investigation 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Destination America HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19684
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Ch (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Ch (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Family HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3676
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Life HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery SCI HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DIY HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3673
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DIY 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Dog TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",E! (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3680
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",E! (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42098
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",E! (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",El Rey Network HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FM
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Food Network (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Food Network (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42506
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Freeform HD (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Freeform (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fuse HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15161
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fusion HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3666
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FX HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3668
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FX HD (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FX Movie Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19682
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FXX HD East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3667
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FXX (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11668
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FYI HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Game Show Network HD 1080p
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Game Show Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19731
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",GINXE Sports (Gaming Channel)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22940
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Grit TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Hallmark HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Hallmark (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41605
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Hallmark Drama HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Hallmark Movies & Mysteries HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5878
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Heroes and Icons
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HGTV (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5881
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HGTV (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HGTV (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42099
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",History Channel 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",History (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41612
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",H2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19659
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HSN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42507
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HSN 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42508
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ID (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41627
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ID (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42570
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ID (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IFC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",INSP Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Justice Central
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Law & Crime
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40919
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Lifetime 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11667
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Lifetime Movies HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5882
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Lifetime Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15179
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Logo
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40921
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MAV TV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18553
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MGM 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Motor Trend HD (Velocity)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Motor Trend (Velocity)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV 2 (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19738
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV 2 (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV Classic
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40922
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTVU
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40923
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV LIVE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41746
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nat Geo HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nat Geo People
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nat Geo Wild
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nick Music
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Outdoor Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18449
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Outside TV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Ovation
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",OWN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19661
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",OWN 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3660
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Oxygen HD (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3672
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Oxygen Ch (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Paramount Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",People TV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POP (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5896
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",POP (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",QVC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",QVC 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41614
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",QVC Beauty iQ
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Reelz
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Revolt HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Smithsonian Ch (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22939
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Smithsonian Ch (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42562
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sundance HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19676
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SYFY (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SYFY (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SHORTS TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Start TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tastemade
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41625
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TBS (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TBS (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42513
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TCM (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19670
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TCM (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Titanic Channel
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TLC HD East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TLC (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TMZ Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42499
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TNT (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TNT (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TNT (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Travel Ch (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3655
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Travel Ch (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42093
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Travel Ch (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tru TV (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tru TV (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV LAND (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV Land (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV ONE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UP
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",USA Network East
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40925
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",USA Network East (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",USA Network (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/16719
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",USA Network West (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18456
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VH 1 (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19668
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VH 1 (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Viceland HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WE HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3654
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="", WE TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40926
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",World Fishing Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CNN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11664
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CNN HD (alt)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MSNBC HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MSNBC 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11674
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HLN 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19680
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox News HD 
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox News 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11672
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Business Network 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11666
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Business Net (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41604
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",One America News Network OAn
+http://nitro.ltd:25461/StevenD2020/StevFr2019/35236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Info Wars
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CNN Latin
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40917
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CNN International
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Bloomberg
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cheddar News
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41752
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CNBC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AccuWeather
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",The Weather Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18454
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Weather Nation
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",C-SPAN 1 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",C-SPAN 2 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",C-SPAN 3 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CNBC WORLD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cheddar Buisness
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40916
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",LOCALNOW
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40920
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NECN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6068
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NECN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NEWSY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",RT America HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TRT World FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC TV (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 01
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 02
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 03
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 04
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 05
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 06
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 07
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 08
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 09
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Fight Pass 10
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41781
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 4
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41766
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 5
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 6
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 7
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 8
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 9
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41771
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 10
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 11
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UFC Feed 12
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision (23-Dallas)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision (34-Atlanta)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40940
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision 34-Los Angeles)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40946
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision (66-Chicago)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40943
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision Now: UnivisionKAKW (62-AUS:tin)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40948
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision (45-HoUS:ton)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision (23-Fort Lauderdale)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40942
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision (61-Cleveland)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40941
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision (41-Paterson)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40939
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Telemundo (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42284
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Telemundo (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42285
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Telemundo 52 (KVEA) Corona
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42286
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UniMas 4 (KSTR) Irving
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42287
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UniMas 17 (KNIC) San Antonio
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42288
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UniMas
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42301
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision Network
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42302
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision 41 (KWEX) San Antonio
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin LA 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42308
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin La 1 Catalunya
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42309
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin La 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42310
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin La Sexta
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin NOVA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42312
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin NEOX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42313
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin Mega
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin CLAN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin Antena 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42316
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin Antena 3 Internacional
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin Paramount Network
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42318
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin Barca TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Latin RTP Internacional
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Telemundo 27 (KOHA) Omaha
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Telemundo 14 (KBWF) Sioux City
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42327
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Telemundo 46 (KXTQ) Lubbock
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42329
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Telemundo 13 (KRDO) Colorado Springs
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Univision 19 (KUVS) Sacramento
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/7508
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN 2 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Goal Line HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN U HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN News HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN News (back up)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41562
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports 1 HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports 1 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports 2 HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5506
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports 2 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11559
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Golf Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBCSN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC SN 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12597
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Marquee Sports Network (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Marquee Sports Network (HD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42446
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Marquee Sports Network (SD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42447
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ACC Network
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40837
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ACC Network (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41606
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sportsnet LA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41829
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ATT Sportsnet SW-
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ATT Sportsnet SW Altr
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA TV FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41386
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Southwest HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5940
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports South HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5941
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports North HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5942
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Florida HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5943
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Arizona HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Sun HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports West
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Ohio HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sportstime Ohio HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Oklahoma
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Oklahoma Plus
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42452
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Southwest+ HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Prime Ticket 1 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Midwest HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6031
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Tennessee HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports San Diego HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Detroit HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Southeast HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Wisconsin HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Indiana Plus HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Soccer Plus HD.
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Wisconsin Plus HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FoxNet East HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Carolinas HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports West+ HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Sports Yes Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eleven Sports Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBCSN HD Boston
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19651
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBCSN Boston
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC Sports Philadelphia Plus HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19675
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC Sports Bay Area+
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC Sports California+
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42335
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC Sports Chicago Plus
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42336
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC Sports Philly Plus
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC Sports Washington Plus
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42338
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PAC-12 Washington
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PAC-12 Oregon
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PAC-12 Moutain
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PAC-12 Los Angeles
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5255
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PAC-12 Bay Area
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PAC-12 Arizona
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5257
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PAC- National
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5258
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Longhorn Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5310
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NESN Plus HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5436
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NESN HD Boston
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS Sports Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3681
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CSN BayArea HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CSN SN California HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19650
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CSN SN Chicago HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19652
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CSN Washington D.C.
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23062
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CSN Chicago Plus HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CSN Philly HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6050
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CSN California 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CSN Northwest HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Olympic Channel
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5487
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Olympic Channel 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Olympic Channel 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Olympic Channel 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42053
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Olympic Channel 4
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42054
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Olympic Channel 5
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42055
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BTN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Sports
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42049
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SEC 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41603
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sec Network 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11572
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox College Sports Pacific
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox College Sports Central
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12595
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox College Sports Atlantic
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MSG Plus HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/16342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fight Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MSG 2 Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/16343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MSG Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/16344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MSG 2 Plus HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/16772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sportsman Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18452
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tennis Channel HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tennis Channel Plus
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stadium HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stadium 3 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19722
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stadium 2 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19723
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sports Illustrated TV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36950
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stadium 1 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SNY HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/20844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tennis Channel (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tennis Channel Plus 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tennis Channel Plus 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tennis Channel Plus 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VSiN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36948
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WWE HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WWE HD (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42497
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SportsNet Southwest
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN HD (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42444
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA TV HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Atlanta Hawks (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42228
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Brooklyn Nets (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Boston Celtics (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Charlotte Hornets (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Chicago Bulls (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42232
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Cleveland Cavaliers (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Dallas Mavericks (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Denver Nuggets (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42235
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Detroit Pistons (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Golden State Warriors (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42237
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Houston Rockets (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42238
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Houston Rockets
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Indiana Pacers (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Los Angeles Clippers (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Los Angeles Lakers (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42241
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Memphis Grizzlies (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42242
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Miami Heat (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42243
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Milwaukee Bucks (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Minnesota Timberwolves (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42245
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA New Orleans Pelicans (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42246
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA New York Knicks (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42247
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Oklahoma City Thunder (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42248
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Orlando Magic (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42249
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Philadelphia 76ers (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42250
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Phoenix Suns (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42251
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Portland Trail Blazers (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Sacramento Kings (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA San Antonio Spurs (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Toronto Raptors (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42255
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Utah Jazz (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Washington Wizards (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42257
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 1 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42258
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 2 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42259
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 3 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42260
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 4 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42261
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 5 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42262
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 6 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42263
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 7 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 8 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 9 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42266
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 10 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42267
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 11 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42268
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 12 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42269
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 13 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42270
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 14 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42271
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBA Mobile 15 (FHD)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42272
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Network HD.
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB ARIZONA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB ATLANTA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB BALTIMORE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB BOSTON
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB CHICAGO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB CINCINNATI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB CLEVELAND
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19099
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB COLORADO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19079
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB CHICAGO WS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19078
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB DETROIT
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19098
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB HOUSTON
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB KANSAS CITY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB LA ANGELS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB MIAMI
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB MILWAUKEE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB MINNESOTA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19094
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB NYM
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19093
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB NYY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB OAKLAND
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB PHILADELPHIA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB PITTSBURGH
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19090
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB SAN DIEGO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB SAN FRANCISCO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB SEATTLE
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB TAMPA BAY
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB TEXAS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19075
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB TORONTO
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19086
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB WASHINGTON
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB ST. LOUIS
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB LAD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19077
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19107
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB 4
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB 5
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB 6
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB 7
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36348
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36339
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36338
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 4
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 5
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36336
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 6
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36335
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 7
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 8
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 9
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 10
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36347
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 11
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 12
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 13
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 14
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 15
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 16
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36341
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Arena 17
+http://nitro.ltd:25461/StevenD2020/StevFr2019/36340
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB STRIKEZONE Tue & Thursdays
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLB Extra Innings 03
+http://nitro.ltd:25461/StevenD2020/StevFr2019/7818
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Daystar TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBN News
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18513
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ACCTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/18515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TBN HD (fixed)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19893
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Yes TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Network HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11545
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Network 720
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL NOW HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FNTSY Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15166
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Redzone HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3669
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Redzone HD (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17135
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 1 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9597
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 2 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 3 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9595
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 4 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9594
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 5 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 6 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 7 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 8 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 9 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 10 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 11 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 12 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 13 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NFL Sunday Ticket 14 HD Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/9584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:ESPN COLLEGE EXTRA 1 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:ESPN COLLEGE EXTRA 2 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:ESPN COLLEGE EXTRA 3 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:ESPN COLLEGE EXTRA 4 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:ESPN COLLEGE EXTRA 5 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:ESPN COLLEGE EXTRA 6 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 01 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22420
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 02 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 03 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22418
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 04 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 05 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22416
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 06 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 07 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22414
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 08 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 09 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 10 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 11 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 12 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 13 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 14 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 15 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 16 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 17 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 18 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 19 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",US:: ESPN PLUS 20 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 21
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 22
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 23
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41786
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 24
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 25
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 26
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41789
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 27
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 28
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41791
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 29
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 31
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 32
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 33
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 34
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 35
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41798
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 36
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41799
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 37
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 38
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 39
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 40
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 41
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 42
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41805
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 43
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41806
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 44
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 45
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 46
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 47
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 48
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 49
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 50
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 51
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 52
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41815
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 53
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41816
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 54
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41817
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 55
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41818
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 56
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41819
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 58
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41821
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 59
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 60
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41823
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 61
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 62
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41825
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 63
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 64
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41827
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ESPN Plus 65
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41828
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fox Soccer Plus HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3665
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23690
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23689
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23688
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 4
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23687
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 5
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23686
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 6
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 7
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23684
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 8
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23683
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 9
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23682
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 10
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23681
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 11
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23680
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 12
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23679
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 13
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 14
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23677
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MLS 15
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23676
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL Network HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 30 Dallas Stars
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 29 Buffalo Sabres
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 28 Boston Bruins
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 27 Los Angeles Kings
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13226
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 26 Calgary Flames
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 25 Philadelphia Flyers
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13228
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 24 Winnipeg Jets
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 23 Florida Panthers
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 22 Pittsburgh Penguins
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 21 New Jersey Devils
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13232
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 20 Anaheim Ducks
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 19 San Jose Sharks
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 18 Vancouver Canucks
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13235
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 17 Edmonton_Oilers
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 16 St Louis Blues
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13237
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 15 Arizona Coyotes
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13238
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 14 Nashville Predators
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 13 Carolina Hurricanes
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 12 Washington Capital
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13241
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 11 Tampa Bay Lightning
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13242
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 10 Montreal Canadiens
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13243
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 9 Ottawa Senators
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 8 Chicago Blackhawks
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13245
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 7 Toronto Maple Leafs
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13246
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 6 New York Rangers
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13247
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 5 Minnesota Wild
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13248
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 4 Columbus Blue Jackets
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13249
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 3 New York Islanders
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13250
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 2 Colorado Avalanche
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13251
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 1 Detroit Red Wings
+http://nitro.ltd:25461/StevenD2020/StevFr2019/13252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHL 31 Vegas Golden Knights
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41498
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Showtime West HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MoreMax HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22818
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22793
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Black HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz West HD 1080 Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Comedy HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz East HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Action HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Black HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Classic HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore East HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Family HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22799
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Suspense HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore West HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Starz Encore Western HD Movies
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",[COLOR red][B]RADIO[/B][/COLOR]
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png" group-title="",100'5 Alemannia
 http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png" group-title="",100'5 DAS HITRADIO
