@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i1.sndcdn.com/avatars-000037013343-tsc6on-t500x500.jpg" group-title="",[COLOR gold][B]MIKES SENDERLISTE[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/15390879_356983414678386_8972084313491494915_n.png?_nc_cat=111&_nc_sid=85a577&_nc_eui2=AeG9HYI8VD7PUPvV4KktCyJT4dLkMui90P7uekq7_IWrj2LSo6g_UHdikCo4IuuqanXD7faWR7KiA9CgPzIYFPMc6VlY8Au_OAyJ4jJt_pZfcw&_nc_oc=AQkfLhxW2Z2seo4HDdIBIRF4Ps2HkXM6fVuIQY5w7MgYT48wELPVB7-dqy6sPfFxmzI&_nc_ht=scontent-frx5-1.xx&oh=b3b5ec6fdf26e11130f5c255d5d8a814&oe=5EA0DFCF" group-title="",[COLOR gold][B]14.04. TOTE KANÄLE GELÖSCHT[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/15390879_356983414678386_8972084313491494915_n.png?_nc_cat=111&_nc_sid=85a577&_nc_eui2=AeG9HYI8VD7PUPvV4KktCyJT4dLkMui90P7uekq7_IWrj2LSo6g_UHdikCo4IuuqanXD7faWR7KiA9CgPzIYFPMc6VlY8Au_OAyJ4jJt_pZfcw&_nc_oc=AQkfLhxW2Z2seo4HDdIBIRF4Ps2HkXM6fVuIQY5w7MgYT48wELPVB7-dqy6sPfFxmzI&_nc_ht=scontent-frx5-1.xx&oh=b3b5ec6fdf26e11130f5c255d5d8a814&oe=5EA0DFCF" group-title="",[COLOR gold][B]21.04. AB 479 neue US Sender[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://external-preview.redd.it/sadQi3MUuONLdMIdDbzYQOQkYKx-kS7NCFJzWiHFDNg.png?auto=webp&s=c219eda69afca6b3e1b78e821d2151b624b136c3" group-title="",[COLOR red][B]D - A - CH  nur mit VPN CH[/B][/COLOR]
 https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
@@ -955,160 +955,146 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/vTlQAIX.jpg" group-title="Entertainment",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| TV LAND HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| TNT HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1731
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| TLC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1732
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| USA NETWORK
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1727
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| SYFY HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1735
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| SHOWTIME PACIFIC
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1739
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| SHOWTIME
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1740
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| REELZ HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1741
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| PBS HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| STARZ EDGE
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1737
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| VH1 HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1723
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| SUNDANCE HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1736
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| NICKELODEON HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| MSNBC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1750
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| MORE MAX HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1751
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| LAW AND CRIME HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1752
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| LOGHORN NETWORK
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1753
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| IFC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1754
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| HBO PACIFIC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| HBO COMEDY HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1757
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| HALLMARK HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1758
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| H2
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1759
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| GOLF HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FXX HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1762
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FX HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1763
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FREEFORM HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1764
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| NAT GEO WILD HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX SPORTS RACING HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX SPORTS PRIME TICKET HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX SPORTS Sun HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| NAT GEO HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX SPORTS COLLEGUE ATLANTIC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX SPORTS ARIZONA HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX SPORTS FLORIDA HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1770
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOOD NETWORK HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX SOCCER PLUS
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| ESPN NEWS HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| ESPN U HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| ESPN DEPORTES HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| ESPN COLLAGE EXTRA
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1782
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| ESPN 2 HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1783
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| ESPN
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1784
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| DIY NETWORK HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1785
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| DISNEY Jr. HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1786
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| DISNEY CHANNEL HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1787
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| DISCOVERY VELOCITY HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1788
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| DISCOVERY SCIENCE HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1789
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| DISCOVERY FAMILY HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1790
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180722/pej/kisspng-discovery-channel-television-channel-discovery-in-discovery-logo-5b554b716e7838.9583235215323165294525.jpg" group-title="USA TEST 2",DISCOVERY CHANNEL HD
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1791
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| CW HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1793
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| CRIME & INVESTIGATION HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| COOKING CHANNEL HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1795
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| CNBC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1796
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| CMT HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1797
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| CINE Sony HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1798
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| CINEMAX 5
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| CBS CHICAGO HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1803
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| BTN HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1808
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| BRAVO
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1809
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| BOOMERANG HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1810
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| BLOOMBERG HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1811
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| BET HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1812
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| BBC AMERICA HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1813
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| AFN Prime Pacific
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://img.favpng.com/2/22/25/discovery-science-television-channel-discovery-channel-logo-png-favpng-UHcM4azn0H6QRCpRUkTuhb6jk.jpg" group-title="USA TEST 2",DISCOVERY SCIENCE HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1789
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180623/zbi/kisspng-velocity-television-channel-television-show-discov-5b2ed1dd5bc510.8604856915297950373759.jpg" group-title="USA TEST 2",DISCOVERY VELOCITY HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png" group-title="USA TEST 2",DISCOVERY LIFE
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1814
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| TBS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180920/sxs/kisspng-logo-brand-product-design-font-index-of-imagesdfc-logo-kitpng-5ba3ed3d7258a3.1194921615374697574684.jpg" group-title="USA TEST 2",DISCOVERY FAMILY HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://img.favpng.com/12/24/7/logo-national-geographic-society-television-channel-png-favpng-Xe96mVV1q8adDe1BDELV7e86F.jpg" group-title="USA TEST 2",NAT GEO HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/jtocBh4Vyj8/maxresdefault.jpg" group-title="USA TEST 2",NAT GEO WILD HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logonoid.com/images/h2-tv-logo.jpg" group-title="USA TEST 2",H2
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i-v.de/wp-content/uploads/logo_tnt.png" group-title="USA TEST 2",TNT HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1731
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/tlc-logo.png" group-title="USA TEST 2",TLC HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1732
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="USA TEST 2",TBS HD
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1816
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| HGTV HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1817
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://files.cults3d.com/uploaders/13694576/illustration-file/5215790e-4c62-4618-8839-a6884d8c15a4/bb0cf5cf556c6ecfedf11605aea63867_display_large.jpg" group-title="USA TEST 2",SYFY HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logodix.com/logo/1016110.jpg" group-title="USA TEST 2",HBO COMEDY HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.logolynx.com/images/logolynx/74/7415631551729eedc29f56bdd674856f.png" group-title="USA TEST 2",HBO PACIFIC HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/jWnIDLHxS7E/maxresdefault.jpg" group-title="USA TEST 2",HBO Family HD ?
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1818
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| CNN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.cultjer.com/img/ug_photo/2016_04/53759020160406093109.jpg" group-title="USA TEST 2",SHOWTIME
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5727f125-4457-441b-865d-9d52144d0a2a/dd1p1xz-0268d1f8-1e76-4011-a135-367b70742c1d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3MjdmMTI1LTQ0NTctNDQxYi04NjVkLTlkNTIxNDRkMGEyYVwvZGQxcDF4ei0wMjY4ZDFmOC0xZTc2LTQwMTEtYTEzNS0zNjdiNzA3NDJjMWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZopNYoMaN7FrtlNmKKUcJBsgEMSSAmB3YbfUfXRG5Jg" group-title="USA TEST 2",SHOWTIME PACIFIC
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.logolynx.com/images/logolynx/14/1434d05c82447ecefb7e4dc1edcb1e9e.jpeg" group-title="USA TEST 2",CMT HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="USA TEST 2",FX HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.logolynx.com/images/logolynx/23/23878807f7dd62e610751847aa892fa4.jpeg" group-title="USA TEST 2",FXX HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://eightymphmom.com/wp-content/uploads/2016/11/hallmark-channel-1.png" group-title="USA TEST 2",HALLMARK HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1758
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="USA TEST 2",LIFETIME NETWORK
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://kodi.tv/sites/default/files/styles/hero_16_9/public/addon_assets/plugin.video.tvland/fanart/fanart.jpg?itok=zOJZkO7f" group-title="USA TEST 2",TV LAND HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://1.bp.blogspot.com/-V0790DLKC0M/TgOYyhuf2aI/AAAAAAAAAJQ/F8u-PNcvMN8/s1600/WVVA+logo.png" group-title="USA TEST 2",USA NETWORK
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logosolusa.com/wp-content/uploads/parser/Reelz-Channel-Logo-1.jpg" group-title="USA TEST 2",REELZ HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://image.pbs.org/video-assets/tMa2GeS-asset-mezzanine-16x9-gg75zSv.jpg.crop.1920x1080.jpg" group-title="USA TEST 2",PBS HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://spng.pinpng.com/pngs/s/351-3515384_starz-edge-logo-starz-edge-channel-logo-hd.png" group-title="USA TEST 2",STARZ EDGE
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1737
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.vox-cdn.com/thumbor/D0CabPG4eq5tqp2rbaIFJrKk0kE=/0x46:500x379/1400x1400/filters:focal(0x46:500x379):format(png)/cdn.vox-cdn.com/assets/4020833/1377292_10151782181788375_530158935_n.png" group-title="USA TEST 2",VH1 HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1723
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU1MzQyNjY5MzMyMDk2NTMy/ifc-logo.jpg" group-title="USA TEST 2",IFC HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.clipart.email/73d693a82c88cdc16b60e2d380712535_tca-sundancetv-sets-thanksgiving-miniseries-one-child-_1200-799.png" group-title="USA TEST 2",SUNDANCE HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.wunschliste.de/gfx/pics/1200/Bbc-America-Logo-2.jpg" group-title="USA TEST 2",BBC AMERICA HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/FOX_Network_Logo.jpg" group-title="USA TEST 2",FOX HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Home_%26_Garden_Television_original_logo.svg/1280px-Home_%26_Garden_Television_original_logo.svg.png" group-title="USA TEST 2",HGTV HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1817
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/11/DIY-Network.png" group-title="USA TEST 2",DIY NETWORK HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://yt3.ggpht.com/a/AGF-l78NdupTjJRGXux0tsXPO4naNJ5bUChy63O1Kg=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA TEST 2",CBS CHICAGO HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.vippng.com/png/small/230-2306898_more-max-hdtv-cinemax.png" group-title="USA TEST 2",MORE MAX HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.nicepng.com/png/full/39-397008_cw-primetime-listings-for-the-week-of-november.png" group-title="USA TEST 2",CW HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1793
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://yt3.ggpht.com/a/AATXAJy3U9jxOmtV5-4it85EGU4UyUXgc89N2ml4Nw=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA TEST 2",LAW AND CRIME HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1752
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/originals/75/8e/1a/758e1a7ae656c3ddb4ac6b677c5fdb16.png" group-title="USA TEST 2",FREEFORM HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.brightpunjabexpress.com/wp-content/uploads/2018/09/Crime-investigation.jpg" group-title="USA TEST 2",CRIME & INVESTIGATION HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/elOZ3ujij9I/maxresdefault.jpg" group-title="USA TEST 2",CINEMAX 5
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/96/a3/38/96a33807-bc67-aebb-d4d1-8aa432355956/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg" group-title="USA TEST 2",COOKING CHANNEL HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://images.tritondigitalcms.com/6616/sites/205/2015/03/25092144/Big-Ten-Logo-Pentagram-Lede-1.jpg" group-title="USA TEST 2",BTN HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://banner2.cleanpng.com/20180821/izy/kisspng-logo-bet-awards-2-15-television-channel-clients-rich-edwards-5b7c751b9d0d37.9926485815348830996433.jpg" group-title="USA TEST 2",BET HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://yt3.ggpht.com/a/AGF-l78iBl__fbvHN01jo1GxcR97GMYfU_mUbFelnA=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA TEST 2",BRAVO
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Food-Network-Logo.svg/2000px-Food-Network-Logo.svg.png" group-title="USA TEST 2",FOOD NETWORK HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.monkeyinthecage.com/wp-content/uploads/2012/12/disney-junior.png" group-title="USA TEST 2",DISNEY Jr. HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1786
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo-all.ru/uploads/posts/2018-07/0_disney_channel_logo.jpg" group-title="USA TEST 2",DISNEY CHANNEL HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA TEST 2",BOOMERANG HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/05/CNN-Logo.jpg" group-title="USA TEST 2",CNN HD
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1819
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| BEIN SPORTS HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1820
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| UFC  FIGHT PASS
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| FOX NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://thumbs.dreamstime.com/z/msnbc-logo-95579421.jpg" group-title="USA TEST 2",MSNBC HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://toppng.com/uploads/preview/heres-where-to-get-free-food-on-mothers-day-cnbc-logo-transparent-background-11554835169jo66gz8qye.png" group-title="USA TEST 2",CNBC HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/ab/Fox-News-Channel-Logo.svg/1200px-Fox-News-Channel-Logo.svg.png" group-title="USA TEST 2",FOX NEWS
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| TSN HD 4
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1829
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| TSN HD 2
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1830
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| TSN SPORT 1 group-title="USA TEST 2" HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/xus-bloomberg-tv.jpg.pagespeed.ic.vnrQf2evjh.jpg" group-title="USA TEST 2",BLOOMBERG HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://img.favpng.com/16/13/11/logo-pga-championship-golf-channel-pga-tour-png-favpng-EUzM17a39tpHYqDCRmktikR3i.jpg" group-title="USA TEST 2",GOLF HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/originals/e1/56/bb/e156bb48af187db558e1b4bfdce5a5de.png" group-title="USA TEST 2",FOX SPORTS PRIME TICKET HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/1174740136871022592/nC-_utCA_400x400.jpg" group-title="USA TEST 2",FOX SPORTS Sun HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://wtcks.com/images/channels/logos/foxatlantic.png" group-title="USA TEST 2",FOX SPORTS COLLEGUE ATLANTIC HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1771
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pbs.twimg.com/profile_images/1196457870390218752/hptcE1Gk_400x400.jpg" group-title="USA TEST 2",FOX SPORTS ARIZONA HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-fox-sports-florida-without-cable-1024x576.jpg" group-title="USA TEST 2",FOX SPORTS FLORIDA HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/02/fox-soccer-plus-logo.jpg" group-title="USA TEST 2",FOX SOCCER PLUS
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://png.pngtree.com/template/20190525/ourlarge/pngtree-espn-broadcast-logo-icon-symbol-signs-vector-element-isolated-image_204948.jpg" group-title="USA TEST 2",ESPN
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" group-title="USA TEST 2",ESPN 2 HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Espn_3.png" group-title="USA TEST 2",ESPN 3 HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1782
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/ESPN/ESPN%20NEWS.jpg" group-title="USA TEST 2",ESPN NEWS HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://mpng.subpng.com/20180627/bqc/kisspng-espnu-espn-com-watchespn-espnews-college-night-5b339ef7e9d414.9968249815301096879578.jpg" group-title="USA TEST 2",ESPN U HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.mmaweekly.com/wp-content/uploads/2017/01/UFC-Fight-Pass-Logo-Gray-BG.jpg" group-title="USA TEST 2",UFC  FIGHT PASS
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1719
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIxTs9qBWKKkcDdXe7KxxbqQGRZ320Az8J-jpTWTpE_qN8eGDf&usqp=CAU" group-title="USA TEST 2",TSN SPORT 1
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1831
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| YES ACTION HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1832
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="USA TEST 2",|USA| UFC
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/3814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://2.bp.blogspot.com/_uE1n8xARdX4/SNM6_xTRJ7I/AAAAAAAAJXg/W6CbKJhK17k/s400/TSN2+Story.jpg" group-title="USA TEST 2",TSN HD 2
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/tsn-4.png" group-title="USA TEST 2",TSN HD 4
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1829
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",[COLOR red][B]RADIO[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png" group-title="",100'5 Alemannia
