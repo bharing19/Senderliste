@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i1.sndcdn.com/avatars-000037013343-tsc6on-t500x500.jpg" group-title="",[COLOR gold][B]MIKES SENDERLISTE[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/15390879_356983414678386_8972084313491494915_n.png?_nc_cat=111&_nc_sid=85a577&_nc_eui2=AeG9HYI8VD7PUPvV4KktCyJT4dLkMui90P7uekq7_IWrj2LSo6g_UHdikCo4IuuqanXD7faWR7KiA9CgPzIYFPMc6VlY8Au_OAyJ4jJt_pZfcw&_nc_oc=AQkfLhxW2Z2seo4HDdIBIRF4Ps2HkXM6fVuIQY5w7MgYT48wELPVB7-dqy6sPfFxmzI&_nc_ht=scontent-frx5-1.xx&oh=b3b5ec6fdf26e11130f5c255d5d8a814&oe=5EA0DFCF" group-title="",[COLOR gold][B]21.04. AB 479 neue US Sender[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/15390879_356983414678386_8972084313491494915_n.png?_nc_cat=111&_nc_sid=85a577&_nc_eui2=AeG9HYI8VD7PUPvV4KktCyJT4dLkMui90P7uekq7_IWrj2LSo6g_UHdikCo4IuuqanXD7faWR7KiA9CgPzIYFPMc6VlY8Au_OAyJ4jJt_pZfcw&_nc_oc=AQkfLhxW2Z2seo4HDdIBIRF4Ps2HkXM6fVuIQY5w7MgYT48wELPVB7-dqy6sPfFxmzI&_nc_ht=scontent-frx5-1.xx&oh=b3b5ec6fdf26e11130f5c255d5d8a814&oe=5EA0DFCF" group-title="",[COLOR gold][B]22.04. AB 479 neue US Sender[/B][/COLOR]
 https://www.facebook.com/michael.reis.39545/videos/vb.100002319647974/2580633732023923/?type=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://external-preview.redd.it/sadQi3MUuONLdMIdDbzYQOQkYKx-kS7NCFJzWiHFDNg.png?auto=webp&s=c219eda69afca6b3e1b78e821d2151b624b136c3" group-title="",[COLOR red][B]D - A - CH  nur mit VPN CH[/B][/COLOR]
 https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=64
@@ -855,6 +855,8 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX6036574.jpg" group-title="",[COLOR red][B]USA -  OHNE VPN[/B][/COLOR]
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-shift="" radio="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-shift="" radio="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="",NBC
@@ -1051,6 +1053,10 @@ http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1776
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1786
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo-all.ru/uploads/posts/2018-07/0_disney_channel_logo.jpg" group-title="USA TEST 2",DISNEY CHANNEL HD
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="",ABC 10 Miami FL (WPLG)
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA TEST 2",BOOMERANG HD
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1810
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/05/CNN-Logo.jpg" group-title="USA TEST 2",CNN HD
@@ -1095,6 +1101,34 @@ http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1831
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1830
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/tsn-4.png" group-title="USA TEST 2",TSN HD 4
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1829
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",[COLOR red][B]TEST[/B][/COLOR]
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="",ABC Australia
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC2_76x37.png" group-title="",ABC Austr. Comedy
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" group-title="",ABC ME Austr.
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="",Expo Channel Austr.
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="",Fox Sports News Austr.
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ABC HD Atlanta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS HD Atlanta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19882
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NBC HD Atlanta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19883
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX HD Atlanta GA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/11762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC 1 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/39727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC 2 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/39726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC 4 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3447
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="",[COLOR red][B]RADIO[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png" group-title="",100'5 Alemannia
