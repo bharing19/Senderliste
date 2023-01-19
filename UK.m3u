@@ -1,0 +1,441 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/784f2cc4e90f364b88658303186aac6f.png" group-title="",BBC One
+http://kuchini.site:8080/xusm/4bf044ec60/697
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ae17343cbffee6299207cd680d075c46.png" group-title="",BBC Two
+http://kuchini.site:8080/xusm/4bf044ec60/283047
+#EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/25f4437814ddad912bd3b9906e047c8a.png" group-title="",BBC 3
+http://kuchini.site:8080/xusm/4bf044ec60/291212
+#EXTINF:-1 tvg-id="" tvg-name="BBC 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/70e7a25fe1f3d301b1628af8f6e3d66f.png" group-title="",BBC 4
+http://kuchini.site:8080/xusm/4bf044ec60/291219
+#EXTINF:-1 tvg-id="" tvg-name="5 Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/9e7683be2db6f420f91302c9bec428ce.png" group-title="",5 Action
+http://kuchini.site:8080/xusm/4bf044ec60/295070
+#EXTINF:-1 tvg-id="" tvg-name="5 Select" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5dfb64af3558d04a8f3f03908fe6409.png" group-title="",5 Select
+http://kuchini.site:8080/xusm/4bf044ec60/4631
+#EXTINF:-1 tvg-id="" tvg-name="5 STAR" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9d5b5c9772322ef491afd068447ad734.png" group-title="",5 STAR
+http://kuchini.site:8080/xusm/4bf044ec60/4633
+#EXTINF:-1 tvg-id="" tvg-name="5 USA" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b3d2405ceba8ae5e7042b6405f6b85b.png" group-title="",5 USA
+http://kuchini.site:8080/xusm/4bf044ec60/1579
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="4Music" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dae6a77b6882ea120eccbba9f729a84d.png" group-title="",4Music
+http://kuchini.site:8080/xusm/4bf044ec60/4749
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name=" 4Seven" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/49ba489193a8c699f45d98cac94a4230.png" group-title="",4Seven
+http://kuchini.site:8080/xusm/4bf044ec60/4625
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="Alibi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80aece4ee97d706257c1cb307c447972.png" group-title="",Alibi
+http://kuchini.site:8080/xusm/4bf044ec60/1131
+#EXTINF:-1 tvg-id="" tvg-name="UK: Aljazeera English" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/400ea32d496aa897658c7f1bc0fd3ef5.png" group-title="",Aljazeera English
+http://kuchini.site:8080/xusm/4bf044ec60/24077
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/971eb7c085fbaa522dcf37653153c546.png" group-title="",AMC
+http://kuchini.site:8080/xusm/4bf044ec60/4669
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="ANIMAL PLANET" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d35b4c918eee7e24b511a6ac18d82d68.png" group-title="",ANIMAL PLANET
+http://kuchini.site:8080/xusm/4bf044ec60/1130
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b0e18a9499f1738f8b03626254f223bd.png" group-title="",ANIMAL PLANET +1
+http://kuchini.site:8080/xusm/4bf044ec60/165934
+#EXTINF:-1 tvg-id="arisenews.uk" tvg-name="Arise News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/53c00632f92ecb30e54fbedb4afb581b.png" group-title="",Arise News
+http://kuchini.site:8080/xusm/4bf044ec60/146108
+#EXTINF:-1 tvg-id="" tvg-name="Baby First TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/22162c8cdb9ebc82680cfc9b954a3f6e.jpeg" group-title="",Baby First TV
+http://kuchini.site:8080/xusm/4bf044ec60/296498
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="Baby TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bde414cc7e22f78e4b16bcf48489233.png" group-title="",Baby TV
+http://kuchini.site:8080/xusm/4bf044ec60/1129
+#EXTINF:-1 tvg-id="" tvg-name="BBC Alba" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa6c9563116d115ff73b764cefc883e5.png" group-title="",BBC Alba
+http://kuchini.site:8080/xusm/4bf044ec60/278520
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/2060436efa5c50dcd855554c08a80c28.png" group-title="",BBC Earth
+http://kuchini.site:8080/xusm/4bf044ec60/174446
+#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6eacd8355d655af160f851d720659cbf.png" group-title="",BBC Entertainment
+http://kuchini.site:8080/xusm/4bf044ec60/11663
+#EXTINF:-1 tvg-id="" tvg-name="BBC First" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/53fbf4d92d6485ea60d376b03ef1380c.png" group-title="",BBC First
+http://kuchini.site:8080/xusm/4bf044ec60/11586
+#EXTINF:-1 tvg-id="" tvg-name="BBC LifeStyle" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/a4ee7fe11bd79d2b7d3fd48ce2dd1d6f.png" group-title="",BBC LifeStyle
+http://kuchini.site:8080/xusm/4bf044ec60/85436
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e26090febadd0239539333ab8e082a4e.png" group-title="",BBC News
+http://kuchini.site:8080/xusm/4bf044ec60/696
+#EXTINF:-1 tvg-id="" tvg-name="BBC One East Yorkshire" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",BBC One East Yorkshire
+http://kuchini.site:8080/xusm/4bf044ec60/296926
+#EXTINF:-1 tvg-id="" tvg-name="BBC One London" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",BBC One London
+http://kuchini.site:8080/xusm/4bf044ec60/296922
+#EXTINF:-1 tvg-id="" tvg-name="BBC One Northern Ireland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",BBC One Northern Ireland
+http://kuchini.site:8080/xusm/4bf044ec60/296927
+#EXTINF:-1 tvg-id="" tvg-name="BBC One Scotland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",BBC One Scotland
+http://kuchini.site:8080/xusm/4bf044ec60/296933
+#EXTINF:-1 tvg-id="" tvg-name="BBC One Wales" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",BBC One Wales
+http://kuchini.site:8080/xusm/4bf044ec60/296932
+#EXTINF:-1 tvg-id="" tvg-name="BBC Parliament" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7aad24b330498d5dadc455261bfc0a79.png" group-title="",BBC Parliament
+http://kuchini.site:8080/xusm/4bf044ec60/290377
+#EXTINF:-1 tvg-id="" tvg-name="BBC Scotland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/fdb6930fd6709a0f82331ab6d75a1c22.png" group-title="",BBC Scotland
+http://kuchini.site:8080/xusm/4bf044ec60/281885
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two Northern Ireland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",BBC Two Northern Ireland
+http://kuchini.site:8080/xusm/4bf044ec60/296934
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two Scotland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",BBC Two Scotland
+http://kuchini.site:8080/xusm/4bf044ec60/297009
+#EXTINF:-1 tvg-id="" tvg-name="BBC UHD 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",BBC UHD 1
+http://kuchini.site:8080/xusm/4bf044ec60/296930
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/46bad172f566406387508ddfe08db71f.png" group-title="",BBC World News
+http://kuchini.site:8080/xusm/4bf044ec60/2585
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name=" itv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/84115552985051f281713aeeb4d83d6a.png" group-title="", itv
+http://kuchini.site:8080/xusm/4bf044ec60/689
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name=" itv 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8a47c9d5b3b3e5aa1a7df71d17673fb5.png" group-title="", itv 2
+http://kuchini.site:8080/xusm/4bf044ec60/690
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name=" itv 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/78be616aa48bd50c9200cb4856cb664f.png" group-title="",itv 3
+http://kuchini.site:8080/xusm/4bf044ec60/703
+#EXTINF:-1 tvg-id="" tvg-name=" itv 3 +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0d4c3962d58ff91457b86fccbca1c06c.png" group-title="", itv 3 +1
+http://kuchini.site:8080/xusm/4bf044ec60/145787
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name=" itv 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/19ce98ef689f2beb0a1e4da62f28db4c.png" group-title="", itv 4
+http://kuchini.site:8080/xusm/4bf044ec60/691
+#EXTINF:-1 tvg-id="" tvg-name="itv 4 +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/16ca7e4156e3554810b42dd11ecf2c9f.png" group-title="", itv 4 +1
+http://kuchini.site:8080/xusm/4bf044ec60/295071
+#EXTINF:-1 tvg-id="" tvg-name="Best Direct" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",Best Direct
+http://kuchini.site:8080/xusm/4bf044ec60/286774
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="itv BE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d53543bcc60d5d6f5895146d29e36f6.png" group-title="",itv BE
+http://kuchini.site:8080/xusm/4bf044ec60/1560
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/328b9294c3c454997167b6ebacbc11c6.png" group-title="",BET
+http://kuchini.site:8080/xusm/4bf044ec60/9760
+#EXTINF:-1 tvg-id="" tvg-name="Bible TV Global" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",Bible TV Global
+http://kuchini.site:8080/xusm/4bf044ec60/275962
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="Blaze" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e027706acbcb2366508d6fc982ccb966.png" group-title="",Blaze
+http://kuchini.site:8080/xusm/4bf044ec60/4642
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="Bloomberg" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/442fc8ac9c1f2cc4e073db1c0089231d.png" group-title="",Bloomberg
+http://kuchini.site:8080/xusm/4bf044ec60/1610
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Live" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2cd611e276dc2fe047f5e0823094ffc4.png" group-title="",Bloomberg Live
+http://kuchini.site:8080/xusm/4bf044ec60/294851
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV Europe" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0237c580fbae246aa51adce9d68d624a.png" group-title="",Bloomberg TV Europe
+http://kuchini.site:8080/xusm/4bf044ec60/294852
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/128b14884de50bdd5bedeb5f55bf67c3.png" group-title="",Boomerang
+http://kuchini.site:8080/xusm/4bf044ec60/1125
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="Box Nation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c2d563f238702089445c84cb1ef9b2c.png" group-title="",Box Nation
+http://kuchini.site:8080/xusm/4bf044ec60/4719
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="",BT Sport 1
+http://kuchini.site:8080/xusm/4bf044ec60/270
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="",BT Sport 2
+http://kuchini.site:8080/xusm/4bf044ec60/273
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="",BT Sport 3
+http://kuchini.site:8080/xusm/4bf044ec60/271
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="BT Sport ESPN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="",BT Sport ESPN
+http://kuchini.site:8080/xusm/4bf044ec60/1124
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="Cartoon Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" group-title="",Cartoon Network
+http://kuchini.site:8080/xusm/4bf044ec60/720
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="Cartoonito" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" group-title="",Cartoonito
+http://kuchini.site:8080/xusm/4bf044ec60/1546
+#EXTINF:-1 tvg-id="" tvg-name="CBBC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" group-title="",CBBC
+http://kuchini.site:8080/xusm/4bf044ec60/695
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" group-title="",CBeebies
+http://kuchini.site:8080/xusm/4bf044ec60/4753
+#EXTINF:-1 tvg-id="" tvg-name="CBS Justice" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/78173972af8b08882e85ddf03f4f8ca1.png" group-title="",CBS Justice
+http://kuchini.site:8080/xusm/4bf044ec60/1122
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS Reality" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/654a952a06a8db07f28f8a7569085ce5.png" group-title="",CBS Reality
+http://kuchini.site:8080/xusm/4bf044ec60/1121
+#EXTINF:-1 tvg-id="" tvg-name="Challenge" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/414dd48a4830cf3ccadecf29de8117c9.png" group-title="",Challenge
+http://kuchini.site:8080/xusm/4bf044ec60/4641
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 London" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9f2cb96dba6c12e77f3e79c1ffaa197a.png" group-title="",Channel 4 London
+http://kuchini.site:8080/xusm/4bf044ec60/1120
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f394d48eea10ccf2f35f5c3b1367bc5a.png" group-title="",Channel 5
+http://kuchini.site:8080/xusm/4bf044ec60/1119
+#EXTINF:-1 tvg-id="" tvg-name="CITV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/accf2c64b8fea3206b10e1ec283d0e72.png" group-title="",CITV
+http://kuchini.site:8080/xusm/4bf044ec60/1548
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="Clubland TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a36da207ab4d49bd1e3d907a2a7331b2.png" group-title="",Clubland TV
+http://kuchini.site:8080/xusm/4bf044ec60/144752
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="Comedy Central" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8259ef48eeed339f7221d396aaa239aa.png" group-title="",Comedy Central
+http://kuchini.site:8080/xusm/4bf044ec60/1118
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="Comedy Central Extra" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b4210ceb760f12d20bd852948d08333.png" group-title="",Comedy Central Extra
+http://kuchini.site:8080/xusm/4bf044ec60/4656
+#EXTINF:-1 tvg-id="" tvg-name="Create & Craft" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8d97104731d998d8401b2356d85736ce.png" group-title="",Create & Craft
+http://kuchini.site:8080/xusm/4bf044ec60/4824
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="Crime+ Investigation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5922afa182b23da0f8e8d980a104b42c.png" group-title="",Crime+ Investigation
+http://kuchini.site:8080/xusm/4bf044ec60/734
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c236629deee175740310a95faa0c2417.png" group-title="",Dave
+http://kuchini.site:8080/xusm/4bf044ec60/733
+#EXTINF:-1 tvg-id="" tvg-name="Dave ja vu" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8f8e4511dd8df7a4ab49345485469e67.png" group-title="",Dave ja vu
+http://kuchini.site:8080/xusm/4bf044ec60/17031
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ed888d857fa811902977ec608d895cd5.png" group-title="",Discovery H&H
+http://kuchini.site:8080/xusm/4bf044ec60/282757
+#EXTINF:-1 tvg-id="" tvg-name="Discovery History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0e6338fdd9b3b61300bb3469f76e3b0.png" group-title="",Discovery History
+http://kuchini.site:8080/xusm/4bf044ec60/694
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="Discovery Science" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e76011290ff4124502f1af1e6fb6e980.png" group-title="",Discovery Science
+http://kuchini.site:8080/xusm/4bf044ec60/713
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="Discovery Turbo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac2c475dbdb448898e219c4a51c1f848.png" group-title="",Discovery Turbo
+http://kuchini.site:8080/xusm/4bf044ec60/1114
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="Discovery World" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/15e5cd004d609028edf73514b493c1bf.png" group-title="",Discovery World
+http://kuchini.site:8080/xusm/4bf044ec60/708
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b81b699ab1552f3c15dea79e34e5f017.png" group-title="",Disney Channel
+http://kuchini.site:8080/xusm/4bf044ec60/1113
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="Disney Junior" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="",Disney Junior
+http://kuchini.site:8080/xusm/4bf044ec60/1112
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" group-title="",Disney XD
+http://kuchini.site:8080/xusm/4bf044ec60/1111
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4da07a802fec387b6b52048f87851ac.png" group-title="",DMAX
+http://kuchini.site:8080/xusm/4bf044ec60/1604
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff9b7f48a48b490a48d38c4e8855d8fb.png" group-title="",Drama
+http://kuchini.site:8080/xusm/4bf044ec60/4638
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/636d230717e1a437342b61b5bd962860.png" group-title="",Duck TV
+http://kuchini.site:8080/xusm/4bf044ec60/144753
+#EXTINF:-1 tvg-id="eentertainmentplus1.uk" tvg-name="E!" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3aab91d368ed90a6b7826948ae2629c3.png" group-title="",E!
+http://kuchini.site:8080/xusm/4bf044ec60/1542
+#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2b6f28d8e5f158ddb35b0bf7809ff76f.png" group-title="",E4
+http://kuchini.site:8080/xusm/4bf044ec60/1110
+#EXTINF:-1 tvg-id="" tvg-name="E4 +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/acdb3d43e30f95b2119e7d84654666c5.png" group-title="",E4 +1
+http://kuchini.site:8080/xusm/4bf044ec60/290662
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="Eden" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44debcf2546b05ede72e2f7c927ed1e2.png" group-title="",Eden
+http://kuchini.site:8080/xusm/4bf044ec60/1109
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="",Edge Sport
+http://kuchini.site:8080/xusm/4bf044ec60/54012
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="euronews" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/007c8ba01ac4221d8d473f33743b6d0f.png" group-title="",euronews
+http://kuchini.site:8080/xusm/4bf044ec60/1554
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="EUROSPORT 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="",EUROSPORT 1
+http://kuchini.site:8080/xusm/4bf044ec60/692
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="",EUROSPORT 2
+http://kuchini.site:8080/xusm/4bf044ec60/1555
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b5aa0b1a7fd0f70015ce655b639d7c02.png" group-title="",EWTN
+http://kuchini.site:8080/xusm/4bf044ec60/281663
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e540f6293dc0192541a13cab82adba94.png" group-title="",Film 4
+http://kuchini.site:8080/xusm/4bf044ec60/1541
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="Food Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8e2efdee6ab760a91c7d0ffb80bbab1.png" group-title="",Food Network
+http://kuchini.site:8080/xusm/4bf044ec60/4658
+#EXTINF:-1 tvg-id="goodfood.uk" tvg-name=" foodxp" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ba1c4c71e4b87f54f9a4691e9a2554a5.png" group-title="",foodxp
+http://kuchini.site:8080/xusm/4bf044ec60/11450
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e97629d9ff75c0936af6952c6131504f.png" group-title="",France 24
+http://kuchini.site:8080/xusm/4bf044ec60/11560
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="FreeSports" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d80bfc06c6ce14109aff8a276ef9a779.png" group-title="",FreeSports
+http://kuchini.site:8080/xusm/4bf044ec60/37876
+#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/87191a7f320014807d52d5f26ab879b6.png" group-title="",FS2
+http://kuchini.site:8080/xusm/4bf044ec60/296737
+#EXTINF:-1 tvg-id="" tvg-name="GB News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5c7fc32dcbea95186a30a71b6956a52b.jpg" group-title="",GB News
+http://kuchini.site:8080/xusm/4bf044ec60/284027
+#EXTINF:-1 tvg-id="" tvg-name="Ginx eSports" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/784ad650798c209aa5dfcd68b65b307c.png" group-title="",Ginx eSports
+http://kuchini.site:8080/xusm/4bf044ec60/15913
+#EXTINF:-1 tvg-id="" tvg-name="God TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1787d85259dedf72ca8816dd2339b995.png" group-title="",God TV
+http://kuchini.site:8080/xusm/4bf044ec60/22338
+#EXTINF:-1 tvg-id="" tvg-name="Gold" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/f9e4a7364e37375fc064a73cef1d6bd8.svg" group-title="",Gold
+http://kuchini.site:8080/xusm/4bf044ec60/297105
+#EXTINF:-1 tvg-id="" tvg-name="Gold +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/a74fadd3deaf022761b0b027750bf218.svg" group-title="",Gold +1
+http://kuchini.site:8080/xusm/4bf044ec60/297106
+#EXTINF:-1 tvg-id="" tvg-name="GoodNews TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa7a165c8c66ca7bf74536e1d790bb9f.png" group-title="",GoodNews TV
+http://kuchini.site:8080/xusm/4bf044ec60/201133
+#EXTINF:-1 tvg-id="" tvg-name="Great Movies +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/cd75453c8297427fd25ac924aee64750.png" group-title="",Great Movies +1
+http://kuchini.site:8080/xusm/4bf044ec60/173235
+#EXTINF:-1 tvg-id="" tvg-name="Great Movies Action +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/122a63cd5204a60ee2ac00330b193cdb.png" group-title="",UK: Great Movies Action +1
+http://kuchini.site:8080/xusm/4bf044ec60/286775
+#EXTINF:-1 tvg-id="" tvg-name="Great Movies Classic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6e850858ee098dcfd061453baceedbb9.png" group-title="",Great Movies Classic
+http://kuchini.site:8080/xusm/4bf044ec60/290529
+#EXTINF:-1 tvg-id="" tvg-name="Great Movies Classic +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4d50b83c22e17977d5ff4f12cb848e63.png" group-title="",Great Movies Classic +1
+http://kuchini.site:8080/xusm/4bf044ec60/285334
+#EXTINF:-1 tvg-id="" tvg-name="Great TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/121e0bbffaa62ddd43f126a2628196b5.png" group-title="",Great TV
+http://kuchini.site:8080/xusm/4bf044ec60/291220
+#EXTINF:-1 tvg-id="" tvg-name="Great TV +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/60a940667f85a840cc38f838bdb413b0.png" group-title="",Great TV +1
+http://kuchini.site:8080/xusm/4bf044ec60/286776
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a550bbc3691f6e7d84d7ef27176e8ef7.png" group-title="",HBO Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/151864
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/642cbbc88d00591ed00390a765fd70fb.png" group-title="",HGTV
+http://kuchini.site:8080/xusm/4bf044ec60/1600
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6b57b06e70829b1d9aed1d7a04dcc28d.png" group-title="",History
+http://kuchini.site:8080/xusm/4bf044ec60/282756
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/06d3d7feaeb2fe01835fb88fe2211305.jpg" group-title="",History 2
+http://kuchini.site:8080/xusm/4bf044ec60/1601
+#EXTINF:-1 tvg-id="" tvg-name="HobbyMaker" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",HobbyMaker
+http://kuchini.site:8080/xusm/4bf044ec60/296396
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="Horror Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fca4532706611b0898b7606f0d1c6764.png" group-title="",Horror Channel
+http://kuchini.site:8080/xusm/4bf044ec60/736
+#EXTINF:-1 tvg-id="" tvg-name="Horror Channel +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e45e6d83d5b685b288df4598dc145ee6.png" group-title="",Horror Channel +1
+http://kuchini.site:8080/xusm/4bf044ec60/173236
+#EXTINF:-1 tvg-id="" tvg-name="Horse & Country TV Sverige" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1dccb185ae350240e14ca4e8c397ba85.png" group-title="",Horse & Country TV Sverige
+http://kuchini.site:8080/xusm/4bf044ec60/5347
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/881df5f496a975889fd4b98902dc85ed.png" group-title="",Investigation Discovery
+http://kuchini.site:8080/xusm/4bf044ec60/278449
+#EXTINF:-1 tvg-id="" tvg-name="Jewellery Maker" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",Jewellery Maker
+http://kuchini.site:8080/xusm/4bf044ec60/166001
+#EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8771649e3bc6d12c1f55fc4457f8be04.png" group-title="",JimJam
+http://kuchini.site:8080/xusm/4bf044ec60/33604
+#EXTINF:-1 tvg-id="" tvg-name="JML Direct" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f939e7434d755ce490dc267edac1b942.png" group-title="",JML Direct
+http://kuchini.site:8080/xusm/4bf044ec60/286773
+#EXTINF:-1 tvg-id="" tvg-name="Kerrang" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/e43581a79e7b544cb26b1728de0bb0d5.png" group-title="",Kerrang
+http://kuchini.site:8080/xusm/4bf044ec60/286913
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="KICC TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/06762c4db3b3a39c079ab83b55a4335c.png" group-title="",KICC TV
+http://kuchini.site:8080/xusm/4bf044ec60/7550
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="Kiss TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/002004c71b669cd6aa77ce736b39c84f.png" group-title="",Kiss TV
+http://kuchini.site:8080/xusm/4bf044ec60/4746
+#EXTINF:-1 tvg-id="" tvg-name="LA Muscle TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9f2a2ab797290fc714521b0ecfef25c8.png" group-title="",LA Muscle TV
+http://kuchini.site:8080/xusm/4bf044ec60/166022
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="LFC TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="",LFC TV
+http://kuchini.site:8080/xusm/4bf044ec60/4721
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/79c38d5451dd2c7913db57d2c9a49909.png" group-title="",Lifetime
+http://kuchini.site:8080/xusm/4bf044ec60/297104
+#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b9b0b402c2f91e70573dabee46aa57.png" group-title="",Lolly Kids
+http://kuchini.site:8080/xusm/4bf044ec60/265254
+#EXTINF:-1 tvg-id="" tvg-name="London Live" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/633eb7e9350a03f21bf9d883a68e36c5.png" group-title="",London Live
+http://kuchini.site:8080/xusm/4bf044ec60/286912
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0989189834b0d6e35dbf7f27f696cf84.png" group-title="",Love Nature
+http://kuchini.site:8080/xusm/4bf044ec60/78665
+#EXTINF:-1 tvg-id="" tvg-name="Magic TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/79d18cb68fdb4cbe950040cf7d443f46.png" group-title="",Magic TV
+http://kuchini.site:8080/xusm/4bf044ec60/280282
+#EXTINF:-1 tvg-id="" tvg-name="More 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/28fe24ea211a80c36000175176a99fc4.png" group-title="",More 4
+http://kuchini.site:8080/xusm/4bf044ec60/280284
+#EXTINF:-1 tvg-id="" tvg-name="MotoRRacing" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c5315a189195023bf96bd76161880f5a.png" group-title="",MotoRRacing
+http://kuchini.site:8080/xusm/4bf044ec60/295426
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="MUTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="",MUTV
+http://kuchini.site:8080/xusm/4bf044ec60/1102
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="NAT GEO" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/525fe2486b5af4891ec9a91dd826290d.png" group-title="",NAT GEO
+http://kuchini.site:8080/xusm/4bf044ec60/1101
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="NAT GEO Wild" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f948b290a5db64efd6899586fb77810b.png" group-title="",NAT GEO Wild
+http://kuchini.site:8080/xusm/4bf044ec60/724
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="Nick Junior" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/282cf1ec1c6d0a176440c15caa844e60.png" group-title="",Nick Junior
+http://kuchini.site:8080/xusm/4bf044ec60/1098
+#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" group-title="",nickelodeon
+http://kuchini.site:8080/xusm/4bf044ec60/281864
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="nicktoons" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/725a1c58e36efa9a43bacf845b757d9c.png" group-title="",nicktoons
+http://kuchini.site:8080/xusm/4bf044ec60/740
+#EXTINF:-1 tvg-id="channelaka.uk" tvg-name="Now 70s" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a7d0a511226fce3ea3842a91056762d9.png" group-title="",Now 70s
+http://kuchini.site:8080/xusm/4bf044ec60/65074
+#EXTINF:-1 tvg-id="mtvrocks.uk" tvg-name="Now 80s" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7330c92fcbc8b452e64e160cf048cc21.png" group-title="",Now 80s
+http://kuchini.site:8080/xusm/4bf044ec60/4738
+#EXTINF:-1 tvg-id="Paramount.uk" tvg-name="Paramount Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6d6547ba5fa4052f8e1982bf76ca1459.png" group-title="",Paramount Network
+http://kuchini.site:8080/xusm/4bf044ec60/4637
+#EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/79b7fd50e6565f6f08ab8e75e74dd347.png" group-title="",PBS America
+http://kuchini.site:8080/xusm/4bf044ec60/296601
+#EXTINF:-1 tvg-id="" tvg-name="Pick" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ce6b75f4449f75e43a733c05820c997.png" group-title="",Pick
+http://kuchini.site:8080/xusm/4bf044ec60/1578
+#EXTINF:-1 tvg-id="" tvg-name="Pop" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/933ce6167d33958dc29a02179a4b382b.jpg" group-title="",Pop
+http://kuchini.site:8080/xusm/4bf044ec60/1599
+#EXTINF:-1 tvg-id="" tvg-name="Pop +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9905dea05c5bc94d21789c4c31fc54c9.png" group-title="",Pop +1
+http://kuchini.site:8080/xusm/4bf044ec60/165932
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="Pop Max" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/577986769451a77f9b92cf2150ca0bfd.png" group-title="",Pop Max
+http://kuchini.site:8080/xusm/4bf044ec60/1598
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="Premier Sports 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="",Premier Sports 1
+http://kuchini.site:8080/xusm/4bf044ec60/1097
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="",Premier Sports 2
+http://kuchini.site:8080/xusm/4bf044ec60/4723
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="Quest" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aadc2dc16caad7c0e3f2d7a0fc36082.png" group-title="",Quest
+http://kuchini.site:8080/xusm/4bf044ec60/1096
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="Quest Red" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baa9b304a67a98daed1153076ad845cb.png" group-title="",Quest Red
+http://kuchini.site:8080/xusm/4bf044ec60/1577
+#EXTINF:-1 tvg-id="" tvg-name="Quest Red +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4f25cad29f90794049b686ae56df337.png" group-title="",Quest Red +1
+http://kuchini.site:8080/xusm/4bf044ec60/201131
+#EXTINF:-1 tvg-id="" tvg-name="QVC Beauty" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14e81630627894f20fcdf9c8e1005d62.png" group-title="",QVC Beauty
+http://kuchini.site:8080/xusm/4bf044ec60/48644
+#EXTINF:-1 tvg-id="" tvg-name="QVC UK +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/57a6c69d624f3354b838a37585261ca8.png" group-title="",QVC UK +1
+http://kuchini.site:8080/xusm/4bf044ec60/294543
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="RACING TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bfd35bd3d4c2f735e85a6ca1ad12ab5.png" group-title="",RACING TV
+http://kuchini.site:8080/xusm/4bf044ec60/731
+#EXTINF:-1 tvg-id="reallives.uk" tvg-name="Really" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb2719d77f7a4ee4483f140e5a38b8f2.png" group-title="",Really
+http://kuchini.site:8080/xusm/4bf044ec60/742
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0d817f0109f2d3b50c6c3aa54898b014.png" group-title="",RedBull TV
+http://kuchini.site:8080/xusm/4bf044ec60/85429
+#EXTINF:-1 tvg-id="" tvg-name="Revelation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7b134ceb8047f8f7d140ebebf60ea27d.png" group-title="",Revelation
+http://kuchini.site:8080/xusm/4bf044ec60/157285
+#EXTINF:-1 tvg-id="rt.uk" tvg-name="RT News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e696152cc488e733349c8c5e70d94e2.png" group-title="",RT News
+http://kuchini.site:8080/xusm/4bf044ec60/48883
+#EXTINF:-1 tvg-id="" tvg-name="S4C" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c9bc99ebec513ffa2966f2b5e0ca9f4.png" group-title="",S4C
+http://kuchini.site:8080/xusm/4bf044ec60/4775
+#EXTINF:-1 tvg-id="" tvg-name="Safeer TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/74e684b76a84394087254910b9776117.jpg" group-title="",Safeer TV
+http://kuchini.site:8080/xusm/4bf044ec60/267720
+#EXTINF:-1 tvg-id="" tvg-name="Sewing Street" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/28a1ac7e6fe0b42a4b8db2b2ab410813.jpg" group-title="",Sewing Street
+http://kuchini.site:8080/xusm/4bf044ec60/296397
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arts" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e41f551b8f8642a7a3c0c439b8b4e880.png" group-title="",Sky Arts
+http://kuchini.site:8080/xusm/4bf044ec60/1094
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ea3a16e80ddd47e86d06303f8ff66020.png" group-title="",Sky Atlantic
+http://kuchini.site:8080/xusm/4bf044ec60/1093
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Cinema Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21877e8c4862b4484909790e64710db8.png" group-title="",Sky Cinema Action
+http://kuchini.site:8080/xusm/4bf044ec60/1092
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Animation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/dfd6c4c8fdd948a565e708da11dab221.png" group-title="",Sky Cinema Animation
+http://kuchini.site:8080/xusm/4bf044ec60/1090
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce99abde68cf1f748161e957ca140e47.png" group-title="",Sky Cinema Drama
+http://kuchini.site:8080/xusm/4bf044ec60/1089
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9655820c8d0b584d8ff4178881022860.png" group-title="",Sky Cinema Family
+http://kuchini.site:8080/xusm/4bf044ec60/727
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/984ca23ee3df2acd84b16320d6e878b0.png" group-title="",Sky Cinema Greats
+http://kuchini.site:8080/xusm/4bf044ec60/1087
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d5825492e041478c8cad7c4303964212.png" group-title="",Sky Cinema Hits
+http://kuchini.site:8080/xusm/4bf044ec60/1086
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premiere" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png" group-title="",Sky Cinema Premiere
+http://kuchini.site:8080/xusm/4bf044ec60/1085
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema sci-fi Horror" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/71d59bc373401d25495a3af67e4c7168.png" group-title="",Sky Cinema sci-fi Horror
+http://kuchini.site:8080/xusm/4bf044ec60/725
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4d97ef6c2a49a3c596ca3a87c90751c0.png" group-title="",Sky Cinema Select
+http://kuchini.site:8080/xusm/4bf044ec60/726
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/38c736e28e49e5ce222190667af6c8b7.png" group-title="",Sky Cinema Thriller
+http://kuchini.site:8080/xusm/4bf044ec60/1082
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f741f51e98e04e37bc78106cae981afc.png" group-title="",Sky Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/1091
+#EXTINF:-1 tvg-id="" tvg-name="Sky Crime" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c454832c7f1a24ea0394a85d880bcc0b.jpg" group-title="",Sky Crime
+http://kuchini.site:8080/xusm/4bf044ec60/15155
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6998cb52fd64b65c0f4efbb2d4cf6a62.png" group-title="",Sky Documentaries
+http://kuchini.site:8080/xusm/4bf044ec60/187346
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54b242215ebf5c890cfdc03b82aece0c.png" group-title="",Sky News
+http://kuchini.site:8080/xusm/4bf044ec60/1081
+#EXTINF:-1 tvg-id="" tvg-name="Sky One" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/59d97222b7d71d90758196d27c9dc2ca.jpg" group-title="",Sky One
+http://kuchini.site:8080/xusm/4bf044ec60/1080
+#EXTINF:-1 tvg-id="" tvg-name="Sky Showcase" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f4b5e2265a16d082987dc9d5aada57dc.png" group-title="",Sky Showcase
+http://kuchini.site:8080/xusm/4bf044ec60/17041
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="",Sky Sports Arena
+http://kuchini.site:8080/xusm/4bf044ec60/267
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="",Sky Sports Cricket
+http://kuchini.site:8080/xusm/4bf044ec60/269
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="",Sky Sports F1
+http://kuchini.site:8080/xusm/4bf044ec60/265
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="",Sky Sports Football
+http://kuchini.site:8080/xusm/4bf044ec60/266
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="",Sky Sports Golf
+http://kuchini.site:8080/xusm/4bf044ec60/264
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="",Sky Sports Main Event
+http://kuchini.site:8080/xusm/4bf044ec60/283053
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="",Sky Sports Mix
+http://kuchini.site:8080/xusm/4bf044ec60/261
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="",Sky Sports News
+http://kuchini.site:8080/xusm/4bf044ec60/260
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports NFL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",Sky Sports NFL
+http://kuchini.site:8080/xusm/4bf044ec60/281849
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="",Sky Sports Premier League
+http://kuchini.site:8080/xusm/4bf044ec60/263
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="",Sky Sports Racing
+http://kuchini.site:8080/xusm/4bf044ec60/163132
+#EXTINF:-1 tvg-id="" tvg-name="Sky Witness" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e6e70a727cd2f9105a1135d68679ce7f.png" group-title="",Sky Witness
+http://kuchini.site:8080/xusm/4bf044ec60/11738
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/38aec864bb252f0bc0f5f40c05a461eb.png" group-title="",Smithsonian Channel
+http://kuchini.site:8080/xusm/4bf044ec60/266984
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e0c17a5b9351f65e4f8299094a86f348.png" group-title="",Spotlight TV
+http://kuchini.site:8080/xusm/4bf044ec60/157288
+#EXTINF:-1 tvg-id="" tvg-name="STV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/50a6c5b817dad268c02054f96f013976.jpg" group-title="",STV
+http://kuchini.site:8080/xusm/4bf044ec60/192776
+#EXTINF:-1 tvg-id="" tvg-name="Super JoJo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/fdbfd5be8c0f9a02f5744e0305d02a4e.jpeg" group-title="",Super JoJo
+http://kuchini.site:8080/xusm/4bf044ec60/296499
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="SYFY" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7efa6e7db54932ddfe956aac206341dc.png" group-title="",SYFY
+http://kuchini.site:8080/xusm/4bf044ec60/1068
+#EXTINF:-1 tvg-id="" tvg-name="TBN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/f625e6e704d2bad58dd2d7b49c4c6d6b.jpg" group-title="",TBN
+http://kuchini.site:8080/xusm/4bf044ec60/157286
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="TCM Movies" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a93620b6722c8366ea51c850e7b2f85b.png" group-title="",TCM Movies
+http://kuchini.site:8080/xusm/4bf044ec60/4711
+#EXTINF:-1 tvg-id="" tvg-name="Thane" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd36cef082db51dca25e1dce6b20f15f.png" group-title="",Thane
+http://kuchini.site:8080/xusm/4bf044ec60/11469
+#EXTINF:-1 tvg-id="" tvg-name="The Box" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c1f338c229e7693f6361883c5a28e701.png" group-title="",The Box
+http://kuchini.site:8080/xusm/4bf044ec60/4740
+#EXTINF:-1 tvg-id="" tvg-name="The Craft Store" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/15be55dbd0b6c83cdf7146ffabd6ed87.jpg" group-title="",The Craft Store
+http://kuchini.site:8080/xusm/4bf044ec60/157284
+#EXTINF:-1 tvg-id="" tvg-name="Tiny Pop" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b5494083b00b7df904e0fdda6fbed046.jpg" group-title="",Tiny Pop
+http://kuchini.site:8080/xusm/4bf044ec60/264542
+#EXTINF:-1 tvg-id="" tvg-name="TJC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9fabce6ca015fbcd071f3b00281e3103.png" group-title="",TJC
+http://kuchini.site:8080/xusm/4bf044ec60/269049
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1b3c30f8d84cf2f0b9ee05c76990542a.png" group-title="",TLC
+http://kuchini.site:8080/xusm/4bf044ec60/1067
+#EXTINF:-1 tvg-id="" tvg-name="Together TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/91557739f01cde4624a623efaae7a8cc.png" group-title="",Together TV
+http://kuchini.site:8080/xusm/4bf044ec60/157281
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Hits" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/1a83e499838be3091cba2a2e7e85add5.png" group-title="",TRACE Hits
+http://kuchini.site:8080/xusm/4bf044ec60/296602
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Vault" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e2b82f003bdba04f47a4679e6321b936.png" group-title="",TRACE Vault
+http://kuchini.site:8080/xusm/4bf044ec60/296603
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/d60b85bff35709ba4027badeadc920b9.jpg" group-title="",Travel Channel
+http://kuchini.site:8080/xusm/4bf044ec60/295133
+#EXTINF:-1 tvg-id="" tvg-name="Travelxp" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e894e4c072eeb36e62f7e684cf53fd6f.png" group-title="",Travelxp
+http://kuchini.site:8080/xusm/4bf044ec60/157273
+#EXTINF:-1 tvg-id="" tvg-name="TV Warehouse" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/06a3a2502697ea74d7825dc41999c6a7.png" group-title="",TV Warehouse
+http://kuchini.site:8080/xusm/4bf044ec60/286772
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/19a7a658b3e390fc956bb56882d408cc.png" group-title="",Universal TV
+http://kuchini.site:8080/xusm/4bf044ec60/278519
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7102d7cadec9ec4a7bd4221510f86dab.png" group-title="",Viasat Explore
+http://kuchini.site:8080/xusm/4bf044ec60/187632
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/daf22d16c512c4fcb8da38f8a0fb8a26.png" group-title="",Viasat History
+http://kuchini.site:8080/xusm/4bf044ec60/16398
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e3cc00ffe850e5f29097022a46525c2.png" group-title="",Viasat Nature
+http://kuchini.site:8080/xusm/4bf044ec60/65910
+#EXTINF:-1 tvg-id="" tvg-name="Watch" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",Watch
+http://kuchini.site:8080/xusm/4bf044ec60/280287
+#EXTINF:-1 tvg-id="" tvg-name="WION" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/120a2d4bfb0734329085097ef5b2fa86.png" group-title="",WION
+http://kuchini.site:8080/xusm/4bf044ec60/296469
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="Yesterday" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2709319fbbdc11c09f807891bd965720.png" group-title="",Yesterday
+http://kuchini.site:8080/xusm/4bf044ec60/1065
+#EXTINF:-1 tvg-id="" tvg-name="Yesterday +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",Yesterday +1
+http://kuchini.site:8080/xusm/4bf044ec60/296270
