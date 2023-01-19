@@ -3,33 +3,33 @@
 http://kuchini.site:8080/xusm/4bf044ec60/2386
 #EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="Deutschland",ZDF
 http://kuchini.site:8080/xusm/4bf044ec60/409
-#EXTINF:-1 tvg-id="SWR Fernsehen" tvg-name="SWR Fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba34a2aaffa62156c0d73b894b8818d4.png" group-title="Deutschland",SWR Fernsehen
+#EXTINF:-1 tvg-id="SWRFernsehen.de" tvg-name="SWR Baden-Württemberg HD " tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba34a2aaffa62156c0d73b894b8818d4.png" group-title="Deutschland",SWR Fernsehen
 http://kuchini.site:8080/xusm/4bf044ec60/7513
-#EXTINF:-1 tvg-id="HR Fernsehen" tvg-name="HR Fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9aad7dac2855ae7135f7c0826a85926e.png" group-title="Deutschland",HR Fernsehen
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9aad7dac2855ae7135f7c0826a85926e.png" group-title="Deutschland",HR Fernsehen
 http://kuchini.site:8080/xusm/4bf044ec60/8187
-#EXTINF:-1 tvg-id="Bayerisches Fernsehen Sud" tvg-name="Bayerisches Fernsehen Sud" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15feedcda919528e07739ab74b6eb039.png" group-title="Deutschland",Bayerisches Fernsehen Sud
+#EXTINF:-1 tvg-id="BRFernsehen.de" tvg-name="BR Fernsehen Süd HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15feedcda919528e07739ab74b6eb039.png" group-title="Deutschland",Bayerisches Fernsehen Sud
 http://kuchini.site:8080/xusm/4bf044ec60/163105
-#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c5e59621054cf39b4bf3abc24a4dcba.png" group-title="Deutschland",WDR
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c5e59621054cf39b4bf3abc24a4dcba.png" group-title="Deutschland",WDR
 http://kuchini.site:8080/xusm/4bf044ec60/1653
-#EXTINF:-1 tvg-id="NDR Fernsehen" tvg-name="NDR Fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fa0db176f779f3a3b7ba0c56f11c03b4.png" group-title="Deutschland",NDR Fernsehen
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Hamburg HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fa0db176f779f3a3b7ba0c56f11c03b4.png" group-title="Deutschland",NDR Fernsehen
 http://kuchini.site:8080/xusm/4bf044ec60/2113
-#EXTINF:-1 tvg-id="MDR Fernsehen Sachsen Anhalt" tvg-name="MDR Fernsehen Sachsen Anhalt" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74bae818b7cdbf006e08a2c6eab2f92c.png" group-title="Deutschland",MDR Fernsehen Sachsen Anhalt
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="MDR Sachsen-Anhalt HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74bae818b7cdbf006e08a2c6eab2f92c.png" group-title="Deutschland",MDR Fernsehen Sachsen Anhalt
 http://kuchini.site:8080/xusm/4bf044ec60/3483
-#EXTINF:-1 tvg-id="RBB" tvg-name="RBB" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b489b735c4231806e6f42f7a008e835.png" group-title="Deutschland",RBB
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb Berlin HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b489b735c4231806e6f42f7a008e835.png" group-title="Deutschland",RBB
 http://kuchini.site:8080/xusm/4bf044ec60/41991
-#EXTINF:-1 tvg-id="ZDF Neo" tvg-name="ZDF Neo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" group-title="Deutschland",ZDF Neo
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" group-title="Deutschland",ZDF Neo
 http://kuchini.site:8080/xusm/4bf044ec60/2070
-#EXTINF:-1 tvg-id="ZDF Info" tvg-name="ZDF Info" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" group-title="Doku",ZDF Info
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" group-title="Doku",ZDF Info
 http://kuchini.site:8080/xusm/4bf044ec60/2069
-#EXTINF:-1 tvg-id="ARD Alpha" tvg-name="ARD Alpha" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/832d4632ab0874f179f9225429e22632.png" group-title="Deutschland",ARD Alpha
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/832d4632ab0874f179f9225429e22632.png" group-title="Deutschland",ARD Alpha
 http://kuchini.site:8080/xusm/4bf044ec60/34799
-#EXTINF:-1 tvg-id=" One" tvg-name=" One" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/782742c89628cf8493c764af96923a2b.png" group-title="Deutschland", One
+#EXTINF:-1 tvg-id="One.de" tvg-name="one HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/782742c89628cf8493c764af96923a2b.png" group-title="Deutschland", One
 http://kuchini.site:8080/xusm/4bf044ec60/5185
-#EXTINF:-1 tvg-id="Phoenix" tvg-name="Phoenix" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/faef0a0c15cee4c37aa04e7f5f50f3da.png" group-title="Deutschland",Phoenix
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/faef0a0c15cee4c37aa04e7f5f50f3da.png" group-title="Deutschland",Phoenix
 http://kuchini.site:8080/xusm/4bf044ec60/1663
-#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/60f4478d63bf2836cd6be065e60c6ab4.png" group-title="Deutschland",3sat
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/60f4478d63bf2836cd6be065e60c6ab4.png" group-title="Deutschland",3sat
 http://kuchini.site:8080/xusm/4bf044ec60/892
-#EXTINF:-1 tvg-id="Arte" tvg-name="Arte" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5a688cd1f8d9c6aaee8cd4bbd094497.png" group-title="Deutschland",Arte
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5a688cd1f8d9c6aaee8cd4bbd094497.png" group-title="Deutschland",Arte
 http://kuchini.site:8080/xusm/4bf044ec60/893
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2cd6be90d74ccd553c63a50c905da05.png" group-title="Deutschland",RTL
 http://kuchini.site:8080/xusm/4bf044ec60/890
