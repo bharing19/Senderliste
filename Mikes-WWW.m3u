@@ -96,7 +96,7 @@ http://kuchini.site:8080/xusm/4bf044ec60/2145
 #EXTINF:-1 tvg-id="Fix & Foxi" tvg-name="Fix & Foxi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d771b7e49e7c4766b92c3fbb101cfc3f.png" group-title="",Fix & Foxi
 http://kuchini.site:8080/xusm/4bf044ec60/173515
 #EXTINF:-1 tvg-id="KIKA" tvg-name="KIKA" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2d870d60c7b8dc656ad0b44fe90e9de.png" group-title="",KIKA
-http://kuchini.site:8080/xusm/4bf044ec60/2101
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="Doku",Discovery Channel
 http://kuchini.site:8080/xusm/4bf044ec60/410
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12130227dd9613bf9b7854425506d572.png" group-title="Doku",History
@@ -142,7 +142,7 @@ http://kuchini.site:8080/xusm/4bf044ec60/286568
 #EXTINF:-1 tvg-id="Kultur MD" tvg-name="Kultur MD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="Doku",Kultur MD
 http://kuchini.site:8080/xusm/4bf044ec60/173538
 #EXTINF:-1 tvg-id="Tagesschau24" tvg-name="Tagesschau24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04fd1f475a08d228ab281a7010988ec0.png" group-title="",Tagesschau 24
-http://kuchini.site:8080/xusm/4bf044ec60/1656
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="n-tv" tvg-name="n-tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="",n-tv
 http://kuchini.site:8080/xusm/4bf044ec60/2080
 #EXTINF:-1 tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0bfde547a8bd903c5751e2fe274b4315.png" group-title="",DW Deutsch
