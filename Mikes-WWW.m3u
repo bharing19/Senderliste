@@ -1,0 +1,1599 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7f9cd2b80306c2a2078c41e06f7c7b9.png" group-title="",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR_Fernsehen_BW" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba34a2aaffa62156c0d73b894b8818d4.png" group-title="",SWR Fernsehen
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9aad7dac2855ae7135f7c0826a85926e.png" group-title="",HR Fernsehen
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR_Fernsehen_Süd" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15feedcda919528e07739ab74b6eb039.png" group-title="",Bayerisches Fernsehen Sud
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR_Fernsehen_Köln" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c5e59621054cf39b4bf3abc24a4dcba.png" group-title="",WDR
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Fernsehen Niedersachsen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fa0db176f779f3a3b7ba0c56f11c03b4.png" group-title="",NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="MDR-Sachsent.de" tvg-name="MDR-Fernsehen Sachsen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74bae818b7cdbf006e08a2c6eab2f92c.png" group-title="",MDR Fernsehen Sachsen Anhalt
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb_fernsehen_Berlin" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b489b735c4231806e6f42f7a008e835.png" group-title="",RBB
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" group-title="",ZDF Neo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" group-title="",ZDF Info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/832d4632ab0874f179f9225429e22632.png" group-title="",ARD Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="ONE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/782742c89628cf8493c764af96923a2b.png" group-title="",One
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/faef0a0c15cee4c37aa04e7f5f50f3da.png" group-title="",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/60f4478d63bf2836cd6be065e60c6ab4.png" group-title="",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5a688cd1f8d9c6aaee8cd4bbd094497.png" group-title="",Arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2cd6be90d74ccd553c63a50c905da05.png" group-title="",RTL
+http://kuchini.site:8080/xusm/4bf044ec60/890
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTLZWEI" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/83f3e54518c9d0c9aa8c5fab3a8219d3.png" group-title="",RTL Zwei
+http://kuchini.site:8080/xusm/4bf044ec60/888
+#EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/dc75cc60e4f9f5903be6b3293f223563.png" group-title="",Super RTL
+http://kuchini.site:8080/xusm/4bf044ec60/896
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTLup" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/11271a82de80026e96e845af038a4abc.png" group-title="",RTL Up
+http://kuchini.site:8080/xusm/4bf044ec60/4402
+#EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4974498cb30245ed948c12af1ef3cb84.png" group-title="",Nitro
+http://kuchini.site:8080/xusm/4bf044ec60/2104
+#EXTINF:-1 tvg-id="RTL Crime.de" tvg-name="RTL Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/97fe89015819d8299061887b2eb1b835.png" group-title="PayTV",RTL Crime
+http://kuchini.site:8080/xusm/4bf044ec60/2103
+#EXTINF:-1 tvg-id="RTL Living Germany.de" tvg-name="RTL Living Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7ab0d247e8eacd5a236cd80a3dabdd.png" group-title="PayTV",RTL Living
+http://kuchini.site:8080/xusm/4bf044ec60/3477
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/36102300778e635e47c8034032095e33.png" group-title="PayTV",RTL Passion
+http://kuchini.site:8080/xusm/4bf044ec60/2411
+#EXTINF:-1 tvg-id="Sat.1.de" tvg-name="Sat.1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9794d8ef1bce7dfc71b8a45b059ab188.png" group-title="",Sat 1
+http://kuchini.site:8080/xusm/4bf044ec60/2107
+#EXTINF:-1 tvg-id="Sat.1 GOLD" tvg-name="Sat.1 GOLD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/246f726393b36fadedb1635065407cf7.png" group-title="",Sat 1 Gold
+http://kuchini.site:8080/xusm/4bf044ec60/2412
+#EXTINF:-1 tvg-id="Sat.1 emotions" tvg-name="Sat.1 emotions" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/29e64bc3eebf9ccb13b62e7d2575150c.png" group-title="PayTV",Sat 1 Emotions
+http://kuchini.site:8080/xusm/4bf044ec60/2121
+#EXTINF:-1 tvg-id="Kabel Eins" tvg-name="Kabel Eins" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3a2730109253be2a219341467adb18d9.png" group-title="",Kabel Eins
+http://kuchini.site:8080/xusm/4bf044ec60/891
+#EXTINF:-1 tvg-id="Kabel Eins Classics" tvg-name="Kabel Eins Classics" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ccca2dd72cd94ced168e92d166edee9f.png" group-title="",Kabel Eins Classics
+http://kuchini.site:8080/xusm/4bf044ec60/10026
+#EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Doku",Kabel Eins Doku
+http://kuchini.site:8080/xusm/4bf044ec60/290259
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/45f2fffd906cdd883f2ad72166311fcc.png" group-title="",ProSieben
+http://kuchini.site:8080/xusm/4bf044ec60/887
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="ProSieben Maxx" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c16f1abb00d20c7fa731d7a814006137.png" group-title="",ProSieben Maxx
+http://kuchini.site:8080/xusm/4bf044ec60/2077
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12c0a389de73b05920488417e550d910.png" group-title="PayTV",ProSieben Fun
+http://kuchini.site:8080/xusm/4bf044ec60/2079
+#EXTINF:-1 tvg-id="Vox" tvg-name="Vox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dde6dacf731b8089130c2a42271032c.png" group-title="",Vox
+http://kuchini.site:8080/xusm/4bf044ec60/894
+#EXTINF:-1 tvg-id="VOXup" tvg-name="VOXup" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6d7d07a50194844f82114daa8c35c910.png" group-title="",VOXup
+http://kuchini.site:8080/xusm/4bf044ec60/151889
+#EXTINF:-1 tvg-id="Sixx" tvg-name="Sixx" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7408cc7876c2cd42a1ba581d850110cd.png" group-title="",Sixx
+http://kuchini.site:8080/xusm/4bf044ec60/2072
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a670430d841b5b6c22f9614eb30ec705.png" group-title="",Tele 5
+http://kuchini.site:8080/xusm/4bf044ec60/2439
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/234d55ac82eafc838dc49835335c82a7.jfif" group-title="",TLC
+http://kuchini.site:8080/xusm/4bf044ec60/2108
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8a5d7198419e91a163c9bfa9bfca1bb.png" group-title="",Comedy Central
+http://kuchini.site:8080/xusm/4bf044ec60/1670
+#EXTINF:-1 tvg-id="Servus TV" tvg-name="Servus TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8f8047b5124841d96727070e48b31f75.png" group-title="",Servus TV
+http://kuchini.site:8080/xusm/4bf044ec60/2073
+#EXTINF:-1 tvg-id="ANIXE HD Serie" tvg-name="ANIXE HD Serie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/47d19b959615b07d23081850bfdb740b.png" group-title="",ANIXE Serie
+http://kuchini.site:8080/xusm/4bf044ec60/296372
+#EXTINF:-1 tvg-id="ANIXE+" tvg-name="ANIXE+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6b57164b9bb2a5769224e17207369.png" group-title="",ANIXE+
+http://kuchini.site:8080/xusm/4bf044ec60/5987
+#EXTINF:-1 tvg-id="123 TV" tvg-name="1-2-3.tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6da40cfe3bc1e39bb923f22f83a49933.png" group-title="",1-2-3.tv
+http://kuchini.site:8080/xusm/4bf044ec60/18446
+#EXTINF:-1 tvg-id="Channel 21" tvg-name="Channel 21" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7dd2c0333090916310e00f35b4cc71ec.png" group-title="",Channel 21
+http://kuchini.site:8080/xusm/4bf044ec60/70117
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5af65e344f7b824fbda309c3606aa1a.png" group-title="",Disney Channel
+http://kuchini.site:8080/xusm/4bf044ec60/2085
+#EXTINF:-1 tvg-id="Cartoon Network Germany" tvg-name="Cartoon Network Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/737c89acac29a375abc84fa6db9f7608.png" group-title="",Cartoon Network
+http://kuchini.site:8080/xusm/4bf044ec60/2089
+#EXTINF:-1 tvg-id="Boomerang Germany" tvg-name="Boomerang Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2c92e41c4aaadb4da7a957299bcdd68.png" group-title="",Boomerang
+http://kuchini.site:8080/xusm/4bf044ec60/411
+#EXTINF:-1 tvg-id="Tom Jerry" tvg-name="Tom Jerry" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ecb5f8c5bd3612b57be4ae9fdda60f39.png" group-title="",Tom Jerry
+http://kuchini.site:8080/xusm/4bf044ec60/63343
+#EXTINF:-1 tvg-id="Toggo Plus" tvg-name="Toggo Plus" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0785762339b57511bc7729cb2db4d031.png" group-title="",Toggo Plus
+http://kuchini.site:8080/xusm/4bf044ec60/2145
+#EXTINF:-1 tvg-id="Fix & Foxi" tvg-name="Fix & Foxi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d771b7e49e7c4766b92c3fbb101cfc3f.png" group-title="",Fix & Foxi
+http://kuchini.site:8080/xusm/4bf044ec60/173515
+#EXTINF:-1 tvg-id="KIKA" tvg-name="KIKA" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2d870d60c7b8dc656ad0b44fe90e9de.png" group-title="",KIKA
+http://kuchini.site:8080/xusm/4bf044ec60/2101
+#EXTINF:-1 tvg-id="Junior" tvg-name="Junior" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f4edd73fc935b919e8ed8bc9f2be726d.png" group-title="",Junior
+http://kuchini.site:8080/xusm/4bf044ec60/12314
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="Doku",Discovery Channel
+http://kuchini.site:8080/xusm/4bf044ec60/410
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12130227dd9613bf9b7854425506d572.png" group-title="Doku",History
+http://kuchini.site:8080/xusm/4bf044ec60/413
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="Doku",National Geographic
+http://kuchini.site:8080/xusm/4bf044ec60/2095
+#EXTINF:-1 tvg-id="National Geographic Wild Germany" tvg-name="National Geographic Wild Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="Doku",NAT GEO Wild
+http://kuchini.site:8080/xusm/4bf044ec60/1666
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="Doku",ANIMAL PLANET
+http://kuchini.site:8080/xusm/4bf044ec60/14370
+#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/784f890f04a5d004128b527fb3b66f09.png" group-title="Doku",Spiegel Geschichte
+http://kuchini.site:8080/xusm/4bf044ec60/1657
+#EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99327f657d95212ff8ca347f73f7eab0.png" group-title="Doku",Spiegel TV Wissen
+http://kuchini.site:8080/xusm/4bf044ec60/3506
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="GEO Television" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a970020b74eb6222254ec1b380e8f69f.png" group-title="Doku",Geo TV
+http://kuchini.site:8080/xusm/4bf044ec60/266963
+#EXTINF:-1 tvg-id="Sky Nature Germany" tvg-name="Sky Nature Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="Doku",Sky Nature
+http://kuchini.site:8080/xusm/4bf044ec60/291079
+#EXTINF:-1 tvg-id="Sky Dokumentaries Germany" tvg-name="Sky Dokumentaries Germany" tvg-shift="" radio="" tvg-logo="https://www.sky.de/static/img/entertainment/sky_21-07_sky-documenatries.jpg" group-title="Doku",Sky Dokumentaries
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/194735
+#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime + Investigation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1e6d7e1968524d60a190f8d44a2df9dc.png" group-title="Doku",Crime + Investigation
+http://kuchini.site:8080/xusm/4bf044ec60/5181
+#EXTINF:-1 tvg-id="bergblick" tvg-name="bergblick" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c23bf82567280b3cbfa3f5d2a32dc5fd.png" group-title="Doku",bergblick
+http://kuchini.site:8080/xusm/4bf044ec60/281754
+#EXTINF:-1 tvg-id="Bild" tvg-name="Bild" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Doku",Bild TV
+http://kuchini.site:8080/xusm/4bf044ec60/290769
+#EXTINF:-1 tvg-id="Auto Motor und Sport" tvg-name="Auto Motor und Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0fb29d0c2f553038ade101ecd6eb4bf4.png" group-title="Doku",Auto Motor Sport
+http://kuchini.site:8080/xusm/4bf044ec60/296227
+#EXTINF:-1 tvg-id="Auto Motor und Sport" tvg-name="Auto Motor und Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/26c21b6834a1d642acc99d1a3c689bcc.png" group-title="Doku",Auto Motor und Sport
+http://kuchini.site:8080/xusm/4bf044ec60/2385
+#EXTINF:-1 tvg-id="Waidwerk" tvg-name="Waidwerk" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/90cd2dc98eb87632227707b562ef8220.png" group-title="Doku",Waidwerk
+http://kuchini.site:8080/xusm/4bf044ec60/193759
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="Doku",DMAX
+http://kuchini.site:8080/xusm/4bf044ec60/895
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5b96d08b092c4bb4d477822e94734b4.png" group-title="Doku",N24 Doku
+http://kuchini.site:8080/xusm/4bf044ec60/47558
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dc7be151c538427f9a7133a439c920ea.png" group-title="Doku",HGTV
+http://kuchini.site:8080/xusm/4bf044ec60/172308
+#EXTINF:-1 tvg-id="Bon Gusto" tvg-name="Bon Gusto" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3c97f2b1e0dfc980ecd9e928710ccdbe.png" group-title="Doku",Bon Gusto
+http://kuchini.site:8080/xusm/4bf044ec60/191957
+#EXTINF:-1 tvg-id="Paranormal" tvg-name="Paranormal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/414912419c2bc2af2d22da8876a3dfce.jpg" group-title="Doku",Paranormal
+http://kuchini.site:8080/xusm/4bf044ec60/286568
+#EXTINF:-1 tvg-id="Kultur MD" tvg-name="Kultur MD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="Doku",Kultur MD
+http://kuchini.site:8080/xusm/4bf044ec60/173538
+#EXTINF:-1 tvg-id="Tagesschau24" tvg-name="Tagesschau24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04fd1f475a08d228ab281a7010988ec0.png" group-title="",Tagesschau 24
+http://kuchini.site:8080/xusm/4bf044ec60/1656
+#EXTINF:-1 tvg-id="n-tv" tvg-name="n-tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="",n-tv
+http://kuchini.site:8080/xusm/4bf044ec60/2080
+#EXTINF:-1 tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0bfde547a8bd903c5751e2fe274b4315.png" group-title="",DW Deutsch
+http://kuchini.site:8080/xusm/4bf044ec60/10941
+#EXTINF:-1 tvg-id="Euronews D" tvg-name="Euronews D" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c97d4e4c207813498a3e32202ddf3162.png" group-title="",euronews
+http://kuchini.site:8080/xusm/4bf044ec60/4421
+#EXTINF:-1 tvg-id="folx.tv" tvg-name="folx.tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7161732f64ac753b4dfc4ec14cc68468.png" group-title="",FOLX
+http://kuchini.site:8080/xusm/4bf044ec60/168933
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4f07704f5ad2f88963e357271609b3d6.png" group-title="Musik",MTV
+http://kuchini.site:8080/xusm/4bf044ec60/3486
+#EXTINF:-1 tvg-id="Deluxe Music" tvg-name="Deluxe Music" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/69332ee91ef318918ed5c2b89390dd0a.png" group-title="Musik",Deluxe Music
+http://kuchini.site:8080/xusm/4bf044ec60/2111
+#EXTINF:-1 tvg-id="Deluxe Lounge" tvg-name="Deluxe Lounge" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b4940dd7806517b74abbec7cf338a8e1.png" group-title="Musik",Deluxe Lounge
+http://kuchini.site:8080/xusm/4bf044ec60/290381
+#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen" tvg-name="Deutsches Musik Fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4d4d33526eaf588a752d1021813efc8e.png" group-title="Musik",Deutsches Musik Fernsehen
+http://kuchini.site:8080/xusm/4bf044ec60/163081
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2bfee4ac81a297ec69afd0438758db1.png" group-title="Musik",Jukebox
+http://kuchini.site:8080/xusm/4bf044ec60/12613
+#EXTINF:-1 tvg-id="Rockland Radio TV" tvg-name="Rockland Radio TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e2ee1e067945307b74de18d79103d8d2.png" group-title="Musik",Rockland Radio TV
+http://kuchini.site:8080/xusm/4bf044ec60/286786
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="",DAZN 1
+http://kuchini.site:8080/xusm/4bf044ec60/48355
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6701b2c9af26d19ca02e675ec00c13d4.png" group-title="",DAZN 2
+http://kuchini.site:8080/xusm/4bf044ec60/2387
+#EXTINF:-1 tvg-id="Del Sport 1" tvg-name="Del Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/feb717638b65c33bdc47793d33d61d3a.jpg" group-title="",Del Sport 1
+http://kuchini.site:8080/xusm/4bf044ec60/8214
+#EXTINF:-1 tvg-id="Edge Sport" tvg-name="Edge Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/40da4317502840a4f3a4529ed977ae5c.png" group-title="",Edge Sport
+http://kuchini.site:8080/xusm/4bf044ec60/281610
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5cfaf6528fef14945280363aaf81efcf.png" group-title="",EUROSPORT 1
+http://kuchini.site:8080/xusm/4bf044ec60/412
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/44f9f80e44f84ce4533b0cbb3cb62fcd.png" group-title="",EUROSPORT 2
+http://kuchini.site:8080/xusm/4bf044ec60/2082
+#EXTINF:-1 tvg-id="KINO BOX 5" tvg-name="KINO BOX 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5655d2c5f3aeb8c69ed481031fe2d8f0.png" group-title="",KINO BOX 5
+http://kuchini.site:8080/xusm/4bf044ec60/283301
+#EXTINF:-1 tvg-id="Magenta Sport 1" tvg-name="Magenta Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="",Magenta Sport 1
+http://kuchini.site:8080/xusm/4bf044ec60/290686
+#EXTINF:-1 tvg-id="Magenta Sport 7" tvg-name="Magenta Sport 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ec41206bbca4096f5641efd7d9713071.png" group-title="",Magenta Sport 7
+http://kuchini.site:8080/xusm/4bf044ec60/281749
+#EXTINF:-1 tvg-id="Magenta Sport 9" tvg-name="Magenta Sport 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/aa7250fedd3afc9df02cda266c5d8c8c.png" group-title="",Magenta Sport 9
+http://kuchini.site:8080/xusm/4bf044ec60/290692
+#EXTINF:-1 tvg-id="Magenta Sport 11" tvg-name="Magenta Sport 11" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/202c3bcc061f913d01ccd5c9d3d3bf21.png" group-title="",Magenta Sport 11
+http://kuchini.site:8080/xusm/4bf044ec60/295567
+#EXTINF:-1 tvg-id="Magenta Sport 13" tvg-name="Magenta Sport 13" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/25e3856825db6f3557157a7ae66a1583.png" group-title="",Magenta Sport 13
+http://kuchini.site:8080/xusm/4bf044ec60/295569
+#EXTINF:-1 tvg-id="Max Select 1" tvg-name="Max Select 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2f9b979ea79a5be680a8aa0bbb060774.png" group-title="",Max Select 1
+http://kuchini.site:8080/xusm/4bf044ec60/67435
+#EXTINF:-1 tvg-id="Max Select 2" tvg-name="Max Select 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/36506aed88dc54dfc7e83d1b0b1147f0.png" group-title="",Max Select 2
+http://kuchini.site:8080/xusm/4bf044ec60/279250
+#EXTINF:-1 tvg-id="Max Select 4" tvg-name="Max Select 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dc1c71e932fab9e73ec81d793d77d4e8.png" group-title="",Max Select 4
+http://kuchini.site:8080/xusm/4bf044ec60/278609
+#EXTINF:-1 tvg-id="Max Select 5" tvg-name="Max Select 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5d11574625d6733bd115aac24a7d3a8a.png" group-title="",Max Select 5
+http://kuchini.site:8080/xusm/4bf044ec60/148176
+#EXTINF:-1 tvg-id="Max Select 6" tvg-name="Max Select 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b086d7e06ca5ec1114753b17f50f0492.png" group-title="",Max Select 6
+http://kuchini.site:8080/xusm/4bf044ec60/67437
+#EXTINF:-1 tvg-id="MDF 1" tvg-name="DE: MDF 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ace5383597c99cd32420d25810af5c3e.png" group-title="",MDF 1
+http://kuchini.site:8080/xusm/4bf044ec60/280352
+#EXTINF:-1 tvg-id="More Than Sports TV" tvg-name="More Than Sports TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0b4b64f52ab8747d60e59950c59c0b0e.png" group-title="",More Than Sports TV
+http://kuchini.site:8080/xusm/4bf044ec60/282268
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3f98e508f67551522d9913026f160399.png" group-title="",Motorvision TV
+http://kuchini.site:8080/xusm/4bf044ec60/4480
+#EXTINF:-1 tvg-id="RAN 1" tvg-name="RAN 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7ad765708ee01e8623e358b4e547e906.jpg" group-title="",RAN 1
+http://kuchini.site:8080/xusm/4bf044ec60/173527
+#EXTINF:-1 tvg-id="RNF" tvg-name="RNF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/74f90fa6bd5525c47562fd442b26f9b0.png" group-title="",RNF
+http://kuchini.site:8080/xusm/4bf044ec60/5010
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="Sky 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f914300db72dec0e38320710b1e58be7.png" group-title="SKY",Sky 1
+http://kuchini.site:8080/xusm/4bf044ec60/2115
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dd07a5c064d859bba8235e6bf76845a5.png" group-title="SKY",Sky Atlantic
+http://kuchini.site:8080/xusm/4bf044ec60/1661
+#EXTINF:-1 tvg-id="Sky Comedy Germany" tvg-name="Sky Comedy Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ae27548598be481113873a6d4da2032f.png" group-title="SKY",Sky Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/4461
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/93d402107f3ea78539cce8f071ebea3c.png" group-title="SKY",Sky Krimi
+http://kuchini.site:8080/xusm/4bf044ec60/2122
+#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3bfd5f515499f17d4606e560ed92d8bb.png" group-title="SKY",Sky Crime
+http://kuchini.site:8080/xusm/4bf044ec60/291078
+#EXTINF:-1 tvg-id="Sky Replay Germany" tvg-name="Sky Replay Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d793a3ec8b7877502be0c527fa7da4.png" group-title="SKY",Sky Replay
+http://kuchini.site:8080/xusm/4bf044ec60/407
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c0736e71decc27359ed907ccd077affb.png" group-title="SKY",Sky Cinema Action
+http://kuchini.site:8080/xusm/4bf044ec60/1659
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="Sky Cinema Best Of" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33bebe3398e7b19f19b96a36e0df1dbd.png" group-title="SKY",Sky Cinema Best Of
+http://kuchini.site:8080/xusm/4bf044ec60/2119
+#EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cf0b9eca25b310d3914dd1fa0196c7f4.png" group-title="SKY",Sky Cinema Classics
+http://kuchini.site:8080/xusm/4bf044ec60/91126
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d2b40c20cd42aee89dc3d9046c2fa329.png" group-title="SKY",Sky Cinema Prem
+http://kuchini.site:8080/xusm/4bf044ec60/2117
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="Sky Cinema Premieren +24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ae711c8f6f85772359e474455109c70f.png" group-title="SKY",Sky Cinema Prem+24
+http://kuchini.site:8080/xusm/4bf044ec60/2414
+#EXTINF:-1 tvg-id="Sky Cinema Family Germany" tvg-name="Sky Cinema Family Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d7a500d20f06dad1bdeb0bb6019f0972.png" group-title="SKY",Sky Cinema Family
+http://kuchini.site:8080/xusm/4bf044ec60/2118
+#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d4ab9d27925e657f7ea5811bf8c1ea6e.png" group-title="SKY",Sky Cinema Fun
+http://kuchini.site:8080/xusm/4bf044ec60/91120
+#EXTINF:-1 tvg-id="Sky Cinema Special" tvg-name="Sky Cinema Special" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7fbdda6752bbcb91ac1c9de323f8603d.png" group-title="SKY",Sky Cinema Special
+http://kuchini.site:8080/xusm/4bf044ec60/29070
+#EXTINF:-1 tvg-id="Sky Cinema Thriller Germany" tvg-name="Sky Cinema Thriller Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8e72e2ca6c934e71ac3ec9139a7550d8.png" group-title="SKY",Sky Cinema Thriller
+http://kuchini.site:8080/xusm/4bf044ec60/91116
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/684c9691eda27cf039529faea97ccfc7.png" group-title="Sport",Sport 1
+http://kuchini.site:8080/xusm/4bf044ec60/290571
+#EXTINF:-1 tvg-id="Sport 1+" tvg-name="Sport 1+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e596e3f7884740a7da86354ba7c965b9.png" group-title="Sport",Sport 1+
+http://kuchini.site:8080/xusm/4bf044ec60/2100
+#EXTINF:-1 tvg-id="Sportdigital Fussball" tvg-name="Sportdigital Fussball" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3902b1a334082146f28bbd26c2272a85.png" group-title="Sport",Sportdigital Fussball
+http://kuchini.site:8080/xusm/4bf044ec60/3509
+#EXTINF:-1 tvg-id="Sky Select 1" tvg-name="Sky Select 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/026f431bfb2990a1606d32eb25f8e569.jpg" group-title="SKY",Sky Select 1
+http://kuchini.site:8080/xusm/4bf044ec60/281693
+#EXTINF:-1 tvg-id="Sky Select 2" tvg-name="Sky Select 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SKY",Sky Select 2
+http://kuchini.site:8080/xusm/4bf044ec60/2139
+#EXTINF:-1 tvg-id="Sky Select 3" tvg-name="Sky Select 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SKY",Sky Select 3
+http://kuchini.site:8080/xusm/4bf044ec60/2419
+#EXTINF:-1 tvg-id="Sky Select 4" tvg-name="Sky Select 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SKY",Sky Select 4
+http://kuchini.site:8080/xusm/4bf044ec60/858
+#EXTINF:-1 tvg-id="Sky Select 5" tvg-name="Sky Select 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SKY",Sky Select 5
+http://kuchini.site:8080/xusm/4bf044ec60/279837
+#EXTINF:-1 tvg-id="Sky Select 6" tvg-name="Sky Select 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SKY",Sky Select 6
+http://kuchini.site:8080/xusm/4bf044ec60/281442
+#EXTINF:-1 tvg-id="Sky Select 7" tvg-name="Sky Select 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SKY",Sky Select 7
+http://kuchini.site:8080/xusm/4bf044ec60/263996
+#EXTINF:-1 tvg-id="Sky Select 9" tvg-name="Sky Select 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SKY",Sky Select 9
+http://kuchini.site:8080/xusm/4bf044ec60/2425
+#EXTINF:-1 tvg-id="Sky Sport 1 Germany" tvg-name="Sky Sport 1 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f12f66e0590ba09cdb4312c7512849d0.png" group-title="SKY",Sky Sport 1
+http://kuchini.site:8080/xusm/4bf044ec60/202100
+#EXTINF:-1 tvg-id="Sky Sport 2 Germany" tvg-name="Sky Sport 2 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/307d0602af9cdc138a2353d8d565641c.png" group-title="SKY",Sky Sport 2
+http://kuchini.site:8080/xusm/4bf044ec60/8215
+#EXTINF:-1 tvg-id="Sky Sport 3 Germany" tvg-name="Sky Sport 3 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9a130d66800619cfa11f847581c4bffd.png" group-title="SKY",Sky Sport 3
+http://kuchini.site:8080/xusm/4bf044ec60/72238
+#EXTINF:-1 tvg-id="Sky Sport 4 Germany" tvg-name="Sky Sport 4 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53419dd61d60da397ce1e27e595f182f.png" group-title="SKY",Sky Sport 4
+http://kuchini.site:8080/xusm/4bf044ec60/32708
+#EXTINF:-1 tvg-id="Sky Sport 5 Germany" tvg-name="Sky Sport 5 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dc1530132538daaba4c0b1eebb9496a.png" group-title="SKY",Sky Sport 5
+http://kuchini.site:8080/xusm/4bf044ec60/13497
+#EXTINF:-1 tvg-id="Sky Sport 6 Germany" tvg-name="Sky Sport 6 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/892d5cf9e4c70d2b8f04b5f018e81087.png" group-title="SKY",Sky Sport 6
+http://kuchini.site:8080/xusm/4bf044ec60/31445
+#EXTINF:-1 tvg-id="Sky Sport 7 Germany" tvg-name="Sky Sport 7 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9e73c2b075a96c9d4defa94146c2b0af.png" group-title="SKY",Sky Sport 7
+http://kuchini.site:8080/xusm/4bf044ec60/2133
+#EXTINF:-1 tvg-id="Sky Sport 8 Germany" tvg-name="Sky Sport 8 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cee921aeeee33ebdf358a846f72e1ccd.png" group-title="SKY",Sky Sport 8
+http://kuchini.site:8080/xusm/4bf044ec60/4489
+#EXTINF:-1 tvg-id="Sky Sport 9 Germany" tvg-name="Sky Sport 9 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d450d5930c05ad70194a972760ece466.png" group-title="SKY",Sky Sport 9
+http://kuchini.site:8080/xusm/4bf044ec60/147341
+#EXTINF:-1 tvg-id="Sky Sport 10 Germany" tvg-name="Sky Sport 10 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4aac20e5ec5f70c87c5c5b73eac32af0.png" group-title="SKY",Sky Sport 10
+http://kuchini.site:8080/xusm/4bf044ec60/147342
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="Sky Sport Bundesliga 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="SKY",Sky Sport Bundesliga 1
+http://kuchini.site:8080/xusm/4bf044ec60/2431
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2" tvg-name="Sky Sport Bundesliga 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/fb2eaf329b2b21db2465a65b6561f37a.png" group-title="SKY",Sky Sport Bundesliga 2
+http://kuchini.site:8080/xusm/4bf044ec60/4493
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3" tvg-name="Sky Sport Bundesliga 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7de132a1213bb481524dd15b684e0b3.png" group-title="SKY",Sky Sport Bundesliga 3
+http://kuchini.site:8080/xusm/4bf044ec60/2135
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4" tvg-name="Sky Sport Bundesliga 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c685e1115586d117d8bd52211fb175ec.png" group-title="SKY",Sky Sport Bundesliga 4
+http://kuchini.site:8080/xusm/4bf044ec60/3513
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5" tvg-name="Sky Sport Bundesliga 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ae1ff23f60068f326deb088d3751a607.png" group-title="SKY",Sky Sport Bundesliga 5
+http://kuchini.site:8080/xusm/4bf044ec60/2136
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6" tvg-name="Sky Sport Bundesliga 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b600abfaf8bbe572f199a04457b67a0a.png" group-title="SKY",Sky Sport Bundesliga 6
+http://kuchini.site:8080/xusm/4bf044ec60/12638
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7" tvg-name="Sky Sport Bundesliga 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/acbb2d746d6270db2b1f28711ecc3cb6.png" group-title="SKY",Sky Sport Bundesliga 7
+http://kuchini.site:8080/xusm/4bf044ec60/2433
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8" tvg-name="Sky Sport Bundesliga 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e32f4dbf139eeda0ca4bef4c31a303c.png" group-title="SKY",Sky Sport Bundesliga 8
+http://kuchini.site:8080/xusm/4bf044ec60/2434
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9" tvg-name="Sky Sport Bundesliga 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/210f77aa7e453d5335c8a4c6b341e4c9.png" group-title="SKY",Sky Sport Bundesliga 9
+http://kuchini.site:8080/xusm/4bf044ec60/10051
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10" tvg-name="Sky Sport Bundesliga 10" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db1d07a63257ba1ba7ff36c393016fd8.png" group-title="SKY",Sky Sport Bundesliga 10
+http://kuchini.site:8080/xusm/4bf044ec60/2432
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png" group-title="Sport",Sky Sport F1
+http://kuchini.site:8080/xusm/4bf044ec60/174563
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/273bc324c4c9c7d675c01d6b55aa82d6.png" group-title="Sport",Sky Sport News
+http://kuchini.site:8080/xusm/4bf044ec60/1658
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e278484e21302dccc0083bc4570e5d3a.png" group-title="PayTV",SYFY
+http://kuchini.site:8080/xusm/4bf044ec60/408
+#EXTINF:-1 tvg-id="13th Street" tvg-name="13th Street" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/affc50722b24295a801e25d724bd63c3.png" group-title="PayTV",13th Street
+http://kuchini.site:8080/xusm/4bf044ec60/3498
+#EXTINF:-1 tvg-id="Sony AXN" tvg-name="Sony AXN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4df4f6d272837cabf8055cc973a311d1.png" group-title="PayTV",Sony AXN
+http://kuchini.site:8080/xusm/4bf044ec60/2091
+#EXTINF:-1 tvg-id="Sony Channel Germany" tvg-name="Sony Channel Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e2fee6b2734b02fd526ec435b3d82668.jpg" group-title="PayTV",Sony Channel
+http://kuchini.site:8080/xusm/4bf044ec60/2128
+#EXTINF:-1 tvg-id="Romance TV Germany" tvg-name="Romance TV Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eff97396dced319c2f9034ce017d4837.png" group-title="PayTV",Romance TV
+http://kuchini.site:8080/xusm/4bf044ec60/1662
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9327371a91ab40f216154b8dc2e80d8f.png" group-title="PayTV",Kinowelt TV
+http://kuchini.site:8080/xusm/4bf044ec60/2127
+#EXTINF:-1 tvg-id="Silverline Movie Channel" tvg-name="Silverline Movie Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fb24daf338d66d8806f505694abf2e0.jpg" group-title="PayTV",SilverLine
+http://kuchini.site:8080/xusm/4bf044ec60/148067
+#EXTINF:-1 tvg-id="Stingray Classica" tvg-name="Stingray Classica" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e21a32500f89bfd12f74678754e89662.png" group-title="PayTV",Stingray Classica
+http://kuchini.site:8080/xusm/4bf044ec60/2088
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b7fd47cce1f77856894995648c9b0e5.png" group-title="PayTV",Universal TV
+http://kuchini.site:8080/xusm/4bf044ec60/1654
+#EXTINF:-1 tvg-id="Victorious" tvg-name="Victorious" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/25a5d777c2cfacd20dfe865c11519587.jpg" group-title="PayTV",Victorious
+http://kuchini.site:8080/xusm/4bf044ec60/285594
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="TNT Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e544bd95d6e6ae7bef1951c13d06d4c5.png" group-title="PayTV",Warner TV Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/281763
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT Film" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f13246ba5272f59e5bc74ab07c0a511d.png" group-title="PayTV",Warner TV Film
+http://kuchini.site:8080/xusm/4bf044ec60/2087
+#EXTINF:-1 tvg-id="TNT serie" tvg-name="TNT serie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4216151256055c0b324d24e8718f2df6.png" group-title="PayTV",Warner TV serie
+http://kuchini.site:8080/xusm/4bf044ec60/1655
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53a26073e5ed0e20f546a463740fe707.png" group-title="PayTV",Heimatkanal
+http://kuchini.site:8080/xusm/4bf044ec60/1668
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE: E!" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e243dcf36410048af7727bb85fdb70e4.png" group-title="PayTV",DE: E!
+http://kuchini.site:8080/xusm/4bf044ec60/2114
+#EXTINF:-1 tvg-id="Welt" tvg-name="Welt" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/466a05dca5843cf9c8a74a457af829a4.png" group-title="",Welt
+http://kuchini.site:8080/xusm/4bf044ec60/2093
+#EXTINF:-1 tvg-id="Welt der Wunder" tvg-name="Welt der Wunder" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/834de0d76be26d5220d27629a30e02f8.png" group-title="",Welt der Wunder TV
+http://kuchini.site:8080/xusm/4bf044ec60/29008
+#EXTINF:-1 tvg-id="XITE" tvg-name="XITE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/43156d70f81982317120ff6cc17232fb.png" group-title="Musik",XITE
+http://kuchini.site:8080/xusm/4bf044ec60/281767
+#EXTINF:-1 tvg-id="oe3.at" tvg-name="Ö3-VisualRadio" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png" group-title="Musik",Ö3-VisualRadio
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
+#EXTINF:-1 tvg-id="swr3.de" tvg-name="SWR3-VisualRadio" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png" group-title="Musik",SWR3-VisualRadio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="Dasding.de" tvg-name="DASDING-VisualRadio" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png" group-title="Musik",DASDING-VisualRadio
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="Unserding.de" tvg-name="UNSERDING-VisualRadio" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png" group-title="Musik",UNSERDING-VisualRadio
+https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+#EXTINF:-1 tvg-id="Rockland.de" tvg-name="Rockland TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png" group-title="Musik",Rockland TV
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png" group-title="Musik",MTV Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png" group-title="Musik",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png" group-title="Musik",Folx TV
+https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8
+#EXTINF:-1 tvg-id="One1MusicTV.de" tvg-name="One 1 Music TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png" group-title="Musik",One 1 Music TV
+https://folxplay-t.b-cdn.net/streams/ch-3/master.m3u8
+#EXTINF:-1 tvg-id="Zwei2MusicTV.de" tvg-name="Zwei 2 Music TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png" group-title="Musik",Zwei 2 Music TV
+https://folxplay-t.b-cdn.net/streams/ch-2/master.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png" group-title="Musik",Deutsches Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png" group-title="Musik",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-id="Kronehit TV" tvg-name="Kronehit TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="Musik",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Melodie TV" tvg-name="Melodie TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png" group-title="Musik",Melodie TV
+plugin://plugin.video.youtube/play/?video_id=1nHkPNp4Yc0
+#EXTINF:-1 tvg-id="TVM3" tvg-name="TVM3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png" group-title="Musik",TVM3
+https://edge16.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
+#EXTINF:-1 tvg-id="CMC" tvg-name="CMC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png" group-title="Musik",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 tvg-id="Activa TV" tvg-name="Activa TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/activatv.png" group-title="Musik",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="XITE" tvg-name="XITE" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png" group-title="Musik",XITE
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="ORF 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1a0cecb4d3e9d4a525acea5b3659f796.png" group-title="Österreich",ORF 1
+http://kuchini.site:8080/xusm/4bf044ec60/1665
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/cecb7411f3b52da1683a5cb37d0f4fe9.png" group-title="Österreich",ORF 2
+http://kuchini.site:8080/xusm/4bf044ec60/1664
+#EXTINF:-1 tvg-id="ORF 3" tvg-name="ORF 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/98ffddd1eb3828a7b01129406a4ca4e7.png" group-title="Österreich",ORF 3
+http://kuchini.site:8080/xusm/4bf044ec60/3492
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/79bd252e698ff7189c135c93baced6ca.png" group-title="Österreich",ATV
+http://kuchini.site:8080/xusm/4bf044ec60/3489
+#EXTINF:-1 tvg-id="ATV 2" tvg-name="ATV 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e694b63801476740bda4feff9527bbbe.png" group-title="Österreich",ATV 2
+http://kuchini.site:8080/xusm/4bf044ec60/12643
+#EXTINF:-1 tvg-id="Puls 4" tvg-name="Puls 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/c75dc2269446ead8bdf411ac7d6df33b.png" group-title="Österreich",Puls 4
+http://kuchini.site:8080/xusm/4bf044ec60/12644
+#EXTINF:-1 tvg-id="Puls 24" tvg-name="Puls 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/defd1fd7ec97072cbb7aac0e5898cdfc.png" group-title="Österreich",Puls 24
+http://kuchini.site:8080/xusm/4bf044ec60/174351
+#EXTINF:-1 tvg-id="R9" tvg-name="R9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b42643772704c97f7c328fc154f03e98.png" group-title="Österreich",R9
+http://kuchini.site:8080/xusm/4bf044ec60/193532
+#EXTINF:-1 tvg-id="Oe24 TV" tvg-name="Oe24 TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2d9199eacf795a3a7cccc98942f52e87.png" group-title="Österreich",Oe24 TV
+http://kuchini.site:8080/xusm/4bf044ec60/158500
+#EXTINF:-1 tvg-id="Tirol TV" tvg-name="Tirol TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9f2d7b28e402c994e4372c1c0fc47faf.png" group-title="Österreich",Tirol TV
+http://kuchini.site:8080/xusm/4bf044ec60/285321
+#EXTINF:-1 tvg-id="Teins" tvg-name="Teins" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/49772894406f460885c4f8628596a0bc.jpeg" group-title="Österreich",Teins
+http://kuchini.site:8080/xusm/4bf044ec60/290695
+#EXTINF:-1 tvg-id="Dorf TV" tvg-name="Dorf TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/62504b004da7ddec75d8f802729ef712.png" group-title="Österreich",Dorf TV
+http://kuchini.site:8080/xusm/4bf044ec60/200462
+#EXTINF:-1 tvg-id="RTL Austria" tvg-name="RTL Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5666cbfe80c448ee124450f8399d43e0.png" group-title="Österreich",RTL Austria
+http://kuchini.site:8080/xusm/4bf044ec60/174236
+#EXTINF:-1 tvg-id="RTL Zwei Austria" tvg-name="RTL Zwei Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/057390c621be95299e3024ff2c59af32.png" group-title="Österreich",RTL Zwei Austria
+http://kuchini.site:8080/xusm/4bf044ec60/16204
+#EXTINF:-1 tvg-id="RTL Up Osterreich" tvg-name="RTL Up Osterreich" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/3d18ad57ab667ec0e1641b977b17f59a.png" group-title="Österreich",RTL Up Osterreich
+http://kuchini.site:8080/xusm/4bf044ec60/296826
+#EXTINF:-1 tvg-id="Sat 1 Gold Austria" tvg-name="Sat 1 Gold Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1e6160a8e6238f65b595515af89c3346.png" group-title="Österreich",Sat 1 Gold Austria
+http://kuchini.site:8080/xusm/4bf044ec60/192373
+#EXTINF:-1 tvg-id="Kabel Eins Doku - CH" tvg-name="Kabel Eins Doku - CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/ead8e32ff3a0346a0970a4c71e875d6a.png" group-title="Österreich",Kabel Eins Doku - CH
+http://kuchini.site:8080/xusm/4bf044ec60/2074
+#EXTINF:-1 tvg-id="ProSieben Austria" tvg-name="ProSieben Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/bc30ffa91c810b18be831cc89d8167b2.png" group-title="Österreich",ProSieben Austria
+http://kuchini.site:8080/xusm/4bf044ec60/12657
+#EXTINF:-1 tvg-id="ProSieben Maxx Austria" tvg-name="ProSieben Maxx Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/89708aebce152a7ef3a65829bdcde71c.png" group-title="Österreich",ProSieben Maxx Austria
+http://kuchini.site:8080/xusm/4bf044ec60/174233
+#EXTINF:-1 tvg-id="VOX Austria" tvg-name="VOX Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/829dfd4fda58692df26cd4c0b24cc18c.png" group-title="Österreich",VOX Austria
+http://kuchini.site:8080/xusm/4bf044ec60/174242
+#EXTINF:-1 tvg-id="Sixx Austria" tvg-name="Sixx Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d1f7223412d84bd44b238f3066795f0e.png" group-title="Österreich",Sixx Austria
+http://kuchini.site:8080/xusm/4bf044ec60/12662
+#EXTINF:-1 tvg-id="DMAX - Austria" tvg-name="DMAX - Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e9b2b79363d17673cbcda9a24eb5cbe8.png" group-title="Österreich",DMAX - Austria
+http://kuchini.site:8080/xusm/4bf044ec60/12651
+#EXTINF:-1 tvg-id="Servus TV Austria" tvg-name="Servus TV Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0ad757045034fecae6719f9a45e0e2b6.png" group-title="Österreich",Servus TV Austria
+http://kuchini.site:8080/xusm/4bf044ec60/12649
+#EXTINF:-1 tvg-id="nick Austria" tvg-name="nick Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3903a880dfc0b23a74c6199b4cfb5242.png" group-title="Österreich",nick Austria
+http://kuchini.site:8080/xusm/4bf044ec60/2102
+#EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3d1d4c235f5dbf5fe5b941b7643d18d2.png" group-title="Österreich",FS1
+http://kuchini.site:8080/xusm/4bf044ec60/44792
+#EXTINF:-1 tvg-id="Krone HIT" tvg-name="Krone HIT" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/14f45bfd0dcb720c5cb5d681f373232a.png" group-title="Österreich",Krone HIT
+http://kuchini.site:8080/xusm/4bf044ec60/17152
+#EXTINF:-1 tvg-id="Krone TV" tvg-name="Krone TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/35c89660041f2766896d45f8e076ec01.png" group-title="Österreich",Krone TV
+http://kuchini.site:8080/xusm/4bf044ec60/192661
+#EXTINF:-1 tvg-id="Melodie TV" tvg-name="Melodie TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b2d88d04a40699abc0bc3a57eb467910.png" group-title="Österreich",Melodie TV
+http://kuchini.site:8080/xusm/4bf044ec60/281751
+#EXTINF:-1 tvg-id="ORF Sport+" tvg-name="ORF Sport+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8abdd4d3253d178909b231d0c9913dbe.png" group-title="Österreich",ORF Sport+
+http://kuchini.site:8080/xusm/4bf044ec60/2098
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f063001d448b6a86050b98ca02a66897.png" group-title="Österreich",Red Bull TV
+http://kuchini.site:8080/xusm/4bf044ec60/8792
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e2c7ee1456eafbb32211dfa67d71fac2.jfif" group-title="Österreich",RTV
+http://kuchini.site:8080/xusm/4bf044ec60/294902
+#EXTINF:-1 tvg-id="Schau TV" tvg-name="Schau TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f33122cb6b6d983f635c41584491cb01.png" group-title="Österreich",Schau TV
+http://kuchini.site:8080/xusm/4bf044ec60/193533
+#EXTINF:-1 tvg-id="Sky Sport 2 Austria" tvg-name="Sky Sport 2 Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/44a773954ad111acafb8ca225b20d0fe.png" group-title="Österreich",Sky Sport 2 Austria
+http://kuchini.site:8080/xusm/4bf044ec60/405
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-name="Sky Sport Austria 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3610fcefa8e58c4d9c27af91c71a7996.png" group-title="Österreich",Sky Sport Austria 1
+http://kuchini.site:8080/xusm/4bf044ec60/2130
+#EXTINF:-1 tvg-id="Sky Sport Austria 2" tvg-name="Sky Sport Austria 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9fdbe61de418c860d0f51acab33cd3d5.png" group-title="Österreich",Sky Sport Austria 2
+http://kuchini.site:8080/xusm/4bf044ec60/192010
+#EXTINF:-1 tvg-id="Sky Sport Austria 3" tvg-name="Sky Sport Austria 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bf0ec45566171fc1fe07e3bb7fda848f.png" group-title="Österreich",Sky Sport Austria 3
+http://kuchini.site:8080/xusm/4bf044ec60/192374
+#EXTINF:-1 tvg-id="Sky Sport Austria 4" tvg-name="Sky Sport Austria 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1411fab83c8bffe7da7727a3d589afa8.png" group-title="Österreich",Sky Sport Austria 4
+http://kuchini.site:8080/xusm/4bf044ec60/295541
+#EXTINF:-1 tvg-id="Sky Sport Austria 5" tvg-name="Sky Sport Austria 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/65617951bce92e5e47beed8db2dad8a7.png" group-title="Österreich",Sky Sport Austria 5
+http://kuchini.site:8080/xusm/4bf044ec60/295542
+#EXTINF:-1 tvg-id="Sky Sport Austria 6" tvg-name="Sky Sport Austria 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/da00923e46c4a542ad3396823d35e0e6.png" group-title="Österreich",Sky Sport Austria 6
+http://kuchini.site:8080/xusm/4bf044ec60/295543
+#EXTINF:-1 tvg-id="W24" tvg-name="W24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/92cee47e04b4783bf4d1c9d23d35ae0d.png" group-title="Österreich",W24
+http://kuchini.site:8080/xusm/4bf044ec60/285322
+#EXTINF:-1 tvg-id="SRF 1" tvg-name="CH: SRF 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff137efd29cc494420c97edfb7462ce9.png" group-title="Schweiz",SRF 1
+http://kuchini.site:8080/xusm/4bf044ec60/4413
+#EXTINF:-1 tvg-id="SRF Zwei" tvg-name="SRF Zwei" tvg-shift="" radio="" tvg-logo="https://medien.srf.ch/o/adaptive-media/image/5324326/Preview-1000x0/421785.jpg?t=1650625850863" group-title="Schweiz",SRF Zwei
+http://kuchini.site:8080/xusm/4bf044ec60/294454
+#EXTINF:-1 tvg-id="SRF Info" tvg-name="SRF Info" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/10e1c1a91b05d33a3a07b3b688214138.png" group-title="Schweiz",SRF Info
+http://kuchini.site:8080/xusm/4bf044ec60/2805
+#EXTINF:-1 tvg-id="3+" tvg-name="3+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/271c6d9ef8e5eb671139670ac9ddf1f2.jpg" group-title="Schweiz",3+
+http://kuchini.site:8080/xusm/4bf044ec60/14266
+#EXTINF:-1 tvg-id="4+" tvg-name="4+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/16a2d4bc6047b7de028e4b12766c5e9a.jpg" group-title="Schweiz",4+
+http://kuchini.site:8080/xusm/4bf044ec60/2809
+#EXTINF:-1 tvg-id="5+" tvg-name="5+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/2f3d71717d14267c3e41aab7034eab72.jpg" group-title="Schweiz",5+
+http://kuchini.site:8080/xusm/4bf044ec60/14262
+#EXTINF:-1 tvg-id="6+" tvg-name="6+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/991697814fe1febaeec5bcd7e79190c8.jpg" group-title="Schweiz",6+
+http://kuchini.site:8080/xusm/4bf044ec60/14264
+#EXTINF:-1 tvg-id="Puls Acht" tvg-name="Puls Acht" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e8d2cb2d76a559bade68e8da4e46ad86.png" group-title="Schweiz",Puls Acht
+http://kuchini.site:8080/xusm/4bf044ec60/83347
+#EXTINF:-1 tvg-id="Kanal 9" tvg-name="Kanal 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5b347b83d8f53d3a28e9de000f3c6d71.jpg" group-title="Schweiz",Kanal 9
+http://kuchini.site:8080/xusm/4bf044ec60/151500
+#EXTINF:-1 tvg-id="TV 24" tvg-name="TV 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c2202d24de3a6b6df5f472852086394f.png" group-title="Schweiz",TV 24
+http://kuchini.site:8080/xusm/4bf044ec60/151505
+#EXTINF:-1 tvg-id="TV 25" tvg-name="TV 25" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/010b491d314baee5484235eb971a3d0c.png" group-title="Schweiz",TV 25
+http://kuchini.site:8080/xusm/4bf044ec60/145403
+#EXTINF:-1 tvg-id="swiss 1" tvg-name="swiss 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/9840224e5afac819d04ba34c85212e33.png" group-title="Schweiz",swiss 1
+http://kuchini.site:8080/xusm/4bf044ec60/82686
+#EXTINF:-1 tvg-id="Tele 1" tvg-name="Tele 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/cd2da93882e3ae8ad6733a83b586bda7.jpg" group-title="Schweiz",Tele 1
+http://kuchini.site:8080/xusm/4bf044ec60/281735
+#EXTINF:-1 tvg-id="Tele Barn" tvg-name="Tele Barn" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/afe4ad3772f5a22fcde046820cf1e126.png" group-title="Schweiz",Tele Barn
+http://kuchini.site:8080/xusm/4bf044ec60/24297
+#EXTINF:-1 tvg-id="Telebasel" tvg-name="Telebasel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/014cdfd7531a30019da295e18940f392.png" group-title="Schweiz",Telebasel
+http://kuchini.site:8080/xusm/4bf044ec60/43523
+#EXTINF:-1 tvg-id="TeleZuri" tvg-name="TeleZuri" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/945373d36c1d5489b8704d49fe1a068f.jpg" group-title="Schweiz",TeleZuri
+http://kuchini.site:8080/xusm/4bf044ec60/83344
+#EXTINF:-1 tvg-id="TV Suedostschweiz" tvg-name="TV Suedostschweiz" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1336c14b2ab3341a26957086709b16f4.png" group-title="Schweiz",TV Suedostschweiz
+http://kuchini.site:8080/xusm/4bf044ec60/157407
+#EXTINF:-1 tvg-id="TVO" tvg-name="TVO" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9eb18b01f408eb24eaa92c6005218be8.jpg" group-title="Schweiz",TVO
+http://kuchini.site:8080/xusm/4bf044ec60/2808
+#EXTINF:-1 tvg-id="TVM 3" tvg-name="TVM 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1fefd2b10ca49bba6abe26c738c810cc.png" group-title="Schweiz",TVM 3
+http://kuchini.site:8080/xusm/4bf044ec60/24721
+#EXTINF:-1 tvg-id="Telebielingue" tvg-name="Telebielingue" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4da6595d04f8fe02bb20b5fcaa65b1a.png" group-title="Schweiz",Telebielingue
+http://kuchini.site:8080/xusm/4bf044ec60/165444
+#EXTINF:-1 tvg-id="Tele M1" tvg-name="Tele M1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/786f3f139a3eea6c3b2e45daa08a677b.png" group-title="Schweiz",Tele M1
+http://kuchini.site:8080/xusm/4bf044ec60/14253
+#EXTINF:-1 tvg-id="RTL CH" tvg-name="RTL CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/94ec8f383c957b665fdb8e2b41f1a681.png" group-title="Schweiz",RTL - CH
+http://kuchini.site:8080/xusm/4bf044ec60/81112
+#EXTINF:-1 tvg-id="Sat 1 CH" tvg-name="Sat 1 CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c029e9fe8fb1be39672d9bc5654acd61.png" group-title="Schweiz",Sat 1 - CH
+http://kuchini.site:8080/xusm/4bf044ec60/81111
+#EXTINF:-1 tvg-id="SYFY CH" tvg-name="SYFY CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/139a0a6a4431e761e07164318a7c6b0f.png" group-title="Schweiz",SYFY - CH
+http://kuchini.site:8080/xusm/4bf044ec60/295082
+#EXTINF:-1 tvg-id="Comedy Central CH" tvg-name="Comedy Central CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ad42dc58895b681ab312d8aa33dadeb.png" group-title="Schweiz",Comedy Central - CH
+http://kuchini.site:8080/xusm/4bf044ec60/83349
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/04737af507abe502010b24913c4b924e.jpg" group-title="Schweiz",TLC - CH
+http://kuchini.site:8080/xusm/4bf044ec60/82260
+#EXTINF:-1 tvg-id="nickelodeon CH" tvg-name="nickelodeon CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/84ea6ba0df632ea38a8d6b19e13a7b02.png" group-title="Schweiz",nickelodeon - CH
+http://kuchini.site:8080/xusm/4bf044ec60/83371
+#EXTINF:-1 tvg-id="NAT GEO Wild CH" tvg-name="NAT GEO Wild CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/84dfb87e522df8221cdd3a3d07e89214.png" group-title="Schweiz",NAT GEO Wild - CH
+http://kuchini.site:8080/xusm/4bf044ec60/148048
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/528ebfe5d69b38dae835afd3628a4956.png" group-title="Schweiz",EUROSPORT 1 - CH
+http://kuchini.site:8080/xusm/4bf044ec60/151719
+#EXTINF:-1 tvg-id="Blue Action" tvg-name="Blue Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6c93c103ed7b29a26e3caee1711fdd86.png" group-title="Schweiz",Blue Action
+http://kuchini.site:8080/xusm/4bf044ec60/14254
+#EXTINF:-1 tvg-id="Blue Stars" tvg-name="Blue Stars" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9ecbfa73cb25e4f4472270bfc6cc7020.png" group-title="Schweiz",Blue Stars
+http://kuchini.site:8080/xusm/4bf044ec60/151504
+#EXTINF:-1 tvg-id="Blue Sport 1" tvg-name="Blue Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1e3a6ebd017afb3fc7373b14067d6c51.png" group-title="Schweiz",Blue Sport 1
+http://kuchini.site:8080/xusm/4bf044ec60/2815
+#EXTINF:-1 tvg-id="Blue Sport 2" tvg-name="Blue Sport 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/100d55fd9acdc34aeb54e4df82f87b1a.png" group-title="Schweiz",Blue Sport 2
+http://kuchini.site:8080/xusm/4bf044ec60/6187
+#EXTINF:-1 tvg-id="Blue Zoom D" tvg-name="Blue Zoom D" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54c51d0eac1f0f07d42f5244562b2ca6.png" group-title="Schweiz",Blue Zoom D
+http://kuchini.site:8080/xusm/4bf044ec60/52435
+#EXTINF:-1 tvg-id="MySports 1" tvg-name="MySports 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9da1168f90f62c51581db76c46519503.png" group-title="Schweiz",MySports 1
+http://kuchini.site:8080/xusm/4bf044ec60/280169
+#EXTINF:-1 tvg-id="MySports 3" tvg-name="MySports 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3e40e700bbc67d8977b90681588e669a.png" group-title="Schweiz",MySports 3
+http://kuchini.site:8080/xusm/4bf044ec60/70853
+#EXTINF:-1 tvg-id="MySports 4" tvg-name="MySports 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/154688010fd429c30997af27ef4a7e92.png" group-title="Schweiz",MySports 4
+http://kuchini.site:8080/xusm/4bf044ec60/23838
+#EXTINF:-1 tvg-id="MySports 5" tvg-name="MySports 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c2afd899876b86dfd5216bc85ab0e2a6.png" group-title="Schweiz",MySports 5
+http://kuchini.site:8080/xusm/4bf044ec60/90859
+#EXTINF:-1 tvg-id="MySports 6" tvg-name="MySports 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/060db78d6cef8728f844991cf695c6cb.png" group-title="Schweiz",MySports 6
+http://kuchini.site:8080/xusm/4bf044ec60/148193
+#EXTINF:-1 tvg-id="MySports 7" tvg-name="MySports 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7e4698387844e469175e8214d75dd5a9.png" group-title="Schweiz",MySports 7
+http://kuchini.site:8080/xusm/4bf044ec60/148191
+#EXTINF:-1 tvg-id="MySports 8" tvg-name="MySports 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/236003a9f4f2078c02e5578884caaaef.png" group-title="Schweiz",MySports 8
+http://kuchini.site:8080/xusm/4bf044ec60/148198
+#EXTINF:-1 tvg-id="MySports 9" tvg-name="MySports 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/57635904fa763c7237e69c8f8490e286.png" group-title="Schweiz",MySports 9
+http://kuchini.site:8080/xusm/4bf044ec60/152345
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/784f2cc4e90f364b88658303186aac6f.png" group-title="England",BBC One
+http://kuchini.site:8080/xusm/4bf044ec60/697
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ae17343cbffee6299207cd680d075c46.png" group-title="England",BBC Two
+http://kuchini.site:8080/xusm/4bf044ec60/283047
+#EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/25f4437814ddad912bd3b9906e047c8a.png" group-title="England",BBC 3
+http://kuchini.site:8080/xusm/4bf044ec60/291212
+#EXTINF:-1 tvg-id="" tvg-name="BBC 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/70e7a25fe1f3d301b1628af8f6e3d66f.png" group-title="England",BBC 4
+http://kuchini.site:8080/xusm/4bf044ec60/291219
+#EXTINF:-1 tvg-id="" tvg-name="5 Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/9e7683be2db6f420f91302c9bec428ce.png" group-title="England",5 Action
+http://kuchini.site:8080/xusm/4bf044ec60/295070
+#EXTINF:-1 tvg-id="" tvg-name="5 Select" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5dfb64af3558d04a8f3f03908fe6409.png" group-title="England",5 Select
+http://kuchini.site:8080/xusm/4bf044ec60/4631
+#EXTINF:-1 tvg-id="" tvg-name="5 STAR" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9d5b5c9772322ef491afd068447ad734.png" group-title="England",5 STAR
+http://kuchini.site:8080/xusm/4bf044ec60/4633
+#EXTINF:-1 tvg-id="" tvg-name="5 USA" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b3d2405ceba8ae5e7042b6405f6b85b.png" group-title="England",5 USA
+http://kuchini.site:8080/xusm/4bf044ec60/1579
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="4Music" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dae6a77b6882ea120eccbba9f729a84d.png" group-title="England",4Music
+http://kuchini.site:8080/xusm/4bf044ec60/4749
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name=" 4Seven" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/49ba489193a8c699f45d98cac94a4230.png" group-title="England",4Seven
+http://kuchini.site:8080/xusm/4bf044ec60/4625
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="Alibi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80aece4ee97d706257c1cb307c447972.png" group-title="England",Alibi
+http://kuchini.site:8080/xusm/4bf044ec60/1131
+#EXTINF:-1 tvg-id="" tvg-name="UK: Aljazeera English" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/400ea32d496aa897658c7f1bc0fd3ef5.png" group-title="England",Aljazeera English
+http://kuchini.site:8080/xusm/4bf044ec60/24077
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/971eb7c085fbaa522dcf37653153c546.png" group-title="England",AMC
+http://kuchini.site:8080/xusm/4bf044ec60/4669
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="ANIMAL PLANET" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d35b4c918eee7e24b511a6ac18d82d68.png" group-title="England",ANIMAL PLANET
+http://kuchini.site:8080/xusm/4bf044ec60/1130
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b0e18a9499f1738f8b03626254f223bd.png" group-title="England",ANIMAL PLANET +1
+http://kuchini.site:8080/xusm/4bf044ec60/165934
+#EXTINF:-1 tvg-id="arisenews.uk" tvg-name="Arise News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/53c00632f92ecb30e54fbedb4afb581b.png" group-title="England",Arise News
+http://kuchini.site:8080/xusm/4bf044ec60/146108
+#EXTINF:-1 tvg-id="" tvg-name="Baby First TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/22162c8cdb9ebc82680cfc9b954a3f6e.jpeg" group-title="England",Baby First TV
+http://kuchini.site:8080/xusm/4bf044ec60/296498
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="Baby TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bde414cc7e22f78e4b16bcf48489233.png" group-title="England",Baby TV
+http://kuchini.site:8080/xusm/4bf044ec60/1129
+#EXTINF:-1 tvg-id="" tvg-name="BBC Alba" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa6c9563116d115ff73b764cefc883e5.png" group-title="England",BBC Alba
+http://kuchini.site:8080/xusm/4bf044ec60/278520
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/2060436efa5c50dcd855554c08a80c28.png" group-title="England",BBC Earth
+http://kuchini.site:8080/xusm/4bf044ec60/174446
+#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6eacd8355d655af160f851d720659cbf.png" group-title="England",BBC Entertainment
+http://kuchini.site:8080/xusm/4bf044ec60/11663
+#EXTINF:-1 tvg-id="" tvg-name="BBC First" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/53fbf4d92d6485ea60d376b03ef1380c.png" group-title="England",BBC First
+http://kuchini.site:8080/xusm/4bf044ec60/11586
+#EXTINF:-1 tvg-id="" tvg-name="BBC LifeStyle" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/a4ee7fe11bd79d2b7d3fd48ce2dd1d6f.png" group-title="England",BBC LifeStyle
+http://kuchini.site:8080/xusm/4bf044ec60/85436
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e26090febadd0239539333ab8e082a4e.png" group-title="England",BBC News
+http://kuchini.site:8080/xusm/4bf044ec60/696
+#EXTINF:-1 tvg-id="" tvg-name="BBC One East Yorkshire" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",BBC One East Yorkshire
+http://kuchini.site:8080/xusm/4bf044ec60/296926
+#EXTINF:-1 tvg-id="" tvg-name="BBC One London" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",BBC One London
+http://kuchini.site:8080/xusm/4bf044ec60/296922
+#EXTINF:-1 tvg-id="" tvg-name="BBC One Northern Ireland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",BBC One Northern Ireland
+http://kuchini.site:8080/xusm/4bf044ec60/296927
+#EXTINF:-1 tvg-id="" tvg-name="BBC One Scotland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",BBC One Scotland
+http://kuchini.site:8080/xusm/4bf044ec60/296933
+#EXTINF:-1 tvg-id="" tvg-name="BBC One Wales" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",BBC One Wales
+http://kuchini.site:8080/xusm/4bf044ec60/296932
+#EXTINF:-1 tvg-id="" tvg-name="BBC Parliament" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7aad24b330498d5dadc455261bfc0a79.png" group-title="England",BBC Parliament
+http://kuchini.site:8080/xusm/4bf044ec60/290377
+#EXTINF:-1 tvg-id="" tvg-name="BBC Scotland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/fdb6930fd6709a0f82331ab6d75a1c22.png" group-title="England",BBC Scotland
+http://kuchini.site:8080/xusm/4bf044ec60/281885
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two Northern Ireland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",BBC Two Northern Ireland
+http://kuchini.site:8080/xusm/4bf044ec60/296934
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two Scotland" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",BBC Two Scotland
+http://kuchini.site:8080/xusm/4bf044ec60/297009
+#EXTINF:-1 tvg-id="" tvg-name="BBC UHD 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",BBC UHD 1
+http://kuchini.site:8080/xusm/4bf044ec60/296930
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/46bad172f566406387508ddfe08db71f.png" group-title="England",BBC World News
+http://kuchini.site:8080/xusm/4bf044ec60/2585
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name=" itv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/84115552985051f281713aeeb4d83d6a.png" group-title="England", itv
+http://kuchini.site:8080/xusm/4bf044ec60/689
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name=" itv 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8a47c9d5b3b3e5aa1a7df71d17673fb5.png" group-title="England", itv 2
+http://kuchini.site:8080/xusm/4bf044ec60/690
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name=" itv 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/78be616aa48bd50c9200cb4856cb664f.png" group-title="England",itv 3
+http://kuchini.site:8080/xusm/4bf044ec60/703
+#EXTINF:-1 tvg-id="" tvg-name=" itv 3 +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0d4c3962d58ff91457b86fccbca1c06c.png" group-title="England", itv 3 +1
+http://kuchini.site:8080/xusm/4bf044ec60/145787
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name=" itv 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/19ce98ef689f2beb0a1e4da62f28db4c.png" group-title="England", itv 4
+http://kuchini.site:8080/xusm/4bf044ec60/691
+#EXTINF:-1 tvg-id="" tvg-name="itv 4 +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/16ca7e4156e3554810b42dd11ecf2c9f.png" group-title="England", itv 4 +1
+http://kuchini.site:8080/xusm/4bf044ec60/295071
+#EXTINF:-1 tvg-id="" tvg-name="Best Direct" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",Best Direct
+http://kuchini.site:8080/xusm/4bf044ec60/286774
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="itv BE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d53543bcc60d5d6f5895146d29e36f6.png" group-title="England",itv BE
+http://kuchini.site:8080/xusm/4bf044ec60/1560
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/328b9294c3c454997167b6ebacbc11c6.png" group-title="England",BET
+http://kuchini.site:8080/xusm/4bf044ec60/9760
+#EXTINF:-1 tvg-id="" tvg-name="Bible TV Global" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",Bible TV Global
+http://kuchini.site:8080/xusm/4bf044ec60/275962
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="Blaze" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e027706acbcb2366508d6fc982ccb966.png" group-title="England",Blaze
+http://kuchini.site:8080/xusm/4bf044ec60/4642
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="Bloomberg" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/442fc8ac9c1f2cc4e073db1c0089231d.png" group-title="England",Bloomberg
+http://kuchini.site:8080/xusm/4bf044ec60/1610
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Live" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2cd611e276dc2fe047f5e0823094ffc4.png" group-title="England",Bloomberg Live
+http://kuchini.site:8080/xusm/4bf044ec60/294851
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV Europe" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0237c580fbae246aa51adce9d68d624a.png" group-title="England",Bloomberg TV Europe
+http://kuchini.site:8080/xusm/4bf044ec60/294852
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/128b14884de50bdd5bedeb5f55bf67c3.png" group-title="England",Boomerang
+http://kuchini.site:8080/xusm/4bf044ec60/1125
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="Box Nation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c2d563f238702089445c84cb1ef9b2c.png" group-title="England",Box Nation
+http://kuchini.site:8080/xusm/4bf044ec60/4719
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="England",BT Sport 1
+http://kuchini.site:8080/xusm/4bf044ec60/270
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="England",BT Sport 2
+http://kuchini.site:8080/xusm/4bf044ec60/273
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="England",BT Sport 3
+http://kuchini.site:8080/xusm/4bf044ec60/271
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="BT Sport ESPN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="England",BT Sport ESPN
+http://kuchini.site:8080/xusm/4bf044ec60/1124
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="Cartoon Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" group-title="England",Cartoon Network
+http://kuchini.site:8080/xusm/4bf044ec60/720
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="Cartoonito" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" group-title="England",Cartoonito
+http://kuchini.site:8080/xusm/4bf044ec60/1546
+#EXTINF:-1 tvg-id="" tvg-name="CBBC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" group-title="England",CBBC
+http://kuchini.site:8080/xusm/4bf044ec60/695
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" group-title="England",CBeebies
+http://kuchini.site:8080/xusm/4bf044ec60/4753
+#EXTINF:-1 tvg-id="" tvg-name="CBS Justice" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/78173972af8b08882e85ddf03f4f8ca1.png" group-title="England",CBS Justice
+http://kuchini.site:8080/xusm/4bf044ec60/1122
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS Reality" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/654a952a06a8db07f28f8a7569085ce5.png" group-title="England",CBS Reality
+http://kuchini.site:8080/xusm/4bf044ec60/1121
+#EXTINF:-1 tvg-id="" tvg-name="Challenge" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/414dd48a4830cf3ccadecf29de8117c9.png" group-title="England",Challenge
+http://kuchini.site:8080/xusm/4bf044ec60/4641
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 London" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9f2cb96dba6c12e77f3e79c1ffaa197a.png" group-title="England",Channel 4 London
+http://kuchini.site:8080/xusm/4bf044ec60/1120
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f394d48eea10ccf2f35f5c3b1367bc5a.png" group-title="England",Channel 5
+http://kuchini.site:8080/xusm/4bf044ec60/1119
+#EXTINF:-1 tvg-id="" tvg-name="CITV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/accf2c64b8fea3206b10e1ec283d0e72.png" group-title="England",CITV
+http://kuchini.site:8080/xusm/4bf044ec60/1548
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="Clubland TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a36da207ab4d49bd1e3d907a2a7331b2.png" group-title="England",Clubland TV
+http://kuchini.site:8080/xusm/4bf044ec60/144752
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="Comedy Central" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8259ef48eeed339f7221d396aaa239aa.png" group-title="England",Comedy Central
+http://kuchini.site:8080/xusm/4bf044ec60/1118
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="Comedy Central Extra" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b4210ceb760f12d20bd852948d08333.png" group-title="England",Comedy Central Extra
+http://kuchini.site:8080/xusm/4bf044ec60/4656
+#EXTINF:-1 tvg-id="" tvg-name="Create & Craft" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8d97104731d998d8401b2356d85736ce.png" group-title="England",Create & Craft
+http://kuchini.site:8080/xusm/4bf044ec60/4824
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="Crime+ Investigation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5922afa182b23da0f8e8d980a104b42c.png" group-title="England",Crime+ Investigation
+http://kuchini.site:8080/xusm/4bf044ec60/734
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c236629deee175740310a95faa0c2417.png" group-title="England",Dave
+http://kuchini.site:8080/xusm/4bf044ec60/733
+#EXTINF:-1 tvg-id="" tvg-name="Dave ja vu" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8f8e4511dd8df7a4ab49345485469e67.png" group-title="England",Dave ja vu
+http://kuchini.site:8080/xusm/4bf044ec60/17031
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ed888d857fa811902977ec608d895cd5.png" group-title="England",Discovery H&H
+http://kuchini.site:8080/xusm/4bf044ec60/282757
+#EXTINF:-1 tvg-id="" tvg-name="Discovery History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0e6338fdd9b3b61300bb3469f76e3b0.png" group-title="England",Discovery History
+http://kuchini.site:8080/xusm/4bf044ec60/694
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="Discovery Science" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e76011290ff4124502f1af1e6fb6e980.png" group-title="England",Discovery Science
+http://kuchini.site:8080/xusm/4bf044ec60/713
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="Discovery Turbo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac2c475dbdb448898e219c4a51c1f848.png" group-title="England",Discovery Turbo
+http://kuchini.site:8080/xusm/4bf044ec60/1114
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="Discovery World" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/15e5cd004d609028edf73514b493c1bf.png" group-title="England",Discovery World
+http://kuchini.site:8080/xusm/4bf044ec60/708
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b81b699ab1552f3c15dea79e34e5f017.png" group-title="England",Disney Channel
+http://kuchini.site:8080/xusm/4bf044ec60/1113
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="Disney Junior" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="England",Disney Junior
+http://kuchini.site:8080/xusm/4bf044ec60/1112
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" group-title="England",Disney XD
+http://kuchini.site:8080/xusm/4bf044ec60/1111
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4da07a802fec387b6b52048f87851ac.png" group-title="England",DMAX
+http://kuchini.site:8080/xusm/4bf044ec60/1604
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff9b7f48a48b490a48d38c4e8855d8fb.png" group-title="England",Drama
+http://kuchini.site:8080/xusm/4bf044ec60/4638
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/636d230717e1a437342b61b5bd962860.png" group-title="England",Duck TV
+http://kuchini.site:8080/xusm/4bf044ec60/144753
+#EXTINF:-1 tvg-id="eentertainmentplus1.uk" tvg-name="E!" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3aab91d368ed90a6b7826948ae2629c3.png" group-title="England",E!
+http://kuchini.site:8080/xusm/4bf044ec60/1542
+#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2b6f28d8e5f158ddb35b0bf7809ff76f.png" group-title="England",E4
+http://kuchini.site:8080/xusm/4bf044ec60/1110
+#EXTINF:-1 tvg-id="" tvg-name="E4 +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/acdb3d43e30f95b2119e7d84654666c5.png" group-title="England",E4 +1
+http://kuchini.site:8080/xusm/4bf044ec60/290662
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="Eden" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44debcf2546b05ede72e2f7c927ed1e2.png" group-title="England",Eden
+http://kuchini.site:8080/xusm/4bf044ec60/1109
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="England",Edge Sport
+http://kuchini.site:8080/xusm/4bf044ec60/54012
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="euronews" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/007c8ba01ac4221d8d473f33743b6d0f.png" group-title="England",euronews
+http://kuchini.site:8080/xusm/4bf044ec60/1554
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="EUROSPORT 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="England",EUROSPORT 1
+http://kuchini.site:8080/xusm/4bf044ec60/692
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="England",EUROSPORT 2
+http://kuchini.site:8080/xusm/4bf044ec60/1555
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b5aa0b1a7fd0f70015ce655b639d7c02.png" group-title="England",EWTN
+http://kuchini.site:8080/xusm/4bf044ec60/281663
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e540f6293dc0192541a13cab82adba94.png" group-title="England",Film 4
+http://kuchini.site:8080/xusm/4bf044ec60/1541
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="Food Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8e2efdee6ab760a91c7d0ffb80bbab1.png" group-title="England",Food Network
+http://kuchini.site:8080/xusm/4bf044ec60/4658
+#EXTINF:-1 tvg-id="goodfood.uk" tvg-name=" foodxp" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ba1c4c71e4b87f54f9a4691e9a2554a5.png" group-title="England",foodxp
+http://kuchini.site:8080/xusm/4bf044ec60/11450
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="France 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e97629d9ff75c0936af6952c6131504f.png" group-title="England",France 24
+http://kuchini.site:8080/xusm/4bf044ec60/11560
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="FreeSports" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d80bfc06c6ce14109aff8a276ef9a779.png" group-title="England",FreeSports
+http://kuchini.site:8080/xusm/4bf044ec60/37876
+#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/87191a7f320014807d52d5f26ab879b6.png" group-title="England",FS2
+http://kuchini.site:8080/xusm/4bf044ec60/296737
+#EXTINF:-1 tvg-id="" tvg-name="GB News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5c7fc32dcbea95186a30a71b6956a52b.jpg" group-title="England",GB News
+http://kuchini.site:8080/xusm/4bf044ec60/284027
+#EXTINF:-1 tvg-id="" tvg-name="Ginx eSports" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/784ad650798c209aa5dfcd68b65b307c.png" group-title="England",Ginx eSports
+http://kuchini.site:8080/xusm/4bf044ec60/15913
+#EXTINF:-1 tvg-id="" tvg-name="God TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1787d85259dedf72ca8816dd2339b995.png" group-title="England",God TV
+http://kuchini.site:8080/xusm/4bf044ec60/22338
+#EXTINF:-1 tvg-id="" tvg-name="Gold" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/f9e4a7364e37375fc064a73cef1d6bd8.svg" group-title="England",Gold
+http://kuchini.site:8080/xusm/4bf044ec60/297105
+#EXTINF:-1 tvg-id="" tvg-name="Gold +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/a74fadd3deaf022761b0b027750bf218.svg" group-title="England",Gold +1
+http://kuchini.site:8080/xusm/4bf044ec60/297106
+#EXTINF:-1 tvg-id="" tvg-name="GoodNews TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa7a165c8c66ca7bf74536e1d790bb9f.png" group-title="England",GoodNews TV
+http://kuchini.site:8080/xusm/4bf044ec60/201133
+#EXTINF:-1 tvg-id="" tvg-name="Great Movies +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/cd75453c8297427fd25ac924aee64750.png" group-title="England",Great Movies +1
+http://kuchini.site:8080/xusm/4bf044ec60/173235
+#EXTINF:-1 tvg-id="" tvg-name="Great Movies Action +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/122a63cd5204a60ee2ac00330b193cdb.png" group-title="England",UK: Great Movies Action +1
+http://kuchini.site:8080/xusm/4bf044ec60/286775
+#EXTINF:-1 tvg-id="" tvg-name="Great Movies Classic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6e850858ee098dcfd061453baceedbb9.png" group-title="England",Great Movies Classic
+http://kuchini.site:8080/xusm/4bf044ec60/290529
+#EXTINF:-1 tvg-id="" tvg-name="Great Movies Classic +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4d50b83c22e17977d5ff4f12cb848e63.png" group-title="England",Great Movies Classic +1
+http://kuchini.site:8080/xusm/4bf044ec60/285334
+#EXTINF:-1 tvg-id="" tvg-name="Great TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/121e0bbffaa62ddd43f126a2628196b5.png" group-title="England",Great TV
+http://kuchini.site:8080/xusm/4bf044ec60/291220
+#EXTINF:-1 tvg-id="" tvg-name="Great TV +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/60a940667f85a840cc38f838bdb413b0.png" group-title="England",Great TV +1
+http://kuchini.site:8080/xusm/4bf044ec60/286776
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a550bbc3691f6e7d84d7ef27176e8ef7.png" group-title="England",HBO Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/151864
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/642cbbc88d00591ed00390a765fd70fb.png" group-title="England",HGTV
+http://kuchini.site:8080/xusm/4bf044ec60/1600
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6b57b06e70829b1d9aed1d7a04dcc28d.png" group-title="England",History
+http://kuchini.site:8080/xusm/4bf044ec60/282756
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/06d3d7feaeb2fe01835fb88fe2211305.jpg" group-title="England",History 2
+http://kuchini.site:8080/xusm/4bf044ec60/1601
+#EXTINF:-1 tvg-id="" tvg-name="HobbyMaker" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",HobbyMaker
+http://kuchini.site:8080/xusm/4bf044ec60/296396
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="Horror Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fca4532706611b0898b7606f0d1c6764.png" group-title="England",Horror Channel
+http://kuchini.site:8080/xusm/4bf044ec60/736
+#EXTINF:-1 tvg-id="" tvg-name="Horror Channel +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e45e6d83d5b685b288df4598dc145ee6.png" group-title="England",Horror Channel +1
+http://kuchini.site:8080/xusm/4bf044ec60/173236
+#EXTINF:-1 tvg-id="" tvg-name="Horse & Country TV Sverige" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1dccb185ae350240e14ca4e8c397ba85.png" group-title="England",Horse & Country TV Sverige
+http://kuchini.site:8080/xusm/4bf044ec60/5347
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/881df5f496a975889fd4b98902dc85ed.png" group-title="England",Investigation Discovery
+http://kuchini.site:8080/xusm/4bf044ec60/278449
+#EXTINF:-1 tvg-id="" tvg-name="Jewellery Maker" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",Jewellery Maker
+http://kuchini.site:8080/xusm/4bf044ec60/166001
+#EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8771649e3bc6d12c1f55fc4457f8be04.png" group-title="England",JimJam
+http://kuchini.site:8080/xusm/4bf044ec60/33604
+#EXTINF:-1 tvg-id="" tvg-name="JML Direct" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f939e7434d755ce490dc267edac1b942.png" group-title="England",JML Direct
+http://kuchini.site:8080/xusm/4bf044ec60/286773
+#EXTINF:-1 tvg-id="" tvg-name="Kerrang" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/e43581a79e7b544cb26b1728de0bb0d5.png" group-title="England",Kerrang
+http://kuchini.site:8080/xusm/4bf044ec60/286913
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="KICC TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/06762c4db3b3a39c079ab83b55a4335c.png" group-title="England",KICC TV
+http://kuchini.site:8080/xusm/4bf044ec60/7550
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="Kiss TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/002004c71b669cd6aa77ce736b39c84f.png" group-title="England",Kiss TV
+http://kuchini.site:8080/xusm/4bf044ec60/4746
+#EXTINF:-1 tvg-id="" tvg-name="LA Muscle TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9f2a2ab797290fc714521b0ecfef25c8.png" group-title="England",LA Muscle TV
+http://kuchini.site:8080/xusm/4bf044ec60/166022
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="LFC TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="England",LFC TV
+http://kuchini.site:8080/xusm/4bf044ec60/4721
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/79c38d5451dd2c7913db57d2c9a49909.png" group-title="England",Lifetime
+http://kuchini.site:8080/xusm/4bf044ec60/297104
+#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b9b0b402c2f91e70573dabee46aa57.png" group-title="England",Lolly Kids
+http://kuchini.site:8080/xusm/4bf044ec60/265254
+#EXTINF:-1 tvg-id="" tvg-name="London Live" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/633eb7e9350a03f21bf9d883a68e36c5.png" group-title="England",London Live
+http://kuchini.site:8080/xusm/4bf044ec60/286912
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0989189834b0d6e35dbf7f27f696cf84.png" group-title="England",Love Nature
+http://kuchini.site:8080/xusm/4bf044ec60/78665
+#EXTINF:-1 tvg-id="" tvg-name="Magic TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/79d18cb68fdb4cbe950040cf7d443f46.png" group-title="England",Magic TV
+http://kuchini.site:8080/xusm/4bf044ec60/280282
+#EXTINF:-1 tvg-id="" tvg-name="More 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/28fe24ea211a80c36000175176a99fc4.png" group-title="England",More 4
+http://kuchini.site:8080/xusm/4bf044ec60/280284
+#EXTINF:-1 tvg-id="" tvg-name="MotoRRacing" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c5315a189195023bf96bd76161880f5a.png" group-title="England",MotoRRacing
+http://kuchini.site:8080/xusm/4bf044ec60/295426
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="MUTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="England",MUTV
+http://kuchini.site:8080/xusm/4bf044ec60/1102
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="NAT GEO" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/525fe2486b5af4891ec9a91dd826290d.png" group-title="England",NAT GEO
+http://kuchini.site:8080/xusm/4bf044ec60/1101
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="NAT GEO Wild" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f948b290a5db64efd6899586fb77810b.png" group-title="England",NAT GEO Wild
+http://kuchini.site:8080/xusm/4bf044ec60/724
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="Nick Junior" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/282cf1ec1c6d0a176440c15caa844e60.png" group-title="England",Nick Junior
+http://kuchini.site:8080/xusm/4bf044ec60/1098
+#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" group-title="England",nickelodeon
+http://kuchini.site:8080/xusm/4bf044ec60/281864
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="nicktoons" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/725a1c58e36efa9a43bacf845b757d9c.png" group-title="England",nicktoons
+http://kuchini.site:8080/xusm/4bf044ec60/740
+#EXTINF:-1 tvg-id="channelaka.uk" tvg-name="Now 70s" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a7d0a511226fce3ea3842a91056762d9.png" group-title="England",Now 70s
+http://kuchini.site:8080/xusm/4bf044ec60/65074
+#EXTINF:-1 tvg-id="mtvrocks.uk" tvg-name="Now 80s" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7330c92fcbc8b452e64e160cf048cc21.png" group-title="England",Now 80s
+http://kuchini.site:8080/xusm/4bf044ec60/4738
+#EXTINF:-1 tvg-id="Paramount.uk" tvg-name="Paramount Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6d6547ba5fa4052f8e1982bf76ca1459.png" group-title="England",Paramount Network
+http://kuchini.site:8080/xusm/4bf044ec60/4637
+#EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/79b7fd50e6565f6f08ab8e75e74dd347.png" group-title="England",PBS America
+http://kuchini.site:8080/xusm/4bf044ec60/296601
+#EXTINF:-1 tvg-id="" tvg-name="Pick" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ce6b75f4449f75e43a733c05820c997.png" group-title="England",Pick
+http://kuchini.site:8080/xusm/4bf044ec60/1578
+#EXTINF:-1 tvg-id="" tvg-name="Pop" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/933ce6167d33958dc29a02179a4b382b.jpg" group-title="England",Pop
+http://kuchini.site:8080/xusm/4bf044ec60/1599
+#EXTINF:-1 tvg-id="" tvg-name="Pop +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9905dea05c5bc94d21789c4c31fc54c9.png" group-title="England",Pop +1
+http://kuchini.site:8080/xusm/4bf044ec60/165932
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="Pop Max" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/577986769451a77f9b92cf2150ca0bfd.png" group-title="England",Pop Max
+http://kuchini.site:8080/xusm/4bf044ec60/1598
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="Premier Sports 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="England",Premier Sports 1
+http://kuchini.site:8080/xusm/4bf044ec60/1097
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="England",Premier Sports 2
+http://kuchini.site:8080/xusm/4bf044ec60/4723
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="Quest" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aadc2dc16caad7c0e3f2d7a0fc36082.png" group-title="England",Quest
+http://kuchini.site:8080/xusm/4bf044ec60/1096
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="Quest Red" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baa9b304a67a98daed1153076ad845cb.png" group-title="England",Quest Red
+http://kuchini.site:8080/xusm/4bf044ec60/1577
+#EXTINF:-1 tvg-id="" tvg-name="Quest Red +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4f25cad29f90794049b686ae56df337.png" group-title="England",Quest Red +1
+http://kuchini.site:8080/xusm/4bf044ec60/201131
+#EXTINF:-1 tvg-id="" tvg-name="QVC Beauty" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14e81630627894f20fcdf9c8e1005d62.png" group-title="England",QVC Beauty
+http://kuchini.site:8080/xusm/4bf044ec60/48644
+#EXTINF:-1 tvg-id="" tvg-name="QVC UK +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/57a6c69d624f3354b838a37585261ca8.png" group-title="England",QVC UK +1
+http://kuchini.site:8080/xusm/4bf044ec60/294543
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="RACING TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bfd35bd3d4c2f735e85a6ca1ad12ab5.png" group-title="England",RACING TV
+http://kuchini.site:8080/xusm/4bf044ec60/731
+#EXTINF:-1 tvg-id="reallives.uk" tvg-name="Really" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb2719d77f7a4ee4483f140e5a38b8f2.png" group-title="England",Really
+http://kuchini.site:8080/xusm/4bf044ec60/742
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0d817f0109f2d3b50c6c3aa54898b014.png" group-title="England",RedBull TV
+http://kuchini.site:8080/xusm/4bf044ec60/85429
+#EXTINF:-1 tvg-id="" tvg-name="Revelation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7b134ceb8047f8f7d140ebebf60ea27d.png" group-title="England",Revelation
+http://kuchini.site:8080/xusm/4bf044ec60/157285
+#EXTINF:-1 tvg-id="rt.uk" tvg-name="RT News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e696152cc488e733349c8c5e70d94e2.png" group-title="England",RT News
+http://kuchini.site:8080/xusm/4bf044ec60/48883
+#EXTINF:-1 tvg-id="" tvg-name="S4C" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c9bc99ebec513ffa2966f2b5e0ca9f4.png" group-title="England",S4C
+http://kuchini.site:8080/xusm/4bf044ec60/4775
+#EXTINF:-1 tvg-id="" tvg-name="Safeer TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/74e684b76a84394087254910b9776117.jpg" group-title="England",Safeer TV
+http://kuchini.site:8080/xusm/4bf044ec60/267720
+#EXTINF:-1 tvg-id="" tvg-name="Sewing Street" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/28a1ac7e6fe0b42a4b8db2b2ab410813.jpg" group-title="England",Sewing Street
+http://kuchini.site:8080/xusm/4bf044ec60/296397
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arts" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e41f551b8f8642a7a3c0c439b8b4e880.png" group-title="England",Sky Arts
+http://kuchini.site:8080/xusm/4bf044ec60/1094
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ea3a16e80ddd47e86d06303f8ff66020.png" group-title="England",Sky Atlantic
+http://kuchini.site:8080/xusm/4bf044ec60/1093
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Cinema Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21877e8c4862b4484909790e64710db8.png" group-title="England",Sky Cinema Action
+http://kuchini.site:8080/xusm/4bf044ec60/1092
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Animation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/dfd6c4c8fdd948a565e708da11dab221.png" group-title="England",Sky Cinema Animation
+http://kuchini.site:8080/xusm/4bf044ec60/1090
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce99abde68cf1f748161e957ca140e47.png" group-title="England",Sky Cinema Drama
+http://kuchini.site:8080/xusm/4bf044ec60/1089
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9655820c8d0b584d8ff4178881022860.png" group-title="England",Sky Cinema Family
+http://kuchini.site:8080/xusm/4bf044ec60/727
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/984ca23ee3df2acd84b16320d6e878b0.png" group-title="England",Sky Cinema Greats
+http://kuchini.site:8080/xusm/4bf044ec60/1087
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d5825492e041478c8cad7c4303964212.png" group-title="England",Sky Cinema Hits
+http://kuchini.site:8080/xusm/4bf044ec60/1086
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premiere" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png" group-title="England",Sky Cinema Premiere
+http://kuchini.site:8080/xusm/4bf044ec60/1085
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema sci-fi Horror" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/71d59bc373401d25495a3af67e4c7168.png" group-title="England",Sky Cinema sci-fi Horror
+http://kuchini.site:8080/xusm/4bf044ec60/725
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4d97ef6c2a49a3c596ca3a87c90751c0.png" group-title="England",Sky Cinema Select
+http://kuchini.site:8080/xusm/4bf044ec60/726
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/38c736e28e49e5ce222190667af6c8b7.png" group-title="England",Sky Cinema Thriller
+http://kuchini.site:8080/xusm/4bf044ec60/1082
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="Sky Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f741f51e98e04e37bc78106cae981afc.png" group-title="England",Sky Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/1091
+#EXTINF:-1 tvg-id="" tvg-name="Sky Crime" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c454832c7f1a24ea0394a85d880bcc0b.jpg" group-title="England",Sky Crime
+http://kuchini.site:8080/xusm/4bf044ec60/15155
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6998cb52fd64b65c0f4efbb2d4cf6a62.png" group-title="England",Sky Documentaries
+http://kuchini.site:8080/xusm/4bf044ec60/187346
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54b242215ebf5c890cfdc03b82aece0c.png" group-title="England",Sky News
+http://kuchini.site:8080/xusm/4bf044ec60/1081
+#EXTINF:-1 tvg-id="" tvg-name="Sky One" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/59d97222b7d71d90758196d27c9dc2ca.jpg" group-title="England",Sky One
+http://kuchini.site:8080/xusm/4bf044ec60/1080
+#EXTINF:-1 tvg-id="" tvg-name="Sky Showcase" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f4b5e2265a16d082987dc9d5aada57dc.png" group-title="England",Sky Showcase
+http://kuchini.site:8080/xusm/4bf044ec60/17041
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="England",Sky Sports Arena
+http://kuchini.site:8080/xusm/4bf044ec60/267
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="England",Sky Sports Cricket
+http://kuchini.site:8080/xusm/4bf044ec60/269
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="England",Sky Sports F1
+http://kuchini.site:8080/xusm/4bf044ec60/265
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="England",Sky Sports Football
+http://kuchini.site:8080/xusm/4bf044ec60/266
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="England",Sky Sports Golf
+http://kuchini.site:8080/xusm/4bf044ec60/264
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="England",Sky Sports Main Event
+http://kuchini.site:8080/xusm/4bf044ec60/283053
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="England",Sky Sports Mix
+http://kuchini.site:8080/xusm/4bf044ec60/261
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="England",Sky Sports News
+http://kuchini.site:8080/xusm/4bf044ec60/260
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports NFL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",Sky Sports NFL
+http://kuchini.site:8080/xusm/4bf044ec60/281849
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="England",Sky Sports Premier League
+http://kuchini.site:8080/xusm/4bf044ec60/263
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="England",Sky Sports Racing
+http://kuchini.site:8080/xusm/4bf044ec60/163132
+#EXTINF:-1 tvg-id="" tvg-name="Sky Witness" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e6e70a727cd2f9105a1135d68679ce7f.png" group-title="England",Sky Witness
+http://kuchini.site:8080/xusm/4bf044ec60/11738
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/38aec864bb252f0bc0f5f40c05a461eb.png" group-title="England",Smithsonian Channel
+http://kuchini.site:8080/xusm/4bf044ec60/266984
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e0c17a5b9351f65e4f8299094a86f348.png" group-title="England",Spotlight TV
+http://kuchini.site:8080/xusm/4bf044ec60/157288
+#EXTINF:-1 tvg-id="" tvg-name="STV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/50a6c5b817dad268c02054f96f013976.jpg" group-title="England",STV
+http://kuchini.site:8080/xusm/4bf044ec60/192776
+#EXTINF:-1 tvg-id="" tvg-name="Super JoJo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/fdbfd5be8c0f9a02f5744e0305d02a4e.jpeg" group-title="England",Super JoJo
+http://kuchini.site:8080/xusm/4bf044ec60/296499
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="SYFY" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7efa6e7db54932ddfe956aac206341dc.png" group-title="England",SYFY
+http://kuchini.site:8080/xusm/4bf044ec60/1068
+#EXTINF:-1 tvg-id="" tvg-name="TBN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/f625e6e704d2bad58dd2d7b49c4c6d6b.jpg" group-title="England",TBN
+http://kuchini.site:8080/xusm/4bf044ec60/157286
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="TCM Movies" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a93620b6722c8366ea51c850e7b2f85b.png" group-title="England",TCM Movies
+http://kuchini.site:8080/xusm/4bf044ec60/4711
+#EXTINF:-1 tvg-id="" tvg-name="Thane" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd36cef082db51dca25e1dce6b20f15f.png" group-title="England",Thane
+http://kuchini.site:8080/xusm/4bf044ec60/11469
+#EXTINF:-1 tvg-id="" tvg-name="The Box" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c1f338c229e7693f6361883c5a28e701.png" group-title="England",The Box
+http://kuchini.site:8080/xusm/4bf044ec60/4740
+#EXTINF:-1 tvg-id="" tvg-name="The Craft Store" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/15be55dbd0b6c83cdf7146ffabd6ed87.jpg" group-title="England",The Craft Store
+http://kuchini.site:8080/xusm/4bf044ec60/157284
+#EXTINF:-1 tvg-id="" tvg-name="Tiny Pop" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b5494083b00b7df904e0fdda6fbed046.jpg" group-title="England",Tiny Pop
+http://kuchini.site:8080/xusm/4bf044ec60/264542
+#EXTINF:-1 tvg-id="" tvg-name="TJC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9fabce6ca015fbcd071f3b00281e3103.png" group-title="England",TJC
+http://kuchini.site:8080/xusm/4bf044ec60/269049
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1b3c30f8d84cf2f0b9ee05c76990542a.png" group-title="England",TLC
+http://kuchini.site:8080/xusm/4bf044ec60/1067
+#EXTINF:-1 tvg-id="" tvg-name="Together TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/91557739f01cde4624a623efaae7a8cc.png" group-title="England",Together TV
+http://kuchini.site:8080/xusm/4bf044ec60/157281
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Hits" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/1a83e499838be3091cba2a2e7e85add5.png" group-title="England",TRACE Hits
+http://kuchini.site:8080/xusm/4bf044ec60/296602
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Vault" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e2b82f003bdba04f47a4679e6321b936.png" group-title="England",TRACE Vault
+http://kuchini.site:8080/xusm/4bf044ec60/296603
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/d60b85bff35709ba4027badeadc920b9.jpg" group-title="England",Travel Channel
+http://kuchini.site:8080/xusm/4bf044ec60/295133
+#EXTINF:-1 tvg-id="" tvg-name="Travelxp" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e894e4c072eeb36e62f7e684cf53fd6f.png" group-title="England",Travelxp
+http://kuchini.site:8080/xusm/4bf044ec60/157273
+#EXTINF:-1 tvg-id="" tvg-name="TV Warehouse" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/06a3a2502697ea74d7825dc41999c6a7.png" group-title="England",TV Warehouse
+http://kuchini.site:8080/xusm/4bf044ec60/286772
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/19a7a658b3e390fc956bb56882d408cc.png" group-title="England",Universal TV
+http://kuchini.site:8080/xusm/4bf044ec60/278519
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7102d7cadec9ec4a7bd4221510f86dab.png" group-title="England",Viasat Explore
+http://kuchini.site:8080/xusm/4bf044ec60/187632
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/daf22d16c512c4fcb8da38f8a0fb8a26.png" group-title="England",Viasat History
+http://kuchini.site:8080/xusm/4bf044ec60/16398
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e3cc00ffe850e5f29097022a46525c2.png" group-title="England",Viasat Nature
+http://kuchini.site:8080/xusm/4bf044ec60/65910
+#EXTINF:-1 tvg-id="" tvg-name="Watch" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",Watch
+http://kuchini.site:8080/xusm/4bf044ec60/280287
+#EXTINF:-1 tvg-id="" tvg-name="WION" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/120a2d4bfb0734329085097ef5b2fa86.png" group-title="England",WION
+http://kuchini.site:8080/xusm/4bf044ec60/296469
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="Yesterday" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2709319fbbdc11c09f807891bd965720.png" group-title="England",Yesterday
+http://kuchini.site:8080/xusm/4bf044ec60/1065
+#EXTINF:-1 tvg-id="" tvg-name="Yesterday +1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="England",Yesterday +1
+http://kuchini.site:8080/xusm/4bf044ec60/296270
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f24cae011b0a63d9a3c461492121154e.png" group-title="Italien",Rai 1
+http://kuchini.site:8080/xusm/4bf044ec60/898
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="Rai 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6e5e4a72e124c75fb44ed1a7d246639c.png" group-title="Italien",Rai 2
+http://kuchini.site:8080/xusm/4bf044ec60/899
+#EXTINF:-1 tvg-id="raitre.it" tvg-name="Rai 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5fae9e7fda080b3398c229226feb429c.png" group-title="Italien",Rai 3
+http://kuchini.site:8080/xusm/4bf044ec60/1979
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3442a9dd9e0ec6ecb0d03a9ad69e164a.png" group-title="Italien",Rai 4
+http://kuchini.site:8080/xusm/4bf044ec60/900
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8ad07dfa9b160f1d92c00344fbe3a51.png" group-title="Italien",Rai 5
+http://kuchini.site:8080/xusm/4bf044ec60/901
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ccf258996cb23590191ae1acbb2fac5d.png" group-title="Italien",Rai Gulp
+http://kuchini.site:8080/xusm/4bf044ec60/903
+#EXTINF:-1 tvg-id="" tvg-name="Rai Italia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b50eeede44e992563c681fd3b646ba85.png" group-title="Italien",Rai Italia
+http://kuchini.site:8080/xusm/4bf044ec60/38715
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4193a37970102d45cfd7630e4ba19f36.png" group-title="Italien",Rai Movie
+http://kuchini.site:8080/xusm/4bf044ec60/1980
+#EXTINF:-1 tvg-id="rainews.it" tvg-name="Rai News 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/79de3e06aa30221dd3a67dfafd222afc.png" group-title="Italien",Rai News 24
+http://kuchini.site:8080/xusm/4bf044ec60/905
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f11a08219ade7b6d4ca9667f83c4eebd.png" group-title="Italien",Rai Premium
+http://kuchini.site:8080/xusm/4bf044ec60/906
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e0e32ae0cc19c66645628fc87dae30.png" group-title="Italien",Rai Scuola
+http://kuchini.site:8080/xusm/4bf044ec60/1985
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d3465ae3ef0b5b2db2448c0b33cf55f2.png" group-title="Italien",Rai Sport+
+http://kuchini.site:8080/xusm/4bf044ec60/295036
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f03ee80e171d7b5da8955a1c9f775086.png" group-title="Italien",Rai Storia
+http://kuchini.site:8080/xusm/4bf044ec60/1983
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0f1a3d86616443587c26cca3f7d0d719.png" group-title="Italien",Rai Yoyo
+http://kuchini.site:8080/xusm/4bf044ec60/907
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/30a6b88236766c3780a44176ed19a948.png" group-title="Italien",Italia 1
+http://kuchini.site:8080/xusm/4bf044ec60/986
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/12f01d9c51fd2443a0e205130c061382.png" group-title="Italien",Italia 2
+http://kuchini.site:8080/xusm/4bf044ec60/987
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6297c9a866903da2dc2d2c0ade678d10.png" group-title="Italien",Canale 5
+http://kuchini.site:8080/xusm/4bf044ec60/902
+#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4669b43b689bee8c86fe5638cb7233ea.png" group-title="Italien",La 5
+http://kuchini.site:8080/xusm/4bf044ec60/3541
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2efcd05c61e6ccaf8f5026a8c481e764.png" group-title="Italien",La 7
+http://kuchini.site:8080/xusm/4bf044ec60/1996
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="La 7 d" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8534616315281497afc3050abcb2bdf3.png" group-title="Italien",La 7 d
+http://kuchini.site:8080/xusm/4bf044ec60/988
+#EXTINF:-1 tvg-id="" tvg-name="Tele Abruzzo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/f2d0a3dba5b32f16e1cbb287236d7458.png" group-title="Italien",Tele Abruzzo
+http://kuchini.site:8080/xusm/4bf044ec60/267475
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="20 Mediaset" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/58b8cbae5d698fe666a6bda9b8b21e83.png" group-title="Italien",20 Mediaset
+http://kuchini.site:8080/xusm/4bf044ec60/961
+#EXTINF:-1 tvg-id="babytv.it" tvg-name="Baby TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e6fb769f0d5c77677d7913c75377044.png" group-title="Italien",Baby TV
+http://kuchini.site:8080/xusm/4bf044ec60/31824
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b0bdcd750142bc54929eeaa30e896e4.jpg" group-title="Italien",Boing
+http://kuchini.site:8080/xusm/4bf044ec60/966
+#EXTINF:-1 tvg-id="cacciapesca.it" tvg-name="Caccia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a3c746fb4e8acba2a654f3d193eb1745.png" group-title="Italien",Caccia
+http://kuchini.site:8080/xusm/4bf044ec60/6784
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/592daf9d882f1fcb84bf8c072e9e463d.png" group-title="Italien",Cartoonito
+http://kuchini.site:8080/xusm/4bf044ec60/975
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5441716cc011afc120da09a8907874c3.png" group-title="Italien",Cielo
+http://kuchini.site:8080/xusm/4bf044ec60/976
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0de1927f10af26a018abb19d1a94ac49.png" group-title="Italien",Discovery Channel
+http://kuchini.site:8080/xusm/4bf044ec60/7868
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/58eee1d2403900d8ded25fe6e9cf8922.png" group-title="Italien",DMAX
+http://kuchini.site:8080/xusm/4bf044ec60/2006
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="Italien",EUROSPORT 1
+http://kuchini.site:8080/xusm/4bf044ec60/995
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" group-title="Italien",EUROSPORT 2
+http://kuchini.site:8080/xusm/4bf044ec60/1040
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cc420d68babdea42cb0d29ace5d99b4e.png" group-title="Italien",Focus
+http://kuchini.site:8080/xusm/4bf044ec60/8163
+#EXTINF:-1 tvg-id="fox.it" tvg-name="Fox Life" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3cdc0821e3330850e02b1e9ee3733832.png" group-title="Italien",Fox Life
+http://kuchini.site:8080/xusm/4bf044ec60/3565
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="Frisbee" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/85cf457c27a8043633909e8c38d08527.png" group-title="Italien",Frisbee
+http://kuchini.site:8080/xusm/4bf044ec60/2003
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3d42ca326b70ef1802b1d848b635b4be.png" group-title="Italien",Giallo
+http://kuchini.site:8080/xusm/4bf044ec60/2004
+#EXTINF:-1 tvg-id="qvc.it" tvg-name="Iris" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/387f14695de5f0ecaf8c6005c823994a.png" group-title="Italien",Iris
+http://kuchini.site:8080/xusm/4bf044ec60/2002
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/32706faa717cc83c7e12f4607d046dc2.png" group-title="Italien",Mediaset Extra
+http://kuchini.site:8080/xusm/4bf044ec60/992
+#EXTINF:-1 tvg-id="k2.it" tvg-name="Nove" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f90f273d55d3158ac733391d92e25805.png" group-title="Italien",Nove
+http://kuchini.site:8080/xusm/4bf044ec60/1991
+#EXTINF:-1 tvg-id="" tvg-name="Prima TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/18deb481989924a2f08e73ee997ab829.png" group-title="Italien",Prima TV
+http://kuchini.site:8080/xusm/4bf044ec60/265376
+#EXTINF:-1 tvg-id="" tvg-name="Prim Antenna TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Prim Antenna TV
+http://kuchini.site:8080/xusm/4bf044ec60/296097
+#EXTINF:-1 tvg-id="primafila10.it" tvg-name="Primafila 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/de77b233726cf1fe2cb22fbc4cc0a265.png" group-title="Italien",Primafila 2
+http://kuchini.site:8080/xusm/4bf044ec60/2017
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/987ef562f0be70189791d43a11b0bb0b.png" group-title="Italien",Primafila 3
+http://kuchini.site:8080/xusm/4bf044ec60/932
+#EXTINF:-1 tvg-id="primafila2.it" tvg-name="Primafila 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1f99abfea54a551e0d39726a2b2f39d1.png" group-title="Italien",Primafila 4
+http://kuchini.site:8080/xusm/4bf044ec60/933
+#EXTINF:-1 tvg-id="primafila5.it" tvg-name="Primafila 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/22ed7acae48b24e90f542d0db510f7e5.png" group-title="Italien",Primafila 5
+http://kuchini.site:8080/xusm/4bf044ec60/2013
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/91ebb351593da86ad84539cbe07d7b12.png" group-title="Italien",Primafila 7
+http://kuchini.site:8080/xusm/4bf044ec60/937
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/22fec3fab5963dd21e6b6fa1964dad2f.png" group-title="Italien",Primafila 8
+http://kuchini.site:8080/xusm/4bf044ec60/938
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 12" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/4112e77a753c57a110300639a7668aac.png" group-title="Italien",Primafila 12
+http://kuchini.site:8080/xusm/4bf044ec60/7895
+#EXTINF:-1 tvg-id="" tvg-name="12 TV Parma" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d4756f0a7ec39b2f9beb1943cbb9e2a1.png" group-title="Italien",12 TV Parma
+http://kuchini.site:8080/xusm/4bf044ec60/279918
+#EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/327ea218a6e6f811c34ba1c80c98f0a9.png" group-title="Italien",51 Radio TV
+http://kuchini.site:8080/xusm/4bf044ec60/16018
+#EXTINF:-1 tvg-id="" tvg-name="A3 News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/78b1a2642e63aaeb93b0878358710417.png" group-title="Italien",A3 News
+http://kuchini.site:8080/xusm/4bf044ec60/16016
+#EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="Real Time" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/417c7db5cab7b6e85a04c0aa2b4c8551.png" group-title="Italien",Real Time
+http://kuchini.site:8080/xusm/4bf044ec60/977
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="RTL 1025" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dd674ed49a68e9b078bb6022e42b980.png" group-title="Italien",RTL 1025
+http://kuchini.site:8080/xusm/4bf044ec60/42795
+#EXTINF:-1 tvg-id="" tvg-name="AB Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/94186f397ba32c66733dd88070795990.png" group-title="Italien",AB Channel
+http://kuchini.site:8080/xusm/4bf044ec60/158711
+#EXTINF:-1 tvg-id="" tvg-name="Alpa Uno TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Alpa Uno TV
+http://kuchini.site:8080/xusm/4bf044ec60/279912
+#EXTINF:-1 tvg-id="" tvg-name="Alto Adige TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/73b685f41f7acfe7753a7c3b64c53063.png" group-title="Italien",Alto Adige TV
+http://kuchini.site:8080/xusm/4bf044ec60/18673
+#EXTINF:-1 tvg-id="" tvg-name="Antenna 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/43bf1f1a9db999ba3264bd3663167c18.png" group-title="Italien",Antenna 2
+http://kuchini.site:8080/xusm/4bf044ec60/279913
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sicilia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0c97b2a57cf1423fa7bfc710bd0ccd9e.jpg" group-title="Italien",Antenna Sicilia
+http://kuchini.site:8080/xusm/4bf044ec60/151663
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 33" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Antenna Sud 33
+http://kuchini.site:8080/xusm/4bf044ec60/296098
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud Eventi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3808f781de58d727b5a883d831d41b55.png" group-title="Italien",Antenna Sud Eventi
+http://kuchini.site:8080/xusm/4bf044ec60/279915
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Tre A3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Antenna Tre A3
+http://kuchini.site:8080/xusm/4bf044ec60/296093
+#EXTINF:-1 tvg-id="" tvg-name="Arancia TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Arancia TV
+http://kuchini.site:8080/xusm/4bf044ec60/279914
+#EXTINF:-1 tvg-id="" tvg-name="Aurora Arte" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9e3cf99a1a1c5d3313c9bae3dfa347db.png" group-title="Italien",Aurora Arte
+http://kuchini.site:8080/xusm/4bf044ec60/8160
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Grimm Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Avengers Grimm Channel
+http://kuchini.site:8080/xusm/4bf044ec60/279910
+#EXTINF:-1 tvg-id="" tvg-name="Azzurra TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/5d206093f5a42ab701680287467706a1.png" group-title="Italien",Azzurra TV
+http://kuchini.site:8080/xusm/4bf044ec60/297040
+#EXTINF:-1 tvg-id="" tvg-name="Babayaga TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c3d9ecd827f8c8889238abf82bc1eb8f.png" group-title="Italien",Babayaga TV
+http://kuchini.site:8080/xusm/4bf044ec60/296586
+#EXTINF:-1 tvg-id="" tvg-name="Bellla & Monella TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ee9a150fc55e351c9125534a421bdcf7.png" group-title="Italien",Bellla & Monella TV
+http://kuchini.site:8080/xusm/4bf044ec60/279919
+#EXTINF:-1 tvg-id="" tvg-name="Bergamo TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2be8806d585bf5f20bc79ce67e3288c3.png" group-title="Italien",Bergamo TV
+http://kuchini.site:8080/xusm/4bf044ec60/296095
+#EXTINF:-1 tvg-id="" tvg-name="BIKE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2b9138af3518323a4940c09b16d8dfc2.png" group-title="Italien",BIKE
+http://kuchini.site:8080/xusm/4bf044ec60/22709
+#EXTINF:-1 tvg-id="" tvg-name="Blaze" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1caa9544204767bc0f9627b4f2247015.png" group-title="Italien",Blaze
+http://kuchini.site:8080/xusm/4bf044ec60/14747
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV 4K" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/be814c4e5b85e42629defde0ae040344.png" group-title="Italien",Bloomberg TV 4K
+http://kuchini.site:8080/xusm/4bf044ec60/279908
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/766e34949d3cb177af2403bab9119438.png" group-title="Italien",Boomerang
+http://kuchini.site:8080/xusm/4bf044ec60/9565
+#EXTINF:-1 tvg-id="" tvg-name="Byoblu" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a540bf0861d30e573a63c8673d66cf00.png" group-title="Italien",Byoblu
+http://kuchini.site:8080/xusm/4bf044ec60/296110
+#EXTINF:-1 tvg-id="" tvg-name="Cafe 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/45a1650bfb755c6a8035e0e1a97869fd.jpg" group-title="Italien",Cafe 24
+http://kuchini.site:8080/xusm/4bf044ec60/18678
+#EXTINF:-1 tvg-id="" tvg-name="Calabria Uno" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a6f864191aa96ddfd3c8bc1956ab16e0.png" group-title="Italien",Calabria Uno
+http://kuchini.site:8080/xusm/4bf044ec60/279917
+#EXTINF:-1 tvg-id="" tvg-name="Camera dei Deputati" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/091469802e9bd2b72fb980dc9fd7c4cf.png" group-title="Italien",Camera dei Deputati
+http://kuchini.site:8080/xusm/4bf044ec60/279906
+#EXTINF:-1 tvg-id="" tvg-name="Canale 2 TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ab1c86703fd5dce981aacdb634f53169.jpg" group-title="Italien",Canale 2 TV
+http://kuchini.site:8080/xusm/4bf044ec60/18773
+#EXTINF:-1 tvg-id="" tvg-name="Canale 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/46edd8ed2b24e3224c946208f1a97daf.jpg" group-title="Italien",Canale 7
+http://kuchini.site:8080/xusm/4bf044ec60/3534
+#EXTINF:-1 tvg-id="" tvg-name="Canale 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/30f92f764bee686c779164f3e418175f.jpg" group-title="Italien",Canale 8
+http://kuchini.site:8080/xusm/4bf044ec60/49029
+#EXTINF:-1 tvg-id="" tvg-name="Canale 10" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/864dba35d7bf85101ae38f10a7b9af9b.png" group-title="Italien",Canale 10
+http://kuchini.site:8080/xusm/4bf044ec60/3536
+#EXTINF:-1 tvg-id="" tvg-name="Canale 21" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Canale 21
+http://kuchini.site:8080/xusm/4bf044ec60/75587
+#EXTINF:-1 tvg-id="" tvg-name="Canale Europa" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Canale Europa
+http://kuchini.site:8080/xusm/4bf044ec60/279907
+#EXTINF:-1 tvg-id="" tvg-name="Carina TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/272f8af6907321f721fe2037f2b9611c.png" group-title="Italien",Carina TV
+http://kuchini.site:8080/xusm/4bf044ec60/74331
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae8686643287877d73369cf9257e066a.png" group-title="Italien",Cartoon Network
+http://kuchini.site:8080/xusm/4bf044ec60/9567
+#EXTINF:-1 tvg-id="" tvg-name="Cine 34 Mediaset" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Cine 34 Mediaset
+http://kuchini.site:8080/xusm/4bf044ec60/296084
+#EXTINF:-1 tvg-id="" tvg-name="Cine Star TV Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/8de1d35d2d233b90316af18c2f43f4fe.jpg" group-title="Italien",Cine Star TV Action
+http://kuchini.site:8080/xusm/4bf044ec60/996
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Segreto" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Cinema Segreto
+http://kuchini.site:8080/xusm/4bf044ec60/296080
+#EXTINF:-1 tvg-id="" tvg-name="CineMaraton" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/9745b53cc04a78c4a9cc216b481cd205.png" group-title="Italien",CineMaraton
+http://kuchini.site:8080/xusm/4bf044ec60/285534
+#EXTINF:-1 tvg-id="" tvg-name="CittaCeleste TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/607b02582903b0af7e262ae646aed2d3.png" group-title="Italien",CittaCeleste TV
+http://kuchini.site:8080/xusm/4bf044ec60/279941
+#EXTINF:-1 tvg-id="" tvg-name="Class CNBC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/02164bed25a04c05dfb488425f7e3212.png" group-title="Italien",Class CNBC
+http://kuchini.site:8080/xusm/4bf044ec60/279921
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ec40aed4d10ec07993bb75c37e1dfb99.png" group-title="Italien",Comedy Central
+http://kuchini.site:8080/xusm/4bf044ec60/279262
+#EXTINF:-1 tvg-id="" tvg-name="Company TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/51f59d1bc23d3eff79cbb216a800b0be.jpg" group-title="Italien",Company TV
+http://kuchini.site:8080/xusm/4bf044ec60/981
+#EXTINF:-1 tvg-id="" tvg-name="Cremona 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4fc34aab6f85f1a122e1440f30c2521e.png" group-title="Italien",Cremona 1
+http://kuchini.site:8080/xusm/4bf044ec60/279945
+#EXTINF:-1 tvg-id="" tvg-name="Cuore Ribelle TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1794b47b92ab89a5faa1cff8b4a3caed.jpg" group-title="Italien",Cuore Ribelle TV
+http://kuchini.site:8080/xusm/4bf044ec60/296085
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="Italien",DAZN 1
+http://kuchini.site:8080/xusm/4bf044ec60/79220
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="Italien",DAZN 2
+http://kuchini.site:8080/xusm/4bf044ec60/39497
+#EXTINF:-1 tvg-id="" tvg-name="Deejay TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c91a36f8a5504abea3dd672802050b14.png" group-title="Italien",Deejay TV
+http://kuchini.site:8080/xusm/4bf044ec60/9573
+#EXTINF:-1 tvg-id="" tvg-name="Discovery DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/3191fec232b7bd58d7728c89f9e81996.png" group-title="Italien",Discovery DMAX
+http://kuchini.site:8080/xusm/4bf044ec60/263655
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/46249e8cd2e38b782f7df654bbf12dcd.png" group-title="Italien",Discovery Science
+http://kuchini.site:8080/xusm/4bf044ec60/287758
+#EXTINF:-1 tvg-id="" tvg-name="Disney junior" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/fb50a384f85db6919c67afb48373edb4.png" group-title="Italien",Disney junior
+http://kuchini.site:8080/xusm/4bf044ec60/1988
+#EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1121ad5f83689b10c86d1db82a402cf8.png" group-title="Italien",Disney+
+http://kuchini.site:8080/xusm/4bf044ec60/50687
+#EXTINF:-1 tvg-id="" tvg-name="Donna Shopping" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f0e2490f7c1c19ce49bfda9b9778378a.png" group-title="Italien",Donna Shopping
+http://kuchini.site:8080/xusm/4bf044ec60/287511
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f4fdc594d75183757e649a60dd0b0ebf.png" group-title="Italien",Duck TV
+http://kuchini.site:8080/xusm/4bf044ec60/279924
+#EXTINF:-1 tvg-id="" tvg-name="Elive TV Brescia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9d56d3dc1a522425a80b05d8c8c14972.png" group-title="Italien",Elive TV Brescia
+http://kuchini.site:8080/xusm/4bf044ec60/145884
+#EXTINF:-1 tvg-id="" tvg-name="Entella TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Entella TV
+http://kuchini.site:8080/xusm/4bf044ec60/279942
+#EXTINF:-1 tvg-id="" tvg-name="Equ TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1c00b5e33ad51375c43f748877f4b340.png" group-title="Italien",Equ TV
+http://kuchini.site:8080/xusm/4bf044ec60/1053
+#EXTINF:-1 tvg-id="" tvg-name="Espansione TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f2e4644e832732a3f7230db3a9818536.png" group-title="Italien",Espansione TV
+http://kuchini.site:8080/xusm/4bf044ec60/165397
+#EXTINF:-1 tvg-id="" tvg-name="Esperia TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9d0355ecafb0450c0f960d8c6c85d894.png" group-title="Italien",Esperia TV
+http://kuchini.site:8080/xusm/4bf044ec60/9581
+#EXTINF:-1 tvg-id="" tvg-name="Euro Indie Music Chart TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a83a4cbe0695f0b2c4e2c4dea8b70211.png" group-title="Italien",Euro Indie Music Chart TV
+http://kuchini.site:8080/xusm/4bf044ec60/201810
+#EXTINF:-1 tvg-id="" tvg-name="Euro TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Euro TV
+http://kuchini.site:8080/xusm/4bf044ec60/287513
+#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7d729980ed05645c50b983f6c5377113.png" group-title="Italien",euronews
+http://kuchini.site:8080/xusm/4bf044ec60/77567
+#EXTINF:-1 tvg-id="" tvg-name="FAILARMY" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e3a2a921d229f02498e8baf23eef8ede.png" group-title="Italien",FAILARMY
+http://kuchini.site:8080/xusm/4bf044ec60/296086
+#EXTINF:-1 tvg-id="" tvg-name="Fano TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/631587b05b62230056921f21c7bd0a52.png" group-title="Italien",Fano TV
+http://kuchini.site:8080/xusm/4bf044ec60/18684
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV czech&slovak" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/91102ed57f8a11715c1b40c300ef38a8.png" group-title="Italien",Fashion TV czech&slovak
+http://kuchini.site:8080/xusm/4bf044ec60/85120
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Premium" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/eafe3f010d55a089bb81630d214f2171.png" group-title="Italien",Filmbox Premium
+http://kuchini.site:8080/xusm/4bf044ec60/295092
+#EXTINF:-1 tvg-id="" tvg-name="FM Italia TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b5d4794e46a4ae775ce2409de7e28714.png" group-title="Italien",FM Italia TV
+http://kuchini.site:8080/xusm/4bf044ec60/18685
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d20b060bd13ff799658f142d9f8c1db1.png" group-title="Italien",Food Network
+http://kuchini.site:8080/xusm/4bf044ec60/173564
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b9dd3552cde7f0df2d3b4bdd9d223e6f.png" group-title="Italien",Fox
+http://kuchini.site:8080/xusm/4bf044ec60/282054
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ace0108bdcd3a1f06574488429f6c29a.png" group-title="Italien",FOX Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/266635
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/a378de94a43c97886795c96f84c1a73e.png" group-title="Italien",Fox Crime
+http://kuchini.site:8080/xusm/4bf044ec60/1002
+#EXTINF:-1 tvg-id="" tvg-name="Gold 78" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Gold 78
+http://kuchini.site:8080/xusm/4bf044ec60/287514
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c9fd8671caa2231051028120d451ed90.png" group-title="Italien",HBO 3
+http://kuchini.site:8080/xusm/4bf044ec60/295091
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/26769c5f66a9b1afbc2844bcac465f5e.png" group-title="Italien",History
+http://kuchini.site:8080/xusm/4bf044ec60/264522
+#EXTINF:-1 tvg-id="" tvg-name="icaro TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d07acd1717322e5a62a7c7a6623ea168.png" group-title="Italien",icaro TV
+http://kuchini.site:8080/xusm/4bf044ec60/993
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/12fb92eba7244e63388d6e4e93e6b3ef.jpg" group-title="Italien",Inter TV
+http://kuchini.site:8080/xusm/4bf044ec60/1041
+#EXTINF:-1 tvg-id="" tvg-name="Italia 2 Mediaset" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/05a179e5728f5e0f8f85eacca437af0d.png" group-title="Italien",Italia 2 Mediaset
+http://kuchini.site:8080/xusm/4bf044ec60/169480
+#EXTINF:-1 tvg-id="" tvg-name="Italian Fishing TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/b27427949d3b52bad1307f1d919be43d.png" group-title="Italien",Italian Fishing TV
+http://kuchini.site:8080/xusm/4bf044ec60/63265
+#EXTINF:-1 tvg-id="" tvg-name="Iunior TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/83b4308a00560fc20f40945c829d0417.png" group-title="Italien",Iunior TV
+http://kuchini.site:8080/xusm/4bf044ec60/287518
+#EXTINF:-1 tvg-id="" tvg-name="Juventus TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/028529c717dc58aaa742de3adfc4a811.png" group-title="Italien",Juventus TV
+http://kuchini.site:8080/xusm/4bf044ec60/12328
+#EXTINF:-1 tvg-id="" tvg-name="Juwelo Italia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bd41c5458a0c41492b0a40641b6e55d7.png" group-title="Italien",Juwelo Italia
+http://kuchini.site:8080/xusm/4bf044ec60/285549
+#EXTINF:-1 tvg-id="" tvg-name="K2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/c7cac8a4959f5ad2ee1097c047c94f61.png" group-title="Italien",K2
+http://kuchini.site:8080/xusm/4bf044ec60/8158
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/3643e0e9a36d5eaea12b5ffb1148752a.png" group-title="Italien",Kids TV
+http://kuchini.site:8080/xusm/4bf044ec60/296079
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9bb2d0b7a9490bdd827224f27eb58cb4.png" group-title="Italien",Kiss Kiss
+http://kuchini.site:8080/xusm/4bf044ec60/296595
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Italia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/234f6ab83ec54c766af5fc295cbb9853.png" group-title="Italien",Kiss Kiss Italia
+http://kuchini.site:8080/xusm/4bf044ec60/279937
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Napoli" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4eb8e2a1aa65bcb8a0b5a08c1a43436c.png" group-title="Italien",Kiss Kiss Napoli
+http://kuchini.site:8080/xusm/4bf044ec60/294964
+#EXTINF:-1 tvg-id="" tvg-name="La C TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",La C TV
+http://kuchini.site:8080/xusm/4bf044ec60/265373
+#EXTINF:-1 tvg-id="" tvg-name="La Nuova TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",La Nuova TV
+http://kuchini.site:8080/xusm/4bf044ec60/173590
+#EXTINF:-1 tvg-id="" tvg-name="La Tr3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a8525c1ad198a1db047325380210d8f7.png" group-title="Italien",La Tr3
+http://kuchini.site:8080/xusm/4bf044ec60/1006
+#EXTINF:-1 tvg-id="" tvg-name="Lab TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Lab TV
+http://kuchini.site:8080/xusm/4bf044ec60/279936
+#EXTINF:-1 tvg-id="" tvg-name="Lady Radio TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Lady Radio TV
+http://kuchini.site:8080/xusm/4bf044ec60/279931
+#EXTINF:-1 tvg-id="" tvg-name="Lazio TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a644beb4871e255dfcf0c6722b458a29.png" group-title="Italien",Lazio TV
+http://kuchini.site:8080/xusm/4bf044ec60/2001
+#EXTINF:-1 tvg-id="" tvg-name="Lira TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/a39aab9869381510684d8ccef7d4d653.jpg" group-title="Italien",Lira TV
+http://kuchini.site:8080/xusm/4bf044ec60/279938
+#EXTINF:-1 tvg-id="" tvg-name="Lombardia TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/294e6407142795e288a1bed863d71ce8.png" group-title="Italien",Lombardia TV
+http://kuchini.site:8080/xusm/4bf044ec60/279943
+#EXTINF:-1 tvg-id="" tvg-name="Lucania TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e5020e585ab956db77de42c284ef5ea5.png" group-title="Italien",Lucania TV
+http://kuchini.site:8080/xusm/4bf044ec60/16030
+#EXTINF:-1 tvg-id="" tvg-name="M2o" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/88603c72a2ec8904a028fdf31e0402fc.png" group-title="Italien",M2o
+http://kuchini.site:8080/xusm/4bf044ec60/2511
+#EXTINF:-1 tvg-id="" tvg-name="Magic Music TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9fa576db93b07ed6c2a9a1fdc9b40251.png" group-title="Italien",Magic Music TV
+http://kuchini.site:8080/xusm/4bf044ec60/279944
+#EXTINF:-1 tvg-id="" tvg-name="Maria+Vision Italia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e08902535a722e718d0bbda6d0369512.png" group-title="Italien",Maria+Vision Italia
+http://kuchini.site:8080/xusm/4bf044ec60/158695
+#EXTINF:-1 tvg-id="" tvg-name="Me contro Te Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7296880adcadcb8cf0ed3079e7aeb20e.png" group-title="Italien",Me contro Te Channel
+http://kuchini.site:8080/xusm/4bf044ec60/279929
+#EXTINF:-1 tvg-id="" tvg-name="Motortrend" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7987271234bb216fdf62c1db2e086b41.png" group-title="Italien",Motortrend
+http://kuchini.site:8080/xusm/4bf044ec60/75151
+#EXTINF:-1 tvg-id="" tvg-name="MS MOTOR" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f92b18d3f2c894e191d6b187d16bf516.png" group-title="Italien",MS MOTOR
+http://kuchini.site:8080/xusm/4bf044ec60/158715
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO Wild" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d5b282a5217e4a6c42bdc7221f5687f6.png" group-title="Italien",NAT GEO Wild
+http://kuchini.site:8080/xusm/4bf044ec60/279657
+#EXTINF:-1 tvg-id="" tvg-name="Nautical Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/43983bcadd4632713561c34c3d7f8abc.jpg" group-title="Italien",Nautical Channel
+http://kuchini.site:8080/xusm/4bf044ec60/12672
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/a6a4a28d9a8eb7f6231181ac3c9a7932.jpg" group-title="Italien",Nick Junior
+http://kuchini.site:8080/xusm/4bf044ec60/3594
+#EXTINF:-1 tvg-id="" tvg-name="NSL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/94e97d5a82bdac6d5d6070925cf904ef.png" group-title="Italien",NSL
+http://kuchini.site:8080/xusm/4bf044ec60/287522
+#EXTINF:-1 tvg-id="" tvg-name="OL3 Radio" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c0b370252566c8eb4295ea719e149aa5.png" group-title="Italien",OL3 Radio
+http://kuchini.site:8080/xusm/4bf044ec60/296582
+#EXTINF:-1 tvg-id="" tvg-name="Onda Novara TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/d483cf5f55e12c6c3c0e3afbb941685d.png" group-title="Italien",Onda Novara TV
+http://kuchini.site:8080/xusm/4bf044ec60/287523
+#EXTINF:-1 tvg-id="" tvg-name="Onda TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e2e03f239915fbcb3812d7995ef11c0f.jpg" group-title="Italien",Onda TV
+http://kuchini.site:8080/xusm/4bf044ec60/59560
+#EXTINF:-1 tvg-id="" tvg-name="Orler TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70747a589de978e6f0121a8ff85376e5.png" group-title="Italien",Orler TV
+http://kuchini.site:8080/xusm/4bf044ec60/994
+#EXTINF:-1 tvg-id="" tvg-name="Otto8 FM TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/af0f17fc79bc90a051eb86df3d55fb57.png" group-title="Italien",Otto8 FM TV
+http://kuchini.site:8080/xusm/4bf044ec60/280006
+#EXTINF:-1 tvg-id="" tvg-name="Padre Pio TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5b0d17e481eb070957c9dc00db8a3fbf.png" group-title="Italien",Padre Pio TV
+http://kuchini.site:8080/xusm/4bf044ec60/8159
+#EXTINF:-1 tvg-id="" tvg-name="Paradise TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c34e6da7aeca811728eed5191950d353.png" group-title="Italien",Paradise TV
+http://kuchini.site:8080/xusm/4bf044ec60/296092
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6be2c55362cc72634a808f84b8a8800b.png" group-title="Italien",Paramount Network
+http://kuchini.site:8080/xusm/4bf044ec60/279951
+#EXTINF:-1 tvg-id="" tvg-name="Parole di Vita" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2bcf03b53bd1864e141043dcbb3ab336.png" group-title="Italien",Parole di Vita
+http://kuchini.site:8080/xusm/4bf044ec60/195033
+#EXTINF:-1 tvg-id="" tvg-name="Premium Cinema 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/64a6de276e4ca9c894e3770b743139d8.png" group-title="Italien",Premium Cinema 1
+http://kuchini.site:8080/xusm/4bf044ec60/997
+#EXTINF:-1 tvg-id="" tvg-name="Premium Cinema 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cd1ca270ebc7964f2ec7688bc83e6862.png" group-title="Italien",Premium Cinema 2
+http://kuchini.site:8080/xusm/4bf044ec60/6789
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9cc59bd08636376c1dff5d266d7d78c8.png" group-title="Italien",Primafila 9
+http://kuchini.site:8080/xusm/4bf044ec60/2016
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 14" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Primafila 14
+http://kuchini.site:8080/xusm/4bf044ec60/83439
+#EXTINF:-1 tvg-id="" tvg-name="Primocanale" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e3f8117135cd86843eedeaabd29d7dbf.png" group-title="Italien",Primocanale
+http://kuchini.site:8080/xusm/4bf044ec60/18701
+#EXTINF:-1 tvg-id="" tvg-name="QVC Italia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e6505057fe94eed2db938e09cb24c2dc.png" group-title="Italien",QVC Italia
+http://kuchini.site:8080/xusm/4bf044ec60/169922
+#EXTINF:-1 tvg-id="" tvg-name="Radio 4 You" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cca29c34e4c1e97d791fcc7a52421143.png" group-title="Italien",Radio 4 You
+http://kuchini.site:8080/xusm/4bf044ec60/296585
+#EXTINF:-1 tvg-id="" tvg-name="Radio 51 TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b17db2c3a041846d41ebff242713afb5.png" group-title="Italien",Radio 51 TV
+http://kuchini.site:8080/xusm/4bf044ec60/287429
+#EXTINF:-1 tvg-id="" tvg-name="Radio Birikina TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a1c4c657b2a9b9a6e3161ecdc3415636.png" group-title="Italien",Radio Birikina TV
+http://kuchini.site:8080/xusm/4bf044ec60/280024
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bruno" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/fdcc3dfd6d479e9d678f337597cf36a0.png" group-title="Italien",Radio Bruno
+http://kuchini.site:8080/xusm/4bf044ec60/80066
+#EXTINF:-1 tvg-id="" tvg-name="Radio Capital" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9ce9ad50c1a7cafe26995b5c8b2c6e59.png" group-title="Italien",Radio Capital
+http://kuchini.site:8080/xusm/4bf044ec60/2517
+#EXTINF:-1 tvg-id="" tvg-name="Radio Delta International" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/56fd5838620864ba9592626237c413f3.png" group-title="Italien",Radio Delta International
+http://kuchini.site:8080/xusm/4bf044ec60/296102
+#EXTINF:-1 tvg-id="" tvg-name="Radio Freccia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b449b40eaf6e7c2e25af53154d059394.png" group-title="Italien",Radio Freccia
+http://kuchini.site:8080/xusm/4bf044ec60/158682
+#EXTINF:-1 tvg-id="" tvg-name="Radio Iglesias" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2d0dc308cb98630a5c98294ad7f9d06e.png" group-title="Italien",Radio Iglesias
+http://kuchini.site:8080/xusm/4bf044ec60/280010
+#EXTINF:-1 tvg-id="" tvg-name="Radio Italia Cina" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5d7b8abd9d3e77c45888667f18567e3f.jpeg" group-title="Italien",Radio Italia Cina
+http://kuchini.site:8080/xusm/4bf044ec60/296624
+#EXTINF:-1 tvg-id="" tvg-name="Radio Italia TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1e439a28408bbe60b0fe38b4d4681185.png" group-title="Italien",Radio Italia TV
+http://kuchini.site:8080/xusm/4bf044ec60/2518
+#EXTINF:-1 tvg-id="" tvg-name="Radio Lombardia TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/4167d9b023f26a28c9a8cb41b1ed6d3e.png" group-title="Italien",Radio Lombardia TV
+http://kuchini.site:8080/xusm/4bf044ec60/280027
+#EXTINF:-1 tvg-id="" tvg-name="Radio Millennium TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f2e05a4669d71303ff09288059557e6a.png" group-title="Italien",Radio Millennium TV
+http://kuchini.site:8080/xusm/4bf044ec60/158700
+#EXTINF:-1 tvg-id="" tvg-name="Radio Norba TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9ed2e29d951cc4d0bccbfbfc1a6fc587.png" group-title="Italien",Radio Norba TV
+http://kuchini.site:8080/xusm/4bf044ec60/8155
+#EXTINF:-1 tvg-id="" tvg-name="Radio Number One" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/998c49b6ecf4396060625e420675402d.svg" group-title="Italien",Radio Number One
+http://kuchini.site:8080/xusm/4bf044ec60/80067
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pescara" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/43fa3fdb8ba9d9cb8627ade771fac8e2.png" group-title="Italien",Radio Pescara
+http://kuchini.site:8080/xusm/4bf044ec60/169915
+#EXTINF:-1 tvg-id="" tvg-name="Radio PiterPan TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2b0b0ab14404ae12cb7f009bb724ddfc.png" group-title="Italien",Radio PiterPan TV
+http://kuchini.site:8080/xusm/4bf044ec60/287533
+#EXTINF:-1 tvg-id="" tvg-name="Radio Radicale" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/53cd6186b86845893408c64f96948e57.png" group-title="Italien",Radio Radicale
+http://kuchini.site:8080/xusm/4bf044ec60/151645
+#EXTINF:-1 tvg-id="" tvg-name="Radio Radio TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5c4bf0636111245592b19d4e6445c853.png" group-title="Italien",Radio Radio TV
+http://kuchini.site:8080/xusm/4bf044ec60/279993
+#EXTINF:-1 tvg-id="" tvg-name="Radio Studio Delta TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/811204e4e4324dfdbcc11f2609183108.png" group-title="Italien",Radio Studio Delta TV
+http://kuchini.site:8080/xusm/4bf044ec60/280023
+#EXTINF:-1 tvg-id="" tvg-name="Radio Taormina TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ea098aa54d19803fed28ca5081764497.png" group-title="Italien",Radio Taormina TV
+http://kuchini.site:8080/xusm/4bf044ec60/151640
+#EXTINF:-1 tvg-id="" tvg-name="Radio Vintage TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/46d4b3711ad59ce2d326bb4fe6e04156.png" group-title="Italien",Radio Vintage TV
+http://kuchini.site:8080/xusm/4bf044ec60/296112
+#EXTINF:-1 tvg-id="" tvg-name="RDS Social TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5f2459af06aa28d88a446536ced5a80a.png" group-title="Italien",RDS Social TV
+http://kuchini.site:8080/xusm/4bf044ec60/8172
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a6aa0488c258bb9faf912b80699559f7.png" group-title="Italien",Rete 4
+http://kuchini.site:8080/xusm/4bf044ec60/1989
+#EXTINF:-1 tvg-id="" tvg-name="Rete 55" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2ec4ca5aba44995477f138bf47d8044e.png" group-title="Italien",Rete 55
+http://kuchini.site:8080/xusm/4bf044ec60/287549
+#EXTINF:-1 tvg-id="" tvg-name="Rete Oro" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/debf23c8324cc50dd819ec35a5169eb2.png" group-title="Italien",Rete Oro
+http://kuchini.site:8080/xusm/4bf044ec60/174217
+#EXTINF:-1 tvg-id="" tvg-name="Rete Sole" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e9c4eb9149914c5b45d106c79758516c.png" group-title="Italien",Rete Sole
+http://kuchini.site:8080/xusm/4bf044ec60/151632
+#EXTINF:-1 tvg-id="" tvg-name="Rete TV Italia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/38c66d5b96237c1d9678861babd85b93.png" group-title="Italien",Rete TV Italia
+http://kuchini.site:8080/xusm/4bf044ec60/280014
+#EXTINF:-1 tvg-id="" tvg-name="Rete Veneta" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cec14e70e3faa2c625f468e5a2f94e3.jpg" group-title="Italien",Rete Veneta
+http://kuchini.site:8080/xusm/4bf044ec60/158721
+#EXTINF:-1 tvg-id="" tvg-name="ReteBiella TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/cd06d61ab26abdc2c44b071b30a13b23.png" group-title="Italien",ReteBiella TV
+http://kuchini.site:8080/xusm/4bf044ec60/908
+#EXTINF:-1 tvg-id="" tvg-name="Retemia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/84690ac7e4786a70456dd12a8b184703.png" group-title="Italien",Retemia
+http://kuchini.site:8080/xusm/4bf044ec60/287551
+#EXTINF:-1 tvg-id="" tvg-name="RMK TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c9fc435f181af9229e4e308a3f80ffbb.jpg" group-title="Italien",RMK TV
+http://kuchini.site:8080/xusm/4bf044ec60/174218
+#EXTINF:-1 tvg-id="" tvg-name="Rossini TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/2d075c2c3316ede7b9bd4791b02d6dfb.png" group-title="Italien",Rossini TV
+http://kuchini.site:8080/xusm/4bf044ec60/909
+#EXTINF:-1 tvg-id="" tvg-name="RTC Tele Calabria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/833ae247c26919a4db99f94973994516.png" group-title="Italien",RTC Tele Calabria
+http://kuchini.site:8080/xusm/4bf044ec60/74335
+#EXTINF:-1 tvg-id="" tvg-name="RTP" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8419bfeb6c04913884713a3e2416c380.png" group-title="Italien",RTP
+http://kuchini.site:8080/xusm/4bf044ec60/169908
+#EXTINF:-1 tvg-id="" tvg-name="RTTR" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d6c11d9d37cf783f41d5e4fd57648fab.png" group-title="Italien",RTTR
+http://kuchini.site:8080/xusm/4bf044ec60/264575
+#EXTINF:-1 tvg-id="" tvg-name="RTV Reggio" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",RTV Reggio
+http://kuchini.site:8080/xusm/4bf044ec60/74339
+#EXTINF:-1 tvg-id="" tvg-name="RTV San Marino" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e85c810bbc440e13652a29ef5b2a41df.png" group-title="Italien",RTV San Marino
+http://kuchini.site:8080/xusm/4bf044ec60/56783
+#EXTINF:-1 tvg-id="" tvg-name="RTV Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f54b2276bbc41f25a9e0319de185a236.png" group-title="Italien",RTV Sport
+http://kuchini.site:8080/xusm/4bf044ec60/174221
+#EXTINF:-1 tvg-id="" tvg-name="Senato TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/91e28bfb485c3178c79bafb4097ff2cc.png" group-title="Italien",Senato TV
+http://kuchini.site:8080/xusm/4bf044ec60/55221
+#EXTINF:-1 tvg-id="" tvg-name="Sfera TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/d7e054f0d35db6fc1ce15a1232c3d074.png" group-title="Italien",Sfera TV
+http://kuchini.site:8080/xusm/4bf044ec60/286734
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arte" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/08cce193dde64df707be7dad51c20c1d.jpg" group-title="Italien",Sky Arte
+http://kuchini.site:8080/xusm/4bf044ec60/290472
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/2598c9a1526d993bbd08efc06293fe29.png" group-title="Italien",Sky Atlantic
+http://kuchini.site:8080/xusm/4bf044ec60/9507
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15d829a959e1cd35b7dc66bb58b78585.png" group-title="Italien",Sky Cinema Action
+http://kuchini.site:8080/xusm/4bf044ec60/913
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/232a48be01ef5eced635407726e438cc.png" group-title="Italien",Sky Cinema Collection
+http://kuchini.site:8080/xusm/4bf044ec60/9473
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b65c25e9ad478d3df596f432ba726e7e.png" group-title="Italien",Sky Cinema Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/914
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/4a30df9a5d619d8cab774b0c4a4147e9.png" group-title="Italien",Sky Cinema Drama
+http://kuchini.site:8080/xusm/4bf044ec60/9490
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6f51d0a63c6d590b995a2fd55f528917.png" group-title="Italien",Sky Cinema Family
+http://kuchini.site:8080/xusm/4bf044ec60/916
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dc079b32df0abb07f3643ccb7baeff57.png" group-title="Italien",Sky Cinema Romance
+http://kuchini.site:8080/xusm/4bf044ec60/917
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f5e05d0aac67b254e77dd4db91c9a64a.png" group-title="Italien",Sky Cinema Suspense
+http://kuchini.site:8080/xusm/4bf044ec60/9486
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/a8272581d05bb3e69b1f857868850f68.png" group-title="Italien",Sky Cinema Uno
+http://kuchini.site:8080/xusm/4bf044ec60/282264
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/24b6324c3989f35d6f05c126fcc7fdcc.png" group-title="Italien",Sky Sport 24
+http://kuchini.site:8080/xusm/4bf044ec60/2535
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ead553af854c718ab5dd049c915379b1.png" group-title="Italien",Sky Sport Arena
+http://kuchini.site:8080/xusm/4bf044ec60/2541
+#EXTINF:-1 tvg-id="" tvg-name="Sport F1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" group-title="Italien",Sky Sport F1
+http://kuchini.site:8080/xusm/4bf044ec60/2542
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Football" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c9e2ab32a46aa83a3a64750d87e4fc2c.png" group-title="Italien",Sky Sport Football
+http://kuchini.site:8080/xusm/4bf044ec60/2543
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png" group-title="Italien",Sky Sport Golf
+http://kuchini.site:8080/xusm/4bf044ec60/147371
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Moto GP" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/315342075960cced608a1efca076d775.png" group-title="Italien",Sky Sport Moto GP
+http://kuchini.site:8080/xusm/4bf044ec60/9880
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="Italien",Sky Sport NBA
+http://kuchini.site:8080/xusm/4bf044ec60/1047
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b74c3e05bb91e8b110f53c1916902b0e.png" group-title="Italien",Sky Sport Uno
+http://kuchini.site:8080/xusm/4bf044ec60/278706
+#EXTINF:-1 tvg-id="" tvg-name="Sky TG 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/981edc25783c8ff0d72f13ee496b21f4.png" group-title="Italien",Sky TG 24
+http://kuchini.site:8080/xusm/4bf044ec60/283205
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e5888667cba9ec455a21c93642d78e4b.png" group-title="Italien",Sky Uno
+http://kuchini.site:8080/xusm/4bf044ec60/91704
+#EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/60bc5a6377498623caa7f91b9e393727.png" group-title="Italien",Sofy TV
+http://kuchini.site:8080/xusm/4bf044ec60/287554
+#EXTINF:-1 tvg-id="" tvg-name="Sophia TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c05c2afd4b5337084d99c90b61a4b046.jpg" group-title="Italien",Sophia TV
+http://kuchini.site:8080/xusm/4bf044ec60/260365
+#EXTINF:-1 tvg-id="" tvg-name="Sportitalia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/baa03a5dad30add903e51da060af5adb.png" group-title="Italien",Sportitalia
+http://kuchini.site:8080/xusm/4bf044ec60/1008
+#EXTINF:-1 tvg-id="" tvg-name="Stereo 5 TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/d802bd5aa786e60f6417112cabb8c610.png" group-title="Italien",Stereo 5 TV
+http://kuchini.site:8080/xusm/4bf044ec60/285548
+#EXTINF:-1 tvg-id="" tvg-name="Studio 100" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/1e7a880496a620f3229199269f9869fe.png" group-title="Italien",Studio 100
+http://kuchini.site:8080/xusm/4bf044ec60/1010
+#EXTINF:-1 tvg-id="" tvg-name="Super J" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/df8c9b91f766c02d280797e6d5c0b42c.png" group-title="Italien",Super J
+http://kuchini.site:8080/xusm/4bf044ec60/285547
+#EXTINF:-1 tvg-id="" tvg-name="Super Tennis" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png" group-title="Italien",Super Tennis
+http://kuchini.site:8080/xusm/4bf044ec60/285535
+#EXTINF:-1 tvg-id="" tvg-name="Super TV Brescia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/438646dc3acfb45d578d9a0563e93166.jpg" group-title="Italien",Super TV Brescia
+http://kuchini.site:8080/xusm/4bf044ec60/1012
+#EXTINF:-1 tvg-id="" tvg-name="Super TV Oristano" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/40f47e175263bc645479e4d8d1438317.png" group-title="Italien",Super TV Oristano
+http://kuchini.site:8080/xusm/4bf044ec60/297041
+#EXTINF:-1 tvg-id="" tvg-name="Super!" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/ff1deb36585128d6531bca0da373f3cf.png" group-title="Italien",Super!
+http://kuchini.site:8080/xusm/4bf044ec60/297042
+#EXTINF:-1 tvg-id="" tvg-name="SuperSix Lombardia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",SuperSix Lombardia
+http://kuchini.site:8080/xusm/4bf044ec60/287559
+#EXTINF:-1 tvg-id="" tvg-name="Tele Belluno" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/64983d0fd3ac275012905d4739d03b51.png" group-title="Italien",Tele Belluno
+http://kuchini.site:8080/xusm/4bf044ec60/285550
+#EXTINF:-1 tvg-id="" tvg-name="Tele Chiara" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/cd72d625b3ff8cd571cbcea1c59b93ef.png" group-title="Italien",Tele Chiara
+http://kuchini.site:8080/xusm/4bf044ec60/1014
+#EXTINF:-1 tvg-id="" tvg-name="Tele Mia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5d32dea18f87ffe6c0aba3f60bb50a77.png" group-title="Italien",IT: Tele Mia
+http://kuchini.site:8080/xusm/4bf044ec60/55227
+#EXTINF:-1 tvg-id="" tvg-name="Tele Monte Neve 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1680da4f5eeb2ecaa9e7af45e8090f4d.png" group-title="Italien",Tele Monte Neve 3
+http://kuchini.site:8080/xusm/4bf044ec60/90984
+#EXTINF:-1 tvg-id="" tvg-name="Tele One" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/54ef09895f9e86e1f5f395702974e70d.png" group-title="Italien",Tele One
+http://kuchini.site:8080/xusm/4bf044ec60/265386
+#EXTINF:-1 tvg-id="" tvg-name="Tele Pavia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/74b5dd0d3283ef4a497cfce5a8aa7b62.png" group-title="Italien",Tele Pavia
+http://kuchini.site:8080/xusm/4bf044ec60/296594
+#EXTINF:-1 tvg-id="" tvg-name="Tele Pegaso Catania" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/238a8483ff9f4da3ad15498462d5de9f.png" group-title="Italien",Tele Pegaso Catania
+http://kuchini.site:8080/xusm/4bf044ec60/287571
+#EXTINF:-1 tvg-id="" tvg-name="Tele Radio Sciacca" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e017ce8aad32baa6d3c7c5f793e03529.png" group-title="Italien",Tele Radio Sciacca
+http://kuchini.site:8080/xusm/4bf044ec60/59617
+#EXTINF:-1 tvg-id="" tvg-name="Tele Sondrio News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/62a3127bb091c5a7cb593ec7c7f94c73.png" group-title="Italien",Tele Sondrio News
+http://kuchini.site:8080/xusm/4bf044ec60/283973
+#EXTINF:-1 tvg-id="" tvg-name="TeleArena" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/02afaa8f8f56d22ab37ec541a6372c79.png" group-title="Italien",TeleArena
+http://kuchini.site:8080/xusm/4bf044ec60/18727
+#EXTINF:-1 tvg-id="" tvg-name="Telearte" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/50e54c11080c6b7b4afc3d0fb45afb86.png" group-title="Italien",Telearte
+http://kuchini.site:8080/xusm/4bf044ec60/158685
+#EXTINF:-1 tvg-id="" tvg-name="TeleBari TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f8fa9f3a3dc1b3632158a7e35f997527.png" group-title="Italien",TeleBari TV
+http://kuchini.site:8080/xusm/4bf044ec60/74351
+#EXTINF:-1 tvg-id="" tvg-name="TeleBoario" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c5f6d0b53867f6977ccbc834e4f7f082.png" group-title="Italien",TeleBoario
+http://kuchini.site:8080/xusm/4bf044ec60/1013
+#EXTINF:-1 tvg-id="" tvg-name="Telecitta" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e335020d25fc0f412291d28a756b6ffd.png" group-title="Italien",Telecitta
+http://kuchini.site:8080/xusm/4bf044ec60/260366
+#EXTINF:-1 tvg-id="" tvg-name="Telecolor" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/d7d24e187acc54119d376e7e06b83757.png" group-title="Italien",Telecolor
+http://kuchini.site:8080/xusm/4bf044ec60/158727
+#EXTINF:-1 tvg-id="" tvg-name="Telecupole" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d0396e0292748c14603cdbd2e1b32cde.png" group-title="Italien",Telecupole
+http://kuchini.site:8080/xusm/4bf044ec60/158707
+#EXTINF:-1 tvg-id="" tvg-name="Telefoggia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7052f6bdf25759e693000cc5402383d8.png" group-title="Italien",Telefoggia
+http://kuchini.site:8080/xusm/4bf044ec60/74341
+#EXTINF:-1 tvg-id="" tvg-name="Telefriuli" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/80f3a493c9f896b3fa6c29e4339ffb8e.png" group-title="Italien",Telefriuli
+http://kuchini.site:8080/xusm/4bf044ec60/18733
+#EXTINF:-1 tvg-id="" tvg-name="Telegenova" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/674d11d453f58d6a753ae9b8214254ed.png" group-title="Italien",Telegenova
+http://kuchini.site:8080/xusm/4bf044ec60/265389
+#EXTINF:-1 tvg-id="" tvg-name="Telegranda" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/3ac3500ba35117bf32c988a049d946e4.png" group-title="Italien",Telegranda
+http://kuchini.site:8080/xusm/4bf044ec60/287584
+#EXTINF:-1 tvg-id="" tvg-name="TeleMantova" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/f8ab92c77e1a01975c1059b42d0e08fc.png" group-title="Italien",TeleMantova
+http://kuchini.site:8080/xusm/4bf044ec60/55225
+#EXTINF:-1 tvg-id="" tvg-name="Telemolise" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Telemolise
+http://kuchini.site:8080/xusm/4bf044ec60/287585
+#EXTINF:-1 tvg-id="" tvg-name="Telenord" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Telenord
+http://kuchini.site:8080/xusm/4bf044ec60/158728
+#EXTINF:-1 tvg-id="" tvg-name="Telepace 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/335246d05893a37652f32f2bfec976df.png" group-title="Italien",Telepace 1
+http://kuchini.site:8080/xusm/4bf044ec60/158687
+#EXTINF:-1 tvg-id="" tvg-name="Telepace 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1e3ada624d96eeedea8e3a57209e3336.png" group-title="Italien",Telepace 2
+http://kuchini.site:8080/xusm/4bf044ec60/158708
+#EXTINF:-1 tvg-id="" tvg-name="Telepace 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/2a82328c309bd4c914681b42688030b6.png" group-title="Italien",Telepace 3
+http://kuchini.site:8080/xusm/4bf044ec60/158729
+#EXTINF:-1 tvg-id="" tvg-name="Telepace 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c96e1c7da943aa6afa239709a8485c3e.png" group-title="Italien",Telepace 4
+http://kuchini.site:8080/xusm/4bf044ec60/158688
+#EXTINF:-1 tvg-id="" tvg-name="TeleQuattro" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e3a959f2546b286b26e1e03d3bc03e92.png" group-title="Italien",TeleQuattro
+http://kuchini.site:8080/xusm/4bf044ec60/265394
+#EXTINF:-1 tvg-id="" tvg-name="Teleromagna" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/0031530a006e01b3863dabf62c1ae25f.svg" group-title="Italien",Teleromagna
+http://kuchini.site:8080/xusm/4bf044ec60/59618
+#EXTINF:-1 tvg-id="" tvg-name="Telesud Trapani" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",Telesud Trapani
+http://kuchini.site:8080/xusm/4bf044ec60/287586
+#EXTINF:-1 tvg-id="" tvg-name="Teletricolore" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ddf3e311d041cd6390aef1c9e2ad7798.png" group-title="Italien",Teletricolore
+http://kuchini.site:8080/xusm/4bf044ec60/74343
+#EXTINF:-1 tvg-id="" tvg-name="TeleTusciaSabina 2000" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbdfff289b22fd395d4c9203af714f2c.png" group-title="Italien",TeleTusciaSabina 2000
+http://kuchini.site:8080/xusm/4bf044ec60/265397
+#EXTINF:-1 tvg-id="" tvg-name="Teletutto" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/1fc55b96faaf04fc36b2f04b48d13bc1.png" group-title="Italien",Teletutto
+http://kuchini.site:8080/xusm/4bf044ec60/296590
+#EXTINF:-1 tvg-id="" tvg-name="TeleVenezia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e89d65b80d2643f43e6007bd5c175e69.png" group-title="Italien",TeleVenezia
+http://kuchini.site:8080/xusm/4bf044ec60/59615
+#EXTINF:-1 tvg-id="" tvg-name="TeleVideo Agrigento" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5d115837562982e51695aa2294afc394.png" group-title="Italien",TeleVideo Agrigento
+http://kuchini.site:8080/xusm/4bf044ec60/18779
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/679ef2515cf598107fb244b35db7f3cd.png" group-title="Italien",Tennis Channel
+http://kuchini.site:8080/xusm/4bf044ec60/1052
+#EXTINF:-1 tvg-id="" tvg-name="TFC TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/905632913806e4741a64d961f031b620.png" group-title="Italien",TFC TV
+http://kuchini.site:8080/xusm/4bf044ec60/296581
+#EXTINF:-1 tvg-id="" tvg-name="TG Norba 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7a3eee49813b296ce7203fb7d6b016dd.png" group-title="Italien",TG Norba 24
+http://kuchini.site:8080/xusm/4bf044ec60/1029
+#EXTINF:-1 tvg-id="" tvg-name="TGCom 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/256493b71391b5d91a9d6cee70f99b64.png" group-title="Italien",TGCom 24
+http://kuchini.site:8080/xusm/4bf044ec60/1007
+#EXTINF:-1 tvg-id="" tvg-name=" tMn" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/184b7ee10cbf09bd9d5061caae5c1efb.png" group-title="Italien", tMn
+http://kuchini.site:8080/xusm/4bf044ec60/294608
+#EXTINF:-1 tvg-id="" tvg-name="Top Crime" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/f3a3fead3780b0d74f8b9dc100d157bb.png" group-title="Italien",Top Crime
+http://kuchini.site:8080/xusm/4bf044ec60/1997
+#EXTINF:-1 tvg-id="" tvg-name="Trentino TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ea35931cbffc43af9ee4e790a2c6eace.png" group-title="Italien",Trentino TV
+http://kuchini.site:8080/xusm/4bf044ec60/84734
+#EXTINF:-1 tvg-id="" tvg-name="TRG Media (Umbria)" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/32f86a426d1cc1da3b3318bc2c155fe7.jpg" group-title="Italien",TRG Media (Umbria)
+http://kuchini.site:8080/xusm/4bf044ec60/276011
+#EXTINF:-1 tvg-id="" tvg-name="TSN TeleSondrio News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f5bac8027cef889ac29a1fd8b1ba088f.png" group-title="Italien",TSN TeleSondrio News
+http://kuchini.site:8080/xusm/4bf044ec60/169918
+#EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d800bb50d213530b5e7ce063574ea004.png" group-title="Italien",TV 8
+http://kuchini.site:8080/xusm/4bf044ec60/50463
+#EXTINF:-1 tvg-id="" tvg-name="TV 2000" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/68ab19481c46e8f6fd1f241849640e55.png" group-title="Italien",TV 2000
+http://kuchini.site:8080/xusm/4bf044ec60/1036
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV Qui (Modena)" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",TV Qui (Modena)
+http://kuchini.site:8080/xusm/4bf044ec60/75584
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV Sei" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2ebb52698264913671d1642338d99241.jpg" group-title="Italien",TV Sei
+http://kuchini.site:8080/xusm/4bf044ec60/287564
+#EXTINF:-1 tvg-id="" tvg-name="TV Yes" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6133dbd5c5766f1a92d0e622d2bfb99b.png" group-title="Italien",TV Yes
+http://kuchini.site:8080/xusm/4bf044ec60/276009
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Benevento" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",TV7 Benevento
+http://kuchini.site:8080/xusm/4bf044ec60/287567
+#EXTINF:-1 tvg-id="" tvg-name="TV7 News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Italien",TV7 News
+http://kuchini.site:8080/xusm/4bf044ec60/265402
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Triveneta" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/0cede375edd2329ffa2cacc4b7d42574.png" group-title="Italien",TV7 Triveneta
+http://kuchini.site:8080/xusm/4bf044ec60/264577
+#EXTINF:-1 tvg-id="" tvg-name="TVA Vicenza" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d0be56db3d71a46da80d17d4df820089.png" group-title="Italien",TVA Vicenza
+http://kuchini.site:8080/xusm/4bf044ec60/1032
+#EXTINF:-1 tvg-id="" tvg-name="TVL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6d3071bae4e59abe7a161d72f1be9948.png" group-title="Italien",TVL
+http://kuchini.site:8080/xusm/4bf044ec60/287569
+#EXTINF:-1 tvg-id="" tvg-name="TVRS" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/dd63c2bbed7db739d4093304e17620d2.svg" group-title="Italien",TVRS
+http://kuchini.site:8080/xusm/4bf044ec60/18759
+#EXTINF:-1 tvg-id="" tvg-name="Umbria TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/631357019adc25e7d3085388d00180f3.png" group-title="Italien",Umbria TV
+http://kuchini.site:8080/xusm/4bf044ec60/55229
+#EXTINF:-1 tvg-id="" tvg-name="Uninettuno University TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2b502e8afd71b8c79fc018aef3b39ef3.png" group-title="Italien",Uninettuno University TV
+http://kuchini.site:8080/xusm/4bf044ec60/904
+#EXTINF:-1 tvg-id="" tvg-name="Vera TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f2ca7c7e81cc892bbb1bd278a63f9824.png" group-title="Italien",Vera TV
+http://kuchini.site:8080/xusm/4bf044ec60/74328
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina S Primafila" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b9646a8d2791939267ae2041c622ad68.jpg" group-title="Italien",Vetrina S Primafila
+http://kuchini.site:8080/xusm/4bf044ec60/285592
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7362a9bac58a75df5a71dae6447c4b0.png" group-title="Italien",VH1
+http://kuchini.site:8080/xusm/4bf044ec60/8152
+#EXTINF:-1 tvg-id="" tvg-name="Video Brescia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0d5d86ed48d1c8d7f0bb6e25f00b53ef.png" group-title="Italien",Video Brescia
+http://kuchini.site:8080/xusm/4bf044ec60/9585
+#EXTINF:-1 tvg-id="" tvg-name="Video Novara" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/909e52935470ebecc8fa2c48a0be14fb.png" group-title="Italien",Video Novara
+http://kuchini.site:8080/xusm/4bf044ec60/296591
+#EXTINF:-1 tvg-id="" tvg-name="Video Star TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/dee6138ece8541a7c6a87ba65ab0f64b.jpeg" group-title="Italien",Video Star TV
+http://kuchini.site:8080/xusm/4bf044ec60/18765
+#EXTINF:-1 tvg-id="" tvg-name="Videolina" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/fcb2436f8ad6dd747a98afa1ef679795.png" group-title="Italien",Videolina
+http://kuchini.site:8080/xusm/4bf044ec60/260367
+#EXTINF:-1 tvg-id="" tvg-name="VideoTolentino" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/401a98806046b0ce117321ec42446993.png" group-title="Italien",VideoTolentino
+http://kuchini.site:8080/xusm/4bf044ec60/173567
+#EXTINF:-1 tvg-id="" tvg-name="Vuemme" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1f7b8df1a11b91d86639679b92cf2f30.png" group-title="Italien",Vuemme
+http://kuchini.site:8080/xusm/4bf044ec60/287594
+#EXTINF:-1 tvg-id="" tvg-name="Zerouno TV Music" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e6a02b90beb3f6724b52ffca1229ce9b.png" group-title="Italien",Zerouno TV Music
+http://kuchini.site:8080/xusm/4bf044ec60/265410
