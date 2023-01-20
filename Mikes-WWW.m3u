@@ -321,8 +321,6 @@ http://kuchini.site:8080/xusm/4bf044ec60/148067
 http://kuchini.site:8080/xusm/4bf044ec60/2088
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b7fd47cce1f77856894995648c9b0e5.png" group-title="PayTV",Universal TV
 http://kuchini.site:8080/xusm/4bf044ec60/1654
-#EXTINF:-1 tvg-id="Victorious" tvg-name="Victorious" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/25a5d777c2cfacd20dfe865c11519587.jpg" group-title="PayTV",Victorious
-http://kuchini.site:8080/xusm/4bf044ec60/285594
 #EXTINF:-1 tvg-id="TNT Comedy" tvg-name="TNT Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e544bd95d6e6ae7bef1951c13d06d4c5.png" group-title="PayTV",Warner TV Comedy
 http://kuchini.site:8080/xusm/4bf044ec60/281763
 #EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT Film" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f13246ba5272f59e5bc74ab07c0a511d.png" group-title="PayTV",Warner TV Film
@@ -331,8 +329,6 @@ http://kuchini.site:8080/xusm/4bf044ec60/2087
 http://kuchini.site:8080/xusm/4bf044ec60/1655
 #EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53a26073e5ed0e20f546a463740fe707.png" group-title="PayTV",Heimatkanal
 http://kuchini.site:8080/xusm/4bf044ec60/1668
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE: E!" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e243dcf36410048af7727bb85fdb70e4.png" group-title="PayTV",DE: E!
-http://kuchini.site:8080/xusm/4bf044ec60/2114
 #EXTINF:-1 tvg-id="Welt" tvg-name="Welt" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/466a05dca5843cf9c8a74a457af829a4.png" group-title="",Welt
 http://kuchini.site:8080/xusm/4bf044ec60/2093
 #EXTINF:-1 tvg-id="Welt der Wunder" tvg-name="Welt der Wunder" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/834de0d76be26d5220d27629a30e02f8.png" group-title="",Welt der Wunder TV
