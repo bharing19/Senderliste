@@ -213,7 +213,7 @@ http://kuchini.site:8080/xusm/4bf044ec60/4480
 http://kuchini.site:8080/xusm/4bf044ec60/173527
 #EXTINF:-1 tvg-id="RNF" tvg-name="RNF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/74f90fa6bd5525c47562fd442b26f9b0.png" group-title="",RNF
 http://kuchini.site:8080/xusm/4bf044ec60/5010
-#EXTINF:-1 tvg-id="Sky 1" tvg-name="Sky 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f914300db72dec0e38320710b1e58be7.png" group-title="SKY",Sky 1
+#EXTINF:-1 tvg-id="Sky One Germany" tvg-name="Sky One Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f914300db72dec0e38320710b1e58be7.png" group-title="SKY",Sky One
 http://kuchini.site:8080/xusm/4bf044ec60/2115
 #EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dd07a5c064d859bba8235e6bf76845a5.png" group-title="SKY",Sky Atlantic
 http://kuchini.site:8080/xusm/4bf044ec60/1661
@@ -221,7 +221,7 @@ http://kuchini.site:8080/xusm/4bf044ec60/1661
 http://kuchini.site:8080/xusm/4bf044ec60/4461
 #EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/93d402107f3ea78539cce8f071ebea3c.png" group-title="SKY",Sky Krimi
 http://kuchini.site:8080/xusm/4bf044ec60/2122
-#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3bfd5f515499f17d4606e560ed92d8bb.png" group-title="SKY",Sky Crime
+#EXTINF:-1 tvg-id="Sky Crime Germany" tvg-name="Sky Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3bfd5f515499f17d4606e560ed92d8bb.png" group-title="SKY",Sky Crime
 http://kuchini.site:8080/xusm/4bf044ec60/291078
 #EXTINF:-1 tvg-id="Sky Replay Germany" tvg-name="Sky Replay Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d793a3ec8b7877502be0c527fa7da4.png" group-title="SKY",Sky Replay
 http://kuchini.site:8080/xusm/4bf044ec60/407
@@ -387,17 +387,17 @@ http://kuchini.site:8080/xusm/4bf044ec60/1665
 http://kuchini.site:8080/xusm/4bf044ec60/1664
 #EXTINF:-1 tvg-id="ORF 3" tvg-name="ORF 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/98ffddd1eb3828a7b01129406a4ca4e7.png" group-title="Österreich",ORF 3
 http://kuchini.site:8080/xusm/4bf044ec60/3492
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/79bd252e698ff7189c135c93baced6ca.png" group-title="Österreich",ATV
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/79bd252e698ff7189c135c93baced6ca.png" group-title="Österreich",ATV
 http://kuchini.site:8080/xusm/4bf044ec60/3489
-#EXTINF:-1 tvg-id="ATV 2" tvg-name="ATV 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e694b63801476740bda4feff9527bbbe.png" group-title="Österreich",ATV 2
+#EXTINF:-1 tvg-id="ATV2 HD" tvg-name="ATV2 HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e694b63801476740bda4feff9527bbbe.png" group-title="Österreich",ATV 2
 http://kuchini.site:8080/xusm/4bf044ec60/12643
-#EXTINF:-1 tvg-id="Puls 4" tvg-name="Puls 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/c75dc2269446ead8bdf411ac7d6df33b.png" group-title="Österreich",Puls 4
+#EXTINF:-1 tvg-id="Puls 4 HD" tvg-name="Puls 4 HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/c75dc2269446ead8bdf411ac7d6df33b.png" group-title="Österreich",Puls 4
 http://kuchini.site:8080/xusm/4bf044ec60/12644
-#EXTINF:-1 tvg-id="Puls 24" tvg-name="Puls 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/defd1fd7ec97072cbb7aac0e5898cdfc.png" group-title="Österreich",Puls 24
+#EXTINF:-1 tvg-id="PULS24 HD" tvg-name="PULS24 HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/defd1fd7ec97072cbb7aac0e5898cdfc.png" group-title="Österreich",Puls 24
 http://kuchini.site:8080/xusm/4bf044ec60/174351
-#EXTINF:-1 tvg-id="R9" tvg-name="R9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b42643772704c97f7c328fc154f03e98.png" group-title="Österreich",R9
+#EXTINF:-1 tvg-id="R9 Österreich" tvg-name="R9 Österreich" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b42643772704c97f7c328fc154f03e98.png" group-title="Österreich",R9
 http://kuchini.site:8080/xusm/4bf044ec60/193532
-#EXTINF:-1 tvg-id="Oe24 TV" tvg-name="Oe24 TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2d9199eacf795a3a7cccc98942f52e87.png" group-title="Österreich",Oe24 TV
+#EXTINF:-1 tvg-id="oe24. TV HD" tvg-name="oe24. TV HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2d9199eacf795a3a7cccc98942f52e87.png" group-title="Österreich",Oe24 TV
 http://kuchini.site:8080/xusm/4bf044ec60/158500
 #EXTINF:-1 tvg-id="Tirol TV" tvg-name="Tirol TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9f2d7b28e402c994e4372c1c0fc47faf.png" group-title="Österreich",Tirol TV
 http://kuchini.site:8080/xusm/4bf044ec60/285321
@@ -405,28 +405,6 @@ http://kuchini.site:8080/xusm/4bf044ec60/285321
 http://kuchini.site:8080/xusm/4bf044ec60/290695
 #EXTINF:-1 tvg-id="Dorf TV" tvg-name="Dorf TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/62504b004da7ddec75d8f802729ef712.png" group-title="Österreich",Dorf TV
 http://kuchini.site:8080/xusm/4bf044ec60/200462
-#EXTINF:-1 tvg-id="RTL Austria" tvg-name="RTL Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5666cbfe80c448ee124450f8399d43e0.png" group-title="Österreich",RTL Austria
-http://kuchini.site:8080/xusm/4bf044ec60/174236
-#EXTINF:-1 tvg-id="RTL Zwei Austria" tvg-name="RTL Zwei Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/057390c621be95299e3024ff2c59af32.png" group-title="Österreich",RTL Zwei Austria
-http://kuchini.site:8080/xusm/4bf044ec60/16204
-#EXTINF:-1 tvg-id="RTL Up Osterreich" tvg-name="RTL Up Osterreich" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/3d18ad57ab667ec0e1641b977b17f59a.png" group-title="Österreich",RTL Up Osterreich
-http://kuchini.site:8080/xusm/4bf044ec60/296826
-#EXTINF:-1 tvg-id="Sat 1 Gold Austria" tvg-name="Sat 1 Gold Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1e6160a8e6238f65b595515af89c3346.png" group-title="Österreich",Sat 1 Gold Austria
-http://kuchini.site:8080/xusm/4bf044ec60/192373
-#EXTINF:-1 tvg-id="Kabel Eins Doku - CH" tvg-name="Kabel Eins Doku - CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/ead8e32ff3a0346a0970a4c71e875d6a.png" group-title="Österreich",Kabel Eins Doku - CH
-http://kuchini.site:8080/xusm/4bf044ec60/2074
-#EXTINF:-1 tvg-id="ProSieben Austria" tvg-name="ProSieben Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/bc30ffa91c810b18be831cc89d8167b2.png" group-title="Österreich",ProSieben Austria
-http://kuchini.site:8080/xusm/4bf044ec60/12657
-#EXTINF:-1 tvg-id="ProSieben Maxx Austria" tvg-name="ProSieben Maxx Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/89708aebce152a7ef3a65829bdcde71c.png" group-title="Österreich",ProSieben Maxx Austria
-http://kuchini.site:8080/xusm/4bf044ec60/174233
-#EXTINF:-1 tvg-id="VOX Austria" tvg-name="VOX Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/829dfd4fda58692df26cd4c0b24cc18c.png" group-title="Österreich",VOX Austria
-http://kuchini.site:8080/xusm/4bf044ec60/174242
-#EXTINF:-1 tvg-id="Sixx Austria" tvg-name="Sixx Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d1f7223412d84bd44b238f3066795f0e.png" group-title="Österreich",Sixx Austria
-http://kuchini.site:8080/xusm/4bf044ec60/12662
-#EXTINF:-1 tvg-id="DMAX - Austria" tvg-name="DMAX - Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e9b2b79363d17673cbcda9a24eb5cbe8.png" group-title="Österreich",DMAX - Austria
-http://kuchini.site:8080/xusm/4bf044ec60/12651
-#EXTINF:-1 tvg-id="Servus TV Austria" tvg-name="Servus TV Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0ad757045034fecae6719f9a45e0e2b6.png" group-title="Österreich",Servus TV Austria
-http://kuchini.site:8080/xusm/4bf044ec60/12649
 #EXTINF:-1 tvg-id="nick Austria" tvg-name="nick Austria" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3903a880dfc0b23a74c6199b4cfb5242.png" group-title="Österreich",nick Austria
 http://kuchini.site:8080/xusm/4bf044ec60/2102
 #EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3d1d4c235f5dbf5fe5b941b7643d18d2.png" group-title="Österreich",FS1
