@@ -125,8 +125,6 @@ http://kuchini.site:8080/xusm/4bf044ec60/281754
 http://kuchini.site:8080/xusm/4bf044ec60/290769
 #EXTINF:-1 tvg-id="Auto Motor und Sport" tvg-name="Auto Motor und Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0fb29d0c2f553038ade101ecd6eb4bf4.png" group-title="Doku",Auto Motor Sport
 http://kuchini.site:8080/xusm/4bf044ec60/296227
-#EXTINF:-1 tvg-id="Auto Motor und Sport" tvg-name="Auto Motor und Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/26c21b6834a1d642acc99d1a3c689bcc.png" group-title="Doku",Auto Motor und Sport
-http://kuchini.site:8080/xusm/4bf044ec60/2385
 #EXTINF:-1 tvg-id="Waidwerk" tvg-name="Waidwerk" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/90cd2dc98eb87632227707b562ef8220.png" group-title="Doku",Waidwerk
 http://kuchini.site:8080/xusm/4bf044ec60/193759
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="Doku",DMAX
@@ -137,9 +135,9 @@ http://kuchini.site:8080/xusm/4bf044ec60/47558
 http://kuchini.site:8080/xusm/4bf044ec60/172308
 #EXTINF:-1 tvg-id="Bon Gusto" tvg-name="Bon Gusto" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3c97f2b1e0dfc980ecd9e928710ccdbe.png" group-title="Doku",Bon Gusto
 http://kuchini.site:8080/xusm/4bf044ec60/191957
-#EXTINF:-1 tvg-id="Paranormal" tvg-name="Paranormal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/414912419c2bc2af2d22da8876a3dfce.jpg" group-title="Doku",Paranormal
+#EXTINF:-1 tvg-id="Paranormal" tvg-name="Paranormal" tvg-shift="" radio="" tvg-logo="https://archive.org/download/paranormal-logo/paranormal-logo.jpg" group-title="Doku",Paranormal
 http://kuchini.site:8080/xusm/4bf044ec60/286568
-#EXTINF:-1 tvg-id="Kultur MD" tvg-name="Kultur MD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/94d467fd9738a7cb7f3381a6b11f14ba.png" group-title="Doku",Kultur MD
+#EXTINF:-1 tvg-id="Kultur MD" tvg-name="Kultur MD" tvg-shift="" radio="" tvg-logo="https://www.kulturmd.de/images/2018_KMDLogo.png" group-title="Doku",Kultur MD
 http://kuchini.site:8080/xusm/4bf044ec60/173538
 #EXTINF:-1 tvg-id="Tagesschau24" tvg-name="Tagesschau24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04fd1f475a08d228ab281a7010988ec0.png" group-title="",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
@@ -161,8 +159,6 @@ http://kuchini.site:8080/xusm/4bf044ec60/290381
 http://kuchini.site:8080/xusm/4bf044ec60/163081
 #EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2bfee4ac81a297ec69afd0438758db1.png" group-title="Musik",Jukebox
 http://kuchini.site:8080/xusm/4bf044ec60/12613
-#EXTINF:-1 tvg-id="Rockland Radio TV" tvg-name="Rockland Radio TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e2ee1e067945307b74de18d79103d8d2.png" group-title="Musik",Rockland Radio TV
-http://kuchini.site:8080/xusm/4bf044ec60/286786
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="",DAZN 1
 http://kuchini.site:8080/xusm/4bf044ec60/48355
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6701b2c9af26d19ca02e675ec00c13d4.png" group-title="",DAZN 2
@@ -341,8 +337,6 @@ https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-id="Dasding.de" tvg-name="DASDING-VisualRadio" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png" group-title="Musik",DASDING-VisualRadio
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-id="Unserding.de" tvg-name="UNSERDING-VisualRadio" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png" group-title="Musik",UNSERDING-VisualRadio
-https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
 #EXTINF:-1 tvg-id="Rockland.de" tvg-name="Rockland TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png" group-title="Musik",Rockland TV
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png" group-title="Musik",MTV Germany
@@ -360,7 +354,7 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png" group-title="Musik",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-id="Kronehit TV" tvg-name="Kronehit TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="Musik",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+http://kuchini.site:8080/xusm/4bf044ec60/281751
 #EXTINF:-1 tvg-id="Melodie TV" tvg-name="Melodie TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png" group-title="Musik",Melodie TV
 plugin://plugin.video.youtube/play/?video_id=1nHkPNp4Yc0
 #EXTINF:-1 tvg-id="TVM3" tvg-name="TVM3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png" group-title="Musik",TVM3
