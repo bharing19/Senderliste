@@ -144,11 +144,11 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-id="n-tv" tvg-name="n-tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="",n-tv
 http://kuchini.site:8080/xusm/4bf044ec60/2080
 #EXTINF:-1 tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0bfde547a8bd903c5751e2fe274b4315.png" group-title="",DW Deutsch
-http://kuchini.site:8080/xusm/4bf044ec60/10941
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 #EXTINF:-1 tvg-id="Euronews D" tvg-name="Euronews D" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c97d4e4c207813498a3e32202ddf3162.png" group-title="",euronews
 http://kuchini.site:8080/xusm/4bf044ec60/4421
 #EXTINF:-1 tvg-id="folx.tv" tvg-name="folx.tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7161732f64ac753b4dfc4ec14cc68468.png" group-title="",FOLX
-http://kuchini.site:8080/xusm/4bf044ec60/168933
+https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4f07704f5ad2f88963e357271609b3d6.png" group-title="Musik",MTV
 http://kuchini.site:8080/xusm/4bf044ec60/3486
 #EXTINF:-1 tvg-id="Deluxe Music" tvg-name="Deluxe Music" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/69332ee91ef318918ed5c2b89390dd0a.png" group-title="Musik",Deluxe Music
