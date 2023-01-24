@@ -358,7 +358,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 #EXTINF:-1 tvg-id="Kronehit TV" tvg-name="Kronehit TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="Musik",Kronehit TV
 http://kuchini.site:8080/xusm/4bf044ec60/281751
 #EXTINF:-1 tvg-id="Melodie TV" tvg-name="Melodie TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png" group-title="Musik",Melodie TV
-plugin://plugin.video.youtube/play/?video_id=1nHkPNp4Yc0
+http://kuchini.site:8080/xusm/4bf044ec60/281751
 #EXTINF:-1 tvg-id="TVM3" tvg-name="TVM3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png" group-title="Musik",TVM3
 https://edge16.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
 #EXTINF:-1 tvg-id="CMC" tvg-name="CMC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png" group-title="Musik",CMC
