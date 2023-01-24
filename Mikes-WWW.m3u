@@ -57,7 +57,7 @@ http://kuchini.site:8080/xusm/4bf044ec60/2121
 http://kuchini.site:8080/xusm/4bf044ec60/891
 #EXTINF:-1 tvg-id="Kabel Eins Classics" tvg-name="Kabel Eins Classics" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ccca2dd72cd94ced168e92d166edee9f.png" group-title="",Kabel Eins Classics
 http://kuchini.site:8080/xusm/4bf044ec60/10026
-#EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Doku",Kabel Eins Doku
+#EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="",Kabel Eins Doku
 http://kuchini.site:8080/xusm/4bf044ec60/290259
 #EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/45f2fffd906cdd883f2ad72166311fcc.png" group-title="",ProSieben
 http://kuchini.site:8080/xusm/4bf044ec60/887
@@ -115,8 +115,10 @@ http://kuchini.site:8080/xusm/4bf044ec60/3506
 http://kuchini.site:8080/xusm/4bf044ec60/266963
 #EXTINF:-1 tvg-id="Sky Nature Germany" tvg-name="Sky Nature Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="Doku",Sky Nature
 http://kuchini.site:8080/xusm/4bf044ec60/291079
-#EXTINF:-1 tvg-id="Sky Dokumentaries Germany" tvg-name="Sky Dokumentaries Germany" tvg-shift="" radio="" tvg-logo="https://www.sky.de/static/img/entertainment/sky_21-07_sky-documenatries.jpg" group-title="Doku",Sky Dokumentaries
+#EXTINF:-1 tvg-id="Sky Documentaries Germany" tvg-name="Sky Documentaries Germany" tvg-shift="" radio="" tvg-logo="https://www.sky.de/static/img/entertainment/sky_21-07_sky-documenatries.jpg" group-title="Doku",Sky Documentaries
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/84431
+#EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Doku",Kabel Eins Doku
+http://kuchini.site:8080/xusm/4bf044ec60/290259
 #EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime + Investigation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1e6d7e1968524d60a190f8d44a2df9dc.png" group-title="Doku",Crime + Investigation
 http://kuchini.site:8080/xusm/4bf044ec60/5181
 #EXTINF:-1 tvg-id="bergblick" tvg-name="bergblick" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c23bf82567280b3cbfa3f5d2a32dc5fd.png" group-title="Doku",bergblick
