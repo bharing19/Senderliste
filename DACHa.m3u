@@ -32,7 +32,7 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5a688cd1f8d9c6aaee8cd4bbd094497.png" group-title="",Arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2cd6be90d74ccd553c63a50c905da05.png" group-title="",RTL
-http://kuchini.site:8080/xusm/4bf044ec60/890
+http://kuchini.site:8080/protv/ddadd005cd/890
 #EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTLZWEI" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/83f3e54518c9d0c9aa8c5fab3a8219d3.png" group-title="",RTL Zwei
 http://kuchini.site:8080/xusm/4bf044ec60/888
 #EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/dc75cc60e4f9f5903be6b3293f223563.png" group-title="",Super RTL
