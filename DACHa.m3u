@@ -175,18 +175,72 @@ http://kuchini.site:8080/xusm/4bf044ec60/281610
 http://kuchini.site:8080/xusm/4bf044ec60/412
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/44f9f80e44f84ce4533b0cbb3cb62fcd.png" group-title="Sport",EUROSPORT 2
 http://kuchini.site:8080/xusm/4bf044ec60/2082
-#EXTINF:-1 tvg-id="KINO BOX 5" tvg-name="KINO BOX 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5655d2c5f3aeb8c69ed481031fe2d8f0.png" group-title="",KINO BOX 5
+#EXTINF:-1 tvg-id="KINO BOX 5" tvg-name="KINO BOX 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5655d2c5f3aeb8c69ed481031fe2d8f0.png" group-title="PayTV",KINO BOX 5
 http://kuchini.site:8080/xusm/4bf044ec60/283301
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e278484e21302dccc0083bc4570e5d3a.png" group-title="PayTV",SYFY
+http://kuchini.site:8080/xusm/4bf044ec60/408
+#EXTINF:-1 tvg-id="13th Street" tvg-name="13th Street" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/affc50722b24295a801e25d724bd63c3.png" group-title="PayTV",13th Street
+http://kuchini.site:8080/xusm/4bf044ec60/3498
+#EXTINF:-1 tvg-id="Sony AXN" tvg-name="Sony AXN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4df4f6d272837cabf8055cc973a311d1.png" group-title="PayTV",Sony AXN
+http://kuchini.site:8080/xusm/4bf044ec60/2091
+#EXTINF:-1 tvg-id="Sony Channel Germany" tvg-name="Sony Channel Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e2fee6b2734b02fd526ec435b3d82668.jpg" group-title="PayTV",Sony Channel
+http://kuchini.site:8080/xusm/4bf044ec60/2128
+#EXTINF:-1 tvg-id="Romance TV Germany" tvg-name="Romance TV Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eff97396dced319c2f9034ce017d4837.png" group-title="PayTV",Romance TV
+http://kuchini.site:8080/xusm/4bf044ec60/1662
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9327371a91ab40f216154b8dc2e80d8f.png" group-title="PayTV",Kinowelt TV
+http://kuchini.site:8080/xusm/4bf044ec60/2127
+#EXTINF:-1 tvg-id="Silverline Movie Channel" tvg-name="Silverline Movie Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fb24daf338d66d8806f505694abf2e0.jpg" group-title="PayTV",SilverLine
+http://kuchini.site:8080/xusm/4bf044ec60/148067
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b7fd47cce1f77856894995648c9b0e5.png" group-title="PayTV",Universal TV
+http://kuchini.site:8080/xusm/4bf044ec60/1654
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="TNT Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e544bd95d6e6ae7bef1951c13d06d4c5.png" group-title="PayTV",Warner TV Comedy
+http://kuchini.site:8080/xusm/4bf044ec60/281763
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT Film" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f13246ba5272f59e5bc74ab07c0a511d.png" group-title="PayTV",Warner TV Film
+http://kuchini.site:8080/xusm/4bf044ec60/2087
+#EXTINF:-1 tvg-id="TNT serie" tvg-name="TNT serie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4216151256055c0b324d24e8718f2df6.png" group-title="PayTV",Warner TV serie
+http://kuchini.site:8080/xusm/4bf044ec60/1655
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53a26073e5ed0e20f546a463740fe707.png" group-title="PayTV",Heimatkanal
+http://kuchini.site:8080/xusm/4bf044ec60/1668
 #EXTINF:-1 tvg-id="Magenta Sport 1" tvg-name="Magenta Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 1
 http://kuchini.site:8080/xusm/4bf044ec60/290686
+#EXTINF:-1 tvg-id="Magenta Sport 2" tvg-name="Magenta Sport 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 2
+http://kuchini.site:8080/F20436/a96aaf00/290687
+#EXTINF:-1 tvg-id="Magenta Sport 3" tvg-name="Magenta Sport 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 3
+http://kuchini.site:8080/F20436/a96aaf00/281748
+#EXTINF:-1 tvg-id="Magenta Sport 4" tvg-name="Magenta Sport 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 4
+http://kuchini.site:8080/F20436/a96aaf00/290688
+#EXTINF:-1 tvg-id="Magenta Sport 5" tvg-name="Magenta Sport 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 5
+http://kuchini.site:8080/F20436/a96aaf00/290689
+#EXTINF:-1 tvg-id="Magenta Sport 6" tvg-name="Magenta Sport 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 6
+http://kuchini.site:8080/F20436/a96aaf00/290690
 #EXTINF:-1 tvg-id="Magenta Sport 7" tvg-name="Magenta Sport 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ec41206bbca4096f5641efd7d9713071.png" group-title="Sport",Magenta Sport 7
 http://kuchini.site:8080/xusm/4bf044ec60/281749
+#EXTINF:-1 tvg-id="Magenta Sport 8" tvg-name="Magenta Sport 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 8
+http://kuchini.site:8080/F20436/a96aaf00/290691
 #EXTINF:-1 tvg-id="Magenta Sport 9" tvg-name="Magenta Sport 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/aa7250fedd3afc9df02cda266c5d8c8c.png" group-title="Sport",Magenta Sport 9
 http://kuchini.site:8080/xusm/4bf044ec60/290692
+#EXTINF:-1 tvg-id="Magenta Sport 10" tvg-name="Magenta Sport 10" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 10
+http://kuchini.site:8080/F20436/a96aaf00/295566
 #EXTINF:-1 tvg-id="Magenta Sport 11" tvg-name="Magenta Sport 11" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/202c3bcc061f913d01ccd5c9d3d3bf21.png" group-title="Sport",Magenta Sport 11
 http://kuchini.site:8080/xusm/4bf044ec60/295567
+#EXTINF:-1 tvg-id="Magenta Sport 12" tvg-name="Magenta Sport 12" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 12
+http://kuchini.site:8080/F20436/a96aaf00/295568
 #EXTINF:-1 tvg-id="Magenta Sport 13" tvg-name="Magenta Sport 13" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/25e3856825db6f3557157a7ae66a1583.png" group-title="Sport",Magenta Sport 13
 http://kuchini.site:8080/xusm/4bf044ec60/295569
+#EXTINF:-1 tvg-id="Magenta Sport 14" tvg-name="Magenta Sport 14" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 14
+http://kuchini.site:8080/F20436/a96aaf00/295570
+#EXTINF:-1 tvg-id="Magenta Sport 15" tvg-name="Magenta Sport 15" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 15
+http://kuchini.site:8080/F20436/a96aaf00/295571
+#EXTINF:-1 tvg-id="Magenta Sport 16" tvg-name="Magenta Sport 16" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 16
+http://kuchini.site:8080/F20436/a96aaf00/295572
+#EXTINF:-1 tvg-id="Magenta Sport 17" tvg-name="Magenta Sport 17" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 17
+http://kuchini.site:8080/F20436/a96aaf00/295573
+#EXTINF:-1 tvg-id="Magenta Sport 18" tvg-name="Magenta Sport 18" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 18
+http://kuchini.site:8080/F20436/a96aaf00/297337
+#EXTINF:-1 tvg-id="Magenta Sport 19" tvg-name="Magenta Sport 19" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 19
+http://kuchini.site:8080/F20436/a96aaf00/297338
+#EXTINF:-1 tvg-id="Magenta Sport 20" tvg-name="Magenta Sport 20" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 20
+http://kuchini.site:8080/F20436/a96aaf00/297325
 #EXTINF:-1 tvg-id="Max Select 1" tvg-name="Max Select 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2f9b979ea79a5be680a8aa0bbb060774.png" group-title="PayTV",Max Select 1
 http://kuchini.site:8080/xusm/4bf044ec60/67435
 #EXTINF:-1 tvg-id="Max Select 2" tvg-name="Max Select 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/36506aed88dc54dfc7e83d1b0b1147f0.png" group-title="PayTV",Max Select 2
@@ -303,32 +357,8 @@ http://kuchini.site:8080/xusm/4bf044ec60/2432
 http://kuchini.site:8080/xusm/4bf044ec60/174563
 #EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/273bc324c4c9c7d675c01d6b55aa82d6.png" group-title="Sport",Sky Sport News
 http://kuchini.site:8080/xusm/4bf044ec60/1658
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e278484e21302dccc0083bc4570e5d3a.png" group-title="PayTV",SYFY
-http://kuchini.site:8080/xusm/4bf044ec60/408
-#EXTINF:-1 tvg-id="13th Street" tvg-name="13th Street" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/affc50722b24295a801e25d724bd63c3.png" group-title="PayTV",13th Street
-http://kuchini.site:8080/xusm/4bf044ec60/3498
-#EXTINF:-1 tvg-id="Sony AXN" tvg-name="Sony AXN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4df4f6d272837cabf8055cc973a311d1.png" group-title="PayTV",Sony AXN
-http://kuchini.site:8080/xusm/4bf044ec60/2091
-#EXTINF:-1 tvg-id="Sony Channel Germany" tvg-name="Sony Channel Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e2fee6b2734b02fd526ec435b3d82668.jpg" group-title="PayTV",Sony Channel
-http://kuchini.site:8080/xusm/4bf044ec60/2128
-#EXTINF:-1 tvg-id="Romance TV Germany" tvg-name="Romance TV Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eff97396dced319c2f9034ce017d4837.png" group-title="PayTV",Romance TV
-http://kuchini.site:8080/xusm/4bf044ec60/1662
-#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9327371a91ab40f216154b8dc2e80d8f.png" group-title="PayTV",Kinowelt TV
-http://kuchini.site:8080/xusm/4bf044ec60/2127
-#EXTINF:-1 tvg-id="Silverline Movie Channel" tvg-name="Silverline Movie Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fb24daf338d66d8806f505694abf2e0.jpg" group-title="PayTV",SilverLine
-http://kuchini.site:8080/xusm/4bf044ec60/148067
-#EXTINF:-1 tvg-id="Stingray Classica" tvg-name="Stingray Classica" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e21a32500f89bfd12f74678754e89662.png" group-title="PayTV",Stingray Classica
+#EXTINF:-1 tvg-id="Stingray Classica" tvg-name="Stingray Classica" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e21a32500f89bfd12f74678754e89662.png" group-title="Musik",Stingray Classica
 http://kuchini.site:8080/xusm/4bf044ec60/2088
-#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b7fd47cce1f77856894995648c9b0e5.png" group-title="PayTV",Universal TV
-http://kuchini.site:8080/xusm/4bf044ec60/1654
-#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="TNT Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e544bd95d6e6ae7bef1951c13d06d4c5.png" group-title="PayTV",Warner TV Comedy
-http://kuchini.site:8080/xusm/4bf044ec60/281763
-#EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT Film" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f13246ba5272f59e5bc74ab07c0a511d.png" group-title="PayTV",Warner TV Film
-http://kuchini.site:8080/xusm/4bf044ec60/2087
-#EXTINF:-1 tvg-id="TNT serie" tvg-name="TNT serie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4216151256055c0b324d24e8718f2df6.png" group-title="PayTV",Warner TV serie
-http://kuchini.site:8080/xusm/4bf044ec60/1655
-#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53a26073e5ed0e20f546a463740fe707.png" group-title="PayTV",Heimatkanal
-http://kuchini.site:8080/xusm/4bf044ec60/1668
 #EXTINF:-1 tvg-id="Welt" tvg-name="Welt" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/466a05dca5843cf9c8a74a457af829a4.png" group-title="Doku",Welt
 http://kuchini.site:8080/xusm/4bf044ec60/2093
 #EXTINF:-1 tvg-id="Welt der Wunder" tvg-name="Welt der Wunder" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/834de0d76be26d5220d27629a30e02f8.png" group-title="Doku",Welt der Wunder TV
