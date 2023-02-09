@@ -197,8 +197,8 @@ http://iptvmedia.live:8080/365c2123/ef549162ad/1654
 http://iptvmedia.live:8080/365c2123/ef549162ad/281763
 #EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT Film" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f13246ba5272f59e5bc74ab07c0a511d.png" group-title="PayTV",Warner TV Film
 http://iptvmedia.live:8080/365c2123/ef549162ad/2087
-#EXTINF:-1 tvg-id="TNT serie" tvg-name="TNT serie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4216151256055c0b324d24e8718f2df6.png" group-title="PayTV",Warner TV serie
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/1200px-WarnerTV_Serie_Logo_2021.svg.png
+#EXTINF:-1 tvg-id="TNT serie" tvg-name="TNT serie" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/1200px-WarnerTV_Serie_Log" group-title="PayTV",Warner TV serie
+http://iptvmedia.live:8080/365c2123/ef549162ad/1655
 #EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53a26073e5ed0e20f546a463740fe707.png" group-title="PayTV",Heimatkanal
 http://iptvmedia.live:8080/365c2123/ef549162ad/1668
 #EXTINF:-1 tvg-id="Magenta Sport 1" tvg-name="Magenta Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 1
