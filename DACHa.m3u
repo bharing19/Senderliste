@@ -41,9 +41,9 @@ http://kuchini.site:8080/xusm/4bf044ec60/896
 http://kuchini.site:8080/xusm/4bf044ec60/4402
 #EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4974498cb30245ed948c12af1ef3cb84.png" group-title="",Nitro
 http://kuchini.site:8080/xusm/4bf044ec60/2104
-#EXTINF:-1 tvg-id="RTL Crime.de" tvg-name="RTL Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/97fe89015819d8299061887b2eb1b835.png" group-title="PayTV",RTL Crime
+#EXTINF:-1 tvg-id="RTL Crime Germany" tvg-name="RTL Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/97fe89015819d8299061887b2eb1b835.png" group-title="PayTV",RTL-Crime
 http://kuchini.site:8080/xusm/4bf044ec60/2103
-#EXTINF:-1 tvg-id="RTL Living Germany.de" tvg-name="RTL Living Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7ab0d247e8eacd5a236cd80a3dabdd.png" group-title="PayTV",RTL Living
+#EXTINF:-1 tvg-id="RTL Living Germany" tvg-name="RTL Living Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7ab0d247e8eacd5a236cd80a3dabdd.png" group-title="PayTV",RTL-Living
 http://kuchini.site:8080/xusm/4bf044ec60/3477
 #EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/36102300778e635e47c8034032095e33.png" group-title="PayTV",RTL Passion
 http://kuchini.site:8080/xusm/4bf044ec60/2411
@@ -103,7 +103,7 @@ http://kuchini.site:8080/xusm/4bf044ec60/410
 http://kuchini.site:8080/xusm/4bf044ec60/413
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="Doku",National Geographic
 http://kuchini.site:8080/xusm/4bf044ec60/2095
-#EXTINF:-1 tvg-id="National Geographic Wild Germany (Sky)" tvg-name="National Geographic Wild Germany (Sky)" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="Doku",NAT GEO Wild
+#EXTINF:-1 tvg-id="National Geographic Wild Germany" tvg-name="National Geographic Wild Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="Doku",NAT-GEO-Wild
 http://kuchini.site:8080/xusm/4bf044ec60/1666
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="Doku",ANIMAL PLANET
 http://kuchini.site:8080/xusm/4bf044ec60/14370
@@ -499,22 +499,6 @@ http://kuchini.site:8080/xusm/4bf044ec60/24721
 http://kuchini.site:8080/xusm/4bf044ec60/165444
 #EXTINF:-1 tvg-id="Tele M1" tvg-name="Tele M1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/786f3f139a3eea6c3b2e45daa08a677b.png" group-title="Schweiz",Tele M1
 http://kuchini.site:8080/xusm/4bf044ec60/14253
-#EXTINF:-1 tvg-id="RTL CH" tvg-name="RTL CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/94ec8f383c957b665fdb8e2b41f1a681.png" group-title="Schweiz",RTL - CH
-http://kuchini.site:8080/xusm/4bf044ec60/81112
-#EXTINF:-1 tvg-id="Sat 1 CH" tvg-name="Sat 1 CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c029e9fe8fb1be39672d9bc5654acd61.png" group-title="Schweiz",Sat 1 - CH
-http://kuchini.site:8080/xusm/4bf044ec60/81111
-#EXTINF:-1 tvg-id="SYFY CH" tvg-name="SYFY CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/139a0a6a4431e761e07164318a7c6b0f.png" group-title="Schweiz",SYFY - CH
-http://kuchini.site:8080/xusm/4bf044ec60/295082
-#EXTINF:-1 tvg-id="Comedy Central CH" tvg-name="Comedy Central CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ad42dc58895b681ab312d8aa33dadeb.png" group-title="Schweiz",Comedy Central - CH
-http://kuchini.site:8080/xusm/4bf044ec60/83349
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/04737af507abe502010b24913c4b924e.jpg" group-title="Schweiz",TLC - CH
-http://kuchini.site:8080/xusm/4bf044ec60/82260
-#EXTINF:-1 tvg-id="nickelodeon CH" tvg-name="nickelodeon CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/84ea6ba0df632ea38a8d6b19e13a7b02.png" group-title="Schweiz",nickelodeon - CH
-http://kuchini.site:8080/xusm/4bf044ec60/83371
-#EXTINF:-1 tvg-id="NAT GEO Wild CH" tvg-name="NAT GEO Wild CH" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/84dfb87e522df8221cdd3a3d07e89214.png" group-title="Schweiz",NAT GEO Wild - CH
-http://kuchini.site:8080/xusm/4bf044ec60/148048
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/528ebfe5d69b38dae835afd3628a4956.png" group-title="Schweiz",EUROSPORT 1 - CH
-http://kuchini.site:8080/xusm/4bf044ec60/151719
 #EXTINF:-1 tvg-id="Blue Action" tvg-name="Blue Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6c93c103ed7b29a26e3caee1711fdd86.png" group-title="Schweiz",Blue Action
 http://kuchini.site:8080/xusm/4bf044ec60/14254
 #EXTINF:-1 tvg-id="Blue Stars" tvg-name="Blue Stars" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9ecbfa73cb25e4f4472270bfc6cc7020.png" group-title="Schweiz",Blue Stars
