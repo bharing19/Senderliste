@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7f9cd2b80306c2a2078c41e06f7c7b9.png" group-title="",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="",ZDF
@@ -32,109 +32,109 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5a688cd1f8d9c6aaee8cd4bbd094497.png" group-title="",Arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2cd6be90d74ccd553c63a50c905da05.png" group-title="",RTL
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/379
+http://kuchini.site:8080/xusm/4bf044ec60/890
 #EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTLZWEI" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/83f3e54518c9d0c9aa8c5fab3a8219d3.png" group-title="",RTL Zwei
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/380
+http://kuchini.site:8080/xusm/4bf044ec60/888
 #EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/dc75cc60e4f9f5903be6b3293f223563.png" group-title="",Super RTL
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/433
+http://kuchini.site:8080/xusm/4bf044ec60/896
 #EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTLup" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/11271a82de80026e96e845af038a4abc.png" group-title="",RTL Up
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/411
+http://kuchini.site:8080/xusm/4bf044ec60/4402
 #EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4974498cb30245ed948c12af1ef3cb84.png" group-title="",Nitro
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/41293
+http://kuchini.site:8080/xusm/4bf044ec60/2104
 #EXTINF:-1 tvg-id="RTL Crime.de" tvg-name="RTL Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/97fe89015819d8299061887b2eb1b835.png" group-title="PayTV",RTL Crime
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/494
+http://kuchini.site:8080/xusm/4bf044ec60/2103
 #EXTINF:-1 tvg-id="RTL Living Germany.de" tvg-name="RTL Living Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7ab0d247e8eacd5a236cd80a3dabdd.png" group-title="PayTV",RTL Living
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/508
+http://kuchini.site:8080/xusm/4bf044ec60/3477
 #EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/36102300778e635e47c8034032095e33.png" group-title="PayTV",RTL Passion
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/517
+http://kuchini.site:8080/xusm/4bf044ec60/2411
 #EXTINF:-1 tvg-id="Sat.1.de" tvg-name="Sat.1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9794d8ef1bce7dfc71b8a45b059ab188.png" group-title="",Sat 1
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/381
+http://kuchini.site:8080/xusm/4bf044ec60/2107
 #EXTINF:-1 tvg-id="Sat.1 GOLD" tvg-name="Sat.1 GOLD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/246f726393b36fadedb1635065407cf7.png" group-title="",Sat 1 Gold
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/391
+http://kuchini.site:8080/xusm/4bf044ec60/2412
 #EXTINF:-1 tvg-id="Sat.1 emotions" tvg-name="Sat.1 emotions" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/29e64bc3eebf9ccb13b62e7d2575150c.png" group-title="PayTV",Sat 1 Emotions
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/479
+http://kuchini.site:8080/xusm/4bf044ec60/2121
 #EXTINF:-1 tvg-id="Kabel Eins" tvg-name="Kabel Eins" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3a2730109253be2a219341467adb18d9.png" group-title="",Kabel Eins
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/384
+http://kuchini.site:8080/xusm/4bf044ec60/891
 #EXTINF:-1 tvg-id="Kabel Eins Classics" tvg-name="Kabel Eins Classics" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ccca2dd72cd94ced168e92d166edee9f.png" group-title="",Kabel Eins Classics
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/510
+http://kuchini.site:8080/xusm/4bf044ec60/10026
 #EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="",Kabel Eins Doku
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/639
+http://kuchini.site:8080/xusm/4bf044ec60/290259
 #EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/45f2fffd906cdd883f2ad72166311fcc.png" group-title="",ProSieben
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/382
+http://kuchini.site:8080/xusm/4bf044ec60/887
 #EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="ProSieben Maxx" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c16f1abb00d20c7fa731d7a814006137.png" group-title="",ProSieben Maxx
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/389
+http://kuchini.site:8080/xusm/4bf044ec60/2077
 #EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12c0a389de73b05920488417e550d910.png" group-title="PayTV",ProSieben Fun
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/507
+http://kuchini.site:8080/xusm/4bf044ec60/2079
 #EXTINF:-1 tvg-id="Vox" tvg-name="Vox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dde6dacf731b8089130c2a42271032c.png" group-title="",Vox
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/383
+http://kuchini.site:8080/xusm/4bf044ec60/894
 #EXTINF:-1 tvg-id="VOXup" tvg-name="VOXup" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6d7d07a50194844f82114daa8c35c910.png" group-title="",VOXup
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/85435
+http://kuchini.site:8080/xusm/4bf044ec60/151889
 #EXTINF:-1 tvg-id="Sixx" tvg-name="Sixx" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7408cc7876c2cd42a1ba581d850110cd.png" group-title="",Sixx
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/385
+http://kuchini.site:8080/xusm/4bf044ec60/2072
 #EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a670430d841b5b6c22f9614eb30ec705.png" group-title="",Tele 5
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/387
+http://kuchini.site:8080/xusm/4bf044ec60/2439
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/234d55ac82eafc838dc49835335c82a7.jfif" group-title="",TLC
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/629
+http://kuchini.site:8080/xusm/4bf044ec60/2108
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8a5d7198419e91a163c9bfa9bfca1bb.png" group-title="",Comedy Central
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/459
+http://kuchini.site:8080/xusm/4bf044ec60/1670
 #EXTINF:-1 tvg-id="Servus TV" tvg-name="Servus TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8f8047b5124841d96727070e48b31f75.png" group-title="",Servus TV
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/426
+http://kuchini.site:8080/xusm/4bf044ec60/2073
 #EXTINF:-1 tvg-id="ANIXE HD Serie" tvg-name="ANIXE HD Serie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/47d19b959615b07d23081850bfdb740b.png" group-title="",ANIXE Serie
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/409
+http://kuchini.site:8080/xusm/4bf044ec60/296372
 #EXTINF:-1 tvg-id="ANIXE+" tvg-name="ANIXE+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6b57164b9bb2a5769224e17207369.png" group-title="",ANIXE+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/410
+http://kuchini.site:8080/xusm/4bf044ec60/5987
 #EXTINF:-1 tvg-id="123 TV" tvg-name="1-2-3.tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6da40cfe3bc1e39bb923f22f83a49933.png" group-title="",1-2-3.tv
 http://kuchini.site:8080/xusm/4bf044ec60/18446
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5af65e344f7b824fbda309c3606aa1a.png" group-title="",Disney Channel
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/432
+http://kuchini.site:8080/xusm/4bf044ec60/2085
 #EXTINF:-1 tvg-id="Cartoon Network Germany" tvg-name="Cartoon Network Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/737c89acac29a375abc84fa6db9f7608.png" group-title="",Cartoon Network
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/449
+http://kuchini.site:8080/xusm/4bf044ec60/2089
 #EXTINF:-1 tvg-id="Boomerang Germany" tvg-name="Boomerang Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2c92e41c4aaadb4da7a957299bcdd68.png" group-title="",Boomerang
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/438
+http://kuchini.site:8080/xusm/4bf044ec60/411
 #EXTINF:-1 tvg-id="Toggo Plus" tvg-name="Toggo Plus" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0785762339b57511bc7729cb2db4d031.png" group-title="",Toggo Plus
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/435
+http://kuchini.site:8080/xusm/4bf044ec60/2145
 #EXTINF:-1 tvg-id="Fix & Foxi" tvg-name="Fix & Foxi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d771b7e49e7c4766b92c3fbb101cfc3f.png" group-title="",Fix & Foxi
 http://kuchini.site:8080/xusm/4bf044ec60/173515
 #EXTINF:-1 tvg-id="KIKA" tvg-name="KIKA" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2d870d60c7b8dc656ad0b44fe90e9de.png" group-title="",KIKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="Doku",Discovery Channel
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/622
+http://kuchini.site:8080/xusm/4bf044ec60/410
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12130227dd9613bf9b7854425506d572.png" group-title="Doku",History
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/625
+http://kuchini.site:8080/xusm/4bf044ec60/413
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="Doku",National Geographic
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/624
-#EXTINF:-1 tvg-id="National Geographic Wild Germany" tvg-name="National Geographic Wild Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="Doku",NAT GEO Wild
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/635
+http://kuchini.site:8080/xusm/4bf044ec60/2095
+#EXTINF:-1 tvg-id="National Geographic Wild Germany (Sky)" tvg-name="National Geographic Wild Germany (Sky)" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="Doku",NAT GEO Wild
+http://kuchini.site:8080/xusm/4bf044ec60/1666
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="Doku",ANIMAL PLANET
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/636
+http://kuchini.site:8080/xusm/4bf044ec60/14370
 #EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/784f890f04a5d004128b527fb3b66f09.png" group-title="Doku",Spiegel Geschichte
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/626
+http://kuchini.site:8080/xusm/4bf044ec60/1657
 #EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99327f657d95212ff8ca347f73f7eab0.png" group-title="Doku",Spiegel TV Wissen
 http://kuchini.site:8080/xusm/4bf044ec60/3506
 #EXTINF:-1 tvg-id="GEO Television" tvg-name="GEO Television" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a970020b74eb6222254ec1b380e8f69f.png" group-title="Doku",Geo TV
 http://kuchini.site:8080/xusm/4bf044ec60/266963
 #EXTINF:-1 tvg-id="Sky Nature Germany" tvg-name="Sky Nature Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="Doku",Sky Nature
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/84430
+http://kuchini.site:8080/xusm/4bf044ec60/291079
 #EXTINF:-1 tvg-id="Sky Documentaries Germany" tvg-name="Sky Documentaries Germany" tvg-shift="" radio="" tvg-logo="https://www.sky.de/static/img/entertainment/sky_21-07_sky-documenatries.jpg" group-title="Doku",Sky Documentaries
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/84431
 #EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Doku",Kabel Eins Doku
 http://kuchini.site:8080/xusm/4bf044ec60/290259
 #EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime + Investigation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1e6d7e1968524d60a190f8d44a2df9dc.png" group-title="Doku",Crime + Investigation
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/638
+http://kuchini.site:8080/xusm/4bf044ec60/5181
 #EXTINF:-1 tvg-id="bergblick" tvg-name="bergblick" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c23bf82567280b3cbfa3f5d2a32dc5fd.png" group-title="Doku",bergblick
 http://kuchini.site:8080/xusm/4bf044ec60/281754
 #EXTINF:-1 tvg-id="Bild" tvg-name="Bild" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Doku",Bild TV
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/84432
+http://kuchini.site:8080/xusm/4bf044ec60/290769
 #EXTINF:-1 tvg-id="Auto Motor und Sport" tvg-name="Auto Motor und Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0fb29d0c2f553038ade101ecd6eb4bf4.png" group-title="Doku",Auto Motor Sport
 http://kuchini.site:8080/xusm/4bf044ec60/296227
 #EXTINF:-1 tvg-id="Waidwerk" tvg-name="Waidwerk" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/90cd2dc98eb87632227707b562ef8220.png" group-title="Doku",Waidwerk
 http://kuchini.site:8080/xusm/4bf044ec60/193759
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="Doku",DMAX
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/628
+http://kuchini.site:8080/xusm/4bf044ec60/895
 #EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5b96d08b092c4bb4d477822e94734b4.png" group-title="Doku",N24 Doku
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/641
+http://kuchini.site:8080/xusm/4bf044ec60/47558
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dc7be151c538427f9a7133a439c920ea.png" group-title="Doku",HGTV
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/392
+http://kuchini.site:8080/xusm/4bf044ec60/172308
 #EXTINF:-1 tvg-id="Bon Gusto" tvg-name="Bon Gusto" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3c97f2b1e0dfc980ecd9e928710ccdbe.png" group-title="Doku",Bon Gusto
 http://kuchini.site:8080/xusm/4bf044ec60/191957
 #EXTINF:-1 tvg-id="Paranormal" tvg-name="Paranormal" tvg-shift="" radio="" tvg-logo="https://archive.org/download/paranormal-logo/paranormal-logo.jpg" group-title="Doku",Paranormal
@@ -144,7 +144,7 @@ http://kuchini.site:8080/xusm/4bf044ec60/173538
 #EXTINF:-1 tvg-id="Tagesschau24" tvg-name="Tagesschau24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04fd1f475a08d228ab281a7010988ec0.png" group-title="",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="n-tv" tvg-name="n-tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="",n-tv
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/415
+http://kuchini.site:8080/xusm/4bf044ec60/2080
 #EXTINF:-1 tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0bfde547a8bd903c5751e2fe274b4315.png" group-title="",DW Deutsch
 https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 #EXTINF:-1 tvg-id="Euronews D" tvg-name="Euronews D" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c97d4e4c207813498a3e32202ddf3162.png" group-title="",euronews
@@ -152,15 +152,15 @@ http://kuchini.site:8080/xusm/4bf044ec60/4421
 #EXTINF:-1 tvg-id="folx.tv" tvg-name="folx.tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7161732f64ac753b4dfc4ec14cc68468.png" group-title="",FOLX
 https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4f07704f5ad2f88963e357271609b3d6.png" group-title="Musik",MTV
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/453
+http://kuchini.site:8080/xusm/4bf044ec60/3486
 #EXTINF:-1 tvg-id="Deluxe Music" tvg-name="Deluxe Music" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/69332ee91ef318918ed5c2b89390dd0a.png" group-title="Musik",Deluxe Music
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/454
+http://kuchini.site:8080/xusm/4bf044ec60/2111
 #EXTINF:-1 tvg-id="Deluxe Lounge" tvg-name="Deluxe Lounge" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b4940dd7806517b74abbec7cf338a8e1.png" group-title="Musik",Deluxe Lounge
 http://kuchini.site:8080/xusm/4bf044ec60/290381
 #EXTINF:-1 tvg-id="Deutsches Musik Fernsehen" tvg-name="Deutsches Musik Fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4d4d33526eaf588a752d1021813efc8e.png" group-title="Musik",Deutsches Musik Fernsehen
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/429
+http://kuchini.site:8080/xusm/4bf044ec60/163081
 #EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2bfee4ac81a297ec69afd0438758db1.png" group-title="Musik",Jukebox
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/456
+http://kuchini.site:8080/xusm/4bf044ec60/12613
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="",DAZN 1
 http://kuchini.site:8080/xusm/4bf044ec60/48355
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6701b2c9af26d19ca02e675ec00c13d4.png" group-title="",DAZN 2
@@ -204,15 +204,15 @@ http://kuchini.site:8080/xusm/4bf044ec60/4480
 #EXTINF:-1 tvg-id="RAN 1" tvg-name="RAN 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7ad765708ee01e8623e358b4e547e906.jpg" group-title="",RAN 1
 http://kuchini.site:8080/xusm/4bf044ec60/173527
 #EXTINF:-1 tvg-id="RNF" tvg-name="RNF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/74f90fa6bd5525c47562fd442b26f9b0.png" group-title="",RNF
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+http://kuchini.site:8080/xusm/4bf044ec60/5010
 #EXTINF:-1 tvg-id="Sky One Germany" tvg-name="Sky One Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f914300db72dec0e38320710b1e58be7.png" group-title="SKY",Sky One
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/511
+http://kuchini.site:8080/xusm/4bf044ec60/2115
 #EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dd07a5c064d859bba8235e6bf76845a5.png" group-title="SKY",Sky Atlantic
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/471
+http://kuchini.site:8080/xusm/4bf044ec60/1661
 #EXTINF:-1 tvg-id="Sky Comedy Germany" tvg-name="Sky Comedy Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ae27548598be481113873a6d4da2032f.png" group-title="SKY",Sky Comedy
 http://kuchini.site:8080/xusm/4bf044ec60/4461
 #EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/93d402107f3ea78539cce8f071ebea3c.png" group-title="SKY",Sky Krimi
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/485
+http://kuchini.site:8080/xusm/4bf044ec60/2122
 #EXTINF:-1 tvg-id="Sky Crime Germany" tvg-name="Sky Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3bfd5f515499f17d4606e560ed92d8bb.png" group-title="SKY",Sky Crime
 http://kuchini.site:8080/xusm/4bf044ec60/291078
 #EXTINF:-1 tvg-id="Sky Replay Germany" tvg-name="Sky Replay Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d793a3ec8b7877502be0c527fa7da4.png" group-title="SKY",Sky Replay
