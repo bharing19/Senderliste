@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7f9cd2b80306c2a2078c41e06f7c7b9.png" group-title="",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="",ZDF
@@ -42,7 +42,7 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/67447
 #EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4974498cb30245ed948c12af1ef3cb84.png" group-title="",Nitro
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/106987
 #EXTINF:-1 tvg-id="RTL Crime Germany" tvg-name="RTL Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/97fe89015819d8299061887b2eb1b835.png" group-title="PayTV",RTL-Crime
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/13960
+http://kuchini.site:8080/F22230/6e9e8ce0/2103
 #EXTINF:-1 tvg-id="RTL Living Germany" tvg-name="RTL Living Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7ab0d247e8eacd5a236cd80a3dabdd.png" group-title="PayTV",RTL-Living
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/13960
 #EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/36102300778e635e47c8034032095e33.png" group-title="PayTV",RTL Passion
@@ -68,7 +68,7 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/16518
 #EXTINF:-1 tvg-id="Vox" tvg-name="Vox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dde6dacf731b8089130c2a42271032c.png" group-title="",Vox
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/13945
 #EXTINF:-1 tvg-id="VOXup" tvg-name="VOXup" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6d7d07a50194844f82114daa8c35c910.png" group-title="",VOXup
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/98400
+http://kuchini.site:8080/F22230/6e9e8ce0/151889
 #EXTINF:-1 tvg-id="Sixx" tvg-name="Sixx" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7408cc7876c2cd42a1ba581d850110cd.png" group-title="",Sixx
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/13955
 #EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a670430d841b5b6c22f9614eb30ec705.png" group-title="",Tele 5
@@ -112,7 +112,7 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/13964
 #EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99327f657d95212ff8ca347f73f7eab0.png" group-title="Doku",Spiegel TV Wissen
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/207865
 #EXTINF:-1 tvg-id="GEO Television" tvg-name="GEO Television" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a970020b74eb6222254ec1b380e8f69f.png" group-title="Doku",Geo TV
-http://kuchini.site:8080/xusm/4bf044ec60/266963
+http://kuchini.site:8080/F22230/6e9e8ce0/266963
 #EXTINF:-1 tvg-id="Sky Nature Germany" tvg-name="Sky Nature Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="Doku",Sky Nature
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/207851
 #EXTINF:-1 tvg-id="Sky Documentaries Germany" tvg-name="Sky Documentaries Germany" tvg-shift="" radio="" tvg-logo="https://www.sky.de/static/img/entertainment/sky_21-07_sky-documenatries.jpg" group-title="Doku",Sky Documentaries
