@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7f9cd2b80306c2a2078c41e06f7c7b9.png" group-title="",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="",ZDF
