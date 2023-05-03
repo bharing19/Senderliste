@@ -1,367 +1,259 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ard.de" tvg-name="|DE| ARD Das Erste 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ARDDasErste.png" group-title="DE : Deutschland",|DE| ARD Das Erste 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/375
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="|DE| ZDF 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ZDF.png" group-title="DE : Deutschland",|DE| ZDF 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/377
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="|DE| RTL 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/RTL.png" group-title="DE : Deutschland",|DE| RTL 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/379
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="|DE| RTL Zwei 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/RTLZWEI.png" group-title="DE : Deutschland",|DE| RTL Zwei 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/380
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="|DE| Sat 1 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/Sat1.png" group-title="DE : Deutschland",|DE| Sat 1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/381
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="|DE| Prosieben 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ProSieben.png" group-title="DE : Deutschland",|DE| Prosieben 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/382
-#EXTINF:-1 tvg-id="vox.de" tvg-name="|DE| Vox 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/VOX.png" group-title="DE : Deutschland",|DE| Vox 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/383
-#EXTINF:-1 tvg-id="" tvg-name="|DE| VoxUp 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/voxUp.png" group-title="DE : Deutschland",|DE| VoxUp 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/85435
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="|DE| Kabel 1 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/Kabel1.png" group-title="DE : Deutschland",|DE| Kabel 1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/384
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="|DE| Sixx 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/sixx.png" group-title="DE : Deutschland",|DE| Sixx 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/385
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="|DE| Tele 5 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/tele5.png" group-title="DE : Deutschland",|DE| Tele 5 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/387
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="|DE| Nitro 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/nitro.png" group-title="DE : Deutschland",|DE| Nitro 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/388
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="|DE| ProSieben MAXX 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/pro7maxx.png" group-title="DE : Deutschland",|DE| ProSieben MAXX 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/389
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="|DE| Sat 1 Gold 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/sat1gold.png" group-title="DE : Deutschland",|DE| Sat 1 Gold 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/391
-#EXTINF:-1 tvg-id="ard.de" tvg-name="|DE| ARD Das Erste HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ARDDasErste.png" group-title="DE : Deutschland",|DE| ARD Das Erste HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41284
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="|DE| ZDF HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ZDF.png" group-title="DE : Deutschland",|DE| ZDF HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41285
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="|DE| RTL HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/RTL.png" group-title="DE : Deutschland",|DE| RTL HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41286
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="|DE| RTL Zwei HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/RTLZWEI.png" group-title="DE : Deutschland",|DE| RTL Zwei HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41287
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="|DE| Sat 1 HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/Sat1.png" group-title="DE : Deutschland",|DE| Sat 1 HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41288
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="|DE| Prosieben HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ProSieben.png" group-title="DE : Deutschland",|DE| Prosieben HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41289
-#EXTINF:-1 tvg-id="vox.de" tvg-name="|DE| Vox HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/VOX.png" group-title="DE : Deutschland",|DE| Vox HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/417
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="|DE| Kabel 1 HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/Kabel1.png" group-title="DE : Deutschland",|DE| Kabel 1 HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41290
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="|DE| Sixx HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/sixx.png" group-title="DE : Deutschland",|DE| Sixx HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41291
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="|DE| Tele 5 HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/tele5.png" group-title="DE : Deutschland",|DE| Tele 5 HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41292
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="|DE| Nitro HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/nitro.png" group-title="DE : Deutschland",|DE| Nitro HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41293
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="|DE| ProSieben MAXX HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/pro7maxx.png" group-title="DE : Deutschland",|DE| ProSieben MAXX HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41294
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="|DE| Sat 1 Gold HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/sat1gold.png" group-title="DE : Deutschland",|DE| Sat 1 Gold HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/41295
-#EXTINF:-1 tvg-id="hgtv.de" tvg-name="|DE| HG TV HD+" tvg-logo="https://png.pngitem.com/pimgs/s/195-1958579_hgtv-logo-hgtv-logo-png-transparent-png.png" group-title="DE : Deutschland",|DE| HG TV HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/392
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="|DE| 3sat 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/3sat.png" group-title="DE : Deutschland",|DE| 3sat 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/394
-#EXTINF:-1 tvg-id="arte.de" tvg-name="|DE| Arte 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/Arte.png" group-title="DE : Deutschland",|DE| Arte 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/396
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="|DE| ZDF Info 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/Zdfinfo.png" group-title="DE : Deutschland",|DE| ZDF Info 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/397
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="|DE| ZDF Neo 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/zdfneo.png" group-title="DE : Deutschland",|DE| ZDF Neo 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/398
-#EXTINF:-1 tvg-id="br.de" tvg-name="|DE| BR 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/BR.png" group-title="DE : Deutschland",|DE| BR 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/399
-#EXTINF:-1 tvg-id="hr.de" tvg-name="|DE| HR-fernsehen 4K+" tvg-logo="https://www.schwarzlichthelden.de/wp-content/uploads/2018/09/hr-fernsehen.png" group-title="DE : Deutschland",|DE| HR-fernsehen 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/400
-#EXTINF:-1 tvg-id="wdr.de" tvg-name="|DE| WDR 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/WDR.png" group-title="DE : Deutschland",|DE| WDR 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/401
-#EXTINF:-1 tvg-id="" tvg-name="|DE| MDR 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/mdr.png" group-title="DE : Deutschland",|DE| MDR 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/402
-#EXTINF:-1 tvg-id="swrsr.de" tvg-name="|DE| SWR 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/swr.png" group-title="DE : Deutschland",|DE| SWR 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/404
-#EXTINF:-1 tvg-id="swrsr.de" tvg-name="|DE| SR 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/sr.png" group-title="DE : Deutschland",|DE| SR 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/405
-#EXTINF:-1 tvg-id="rbb.de" tvg-name="|DE| rbb Berlin 4K" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/rbb.png" group-title="DE : Deutschland",|DE| rbb Berlin 4K
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/406
-#EXTINF:-1 tvg-id="one.de" tvg-name="|DE| ONE1 HD" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/one1.png" group-title="DE : Deutschland",|DE| ONE1 HD
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/407
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="|DE| NDR 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ndr.png" group-title="DE : Deutschland",|DE| NDR 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/408
-#EXTINF:-1 tvg-id="anixe.de" tvg-name="|DE| Anixe SERIE 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/anixeSerie.png" group-title="DE : Deutschland",|DE| Anixe SERIE 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/409
-#EXTINF:-1 tvg-id="anixe.de" tvg-name="|DE| ANIXE+ 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/anixeSerie.png" group-title="DE : Deutschland",|DE| ANIXE+ 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/410
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="|DE| RTL Plus" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/rtlplus.png" group-title="DE : Deutschland",|DE| RTL Plus
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/411
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="|DE| Tagesschau 24 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/tagesschau.png" group-title="DE : Deutschland",|DE| Tagesschau 24 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/412
-#EXTINF:-1 tvg-id="welt.de" tvg-name="|DE| WELT 4K+" tvg-logo="https://tvfueralle.de/channel-logos/welt.png" group-title="DE : Deutschland",|DE| WELT 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/413
-#EXTINF:-1 tvg-id="" tvg-name="|DE| NTV 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ntv.png" group-title="DE : Deutschland",|DE| NTV 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/415
-#EXTINF:-1 tvg-id="phoenix.de" tvg-name="|DE| Phoenix 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/phoenix.png" group-title="DE : Deutschland",|DE| Phoenix 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/416
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="|DE| Welt der Wunder" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/weltderwunder.png" group-title="DE : Deutschland",|DE| Welt der Wunder
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/418
-#EXTINF:-1 tvg-id="" tvg-name="|DE| QVC" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/qvc.png" group-title="DE : Deutschland",|DE| QVC
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/422
-#EXTINF:-1 tvg-id="" tvg-name="|DE| QVC Beauty & Style" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/qvc.png" group-title="DE : Deutschland",|DE| QVC Beauty & Style
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/423
-#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="|DE| Sonnenklar TV 4k+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/sonnenklar.png" group-title="DE : Deutschland",|DE| Sonnenklar TV 4k+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/424
-#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="|DE| ARD Alpha 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ardalpha.png" group-title="DE : Deutschland",|DE| ARD Alpha 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/425
-#EXTINF:-1 tvg-id="" tvg-name="|DE| Servus TV DE 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/servus.png" group-title="DE : Deutschland",|DE| Servus TV DE 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/426
-#EXTINF:-1 tvg-id="channel21.de" tvg-name="|DE| Channel 21 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/channel21.png" group-title="DE : Deutschland",|DE| Channel 21 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/428
-#EXTINF:-1 tvg-id="deutschesmusikfernsehen.de" tvg-name="|DE| Deutsches Musik Fernsehen" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/dmf.png" group-title="DE : Deutschland",|DE| Deutsches Musik Fernsehen
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/429
-#EXTINF:-1 tvg-id="geotelevision.de" tvg-name="|DE| Genius Teleshopping 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/genius.png" group-title="DE : Deutschland",|DE| Genius Teleshopping 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/461
-#EXTINF:-1 tvg-id="" tvg-name="|DE| Euronews 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/euronews.png" group-title="DE : Deutschland",|DE| Euronews 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/18575
-#EXTINF:-1 tvg-id="ard.de" tvg-name="|DE| ARD Das Erste Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ARDDasErste.png" group-title="DE: Deutschland Hevc",|DE| ARD Das Erste Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48510
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="|DE| ZDF Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ZDF.png" group-title="DE: Deutschland Hevc",|DE| ZDF Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48511
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="|DE| RTL Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/RTL.png" group-title="DE: Deutschland Hevc",|DE| RTL Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48512
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="|DE| RTL Zwei Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/RTLZWEI.png" group-title="DE: Deutschland Hevc",|DE| RTL Zwei Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48513
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="|DE| Sat 1 Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/Sat1.png" group-title="DE: Deutschland Hevc",|DE| Sat 1 Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48514
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="|DE| Prosieben Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/ProSieben.png" group-title="DE: Deutschland Hevc",|DE| Prosieben Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48515
-#EXTINF:-1 tvg-id="vox.de" tvg-name="|DE| Vox Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/VOX.png" group-title="DE: Deutschland Hevc",|DE| Vox Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48516
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="|DE| Kabel 1 Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/Kabel1.png" group-title="DE: Deutschland Hevc",|DE| Kabel 1 Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48517
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="|DE| Sixx Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/sixx.png" group-title="DE: Deutschland Hevc",|DE| Sixx Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48518
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="|DE| Nitro Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/nitro.png" group-title="DE: Deutschland Hevc",|DE| Nitro Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48522
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="|DE| ProSieben MAXX Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/pro7maxx.png" group-title="DE: Deutschland Hevc",|DE| ProSieben MAXX Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48520
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="|DE| DMAX Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/dmax.png" group-title="DE: Deutschland Hevc",|DE| DMAX Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48519
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="|DE| Kabel 1 Doku Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/kabel1doku.png" group-title="DE: Deutschland Hevc",|DE| Kabel 1 Doku Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48523
-#EXTINF:-1 tvg-id="superrtl.de" tvg-name="|DE| Super RTL Hevc" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Deutschland/superrtl.png" group-title="DE: Deutschland Hevc",|DE| Super RTL Hevc
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/48521
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="|DE| Disney Channel 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/disneychannel.png" group-title="DE : Kinder",|DE| Disney Channel 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/432
-#EXTINF:-1 tvg-id="superrtl.de" tvg-name="|DE| Super RTL 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/superrtl.png" group-title="DE : Kinder",|DE| Super RTL 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/433
-#EXTINF:-1 tvg-id="kika.de" tvg-name="|DE| Kika 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/kika.png" group-title="DE : Kinder",|DE| Kika 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/434
-#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="|DE| TOGGO plus" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/toggoplus.png" group-title="DE : Kinder",|DE| TOGGO plus
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/435
-#EXTINF:-1 tvg-id="boomerang.de" tvg-name="|DE| Boomerang" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/boomerang.png" group-title="DE : Kinder",|DE| Boomerang
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/438
-#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="|DE| Nickelodeon 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/nickelodeon.png" group-title="DE : Kinder",|DE| Nickelodeon 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/445
-#EXTINF:-1 tvg-id="nicktoons.de" tvg-name="|DE| Nicktoons" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/nicktoons.png" group-title="DE : Kinder",|DE| Nicktoons
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/446
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="|DE| Disney Junior 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/disneyjunior.png" group-title="DE : Kinder",|DE| Disney Junior 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/448
-#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="|DE| Cartoon Network" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/cartoonnetwork.png" group-title="DE : Kinder",|DE| Cartoon Network
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/449
-#EXTINF:-1 tvg-id="babytv.de" tvg-name="|DE| Baby TV" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/babytv.png" group-title="DE : Kinder",|DE| Baby TV
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/450
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="|DE| Disney XD 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kinder/disneyxd.png" group-title="DE : Kinder",|DE| Disney XD 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/460
-#EXTINF:-1 tvg-id="" tvg-name="|DE| LionBox Paw Patrol 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="DE : Kinder",|DE| LionBox Paw Patrol 1
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/30781
-#EXTINF:-1 tvg-id="" tvg-name="|DE| LionBox Paw Patrol 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="DE : Kinder",|DE| LionBox Paw Patrol 2
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/34975
-#EXTINF:-1 tvg-id="" tvg-name="|DE| LionBox Animation 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="DE : Kinder",|DE| LionBox Animation 1
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/46102
-#EXTINF:-1 tvg-id="" tvg-name="|DE| LionBox Animation 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="DE : Kinder",|DE| LionBox Animation 2
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/46103
-#EXTINF:-1 tvg-id="" tvg-name="|DE| LionBox Mascha und der Bär" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="DE : Kinder",|DE| LionBox Mascha und der Bär
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/36624
-#EXTINF:-1 tvg-id="" tvg-name="|DE| LionBox Tom And Jerry 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="DE : Kinder",|DE| LionBox Tom And Jerry 1
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/55941
-#EXTINF:-1 tvg-id="" tvg-name="|DE| LionBox Tom And Jerry 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="DE : Kinder",|DE| LionBox Tom And Jerry 2
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/55942
-#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="|DE| Sky Cinema Special 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemaspecial.png" group-title="DE : Kino",|DE| Sky Cinema Special 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/463
-#EXTINF:-1 tvg-id="universal.de" tvg-name="|DE| Universal Channel 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/universal.png" group-title="DE : Kino",|DE| Universal Channel 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/467
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="|DE| Sky Cinema Premieren 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemapremiere.png" group-title="DE : Kino",|DE| Sky Cinema Premieren 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/468
-#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="|DE| Sky Cinema Best of 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemabestof.png" group-title="DE : Kino",|DE| Sky Cinema Best of 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/470
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="|DE| Sky Atlantic 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skyatlantic.png" group-title="DE : Kino",|DE| Sky Atlantic 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/471
-#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="|DE| Sky Cinema Family 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemafamily.png" group-title="DE : Kino",|DE| Sky Cinema Family 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/472
-#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="|DE| Sky Cinema Thriller 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemathriller.png" group-title="DE : Kino",|DE| Sky Cinema Thriller 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/473
-#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="|DE| Sky Cinema 24 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinema24.png" group-title="DE : Kino",|DE| Sky Cinema 24 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/475
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="|DE| Sky Cinema Premieren +24 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemapremiere24.png" group-title="DE : Kino",|DE| Sky Cinema Premieren +24 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/476
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="|DE| Sky Cinema Action 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemaaction.png" group-title="DE : Kino",|DE| Sky Cinema Action 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/477
-#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="|DE|  Sat 1 Emotions HD+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/sat1emotions.png" group-title="DE : Kino",|DE|  Sat 1 Emotions HD+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/479
-#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="|DE| Sky Cinema Classics" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemaclassic.png" group-title="DE : Kino",|DE| Sky Cinema Classics
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/480
-#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="|DE| Sky Cinema FUN" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemafun.png" group-title="DE : Kino",|DE| Sky Cinema FUN
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/482
-#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="|DE| Sky Krimi 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skykrimi.png" group-title="DE : Kino",|DE| Sky Krimi 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/485
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="|DE| TNT Film 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/tntfilm.png" group-title="DE : Kino",|DE| TNT Film 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/486
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="|DE| TNT Serie 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/tntserie.png" group-title="DE : Kino",|DE| TNT Serie 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/488
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="|DE| TNT Comedy 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/tntcomedy.png" group-title="DE : Kino",|DE| TNT Comedy 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/489
-#EXTINF:-1 tvg-id="universal.de" tvg-name="|DE| Universal TV 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/universal.png" group-title="DE : Kino",|DE| Universal TV 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/490
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="|DE| SYFY 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/syfy.png" group-title="DE : Kino",|DE| SYFY 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/491
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="|DE| Fox 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/fox.png" group-title="DE : Kino",|DE| Fox 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/492
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="|DE| 13th Street 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/13street.png" group-title="DE : Kino",|DE| 13th Street 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/493
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="|DE| RTL Crime 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/rtlcrime.png" group-title="DE : Kino",|DE| RTL Crime 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/494
-#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="|DE| Sony TV" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/sony.png" group-title="DE : Kino",|DE| Sony TV
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/495
-#EXTINF:-1 tvg-id="axn.de" tvg-name="|DE| AXN 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/axn.png" group-title="DE : Kino",|DE| AXN 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/506
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="|DE| Prosieben Fun 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/prosiebenfun.png" group-title="DE : Kino",|DE| Prosieben Fun 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/507
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="|DE| RTL Living 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/rtlliving.png" group-title="DE : Kino",|DE| RTL Living 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/508
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="|DE| Kabel 1 Classics 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/kabel1classic.png" group-title="DE : Kino",|DE| Kabel 1 Classics 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/510
-#EXTINF:-1 tvg-id="sky1.de" tvg-name="|DE| Sky one 4K+" tvg-logo="" group-title="DE : Kino",|DE| Sky one 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/511
-#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Cinema Nostalgie 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/skycinemanostalgie.png" group-title="DE : Kino",|DE| Sky Cinema Nostalgie 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/512
-#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="|DE| Kinowelt TV 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/kinowelt.png" group-title="DE : Kino",|DE| Kinowelt TV 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/514
-#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="|DE| Heimatkanal" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/heimat.png" group-title="DE : Kino",|DE| Heimatkanal
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/515
-#EXTINF:-1 tvg-id="romance.de" tvg-name="|DE| Romance TV 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/romancetv.png" group-title="DE : Kino",|DE| Romance TV 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/516
-#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="|DE| RTL Passion 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Kino/rtlpassion.png" group-title="DE : Kino",|DE| RTL Passion 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/517
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="|DE| MTV 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Music/mtv.png" group-title="DE : Musik",|DE| MTV 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/453
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="|DE| Deluxe Music 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Music/deluxemusic.png" group-title="DE : Musik",|DE| Deluxe Music 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/454
-#EXTINF:-1 tvg-id="jukebox.de" tvg-name="|DE| Jukebox" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Music/jukebox.png" group-title="DE : Musik",|DE| Jukebox
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/456
-#EXTINF:-1 tvg-id="classica.de" tvg-name="|DE| Classica" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Music/classica.png" group-title="DE : Musik",|DE| Classica
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/457
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="|DE| Discovery Channel 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/discoverychannel.png" group-title="DE : Doku",|DE| Discovery Channel 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/622
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="|DE| National Geographic 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/natgeo.png" group-title="DE : Doku",|DE| National Geographic 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/624
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="|DE| Nat Geo Wild 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/natgeowild.png" group-title="DE : Doku",|DE| Nat Geo Wild 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/635
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="|DE| Animal Planet 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/animalplanet.png" group-title="DE : Doku",|DE| Animal Planet 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/636
-#EXTINF:-1 tvg-id="history.de" tvg-name="|DE| History Channel 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/history.png" group-title="DE : Doku",|DE| History Channel 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/625
-#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="|DE| Sky Crime 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/skycrime.png" group-title="DE : Doku",|DE| Sky Crime 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/84429
-#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="|DE| Sky Documentaries 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/skydocumentaries.png" group-title="DE : Doku",|DE| Sky Documentaries 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/84431
-#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="|DE| Sky Nature 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/Sky_Nature.png" group-title="DE : Doku",|DE| Sky Nature 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/84430
-#EXTINF:-1 tvg-id="skyshowcasehd.de" tvg-name="|DE| Sky Showcase 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/Sky_Showcase.png" group-title="DE : Doku",|DE| Sky Showcase 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/84433
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="|DE| Spiegel Geschichte 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/spiegel.png" group-title="DE : Doku",|DE| Spiegel Geschichte 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/626
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="|DE| DMAX 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/dmax.png" group-title="DE : Doku",|DE| DMAX 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/628
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="|DE| TLC 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/tlc.png" group-title="DE : Doku",|DE| TLC 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/629
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="|DE| E! 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/e%21.png" group-title="DE : Doku",|DE| E! 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/631
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="|DE| Comedy Central 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/comedycentral.png" group-title="DE : Doku",|DE| Comedy Central 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/459
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="|DE| Crime+Investigation" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/crimeandinvestigation.png" group-title="DE : Doku",|DE| Crime+Investigation
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/638
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="|DE| Kabel 1 Doku" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/kabel1docu.png" group-title="DE : Doku",|DE| Kabel 1 Doku
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/639
-#EXTINF:-1 tvg-id="n24doku.de" tvg-name="|DE| N24 DOKU" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/n24.png" group-title="DE : Doku",|DE| N24 DOKU
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/641
-#EXTINF:-1 tvg-id="bild.de" tvg-name="|DE| Bild Doku 4K+" tvg-logo="http://148.251.19.24:89/DE-Logo/DE-Doku/bilddocu.png" group-title="DE : Doku",|DE| Bild Doku 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/84432
-#EXTINF:-1 tvg-id="" tvg-name="|AU| ORF 1 4K+" tvg-logo="" group-title="AU : Austria",|AU| ORF 1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/698
-#EXTINF:-1 tvg-id="" tvg-name="|AU| ORF 2 4K+" tvg-logo="" group-title="AU : Austria",|AU| ORF 2 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/700
-#EXTINF:-1 tvg-id="" tvg-name="|AU| ORF 3 4K+" tvg-logo="" group-title="AU : Austria",|AU| ORF 3 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/701
-#EXTINF:-1 tvg-id="" tvg-name="|AU| ATV 4K+" tvg-logo="" group-title="AU : Austria",|AU| ATV 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/702
-#EXTINF:-1 tvg-id="" tvg-name="|AU| Servus TV 4K+" tvg-logo="" group-title="AU : Austria",|AU| Servus TV 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/706
-#EXTINF:-1 tvg-id="" tvg-name="|AU| ATV 2" tvg-logo="" group-title="AU : Austria",|AU| ATV 2
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/707
-#EXTINF:-1 tvg-id="" tvg-name="|AU| SRF 1 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SRF_1HD.svg/1280px-SRF_1HD.svg.png" group-title="AU : Austria",|AU| SRF 1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/709
-#EXTINF:-1 tvg-id="" tvg-name="|AU| SRF 2 4K+" tvg-logo="" group-title="AU : Austria",|AU| SRF 2 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/710
-#EXTINF:-1 tvg-id="" tvg-name="|AU| Puls 24 4K+ " tvg-logo="" group-title="AU : Austria",|AU| Puls 24 4K+ 
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/712
-#EXTINF:-1 tvg-id="" tvg-name="|AU| Schau TV" tvg-logo="" group-title="AU : Austria",|AU| Schau TV
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/714
-#EXTINF:-1 tvg-id="" tvg-name="|AU| ORF Sport 4K+" tvg-logo="" group-title="AU : Austria",|AU| ORF Sport 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/715
-#EXTINF:-1 tvg-id="" tvg-name="|AU| R9 Osterreich 4K+   " tvg-logo="http://5.9.108.141:89/start550.jpg" group-title="AU : Austria",|AU| R9 Osterreich 4K+   
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/53024
-#EXTINF:-1 tvg-id="" tvg-name="|AU| Starparadies" tvg-logo="" group-title="AU : Austria",|AU| Starparadies
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/53027
-#EXTINF:-1 tvg-id="" tvg-name="|AU| Go TV " tvg-logo="" group-title="AU : Austria",|AU| Go TV 
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/53028
-#EXTINF:-1 tvg-id="" tvg-name="|AU| OE24 TV 4K+" tvg-logo="" group-title="AU : Austria",|AU| OE24 TV 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/53029
-#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF 1 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| SRF 1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/742
-#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF Zwei 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| SRF Zwei 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/744
-#EXTINF:-1 tvg-id="" tvg-name="|CH| SRF Info 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| SRF Info 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/746
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RSI La 1 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| RSI La 1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/748
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RSI La 2 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| RSI La 2 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/751
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RTS 2 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| RTS 2 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/753
-#EXTINF:-1 tvg-id="" tvg-name="|CH| RTS 1 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| RTS 1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/754
-#EXTINF:-1 tvg-id="" tvg-name="|CH| Discovery Channel 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| Discovery Channel 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/756
-#EXTINF:-1 tvg-id="" tvg-name="|CH| Tele M1 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| Tele M1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/758
-#EXTINF:-1 tvg-id="" tvg-name="|CH| Teleclub Cinema 4K+" tvg-logo="https://www.horizont.net/news/media/17/Teleclub-Logo-2016-165171-detailtop.png" group-title="CH : Switzerland",|CH| Teleclub Cinema 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/760
-#EXTINF:-1 tvg-id="" tvg-name="|CH| Teleclub Emotion 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| Teleclub Emotion 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/762
-#EXTINF:-1 tvg-id="" tvg-name="|CH| Teleclub Sport 1" tvg-logo="" group-title="CH : Switzerland",|CH| Teleclub Sport 1
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/764
-#EXTINF:-1 tvg-id="" tvg-name="|CH| Teleclub Sport 2" tvg-logo="" group-title="CH : Switzerland",|CH| Teleclub Sport 2
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/765
-#EXTINF:-1 tvg-id="" tvg-name="|CH| Teleclub Action 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| Teleclub Action 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/766
-#EXTINF:-1 tvg-id="" tvg-name="|CH| TVO 4K+" tvg-logo="" group-title="CH : Switzerland",|CH| TVO 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/767
-#EXTINF:-1 tvg-id="" tvg-name="|CH| 3+" tvg-logo="" group-title="CH : Switzerland",|CH| 3+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/769
-#EXTINF:-1 tvg-id="" tvg-name="|CH| 4+" tvg-logo="" group-title="CH : Switzerland",|CH| 4+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/771
-#EXTINF:-1 tvg-id="" tvg-name="|CH| 5+" tvg-logo="" group-title="CH : Switzerland",|CH| 5+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/772
-#EXTINF:-1 tvg-id="" tvg-name="|CH| MySports 1 4K+" tvg-logo="http://5.9.108.141:89/mysports.png" group-title="CH : Switzerland",|CH| MySports 1 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/56356
-#EXTINF:-1 tvg-id="" tvg-name="|CH| MySports 2 4K+" tvg-logo="http://5.9.108.141:89/mysports.png" group-title="CH : Switzerland",|CH| MySports 2 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/56357
-#EXTINF:-1 tvg-id="" tvg-name="|CH| MySports 3 4K+" tvg-logo="http://5.9.108.141:89/mysports.png" group-title="CH : Switzerland",|CH| MySports 3 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/56358
-#EXTINF:-1 tvg-id="" tvg-name="|CH| MySports 4 4K+" tvg-logo="http://5.9.108.141:89/mysports.png" group-title="CH : Switzerland",|CH| MySports 4 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/56359
-#EXTINF:-1 tvg-id="" tvg-name="|CH| MySports 5 4K+" tvg-logo="http://5.9.108.141:89/mysports.png" group-title="CH : Switzerland",|CH| MySports 5 4K+
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/56360
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street HD" tvg-logo="http://myserveriptv.com:2082/images/1f9a05f22cf06bd343d57add260990f1.png" group-title="Germany",DE: 13th Street HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13940
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3Sat HD" tvg-logo="http://myserveriptv.com:2082/images/11a3fafd7e881a3abbb7080f3e562d94.png" group-title="Germany",DE: 3Sat HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14015
+#EXTINF:-1 tvg-id="" tvg-name="DE: Animal Planet HD" tvg-logo="http://myserveriptv.com:2082/images/86c25218df97a8b1086034b4cb263826.png" group-title="Germany",DE: Animal Planet HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16504
+#EXTINF:-1 tvg-id="" tvg-name="DE: Anixe HD" tvg-logo="http://myserveriptv.com:2082/images/9cd34ff00c0ecfa52c7050f4cfe27b18.png" group-title="Germany",DE: Anixe HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/106248
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD Alpha HD" tvg-logo="http://myserveriptv.com:2082/images/46e3adff8126807fe6cf5197ac2c1a6e.png" group-title="Germany",DE: ARD Alpha HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/107053
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD Tagesschau 24 HD" tvg-logo="http://myserveriptv.com:2082/images/c8debef08e562435eea89a96a799693f.png" group-title="Germany",DE: ARD Tagesschau 24 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/205793
+#EXTINF:-1 tvg-id="" tvg-name="DE: Arte HD" tvg-logo="http://myserveriptv.com:2082/images/c8581bc43486c23ee099afe031f4de31.png" group-title="Germany",DE: Arte HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15876
+#EXTINF:-1 tvg-id="" tvg-name="DE: Baby TV" tvg-logo="http://myserveriptv.com:2082/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="Germany",DE: Baby TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15848
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bild" tvg-logo="http://myserveriptv.com:2082/images/717b86e46fc01152c003801d03f6ec21.png" group-title="Germany",DE: Bild
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/209370
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang" tvg-logo="http://myserveriptv.com:2082/images/8c9d96b1ef82662dd41a42e8528876b6.png" group-title="Germany",DE: Boomerang
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15877
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network" tvg-logo="http://myserveriptv.com:2082/images/8384404719f745b303e5c2d0b292f6fa.png" group-title="Germany",DE: Cartoon Network
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15879
+#EXTINF:-1 tvg-id="" tvg-name="DE: Classica" tvg-logo="http://myserveriptv.com:2082/images/00b019e31a9a263c549b89630cd6146b.png" group-title="Germany",DE: Classica
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15880
+#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central HD" tvg-logo="http://myserveriptv.com:2082/images/d85df652c2f313b2e66b5489e59774b0.png" group-title="Germany",DE: Comedy Central HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16507
+#EXTINF:-1 tvg-id="" tvg-name="DE: Crime Investigation HD" tvg-logo="http://myserveriptv.com:2082/images/61ba08e3d64812756330e6660e09d9b3.png" group-title="Germany",DE: Crime Investigation HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/31225
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste HD" tvg-logo="http://myserveriptv.com:2082/images/b072ce5a1d3f019a92b0586a2c3344c7.png" group-title="Germany",DE: Das Erste HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13957
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music HD" tvg-logo="http://myserveriptv.com:2082/images/76d814db4dcbdc0e322f3db4855ce139.png" group-title="Germany",DE: Deluxe Music HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14026
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" group-title="Germany",DE: Discovery Channel
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13935
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="DE: Disney Channel HD" tvg-logo="http://myserveriptv.com:2082/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="Germany",DE: Disney Channel HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15881
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Junior HD" tvg-logo="http://myserveriptv.com:2082/images/56ea68604747cd9d2f29655fc8465f45.png" group-title="Germany",DE: Disney Junior HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/152310
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMax HD" tvg-logo="http://myserveriptv.com:2082/images/3357426c5ec8bd0e0419c1f8d5a9937e.png" group-title="Germany",DE: DMax HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13953
+#EXTINF:-1 tvg-id="" tvg-name="DE: DW Deutsche Welle" tvg-logo="http://myserveriptv.com:2082/images/be3b583c6ba6585b4fc7761bc0855adc.png" group-title="Germany",DE: DW Deutsche Welle
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/31299
+#EXTINF:-1 tvg-id="" tvg-name="DE: Euronews" tvg-logo="http://myserveriptv.com:2082/images/894a32de977df155b3df799a4566dcb6.png" group-title="Germany",DE: Euronews
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/106981
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern HD" tvg-logo="http://myserveriptv.com:2082/images/6ce61213cccbb053f151790bbb605bb9.png" group-title="Germany",DE: FC Bayern HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16509
+#EXTINF:-1 tvg-id="" tvg-name="DE: Fox HD" tvg-logo="http://myserveriptv.com:2082/images/68c7baa5e7f979c4e8806dc871e98929.png" group-title="Germany",DE: Fox HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13928
+#EXTINF:-1 tvg-id="" tvg-name="DE: Heimat Kanal" tvg-logo="http://myserveriptv.com:2082/images/9ff91ec32a5bbbd0d1f038e8acd578b5.png" group-title="Germany",DE: Heimat Kanal
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13992
+#EXTINF:-1 tvg-id="" tvg-name="DE: HGTV" tvg-logo="http://myserveriptv.com:2082/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="Germany",DE: HGTV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13982
+#EXTINF:-1 tvg-id="" tvg-name="DE: History HD" tvg-logo="http://myserveriptv.com:2082/images/65b50b04a6af50bb2f174db30a8c6dad.png" group-title="Germany",DE: History HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13978
+#EXTINF:-1 tvg-id="" tvg-name="DE: Jukebox" tvg-logo="http://myserveriptv.com:2082/images/fe41c76db47b88c0b70f762424e6bc46.png" group-title="Germany",DE: Jukebox
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/208364
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" group-title="Germany",DE: Kabel Eins Classic HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/106255
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins Doku" tvg-logo="http://myserveriptv.com:2082/images/fee6549ed134387efdfdd5d9ef52f13b.png" group-title="Germany",DE: Kabel Eins Doku
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16510
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins HD" tvg-logo="http://myserveriptv.com:2082/images/8589677e9b794693efc00d0c0c5983df.png" group-title="Germany",DE: Kabel Eins HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16511
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kika HD" tvg-logo="http://myserveriptv.com:2082/images/6a197b472088525656c81373867c587c.png" group-title="Germany",DE: Kika HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13962
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kinowelt TV" tvg-logo="http://myserveriptv.com:2082/images/91ddf381153232fac523454fa849015e.png" group-title="Germany",DE: Kinowelt TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13997
+#EXTINF:-1 tvg-id="" tvg-name="DE: Krone Hit" tvg-logo="http://myserveriptv.com:2082/images/2bb14c016f301feaef05720ca35ccc9d.png" group-title="Germany",DE: Krone Hit
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16512
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDR" tvg-logo="http://myserveriptv.com:2082/images/f9824ba4a0c1053d3c448d752236fe4f.png" group-title="Germany",DE: MDR
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/152275
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motorvision" tvg-logo="http://myserveriptv.com:2082/images/9b06e1603cfedf6bb77462e41e9e5e37.png" group-title="Germany",DE: Motorvision
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13977
+#EXTINF:-1 tvg-id="" tvg-name="DE: MTV HD" tvg-logo="http://myserveriptv.com:2082/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="Germany",DE: MTV HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/69703
+#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV HD" tvg-logo="http://myserveriptv.com:2082/images/10c94beea26a866094637c7e0d794673.png" group-title="Germany",DE: N-TV HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14019
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 Doku" tvg-logo="http://myserveriptv.com:2082/images/f147f795819bb6de5db87a79700dc3d5.png" group-title="Germany",DE: N24 Doku
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/44728
+#EXTINF:-1 tvg-id="" tvg-name="DE: National Geographic" tvg-logo="http://myserveriptv.com:2082/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="Germany",DE: National Geographic
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16514
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo Wild" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" group-title="Germany",DE: Nat Geo Wild
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13949
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR" tvg-logo="http://myserveriptv.com:2082/images/30c6dd2394c54c684272a4dfe785a20a.png" group-title="Germany",DE: NDR
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207866
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nick HD" tvg-logo="http://myserveriptv.com:2082/images/ca5571910a6535ae32de2d943035abd7.png" group-title="Germany",DE: Nick HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/106969
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nick Jr HD" tvg-logo="http://myserveriptv.com:2082/images/158ce63edef35757141d03f92d2a4b0c.png" group-title="Germany",DE: Nick Jr HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/69779
+#EXTINF:-1 tvg-id="" tvg-name="DE: One HD" tvg-logo="http://myserveriptv.com:2082/images/d79fbcf3a30220433a0e855992303f3c.png" group-title="Germany",DE: One HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16516
+#EXTINF:-1 tvg-id="" tvg-name="DE: Phoenix" tvg-logo="http://myserveriptv.com:2082/images/5047bc596a4bab2dc7f7c120bb22dec5.png" group-title="Germany",DE: Phoenix
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14020
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 Fun HD" tvg-logo="http://myserveriptv.com:2082/images/887ae385e9e4839719ea21f26ce62763.png" group-title="Germany",DE: Pro7 Fun HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16518
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben HD" tvg-logo="http://myserveriptv.com:2082/images/d47c316e92c6c31c4501dee2be260c5f.png" group-title="Germany",DE: ProSieben HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/106983
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 Maxx HD" tvg-logo="http://myserveriptv.com:2082/images/456ee978aa497e533fcb584253b91fc5.png" group-title="Germany",DE: Pro7 Maxx HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13959
+#EXTINF:-1 tvg-id="" tvg-name="DE: RBB" tvg-logo="http://myserveriptv.com:2082/images/b9306beac50ada0f9ee68e86db330821.png" group-title="Germany",DE: RBB
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/209385
+#EXTINF:-1 tvg-id="" tvg-name="DE: Romance" tvg-logo="http://myserveriptv.com:2082/images/081fc8e8bd39e1dc72ca3f5a5fdf6697.png" group-title="Germany",DE: Romance
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13965
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime HD" tvg-logo="http://myserveriptv.com:2082/images/3abefa32ba573eabb52eea70fd63cb7f.png" group-title="Germany",DE: RTL Crime HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13993
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD" tvg-logo="http://myserveriptv.com:2082/images/ae32688de6c25f78870d58e6caa81dea.png" group-title="Germany",DE: RTL HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13942
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living HD" tvg-logo="http://myserveriptv.com:2082/images/767eee04d1adcd5aa88802d721cf8433.png" group-title="Germany",DE: RTL Living HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13960
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro HD" tvg-logo="http://myserveriptv.com:2082/images/85a0f1e495fbe22315c45587aac2f0a4.png" group-title="Germany",DE: RTL Nitro HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/106987
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion HD" tvg-logo="http://myserveriptv.com:2082/images/2e5956f5be1e4054c4f50f36a62b2449.png" group-title="Germany",DE: RTL Passion HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13958
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Up HD" tvg-logo="http://myserveriptv.com:2082/images/1d439188ce5729677da3455b3b218321.png" group-title="Germany",DE: RTL Up HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/67447
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Zwei" tvg-logo="http://myserveriptv.com:2082/images/63ffe7c9891bcdd728270239a0e984f4.png" group-title="Germany",DE: RTL Zwei
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/191696
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Emotions" tvg-logo="http://myserveriptv.com:2082/images/6787e46ec953ce371df68eb8cac8db68.png" group-title="Germany",DE: Sat 1 Emotions
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/67448
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Gold HD" tvg-logo="http://myserveriptv.com:2082/images/c1a3a0519532c6363d2b31619c177296.png" group-title="Germany",DE: Sat 1 Gold HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13975
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 HD" tvg-logo="http://myserveriptv.com:2082/images/7111e091e19431700db0f96331686c12.png" group-title="Germany",DE: Sat 1 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13956
+#EXTINF:-1 tvg-id="" tvg-name="DE: Servus TV HD" tvg-logo="http://myserveriptv.com:2082/images/0abcad94f74b0c3d963fd84e803e7e71.png" group-title="Germany",DE: Servus TV HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13948
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx HD" tvg-logo="http://myserveriptv.com:2082/images/d56156f855ad9335b7e1ff36a9bb2ff3.png" group-title="Germany",DE: Sixx HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13955
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sony AXN HD" tvg-logo="http://myserveriptv.com:2082/images/9ceff310e0bb11409f86a0ea45517d96.png" group-title="Germany",DE: Sony AXN HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/69568
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="http://myserveriptv.com:2082/images/77568410e36d96bd6435b0514692872c.png" group-title="Germany",DE: Spiegel Geschichte HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13964
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="http://myserveriptv.com:2082/images/06fb093e6469a6795a455ab52abdd918.png" group-title="Germany",DE: Spiegel TV Wissen HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207865
+#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL HD" tvg-logo="http://myserveriptv.com:2082/images/d64baab004530fff74f8bc011ec14719.png" group-title="Germany",DE: Super RTL HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13954
+#EXTINF:-1 tvg-id="" tvg-name="DE: SWR Fernsehen" tvg-logo="http://myserveriptv.com:2082/images/fb38a9a7d10fefde97e109d52189fca4.png" group-title="Germany",DE: SWR Fernsehen
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14016
+#EXTINF:-1 tvg-id="" tvg-name="DE: SyFy HD" tvg-logo="http://myserveriptv.com:2082/images/5bbff0b816140d5e05c5a1ed646f4288.png" group-title="Germany",DE: SyFy HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13995
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tele 5 HD" tvg-logo="http://myserveriptv.com:2082/images/06c60aa1a810aefd575bf267a6333882.png" group-title="Germany",DE: Tele 5 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13989
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD" tvg-logo="http://myserveriptv.com:2082/images/8b37002b896dfc27a7e7cf1c347d4215.png" group-title="Germany",DE: TLC HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13994
+#EXTINF:-1 tvg-id="" tvg-name="DE: Toggo Plus" tvg-logo="http://myserveriptv.com:2082/images/e543febb169a01bbd47ed9811471cefd.png" group-title="Germany",DE: Toggo Plus
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/69720
+#EXTINF:-1 tvg-id="" tvg-name="DE: Universal HD" tvg-logo="http://myserveriptv.com:2082/images/7641e5f4e7e8517bd0477fd81e3de1b8.png" group-title="Germany",DE: Universal HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13988
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="http://myserveriptv.com:2082/images/ccda5ae0852a58ca19ec280be9db8ee5.png" group-title="Germany",DE: VOX HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13945
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX Up" tvg-logo="http://myserveriptv.com:2082/images/148e82cc29c838159166337f3d9f0946.png" group-title="Germany",DE: VOX Up
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/98400
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Comedy" tvg-logo="http://myserveriptv.com:2082/images/931fd1ac8169ca5efc1afafec02e118b.png" group-title="Germany",DE: Warner TV Comedy
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/138485
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Film" tvg-logo="http://myserveriptv.com:2082/images/d407749085fe1e8c962f9eab1260dcc5.png" group-title="Germany",DE: Warner TV Film
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13947
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner TV Serie" tvg-logo="http://myserveriptv.com:2082/images/6098351841849b7cee6c06031d6fd6e5.png" group-title="Germany",DE: Warner TV Serie
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/134395
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt der Wunder HD" tvg-logo="http://myserveriptv.com:2082/images/a2e24a0212d036088dd4f61595727c19.png" group-title="Germany",DE: Welt der Wunder HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/152260
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt HD" tvg-logo="http://myserveriptv.com:2082/images/4f2e722614e9583cd43b4a334d12edae.png" group-title="Germany",DE: Welt HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16526
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="http://myserveriptv.com:2082/images/6bcfcb8a35569d69406244df3d8be3c8.png" group-title="Germany",DE: ZDF HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13961
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Info HD" tvg-logo="http://myserveriptv.com:2082/images/0f4196356eadea3e575e6590922d92ae.png" group-title="Germany",DE: ZDF Info HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/44722
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Neo HD" tvg-logo="http://myserveriptv.com:2082/images/e0b35b36a2d6b0124eca1e9116c18ca3.png" group-title="Germany",DE: ZDF Neo HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14022
+#EXTINF:-1 tvg-id="" tvg-name="DE: Zee One" tvg-logo="http://myserveriptv.com:2082/images/0c01e06248def329d97c7b59a5d2dfb4.png" group-title="Germany",DE: Zee One
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/76349
+#EXTINF:-1 tvg-id="" tvg-name="AT: ATV HD" tvg-logo="http://myserveriptv.com:2082/images/a0e011bf980afc83ad884218c1e86ff7.png" group-title="Austria",AT: ATV HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207893
+#EXTINF:-1 tvg-id="" tvg-name="AT: ATV 2" tvg-logo="http://myserveriptv.com:2082/images/a4e05fcfcdcf4a35d247c2ddd1caf827.png" group-title="Austria",AT: ATV 2
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/160040
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 1 HD" tvg-logo="http://myserveriptv.com:2082/images/4624799392d528fe25420926c6137f1e.png" group-title="Austria",AT: ORF 1 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13963
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 HD" tvg-logo="http://myserveriptv.com:2082/images/213cf0b8e6bbb002c4d984b30fd1fd0d.png" group-title="Austria",AT: ORF 2 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/13996
+#EXTINF:-1 tvg-id="" tvg-name="AT: R9" tvg-logo="http://myserveriptv.com:2082/images/1e95ec65c03e06c5057a1659d1788dbd.png" group-title="Austria",AT: R9
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/31392
+#EXTINF:-1 tvg-id="" tvg-name="AT: Servus TV" tvg-logo="http://myserveriptv.com:2082/images/1ecdea226f38030144fe84b1aa79e685.png" group-title="Austria",AT: Servus TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/121221
+#EXTINF:-1 tvg-id="" tvg-name="AT: Dorf TV" tvg-logo="http://myserveriptv.com:2082/images/3fc96d5f38f317616ac85da6553fd599.png" group-title="Austria",AT: Dorf TV
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/31297
+#EXTINF:-1 tvg-id="" tvg-name="➤ News" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Austria",➤ News
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225780
+#EXTINF:-1 tvg-id="" tvg-name="AT: Austria 24" tvg-logo="http://myserveriptv.com:2082/images/2dbbdc22057705ec9bd1adedbafb5eac.png" group-title="Austria",AT: Austria 24
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207477
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 3 HD" tvg-logo="http://myserveriptv.com:2082/images/1464d97311fb25b495cd38a3a225349a.png" group-title="Austria",AT: ORF 3 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/121222
+#EXTINF:-1 tvg-id="" tvg-name="AT: Puls 24" tvg-logo="http://myserveriptv.com:2082/images/6e4c0b90a8f2bd6969de499da1d7f22f.png" group-title="Austria",AT: Puls 24
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/207913
+#EXTINF:-1 tvg-id="" tvg-name="AT: OE24" tvg-logo="http://myserveriptv.com:2082/images/40aae2cf92bc46a9034e5360d51a998d.png" group-title="Austria",AT: OE24
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14683
+#EXTINF:-1 tvg-id="" tvg-name="➤ Sport" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Austria",➤ Sport
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225779
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF Sport" tvg-logo="http://myserveriptv.com:2082/images/4cc23160ca0e0a03261fd90d166c9c8a.png" group-title="Austria",AT: ORF Sport
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/121223
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://myserveriptv.com:2082/images/4cc23160ca0e0a03261fd90d166c9c8a.png" group-title="Austria",AT: ORF Sport+ HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/16517
+#EXTINF:-1 tvg-id="" tvg-name="SW: 3+ HD" tvg-logo="http://myserveriptv.com:2082/images/7d1d2a124f8f783eebf5bae5904f5661.png" group-title="Switzerland",SW: 3+ HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39423
+#EXTINF:-1 tvg-id="" tvg-name="SW: 4+ HD" tvg-logo="http://myserveriptv.com:2082/images/483f0a7d9d002b7a4ab2d6ada8e01e7c.png" group-title="Switzerland",SW: 4+ HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/65108
+#EXTINF:-1 tvg-id="" tvg-name="SW: 6+ HD" tvg-logo="http://myserveriptv.com:2082/images/df145695478dfb3a602769ce73768390.png" group-title="Switzerland",SW: 6+ HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39428
+#EXTINF:-1 tvg-id="" tvg-name="SW: Tele Z FHD" tvg-logo="http://myserveriptv.com:2082/images/508dcd4308df2a67c1a8544ba0924350.png" group-title="Switzerland",SW: Tele Z FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39469
+#EXTINF:-1 tvg-id="" tvg-name="SW: TV24 HD" tvg-logo="http://myserveriptv.com:2082/images/da4d5014568ddf79d4d0c5dbdf8253f8.png" group-title="Switzerland",SW: TV24 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39477
+#EXTINF:-1 tvg-id="" tvg-name="SW: RTS Deux HD" tvg-logo="http://myserveriptv.com:2082/images/725f2813b722f41804fdd52f1ccf6cbe.png" group-title="Switzerland",SW: RTS Deux HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15850
+#EXTINF:-1 tvg-id="" tvg-name="SW: RTS Un HD" tvg-logo="http://myserveriptv.com:2082/images/942d6010cb3985b50e0c04870c83ae8f.png" group-title="Switzerland",SW: RTS Un HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15851
+#EXTINF:-1 tvg-id="" tvg-name="SW: SRF 1 HD" tvg-logo="http://myserveriptv.com:2082/images/598d057a3a5417599151c67d9eb0319d.png" group-title="Switzerland",SW: SRF 1 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15852
+#EXTINF:-1 tvg-id="" tvg-name="SW: SRF Info HD" tvg-logo="http://myserveriptv.com:2082/images/69938ce0b3ef0b25de5cc9258c871659.png" group-title="Switzerland",SW: SRF Info HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39449
+#EXTINF:-1 tvg-id="" tvg-name="➤ Entertainment" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Switzerland",➤ Entertainment
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225786
+#EXTINF:-1 tvg-id="" tvg-name="SW: Tele1 FHD" tvg-logo="http://myserveriptv.com:2082/images/47588a4073d09e698436ceafc7b494d0.png" group-title="Switzerland",SW: Tele1 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39470
+#EXTINF:-1 tvg-id="" tvg-name="SW: Tele M1" tvg-logo="http://myserveriptv.com:2082/images/47588a4073d09e698436ceafc7b494d0.png" group-title="Switzerland",SW: Tele M1
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/27976
+#EXTINF:-1 tvg-id="" tvg-name="SW: Telebasel HD" tvg-logo="http://myserveriptv.com:2082/images/0e40d3723ec4bf9f43cdbb54135adb28.png" group-title="Switzerland",SW: Telebasel HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39471
+#EXTINF:-1 tvg-id="" tvg-name="SW: Puls 8 FHD" tvg-logo="http://myserveriptv.com:2082/images/6d439f37e20d04f4d10d98cff9a08373.png" group-title="Switzerland",SW: Puls 8 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39441
+#EXTINF:-1 tvg-id="" tvg-name="SW: Kanal 9 HD" tvg-logo="http://myserveriptv.com:2082/images/2bdc4fdef0b2a4ac141d70402c3e5f07.png" group-title="Switzerland",SW: Kanal 9 HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/27968
+#EXTINF:-1 tvg-id="" tvg-name="SW: Die Neue Zeit" tvg-logo="http://myserveriptv.com:2082/images/0e1b3ba0f213940989b18e625beb4906.png" group-title="Switzerland",SW: Die Neue Zeit
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/27966
+#EXTINF:-1 tvg-id="" tvg-name="SW: SRF 2 Zwei HD" tvg-logo="http://myserveriptv.com:2082/images/bd554b58144bcd7cc924d129ac296ef1.png" group-title="Switzerland",SW: SRF 2 Zwei HD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39447
+#EXTINF:-1 tvg-id="" tvg-name="➤ Sport" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Switzerland",➤ Sport
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225785
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue Zoom D" tvg-logo="http://myserveriptv.com:2082/images/6980fee3a89951190801ec31518f5eae.png" group-title="Switzerland",SW: Blue Zoom D
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39465
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue Sport 1" tvg-logo="http://myserveriptv.com:2082/images/4dc5952508ef3411fb71a49fab0ead42.png" group-title="Switzerland",SW: Blue Sport 1
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39459
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue Sport 2" tvg-logo="http://myserveriptv.com:2082/images/39bc59ad02d856b690ffe56e95c33dc5.png" group-title="Switzerland",SW: Blue Sport 2
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39461
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports FHD" tvg-logo="http://myserveriptv.com:2082/images/28114991294e45f6f60aa7e087e92e42.png" group-title="Switzerland",SW: MySports FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39440
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports 1 FHD" tvg-logo="http://myserveriptv.com:2082/images/d4ecac3b89da56b21e2348612f5fa89b.png" group-title="Switzerland",SW: MySports 1 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15865
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports 2 FHD" tvg-logo="http://myserveriptv.com:2082/images/d4ecac3b89da56b21e2348612f5fa89b.png" group-title="Switzerland",SW: MySports 2 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15866
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports 3 FHD" tvg-logo="http://myserveriptv.com:2082/images/9dd5d2e85abd87fc8d7676ac899b0273.png" group-title="Switzerland",SW: MySports 3 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/15868
+#EXTINF:-1 tvg-id="" tvg-name="SW: Mysports 4 FHD" tvg-logo="http://myserveriptv.com:2082/images/4a936d410c3b7e63cf9175df69c33453.png" group-title="Switzerland",SW: Mysports 4 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/39435
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports 5 FHD" tvg-logo="http://myserveriptv.com:2082/images/7b98234d0c0687644b21d3882b38e573.png" group-title="Switzerland",SW: MySports 5 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/209439
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports 6 FHD" tvg-logo="http://myserveriptv.com:2082/images/18cae071ccaf4780f60a75ad1c13d74d.png" group-title="Switzerland",SW: MySports 6 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/209440
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports 7 FHD" tvg-logo="http://myserveriptv.com:2082/images/4aca6a3b1a92d33e992036f54b742065.png" group-title="Switzerland",SW: MySports 7 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/209441
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports 8 FHD" tvg-logo="http://myserveriptv.com:2082/images/69d17706e166bf0be76056c9ae870e7c.png" group-title="Switzerland",SW: MySports 8 FHD
+http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/209442
