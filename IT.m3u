@@ -1,133 +1,693 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1" tvg-logo="http://myserveriptv.com:2082/images/fada916c769118eee0c28fcff416b1b4.png" group-title="Italy",IT: Rai 1
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14597
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2" tvg-logo="http://myserveriptv.com:2082/images/f3e3e4dd982ec2ab2b73f95ec31e9862.png" group-title="Italy",IT: Rai 2
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14598
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 3" tvg-logo="http://myserveriptv.com:2082/images/d0999fb9d82787b18448a00a3cfd5dae.png" group-title="Italy",IT: Rai 3
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14599
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4" tvg-logo="http://myserveriptv.com:2082/images/00906aca1f3d80ace6fa9ad394bac971.png" group-title="Italy",IT: Rai 4
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14716
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5" tvg-logo="http://myserveriptv.com:2082/images/503a17ab1aa9054ec325ce0b0b0cfcb0.png" group-title="Italy",IT: Rai 5
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14717
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI Italia" tvg-logo="http://myserveriptv.com:2082/images/8c129a55184a2bb354db2527de7860db.png" group-title="Italy",IT: RAI Italia
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/17918
-#EXTINF:-1 tvg-id="" tvg-name="➤ Films" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Italy",➤ Films
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225648
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium" tvg-logo="http://myserveriptv.com:2082/images/85e7977ebac81f3b5c059d1b3e070861.png" group-title="Italy",IT: Rai Premium
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/43914
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie" tvg-logo="http://myserveriptv.com:2082/images/dd8aac103149055db1327c9863aa7d1c.png" group-title="Italy",IT: Rai Movie
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14719
-#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5" tvg-logo="http://myserveriptv.com:2082/images/ec25b971dedca2bf00144f3d428748be.png" group-title="Italy",IT: Canale 5
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14601
-#EXTINF:-1 tvg-id="" tvg-name="IT: 20 Mediaset HD" tvg-logo="http://myserveriptv.com:2082/images/bab1ad100868cd750541d2f7ed104ac9.png" group-title="Italy",IT: 20 Mediaset HD
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14713
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="IT: Mediaset Extra" tvg-logo="http://myserveriptv.com:2082/images/b4fc682894c2482853b8d98adfb465d5.png" group-title="Italy",IT: Mediaset Extra
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14711
-#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Italia 1" tvg-logo="http://myserveriptv.com:2082/images/981511de3ffbad2455e1f1611dc3d2e4.png" group-title="Italy",IT: Mediaset Italia 1
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14602
-#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Italia 2" tvg-logo="http://myserveriptv.com:2082/images/981511de3ffbad2455e1f1611dc3d2e4.png" group-title="Italy",IT: Mediaset Italia 2
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14712
-#EXTINF:-1 tvg-id="" tvg-name="IT: Fox HD" tvg-logo="http://myserveriptv.com:2082/images/68c7baa5e7f979c4e8806dc871e98929.png" group-title="Italy",IT: Fox HD
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14687
-#EXTINF:-1 tvg-id="" tvg-name="IT: Giallo" tvg-logo="http://myserveriptv.com:2082/images/6fad20088c0b8cf3e1e833fc8bb486e5.png" group-title="Italy",IT: Giallo
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14722
-#EXTINF:-1 tvg-id="" tvg-name="IT: La 5" tvg-logo="http://myserveriptv.com:2082/images/f8edd323a909942639baa866417749a0.png" group-title="Italy",IT: La 5
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14715
-#EXTINF:-1 tvg-id="" tvg-name="➤ News" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Italy",➤ News
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225650
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai News 24" tvg-logo="http://myserveriptv.com:2082/images/8a1d97504f06310d8e081435b096f843.png" group-title="Italy",IT: Rai News 24
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14861
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Nettuno" tvg-logo="http://myserveriptv.com:2082/images/5df07e9c04f7046092afe45dbf620cfd.png" group-title="Italy",IT: Rai Nettuno
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/213703
-#EXTINF:-1 tvg-id="" tvg-name="IT: Tgcom 24" tvg-logo="http://myserveriptv.com:2082/images/1b6f8ba4f07fa3f5ea8b4eff7b95f808.png" group-title="Italy",IT: Tgcom 24
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14858
-#EXTINF:-1 tvg-id="" tvg-name="IT: TG La 7" tvg-logo="http://myserveriptv.com:2082/images/b880751f258067ff59b9e36b853a0566.png" group-title="Italy",IT: TG La 7
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14603
-#EXTINF:-1 tvg-id="" tvg-name="IT: Senato TV" tvg-logo="http://myserveriptv.com:2082/images/d048469ec2812ff2314ffcb84f29f28e.png" group-title="Italy",IT: Senato TV
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214051
-#EXTINF:-1 tvg-id="" tvg-name="➤ Entertainment" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Italy",➤ Entertainment
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225645
-#EXTINF:-1 tvg-id="" tvg-name="IT: Cielo" tvg-logo="http://myserveriptv.com:2082/images/298060a9a33711f7276272ac012100e8.png" group-title="Italy",IT: Cielo
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14710
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 4" tvg-logo="http://myserveriptv.com:2082/images/7c4d2726eb150d260ac9c8b783c531bd.png" group-title="Italy",IT: Rete 4
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14600
-#EXTINF:-1 tvg-id="" tvg-name="IT: Real Time" tvg-logo="http://myserveriptv.com:2082/images/b94d1a0e854276543800efe4057bbdec.png" group-title="Italy",IT: Real Time
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/213751
-#EXTINF:-1 tvg-id="" tvg-name="➤ Kids" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Italy",➤ Kids
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225644
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Gulp" tvg-logo="http://myserveriptv.com:2082/images/9e08dc4ab0f0d8f3b1f7cf605cc6c35d.png" group-title="Italy",IT: Rai Gulp
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14857
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Yoyo" tvg-logo="http://myserveriptv.com:2082/images/e5e49949f53bc4dfebc479166163f965.png" group-title="Italy",IT: Rai Yoyo
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14856
-#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoonito" tvg-logo="http://myserveriptv.com:2082/images/6f38e0a053bd7aad52927c890baf994a.png" group-title="Italy",IT: Cartoonito
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14851
-#EXTINF:-1 tvg-id="" tvg-name="IT: Frisbee" tvg-logo="http://myserveriptv.com:2082/images/48f42bd9f5b07912c2f3e5b7fa785468.png" group-title="Italy",IT: Frisbee
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/213705
-#EXTINF:-1 tvg-id="" tvg-name="IT: Duck TV" tvg-logo="http://myserveriptv.com:2082/images/84a5b103c21afa0ac452ca7504ab7faa.png" group-title="Italy",IT: Duck TV
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214041
-#EXTINF:-1 tvg-id="" tvg-name="IT: Super!" tvg-logo="http://myserveriptv.com:2082/images/45137aefbfa9238fd92c07971a506f41.png" group-title="Italy",IT: Super!
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/213707
-#EXTINF:-1 tvg-id="" tvg-name="➤ Music" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Italy",➤ Music
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225651
-#EXTINF:-1 tvg-id="" tvg-name="IT: VH1" tvg-logo="http://myserveriptv.com:2082/images/84a46a26239e7d4e251c495ca351b6d6.png" group-title="Italy",IT: VH1
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/213753
-#EXTINF:-1 tvg-id="" tvg-name="IT: Vuemme" tvg-logo="http://myserveriptv.com:2082/images/826721590cf612f4903e4df569045a3d.png" group-title="Italy",IT: Vuemme
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214062
-#EXTINF:-1 tvg-id="" tvg-name="➤ EDU and DOC" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Italy",➤ EDU and DOC
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225646
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Storia" tvg-logo="http://myserveriptv.com:2082/images/e56cf515e243b4063fd545fbd37192dd.png" group-title="Italy",IT: Rai Storia
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14837
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Scuola" tvg-logo="http://myserveriptv.com:2082/images/7b036298282a1a27fcca0f5750d68797.png" group-title="Italy",IT: Rai Scuola
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14720
-#EXTINF:-1 tvg-id="" tvg-name="IT: Videolina Sardegna" tvg-logo="http://myserveriptv.com:2082/images/5c03091a086d918e08a61f211aea6c0b.png" group-title="Italy",IT: Videolina Sardegna
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/213947
-#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Channel" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" group-title="Italy",IT: Discovery Channel
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/43909
-#EXTINF:-1 tvg-id="" tvg-name="IT: Fishing Tv" tvg-logo="http://myserveriptv.com:2082/images/20df12427732aa033721ed598d0a4192.png" group-title="Italy",IT: Fishing Tv
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/213744
-#EXTINF:-1 tvg-id="" tvg-name="IT: Focus" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" group-title="Italy",IT: Focus
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/213749
-#EXTINF:-1 tvg-id="" tvg-name="IT: Nat Geo Wild HD" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" group-title="Italy",IT: Nat Geo Wild HD
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/37663
-#EXTINF:-1 tvg-id="" tvg-name="IT: Dmax" tvg-logo="http://myserveriptv.com:2082/images/3357426c5ec8bd0e0419c1f8d5a9937e.png" group-title="Italy",IT: Dmax
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14826
-#EXTINF:-1 tvg-id="" tvg-name="IT: Top Crime" tvg-logo="http://myserveriptv.com:2082/images/10f15e9efbf0cf9f46aa32300657a58a.png" group-title="Italy",IT: Top Crime
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14707
-#EXTINF:-1 tvg-id="" tvg-name="➤ Sport" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Italy",➤ Sport
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/225647
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport 1 + HD" tvg-logo="http://myserveriptv.com:2082/images/7a77a5e9817ff537c3b301f8acb67e60.png" group-title="Italy",IT: Rai Sport 1 + HD
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/43942
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sport Italia" tvg-logo="http://myserveriptv.com:2082/images/8bff1aa72bf2a9636b21dae14bcc4bbe.png" group-title="Italy",IT: Sport Italia
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14751
-#EXTINF:-1 tvg-id="" tvg-name="IT: Inter TV" tvg-logo="http://myserveriptv.com:2082/images/db41658ae019987ccd6504de6b8742a5.png" group-title="Italy",IT: Inter TV
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/156896
-#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport 1 HD" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="Italy",IT: Eurosport 1 HD
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/37657
-#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="Italy",IT: Eurosport 2
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214032
-#EXTINF:-1 tvg-id="" tvg-name="IT: Super Tennis" tvg-logo="http://myserveriptv.com:2082/images/6fe4ff3a5df48be85bbbf95bde34035a.png" group-title="Italy",IT: Super Tennis
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/14757
-#EXTINF:-1 tvg-id="" tvg-name="IT: MotorTrend" tvg-logo="http://myserveriptv.com:2082/images/575ca4c5274a4f0eb26e4a1ff733d91e.png" group-title="Italy",IT: MotorTrend
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214028
-#EXTINF:-1 tvg-id="" tvg-name="➤ Movie" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Italy",➤ Movie
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/226102
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 01 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 01 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214065
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 02 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 02 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214066
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 03 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 03 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214067
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 04 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 04 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214068
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 05 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 05 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214069
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 06 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 06 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214070
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 07 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 07 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214071
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 08 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 08 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214072
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 09 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 09 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/214073
-#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 10 4K" tvg-logo="http://myserveriptv.com:2082/images/8a954484a24d5e2994042597c7042b97.png" group-title="Italy",IT: Primafila 10 4K
-http://31.42.184.159:2082/7wOd6fH332c1/lkpfh62m5Av3/43921
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f24cae011b0a63d9a3c461492121154e.png" group-title="",Rai 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/898
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="Rai 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6e5e4a72e124c75fb44ed1a7d246639c.png" group-title="",Rai 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/899
+#EXTINF:-1 tvg-id="raitre.it" tvg-name="Rai 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5fae9e7fda080b3398c229226feb429c.png" group-title="",Rai 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/1979
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3442a9dd9e0ec6ecb0d03a9ad69e164a.png" group-title="",Rai 4
+http://45.143.222.41:8080/dooby1312/b244f7ab/900
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8ad07dfa9b160f1d92c00344fbe3a51.png" group-title="",Rai 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/901
+#EXTINF:-1 tvg-id="" tvg-name="Rai Italia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b50eeede44e992563c681fd3b646ba85.png" group-title="",Rai Italia
+http://45.143.222.41:8080/dooby1312/b244f7ab/38715
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4193a37970102d45cfd7630e4ba19f36.png" group-title="",Rai Movie
+http://45.143.222.41:8080/dooby1312/b244f7ab/1980
+#EXTINF:-1 tvg-id="rainews.it" tvg-name="Rai News 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/79de3e06aa30221dd3a67dfafd222afc.png" group-title="",Rai News 24
+http://45.143.222.41:8080/dooby1312/b244f7ab/905
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f11a08219ade7b6d4ca9667f83c4eebd.png" group-title="",Rai Premium
+http://45.143.222.41:8080/dooby1312/b244f7ab/906
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e0e32ae0cc19c66645628fc87dae30.png" group-title="",Rai Scuola
+http://45.143.222.41:8080/dooby1312/b244f7ab/1985
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f03ee80e171d7b5da8955a1c9f775086.png" group-title="",Rai Storia
+http://45.143.222.41:8080/dooby1312/b244f7ab/1983
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0f1a3d86616443587c26cca3f7d0d719.png" group-title="",Rai Yoyo
+http://45.143.222.41:8080/dooby1312/b244f7ab/907
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/30a6b88236766c3780a44176ed19a948.png" group-title="",Italia 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/986
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/12f01d9c51fd2443a0e205130c061382.png" group-title="",Italia 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/986
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6297c9a866903da2dc2d2c0ade678d10.png" group-title="",Canale 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/902
+#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4669b43b689bee8c86fe5638cb7233ea.png" group-title="",La 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/3541
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2efcd05c61e6ccaf8f5026a8c481e764.png" group-title="",La 7
+http://45.143.222.41:8080/dooby1312/b244f7ab/1996
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="La 7 d" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8534616315281497afc3050abcb2bdf3.png" group-title="",La 7 d
+http://45.143.222.41:8080/dooby1312/b244f7ab/988
+#EXTINF:-1 tvg-id="" tvg-name="Tele Abruzzo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/f2d0a3dba5b32f16e1cbb287236d7458.png" group-title="",Tele Abruzzo
+http://45.143.222.41:8080/dooby1312/b244f7ab/267475
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="20 Mediaset" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/58b8cbae5d698fe666a6bda9b8b21e83.png" group-title="",20 Mediaset
+http://45.143.222.41:8080/dooby1312/b244f7ab/992
+#EXTINF:-1 tvg-id="babytv.it" tvg-name="Baby TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e6fb769f0d5c77677d7913c75377044.png" group-title="",Baby TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/31824
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b0bdcd750142bc54929eeaa30e896e4.jpg" group-title="",Boing
+http://45.143.222.41:8080/dooby1312/b244f7ab/966
+#EXTINF:-1 tvg-id="cacciapesca.it" tvg-name="Caccia" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a3c746fb4e8acba2a654f3d193eb1745.png" group-title="",Caccia
+http://45.143.222.41:8080/dooby1312/b244f7ab/6784
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/592daf9d882f1fcb84bf8c072e9e463d.png" group-title="",Cartoonito
+http://45.143.222.41:8080/dooby1312/b244f7ab/975
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5441716cc011afc120da09a8907874c3.png" group-title="",Cielo
+http://45.143.222.41:8080/dooby1312/b244f7ab/976
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0de1927f10af26a018abb19d1a94ac49.png" group-title="",Discovery Channel
+http://45.143.222.41:8080/dooby1312/b244f7ab/7868
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/58eee1d2403900d8ded25fe6e9cf8922.png" group-title="",DMAX
+http://45.143.222.41:8080/dooby1312/b244f7ab/2006
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="",EUROSPORT 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/995
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" group-title="",EUROSPORT 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1040
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cc420d68babdea42cb0d29ace5d99b4e.png" group-title="",Focus
+http://45.143.222.41:8080/dooby1312/b244f7ab/8163
+#EXTINF:-1 tvg-id="fox.it" tvg-name="Fox Life" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3cdc0821e3330850e02b1e9ee3733832.png" group-title="",Fox Life
+http://45.143.222.41:8080/dooby1312/b244f7ab/3565
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="Frisbee" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/85cf457c27a8043633909e8c38d08527.png" group-title="",Frisbee
+http://45.143.222.41:8080/dooby1312/b244f7ab/2003
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3d42ca326b70ef1802b1d848b635b4be.png" group-title="",Giallo
+http://45.143.222.41:8080/dooby1312/b244f7ab/2004
+#EXTINF:-1 tvg-id="qvc.it" tvg-name="Iris" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/387f14695de5f0ecaf8c6005c823994a.png" group-title="",Iris
+http://45.143.222.41:8080/dooby1312/b244f7ab/2002
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/32706faa717cc83c7e12f4607d046dc2.png" group-title="",Mediaset Extra
+http://45.143.222.41:8080/dooby1312/b244f7ab/992
+#EXTINF:-1 tvg-id="k2.it" tvg-name="Nove" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f90f273d55d3158ac733391d92e25805.png" group-title="",Nove
+http://45.143.222.41:8080/dooby1312/b244f7ab/1991
+#EXTINF:-1 tvg-id="" tvg-name="Prima TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/18deb481989924a2f08e73ee997ab829.png" group-title="",Prima TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/265376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: 111 TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/265364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: 12 TV Parma
+http://45.143.222.41:8080/dooby1312/b244f7ab/279918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: 20 Mediaset
+http://45.143.222.41:8080/dooby1312/b244f7ab/961
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: 51 Radio TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/16018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: A3 News
+http://45.143.222.41:8080/dooby1312/b244f7ab/16016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: AB Channel
+http://45.143.222.41:8080/dooby1312/b244f7ab/158711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: AlMA TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/41223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Alpa Uno TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279912
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Alto Adige TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/18673
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Antenna 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/279913
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Antenna 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/296093
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Antenna Sicilia
+http://45.143.222.41:8080/dooby1312/b244f7ab/151663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Antenna Sud Eventi
+http://45.143.222.41:8080/dooby1312/b244f7ab/279915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Arancia TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Aurora Arte
+http://45.143.222.41:8080/dooby1312/b244f7ab/8160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Avengers Grimm Channel
+http://45.143.222.41:8080/dooby1312/b244f7ab/279910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Azzurra TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/287504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Babayaga TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/296586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Baby TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/31824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Bellla & Monella TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279919
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Bergamo TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/296095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: BIKE
+http://45.143.222.41:8080/dooby1312/b244f7ab/22709
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Blaze
+http://45.143.222.41:8080/dooby1312/b244f7ab/14747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Bloomberg TV 4K
+http://45.143.222.41:8080/dooby1312/b244f7ab/279908
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Boing
+http://45.143.222.41:8080/dooby1312/b244f7ab/966
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Boomerang
+http://45.143.222.41:8080/dooby1312/b244f7ab/9565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Byoblu
+http://45.143.222.41:8080/dooby1312/b244f7ab/296110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Caccia
+http://45.143.222.41:8080/dooby1312/b244f7ab/6784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cafe 24
+http://45.143.222.41:8080/dooby1312/b244f7ab/18678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Calabria Uno
+http://45.143.222.41:8080/dooby1312/b244f7ab/279917
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Camera dei Deputati
+http://45.143.222.41:8080/dooby1312/b244f7ab/279906
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Canale 2 TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/18773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Canale 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/902
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Canale 7
+http://45.143.222.41:8080/dooby1312/b244f7ab/3534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Canale 8
+http://45.143.222.41:8080/dooby1312/b244f7ab/49029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Canale 10
+http://45.143.222.41:8080/dooby1312/b244f7ab/3536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Canale 21
+http://45.143.222.41:8080/dooby1312/b244f7ab/75587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Canale Europa
+http://45.143.222.41:8080/dooby1312/b244f7ab/279907
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Carina TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/74331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cartoon Network
+http://45.143.222.41:8080/dooby1312/b244f7ab/9567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cartoonito
+http://45.143.222.41:8080/dooby1312/b244f7ab/975
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cielo
+http://45.143.222.41:8080/dooby1312/b244f7ab/976
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cine 34
+http://45.143.222.41:8080/dooby1312/b244f7ab/75589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cine Star TV Action
+http://45.143.222.41:8080/dooby1312/b244f7ab/996
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cinema 24
+http://45.143.222.41:8080/dooby1312/b244f7ab/174541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cinema Segreto
+http://45.143.222.41:8080/dooby1312/b244f7ab/296080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: CineMaraton
+http://45.143.222.41:8080/dooby1312/b244f7ab/285534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: CittaCeleste TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279941
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Class CNBC
+http://45.143.222.41:8080/dooby1312/b244f7ab/279921
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Comedy Central
+http://45.143.222.41:8080/dooby1312/b244f7ab/279262
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Company TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cremona 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/279945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Cuore Ribelle TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/296085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: DAZN 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/79220
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: DAZN 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/39497
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Deejay TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/9573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Discovery Channel
+http://45.143.222.41:8080/dooby1312/b244f7ab/7868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Discovery DMAX
+http://45.143.222.41:8080/dooby1312/b244f7ab/263655
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Discovery Science
+http://45.143.222.41:8080/dooby1312/b244f7ab/287758
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Disney junior
+http://45.143.222.41:8080/dooby1312/b244f7ab/1988
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Disney+
+http://45.143.222.41:8080/dooby1312/b244f7ab/50687
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Disney+ Film
+http://45.143.222.41:8080/dooby1312/b244f7ab/279927
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Disney+ Nature
+http://45.143.222.41:8080/dooby1312/b244f7ab/169950
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: DMAX
+http://45.143.222.41:8080/dooby1312/b244f7ab/2006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Donna Shopping
+http://45.143.222.41:8080/dooby1312/b244f7ab/287511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Duck TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279924
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Elive TV Brescia
+http://45.143.222.41:8080/dooby1312/b244f7ab/145884
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Entella TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279942
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Equ TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/1053
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Espansione TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/165397
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Esperia TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/9581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Euro Indie Music Chart TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/201810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Euro TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/287513
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: euronews
+http://45.143.222.41:8080/dooby1312/b244f7ab/77567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: EUROSPORT 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: EUROSPORT 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: FAILARMY
+http://45.143.222.41:8080/dooby1312/b244f7ab/296086
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Fano TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/18684
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Fashion TV czech&slovak
+http://45.143.222.41:8080/dooby1312/b244f7ab/85120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Filmbox Premium
+http://45.143.222.41:8080/dooby1312/b244f7ab/295092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Focus
+http://45.143.222.41:8080/dooby1312/b244f7ab/8163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Food Network
+http://45.143.222.41:8080/dooby1312/b244f7ab/173564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Fox
+http://45.143.222.41:8080/dooby1312/b244f7ab/282054
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: FOX Comedy
+http://45.143.222.41:8080/dooby1312/b244f7ab/266635
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Fox Crime
+http://45.143.222.41:8080/dooby1312/b244f7ab/1002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Fox Life
+http://45.143.222.41:8080/dooby1312/b244f7ab/3565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Frisbee
+http://45.143.222.41:8080/dooby1312/b244f7ab/2003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Giallo
+http://45.143.222.41:8080/dooby1312/b244f7ab/2004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Gold 78
+http://45.143.222.41:8080/dooby1312/b244f7ab/287514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: HBO 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/295091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: History
+http://45.143.222.41:8080/dooby1312/b244f7ab/264522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: icaro TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Inter TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/1041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Iris
+http://45.143.222.41:8080/dooby1312/b244f7ab/2002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Italia 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/986
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Italia 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/987
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Italia 2 Mediaset
+http://45.143.222.41:8080/dooby1312/b244f7ab/169480
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Italian Fishing TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/63265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Iunior TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/287518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Juventus TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/12328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Juwelo Italia
+http://45.143.222.41:8080/dooby1312/b244f7ab/285549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: K2
+http://45.143.222.41:8080/dooby1312/b244f7ab/8158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Kids TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/296079
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Kiss Kiss
+http://45.143.222.41:8080/dooby1312/b244f7ab/296595
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Kiss Kiss Italia
+http://45.143.222.41:8080/dooby1312/b244f7ab/279937
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Kiss Kiss Napoli
+http://45.143.222.41:8080/dooby1312/b244f7ab/294964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: La 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/3541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: La 7
+http://45.143.222.41:8080/dooby1312/b244f7ab/1996
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: La 7 d
+http://45.143.222.41:8080/dooby1312/b244f7ab/988
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: La C TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/265373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: La Nuova TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/173590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: La Tr3
+http://45.143.222.41:8080/dooby1312/b244f7ab/1006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Lab TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279936
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Lady Radio TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279931
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Lazio TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/2001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Lira TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279938
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Lombardia TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279943
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: LOVE FM TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/75579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Lucania TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/16030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: M2o
+http://45.143.222.41:8080/dooby1312/b244f7ab/2511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Magic Music TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Maria+Vision Italia
+http://45.143.222.41:8080/dooby1312/b244f7ab/158695
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Me contro Te
+http://45.143.222.41:8080/dooby1312/b244f7ab/279929
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Mediaset Extra
+http://45.143.222.41:8080/dooby1312/b244f7ab/992
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Motortrend
+http://45.143.222.41:8080/dooby1312/b244f7ab/75151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: MS Motor TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/158715
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: NAT GEO Wild
+http://45.143.222.41:8080/dooby1312/b244f7ab/279657
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Nautical Channel
+http://45.143.222.41:8080/dooby1312/b244f7ab/12672
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Nick Junior
+http://45.143.222.41:8080/dooby1312/b244f7ab/3594
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: nickelodeon
+http://45.143.222.41:8080/dooby1312/b244f7ab/9569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Nove
+http://45.143.222.41:8080/dooby1312/b244f7ab/1991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: NSL
+http://45.143.222.41:8080/dooby1312/b244f7ab/287522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: OL3 Radio
+http://45.143.222.41:8080/dooby1312/b244f7ab/296582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Onda Novara TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/287523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Onda TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/59560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Orler TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/994
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Otto8 FM TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/280006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Padre Pio TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/8159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Paradise TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/296092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Paramount Network
+http://45.143.222.41:8080/dooby1312/b244f7ab/279951
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Parole di Vita
+http://45.143.222.41:8080/dooby1312/b244f7ab/195033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Prima Tivvu
+http://45.143.222.41:8080/dooby1312/b244f7ab/260371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Prima TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/265376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Primocanale
+http://45.143.222.41:8080/dooby1312/b244f7ab/18701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: QVC Italia
+http://45.143.222.41:8080/dooby1312/b244f7ab/169922
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio 4 You
+http://45.143.222.41:8080/dooby1312/b244f7ab/296585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio 51 TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/287429
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Birikina TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/280024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Bruno TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/80066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Capital
+http://45.143.222.41:8080/dooby1312/b244f7ab/2517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Delta International
+http://45.143.222.41:8080/dooby1312/b244f7ab/296102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Freccia
+http://45.143.222.41:8080/dooby1312/b244f7ab/158682
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Iglesias
+http://45.143.222.41:8080/dooby1312/b244f7ab/280010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Italia Trend TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/2518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Lombardia TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/280027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Millennium TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/158700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Number One
+http://45.143.222.41:8080/dooby1312/b244f7ab/80067
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Pescara
+http://45.143.222.41:8080/dooby1312/b244f7ab/169915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio PiterPan TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/287533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Radicale
+http://45.143.222.41:8080/dooby1312/b244f7ab/151645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Radio TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/279993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Studio Delta TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/280023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Taormina TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/151640
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radio Vintage TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/296112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Radionorba TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/8155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/898
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/899
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/1979
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai 4
+http://45.143.222.41:8080/dooby1312/b244f7ab/900
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/901
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai Gulp
+http://45.143.222.41:8080/dooby1312/b244f7ab/903
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai Italia
+http://45.143.222.41:8080/dooby1312/b244f7ab/38715
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai Movie
+http://45.143.222.41:8080/dooby1312/b244f7ab/1980
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai News 24
+http://45.143.222.41:8080/dooby1312/b244f7ab/905
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai Premium
+http://45.143.222.41:8080/dooby1312/b244f7ab/906
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai Scuola
+http://45.143.222.41:8080/dooby1312/b244f7ab/1985
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai Sport
+http://45.143.222.41:8080/dooby1312/b244f7ab/1042
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai Storia
+http://45.143.222.41:8080/dooby1312/b244f7ab/1983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rai Yoyo
+http://45.143.222.41:8080/dooby1312/b244f7ab/907
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RDS Social TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/8172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Real Time
+http://45.143.222.41:8080/dooby1312/b244f7ab/977
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rete 4
+http://45.143.222.41:8080/dooby1312/b244f7ab/1989
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rete 55
+http://45.143.222.41:8080/dooby1312/b244f7ab/287549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rete Oro
+http://45.143.222.41:8080/dooby1312/b244f7ab/174217
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rete Sole
+http://45.143.222.41:8080/dooby1312/b244f7ab/151632
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rete TV Italia
+http://45.143.222.41:8080/dooby1312/b244f7ab/280014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rete Veneta
+http://45.143.222.41:8080/dooby1312/b244f7ab/158721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: ReteBiella TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/908
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Retemia
+http://45.143.222.41:8080/dooby1312/b244f7ab/287551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RMK TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/174218
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Rossini TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/909
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RSI LA 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1992
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RTC Tele Calabria
+http://45.143.222.41:8080/dooby1312/b244f7ab/74335
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RTL 102.5
+http://45.143.222.41:8080/dooby1312/b244f7ab/42795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RTP
+http://45.143.222.41:8080/dooby1312/b244f7ab/169908
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RTTR
+http://45.143.222.41:8080/dooby1312/b244f7ab/264575
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RTV Reggio
+http://45.143.222.41:8080/dooby1312/b244f7ab/74339
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RTV San Marino
+http://45.143.222.41:8080/dooby1312/b244f7ab/56783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: RTV Sport
+http://45.143.222.41:8080/dooby1312/b244f7ab/174221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Senato TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/55221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sfera TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/286734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Arte
+http://45.143.222.41:8080/dooby1312/b244f7ab/290472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Atlantic
+http://45.143.222.41:8080/dooby1312/b244f7ab/9507
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Action
+http://45.143.222.41:8080/dooby1312/b244f7ab/913
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Collection
+http://45.143.222.41:8080/dooby1312/b244f7ab/9473
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Comedy
+http://45.143.222.41:8080/dooby1312/b244f7ab/914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Drama
+http://45.143.222.41:8080/dooby1312/b244f7ab/9490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Due
+http://45.143.222.41:8080/dooby1312/b244f7ab/998
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Family
+http://45.143.222.41:8080/dooby1312/b244f7ab/916
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Hits
+http://45.143.222.41:8080/dooby1312/b244f7ab/174557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Oscar
+http://45.143.222.41:8080/dooby1312/b244f7ab/197202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Romance
+http://45.143.222.41:8080/dooby1312/b244f7ab/917
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Suspense
+http://45.143.222.41:8080/dooby1312/b244f7ab/9486
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Cinema Uno
+http://45.143.222.41:8080/dooby1312/b244f7ab/282264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/7895
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/2017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/83439
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 4
+http://45.143.222.41:8080/dooby1312/b244f7ab/932
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/933
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 6
+http://45.143.222.41:8080/dooby1312/b244f7ab/2013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 7
+http://45.143.222.41:8080/dooby1312/b244f7ab/937
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 8
+http://45.143.222.41:8080/dooby1312/b244f7ab/938
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Primafila 9
+http://45.143.222.41:8080/dooby1312/b244f7ab/2016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport 24
+http://45.143.222.41:8080/dooby1312/b244f7ab/2535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport Arena
+http://45.143.222.41:8080/dooby1312/b244f7ab/2541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport Calcio
+http://45.143.222.41:8080/dooby1312/b244f7ab/84505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport F1
+http://45.143.222.41:8080/dooby1312/b244f7ab/2542
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport Football
+http://45.143.222.41:8080/dooby1312/b244f7ab/2543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport Golf
+http://45.143.222.41:8080/dooby1312/b244f7ab/147371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport Moto GP
+http://45.143.222.41:8080/dooby1312/b244f7ab/9880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport NBA
+http://45.143.222.41:8080/dooby1312/b244f7ab/1047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky Sport Uno
+http://45.143.222.41:8080/dooby1312/b244f7ab/278706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sky TG 24
+http://45.143.222.41:8080/dooby1312/b244f7ab/283205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sofy TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/287554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sophia TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/260365
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Sportitalia
+http://45.143.222.41:8080/dooby1312/b244f7ab/1008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Stereo 5 TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/285548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Studio 100
+http://45.143.222.41:8080/dooby1312/b244f7ab/1010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Super J
+http://45.143.222.41:8080/dooby1312/b244f7ab/285547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Super Tennis
+http://45.143.222.41:8080/dooby1312/b244f7ab/285535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Super TV Brescia
+http://45.143.222.41:8080/dooby1312/b244f7ab/1012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Super TV Oristano
+http://45.143.222.41:8080/dooby1312/b244f7ab/297041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Super!
+http://45.143.222.41:8080/dooby1312/b244f7ab/297042
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: SuperSix Lombardia
+http://45.143.222.41:8080/dooby1312/b244f7ab/287559
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Abruzzo
+http://45.143.222.41:8080/dooby1312/b244f7ab/267475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Belluno
+http://45.143.222.41:8080/dooby1312/b244f7ab/285550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Chiara
+http://45.143.222.41:8080/dooby1312/b244f7ab/1014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Mia
+http://45.143.222.41:8080/dooby1312/b244f7ab/55227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Monte Neve 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/90984
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele One
+http://45.143.222.41:8080/dooby1312/b244f7ab/265386
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Pavia
+http://45.143.222.41:8080/dooby1312/b244f7ab/296594
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Pegaso Catania
+http://45.143.222.41:8080/dooby1312/b244f7ab/287571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Radio Sciacca
+http://45.143.222.41:8080/dooby1312/b244f7ab/59617
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tele Sondrio News
+http://45.143.222.41:8080/dooby1312/b244f7ab/169918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TeleArena
+http://45.143.222.41:8080/dooby1312/b244f7ab/18727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telearte
+http://45.143.222.41:8080/dooby1312/b244f7ab/158685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telebari
+http://45.143.222.41:8080/dooby1312/b244f7ab/74351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TeleBoario
+http://45.143.222.41:8080/dooby1312/b244f7ab/1013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telecitta
+http://45.143.222.41:8080/dooby1312/b244f7ab/260366
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telecolor
+http://45.143.222.41:8080/dooby1312/b244f7ab/158727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telecupole
+http://45.143.222.41:8080/dooby1312/b244f7ab/158707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telefoggia
+http://45.143.222.41:8080/dooby1312/b244f7ab/74341
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telegenova
+http://45.143.222.41:8080/dooby1312/b244f7ab/265389
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telegranda
+http://45.143.222.41:8080/dooby1312/b244f7ab/287584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TeleMantova
+http://45.143.222.41:8080/dooby1312/b244f7ab/55225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telemolise
+http://45.143.222.41:8080/dooby1312/b244f7ab/287585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telenord
+http://45.143.222.41:8080/dooby1312/b244f7ab/158728
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telepace 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/158687
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telepace 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/158708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telepace 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/158729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telepace 4
+http://45.143.222.41:8080/dooby1312/b244f7ab/158688
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TeleQuattro
+http://45.143.222.41:8080/dooby1312/b244f7ab/265394
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Teleromagna
+http://45.143.222.41:8080/dooby1312/b244f7ab/59618
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Telesud Trapani
+http://45.143.222.41:8080/dooby1312/b244f7ab/287586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Teletricolore
+http://45.143.222.41:8080/dooby1312/b244f7ab/74343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TeleTusciaSabina 2000
+http://45.143.222.41:8080/dooby1312/b244f7ab/265397
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Teletutto
+http://45.143.222.41:8080/dooby1312/b244f7ab/296590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TeleVenezia
+http://45.143.222.41:8080/dooby1312/b244f7ab/59615
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TeleVideo Agrigento
+http://45.143.222.41:8080/dooby1312/b244f7ab/18779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Tennis Channel
+http://45.143.222.41:8080/dooby1312/b244f7ab/1052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TFC TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/296581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TGCom 24
+http://45.143.222.41:8080/dooby1312/b244f7ab/1007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: tMn
+http://45.143.222.41:8080/dooby1312/b244f7ab/294608
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Top Crime
+http://45.143.222.41:8080/dooby1312/b244f7ab/1997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Trentino TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/84734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TRG Media (Umbria)
+http://45.143.222.41:8080/dooby1312/b244f7ab/276011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TSN Livigno
+http://45.143.222.41:8080/dooby1312/b244f7ab/296589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TV 8
+http://45.143.222.41:8080/dooby1312/b244f7ab/50463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TV 2000
+http://45.143.222.41:8080/dooby1312/b244f7ab/1036
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TV Qui (Modena)
+http://45.143.222.41:8080/dooby1312/b244f7ab/75584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TV Sei
+http://45.143.222.41:8080/dooby1312/b244f7ab/287564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TV Yes
+http://45.143.222.41:8080/dooby1312/b244f7ab/276009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TV7 Benevento
+http://45.143.222.41:8080/dooby1312/b244f7ab/287567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TV7 News
+http://45.143.222.41:8080/dooby1312/b244f7ab/265402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TV7 Triveneta
+http://45.143.222.41:8080/dooby1312/b244f7ab/264577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TVA Vicenza
+http://45.143.222.41:8080/dooby1312/b244f7ab/1032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TVL
+http://45.143.222.41:8080/dooby1312/b244f7ab/287569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: TVRS
+http://45.143.222.41:8080/dooby1312/b244f7ab/18759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Umbria TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/55229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Uninettuno University TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/904
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Vera TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/74328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Vetrina S Primafila
+http://45.143.222.41:8080/dooby1312/b244f7ab/285592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: VH1
+http://45.143.222.41:8080/dooby1312/b244f7ab/8152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Video Novara
+http://45.143.222.41:8080/dooby1312/b244f7ab/296591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Video Star TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/18765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Videolina
+http://45.143.222.41:8080/dooby1312/b244f7ab/260367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: VideoTolentino
+http://45.143.222.41:8080/dooby1312/b244f7ab/173567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Vuemme
+http://45.143.222.41:8080/dooby1312/b244f7ab/287594
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT: Zerouno TV Music
+http://45.143.222.41:8080/dooby1312/b244f7ab/265410
