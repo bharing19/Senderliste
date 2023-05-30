@@ -1,5 +1,7 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: 123 TV" tvg-shift="" radio="" tvg-logo="" group-title="Germany ➾ Movie",ICH HABE KEINE ZEIT MEHR UND BEENDE DEN SERVICE
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: 123 TV" tvg-shift="" radio="" tvg-logo="" group-title="Germany ➾ Movie",SERVICE NUR NOCH
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th Street" tvg-shift="" radio="" tvg-logo="" group-title="",NUR NOCH PRIVAT
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th Street" tvg-shift="" radio="" tvg-logo="" group-title="",PRIVAT
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",GRÜSSE MIKE
+https://mcdn.daserste.de/daserste/de/master.m3u8
