@@ -1,7 +1,9 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: 123 TV" tvg-shift="" radio="" tvg-logo="" group-title="Germany ➾ Movie",SERVICE NUR
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: 123 TV" tvg-shift="" radio="" tvg-logo="" group-title="Germany ➾ Movie",UPDATE NUR
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th Street" tvg-shift="" radio="" tvg-logo="" group-title="",NOCH PRIVAT
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th Street" tvg-shift="" radio="" tvg-logo="" group-title="",NOCH VOR ORT
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th Street" tvg-shift="" radio="" tvg-logo="" group-title="",ÜBER USB
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th Street" tvg-shift="" radio="" tvg-logo="" group-title="",GRÜSSE MIKE
 https://mcdn.daserste.de/daserste/de/master.m3u8
