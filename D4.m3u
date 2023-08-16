@@ -1,669 +1,489 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE HD" tvg-logo="" group-title="GERMANY",DE: DAS ERSTE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77005
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="" group-title="GERMANY",DE: ZDF HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77006
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD" tvg-logo="" group-title="GERMANY",DE: RTL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77007
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2 HD" tvg-logo="" group-title="GERMANY",DE: RTL 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77008
-#EXTINF:-1 tvg-id="" tvg-name="DE: PRO7 HD" tvg-logo="" group-title="GERMANY",DE: PRO7 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77009
-#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 HD" tvg-logo="" group-title="GERMANY",DE: SAT 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77010
-#EXTINF:-1 tvg-id="" tvg-name="DE: PRO7 MAXX HD" tvg-logo="" group-title="GERMANY",DE: PRO7 MAXX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77011
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="" group-title="GERMANY",DE: VOX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77012
-#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 HD" tvg-logo="" group-title="GERMANY",DE: KABEL 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77013
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL NITRO HD" tvg-logo="" group-title="GERMANY",DE: RTL NITRO HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77014
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE HD" tvg-logo="" group-title="GERMANY",DE: ARTE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77015
-#EXTINF:-1 tvg-id="" tvg-name="DE: 3 SAT HD" tvg-logo="" group-title="GERMANY",DE: 3 SAT HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77016
-#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX HD" tvg-logo="" group-title="GERMANY",DE: SIXX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77017
-#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX HD" tvg-logo="" group-title="GERMANY",DE: SIXX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77018
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="GERMANY",DE: ZDF NEO HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77019
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELE 5 HD" tvg-logo="" group-title="GERMANY",DE: TELE 5 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77020
-#EXTINF:-1 tvg-id="" tvg-name="DE: PHOENIX HD" tvg-logo="" group-title="GERMANY",DE: PHOENIX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77021
-#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 EMOTIONS HD" tvg-logo="" group-title="GERMANY",DE: SAT 1 EMOTIONS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77022
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONE HD" tvg-logo="" group-title="GERMANY",DE: ONE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77024
-#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX HD" tvg-logo="" group-title="GERMANY",DE: DMAX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77025
-#EXTINF:-1 tvg-id="" tvg-name="DE: MDR HD" tvg-logo="" group-title="GERMANY",DE: MDR HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77050
-#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="" group-title="GERMANY",DE: NDR HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77051
-#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo="" group-title="GERMANY",DE: SWR HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77052
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="" group-title="GERMANY",DE: WDR HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77053
-#EXTINF:-1 tvg-id="" tvg-name="DE: TAGESSCHAU 24 HD" tvg-logo="" group-title="GERMANY",DE: TAGESSCHAU 24 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77054
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL PLUS HD" tvg-logo="" group-title="GERMANY",DE: RTL PLUS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77055
-#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV HD" tvg-logo="" group-title="GERMANY",DE: N-TV HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77057
-#EXTINF:-1 tvg-id="" tvg-name="DE: FOX HD" tvg-logo="" group-title="GERMANY",DE: FOX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77060
-#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 CLASSICS HD" tvg-logo="" group-title="GERMANY",DE: KABEL 1 CLASSICS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77073
-#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION HD" tvg-logo="" group-title="GERMANY",RTL PASSION HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78156
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF INFO HD" tvg-logo="" group-title="GERMANY",DE: ZDF INFO HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78157
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL LIVING HD" tvg-logo="" group-title="GERMANY",DE: RTL LIVING HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78158
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZEE ONE HD" tvg-logo="" group-title="GERMANY",DE: ZEE ONE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78178
-#EXTINF:-1 tvg-id="" tvg-name="DE: COMEDY HD" tvg-logo="" group-title="GERMANY",DE: COMEDY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78180
-#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 HD" tvg-logo="" group-title="GERMANY",DE: PRO 7 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78183
-#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 MAXX HD" tvg-logo="" group-title="GERMANY",DE: PRO 7 MAXX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78184
-#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 FUN HD" tvg-logo="" group-title="GERMANY",DE: PRO 7 FUN HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78185
-#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL FHD" tvg-logo="" group-title="GERMANY",DE: Super RTL FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79355
-#EXTINF:-1 tvg-id="" tvg-name="DE: HEIMATKANAL FHD" tvg-logo="" group-title="GERMANY",DE: HEIMATKANAL FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79356
-#EXTINF:-1 tvg-id="" tvg-name="DE: HEIMATKANAL HD" tvg-logo="" group-title="GERMANY",DE: HEIMATKANAL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79357
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - DOKU - - - - -" tvg-logo="" group-title="GERMANY",- - - - - DOKU - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77102
-#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 DOKU HD" tvg-logo="" group-title="GERMANY",DE: KABEL 1 DOKU HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77023
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY HD" tvg-logo="" group-title="GERMANY",DE: DISCOVERY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77046
-#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY HD" tvg-logo="" group-title="GERMANY",DE: HISTORY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77047
-#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEO HD" tvg-logo="" group-title="GERMANY",DE: NATIONAL GEO HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77048
-#EXTINF:-1 tvg-id="" tvg-name="DE: N24 DOKU HD" tvg-logo="" group-title="GERMANY",DE: N24 DOKU HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77049
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL GESCHICHTE HD" tvg-logo="" group-title="GERMANY",DE: SPIEGEL GESCHICHTE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77076
-#EXTINF:-1 tvg-id="" tvg-name="DE: TLC" tvg-logo="" group-title="GERMANY",DE: TLC
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79353
-#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD" tvg-logo="" group-title="GERMANY",DE: TLC HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79354
-#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD FHD" tvg-logo="" group-title="GERMANY",DE: NAT GEO WILD FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79358
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - KIDS - - - - -" tvg-logo="" group-title="GERMANY",- - - - - KIDS - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77103
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CHANNEL HD" tvg-logo="" group-title="GERMANY",DE: DISNEY CHANNEL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79360
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CHANNEL FHD" tvg-logo="" group-title="GERMANY",DE: DISNEY CHANNEL FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79361
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY XD HD" tvg-logo="" group-title="GERMANY",DE: DISNEY XD HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79362
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY JR HD" tvg-logo="" group-title="GERMANY",DE: DISNEY JR HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79363
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CINEMAGIC HD" tvg-logo="" group-title="GERMANY",DE: DISNEY CINEMAGIC HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77028
-#EXTINF:-1 tvg-id="" tvg-name="DE: BOOMERANG HD" tvg-logo="" group-title="GERMANY",DE: BOOMERANG HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77026
-#EXTINF:-1 tvg-id="" tvg-name="DE: CARTOON NETWORK HD" tvg-logo="" group-title="GERMANY",DE: CARTOON NETWORK HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77027
-#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA HD" tvg-logo="" group-title="GERMANY",DE: KIKA HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77029
-#EXTINF:-1 tvg-id="" tvg-name="DE: NICKELODEON HD" tvg-logo="" group-title="GERMANY",DE: NICKELODEON HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77030
-#EXTINF:-1 tvg-id="" tvg-name="DE: BOOBA HD" tvg-logo="" group-title="GERMANY",DE: BOOBA HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77031
-#EXTINF:-1 tvg-id="" tvg-name="DE: POCOYO HD" tvg-logo="" group-title="GERMANY",DE: POCOYO HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77032
-#EXTINF:-1 tvg-id="" tvg-name="DE | MASHA UND DERBÄR 1 HD" tvg-logo="" group-title="GERMANY",DE | MASHA UND DERBÄR 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77033
-#EXTINF:-1 tvg-id="" tvg-name="DE | MASHA UND DERBÄR 2 HD" tvg-logo="" group-title="GERMANY",DE | MASHA UND DERBÄR 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77034
-#EXTINF:-1 tvg-id="" tvg-name="DE: BOSS BABY BLU HD" tvg-logo="" group-title="GERMANY",DE: BOSS BABY BLU HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77035
-#EXTINF:-1 tvg-id="" tvg-name="DE: BOOBA HD" tvg-logo="" group-title="GERMANY",DE: BOOBA HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77036
-#EXTINF:-1 tvg-id="" tvg-name="DE: BLU PEPA WUTZ HD" tvg-logo="" group-title="GERMANY",DE: BLU PEPA WUTZ HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77037
-#EXTINF:-1 tvg-id="" tvg-name="DE: BLU SCHLÜMPFEN" tvg-logo="" group-title="GERMANY",DE: BLU SCHLÜMPFEN
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77038
-#EXTINF:-1 tvg-id="" tvg-name="DE: BLU TALKING TOM" tvg-logo="" group-title="GERMANY",DE: BLU TALKING TOM
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77039
-#EXTINF:-1 tvg-id="" tvg-name="DE: PEPA WUTZ 4KVIP HD" tvg-logo="" group-title="GERMANY",DE: PEPA WUTZ 4KVIP HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77041
-#EXTINF:-1 tvg-id="" tvg-name="DE: CAILLOU 1 HD" tvg-logo="" group-title="GERMANY",DE: CAILLOU 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77042
-#EXTINF:-1 tvg-id="" tvg-name="DE: GARFIELD HD" tvg-logo="" group-title="GERMANY",DE: GARFIELD HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77043
-#EXTINF:-1 tvg-id="" tvg-name="DE: TROTRO 4KVIP" tvg-logo="" group-title="GERMANY",DE: TROTRO 4KVIP
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77044
-#EXTINF:-1 tvg-id="" tvg-name="DE: PAW PATROL HD" tvg-logo="" group-title="GERMANY",DE: PAW PATROL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77045
-#EXTINF:-1 tvg-id="" tvg-name="DE | MASHA UND DERBÄR 3 HD" tvg-logo="" group-title="GERMANY",DE | MASHA UND DERBÄR 3 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77056
-#EXTINF:-1 tvg-id="" tvg-name="DE: COMEDY CENTRAL HD" tvg-logo="" group-title="GERMANY",DE: COMEDY CENTRAL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77072
-#EXTINF:-1 tvg-id="" tvg-name="DE: NICKELODEON HD" tvg-logo="" group-title="GERMANY",DE: NICKELODEON HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77074
-#EXTINF:-1 tvg-id="" tvg-name="DE: TOGGO PLUS HD" tvg-logo="" group-title="GERMANY",DE: TOGGO PLUS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77077
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - KINO - - - - -" tvg-logo="" group-title="GERMANY",- - - - - KINO - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77104
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECTBOX 1 4K VIP HD" tvg-logo="" group-title="GERMANY",DE: SELECTBOX 1 4K VIP HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77080
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECTBOX 2 4K VIP HD" tvg-logo="" group-title="GERMANY",DE: SELECTBOX 2 4K VIP HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77081
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECTBOX 3 4K VIP HD" tvg-logo="" group-title="GERMANY",DE: SELECTBOX 3 4K VIP HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77082
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECTBOX 4 4K VIP HD" tvg-logo="" group-title="GERMANY",DE: SELECTBOX 4 4K VIP HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77083
-#EXTINF:-1 tvg-id="" tvg-name="DE: SELECTBOX 5 4K VIP HD" tvg-logo="" group-title="GERMANY",DE: SELECTBOX 5 4K VIP HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77084
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - SINEMA - - - - -" tvg-logo="" group-title="GERMANY",- - - - - SINEMA - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77107
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA ACTION HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79336
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA ACTION FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79337
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA PREMIEREN HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79338
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA PREMIEREN FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79339
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN +24 HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA PREMIEREN +24 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79340
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN +24 FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA PREMIEREN +24 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79341
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA FAMILY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79342
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA FAMILY FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79343
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA BEST OF HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA BEST OF HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79344
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA BEST OF FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA BEST OF FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79345
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FUN HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA FUN HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79346
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA NOSTALGIA HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA NOSTALGIA HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79347
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA CLASSICS HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA CLASSICS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79348
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA HARRY POTTER FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA HARRY POTTER FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79349
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA THRILLER FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA THRILLER FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79350
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA SPECIAL FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA SPECIAL FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79351
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA EMOTION HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA EMOTION HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77062
-#EXTINF:-1 tvg-id="" tvg-name="DE: BLU RELAX AQUARIUM HD" tvg-logo="" group-title="GERMANY",DE: BLU RELAX AQUARIUM HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77004
-#EXTINF:-1 tvg-id="" tvg-name="DE: CINEMA ACTION HD" tvg-logo="" group-title="GERMANY",DE: CINEMA ACTION HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77058
-#EXTINF:-1 tvg-id="" tvg-name="DE: ATLANTIC HD" tvg-logo="" group-title="GERMANY",DE: ATLANTIC HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77059
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="" group-title="GERMANY",DE: SKY ATLANTIC HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77061
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI HD" tvg-logo="" group-title="GERMANY",DE: SKY KRIMI HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77063
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY COMEDY HD" tvg-logo="" group-title="GERMANY",DE: SKY COMEDY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77075
-#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD" tvg-logo="" group-title="GERMANY",DE: SYFY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77064
-#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER SERIE HD" tvg-logo="" group-title="GERMANY",DE: WARNER SERIE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77065
-#EXTINF:-1 tvg-id="" tvg-name="DE: HEIMAT KANAL HD" tvg-logo="" group-title="GERMANY",DE: HEIMAT KANAL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77066
-#EXTINF:-1 tvg-id="" tvg-name="DE: KINOWELT TV HD" tvg-logo="" group-title="GERMANY",DE: KINOWELT TV HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77067
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FUN HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA FUN HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77068
-#EXTINF:-1 tvg-id="" tvg-name="DE: FOX HD" tvg-logo="" group-title="GERMANY",DE: FOX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77069
-#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER FILM HD" tvg-logo="" group-title="GERMANY",DE: WARNER FILM HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77070
-#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER SERIE HD" tvg-logo="" group-title="GERMANY",DE: WARNER SERIE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77071
-#EXTINF:-1 tvg-id="" tvg-name="DE: UNIVERSAL CHANNEL HD" tvg-logo="" group-title="GERMANY",DE: UNIVERSAL CHANNEL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77078
-#EXTINF:-1 tvg-id="" tvg-name="DE: BLU HARRY POTTER HD" tvg-logo="" group-title="GERMANY",DE: BLU HARRY POTTER HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77079
-#EXTINF:-1 tvg-id="" tvg-name="DE: 13TH STREET HD" tvg-logo="" group-title="GERMANY",DE: 13TH STREET HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77085
-#EXTINF:-1 tvg-id="" tvg-name="DE: ROMANCE TV HD" tvg-logo="" group-title="GERMANY",DE: ROMANCE TV HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78179
-#EXTINF:-1 tvg-id="" tvg-name="DE: FILM HD" tvg-logo="" group-title="GERMANY",DE: FILM HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78181
-#EXTINF:-1 tvg-id="" tvg-name="DE: SERIE HD" tvg-logo="" group-title="GERMANY",DE: SERIE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78182
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - DAZN BAR - - - - -" tvg-logo="" group-title="GERMANY",- - - - - DAZN BAR - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77109
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 1 HD" tvg-logo="" group-title="GERMANY",DE: DAZN BAR 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77094
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 1 HD" tvg-logo="" group-title="GERMANY",DE: DAZN BAR 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77090
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 2 HD" tvg-logo="" group-title="GERMANY",DE: DAZN BAR 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77092
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 2-2 HD" tvg-logo="" group-title="GERMANY",DE: DAZN BAR 2-2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77091
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 2 HD" tvg-logo="" group-title="GERMANY",DE: DAZN BAR 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77095
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 2 HD" tvg-logo="" group-title="GERMANY",DE: DAZN BAR 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77093
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - SPORT - - - - -" tvg-logo="" group-title="GERMANY",- - - - - SPORT - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77106
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="" group-title="GERMANY",DE: EUROSPORT 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77086
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 HD" tvg-logo="" group-title="GERMANY",DE: EUROSPORT 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77087
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 XTRA HD" tvg-logo="" group-title="GERMANY",DE: EUROSPORT 2 XTRA HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77089
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SPORT NEWS HD" tvg-logo="" group-title="GERMANY",DE: VIP SPORT NEWS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77096
-#EXTINF:-1 tvg-id="" tvg-name="DE: S.SPORT NEWS HD" tvg-logo="" group-title="GERMANY",DE: S.SPORT NEWS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77097
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT AUSTRIA HD" tvg-logo="" group-title="GERMANY",DE: SPORT AUSTRIA HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77098
-#EXTINF:-1 tvg-id="" tvg-name="DE: S.SPORT1 HD" tvg-logo="" group-title="GERMANY",DE: S.SPORT1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77099
-#EXTINF:-1 tvg-id="" tvg-name="DE: MOTORVISION TV FHD" tvg-logo="" group-title="GERMANY",DE: MOTORVISION TV FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/79364
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - BUNDESLIGA - - - - -" tvg-logo="" group-title="GERMANY",- - - - - BUNDESLIGA - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77108
-#EXTINF:-1 tvg-id="" tvg-name="DE: B.LIGA 1-1 4K HD" tvg-logo="" group-title="GERMANY",DE: B.LIGA 1-1 4K HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77100
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="" group-title="GERMANY",DE: SKY BUNDESLIGA 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77425
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="GERMANY",DE: SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77426
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="GERMANY",DE: SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77427
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="GERMANY",DE: SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77428
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="GERMANY",DE: SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77429
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - TELEKOM - - - - -" tvg-logo="" group-title="GERMANY",- - - - - TELEKOM - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77469
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 1 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM FUßBALL 1 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77435
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 2 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM FUßBALL 2 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77436
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 3 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM FUßBALL 3 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77437
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 4 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM FUßBALL 4 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77438
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 5 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM FUßBALL 5 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77439
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 6 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM FUßBALL 6 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77440
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 7 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM FUßBALL 7 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77441
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 8 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM FUßBALL 8 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77442
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 1 HD" tvg-logo="" group-title="GERMANY",DE: TELEKOM 3 BUNDESLIGA 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77443
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 2 HD" tvg-logo="" group-title="GERMANY",DE: TELEKOM 3 BUNDESLIGA 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77444
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 3 HD" tvg-logo="" group-title="GERMANY",DE: TELEKOM 3 BUNDESLIGA 3 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77445
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 4 HD" tvg-logo="" group-title="GERMANY",DE: TELEKOM 3 BUNDESLIGA 4 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77446
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 5 HD" tvg-logo="" group-title="GERMANY",DE: TELEKOM 3 BUNDESLIGA 5 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77447
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 6 HD" tvg-logo="" group-title="GERMANY",DE: TELEKOM 3 BUNDESLIGA 6 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77448
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 7 HD" tvg-logo="" group-title="GERMANY",DE: TELEKOM 3 BUNDESLIGA 7 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77449
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 8 HD" tvg-logo="" group-title="GERMANY",DE: TELEKOM 3 BUNDESLIGA 8 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77450
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 1 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM EISHOCKEY 1 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77451
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 2 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM EISHOCKEY 2 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77452
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 3 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM EISHOCKEY 3 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77453
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 4 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM EISHOCKEY 4 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77454
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 5 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM EISHOCKEY 5 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77455
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 6 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM EISHOCKEY 6 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77456
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 7 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM EISHOCKEY 7 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77457
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 8 HD NUR LIVE-SPIELE" tvg-logo="" group-title="GERMANY",DE: TELEKOM EISHOCKEY 8 HD NUR LIVE-SPIELE
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77458
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT NEWS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78161
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78162
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78163
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 3 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78164
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 4 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78165
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 5 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78166
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 6 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78167
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 7 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78168
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 8 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78169
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 9 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78170
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 10 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78171
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 11 HD (EVENT ONLY)" tvg-logo="" group-title="GERMANY",DE: SKY SPORT 11 HD (EVENT ONLY)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78172
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 3 HD  [NUR WÄHREND DER SPIELE]" tvg-logo="" group-title="GERMANY",DE: SKY SPORT AUSTRIA 3 HD  [NUR WÄHREND DER SPIELE]
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78174
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 2 HD  [NUR WÄHREND DER SPIELE]" tvg-logo="" group-title="GERMANY",DE: SKY SPORT AUSTRIA 2 HD  [NUR WÄHREND DER SPIELE]
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78175
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 4 HD  [NUR WÄHREND DER SPIELE]" tvg-logo="" group-title="GERMANY",DE: SKY SPORT AUSTRIA 4 HD  [NUR WÄHREND DER SPIELE]
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78176
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT F1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78177
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - VIP NETFLIX - - - - -" tvg-logo="" group-title="GERMANY",- - - - - VIP NETFLIX - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77470
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 1 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 1 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77459
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 2 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 2 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77460
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 3 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 3 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77461
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 4 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 4 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77462
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 5 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 5 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77463
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 6 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 6 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77464
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 7 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 7 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77465
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 8 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 8 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77466
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 9 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 9 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77467
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 10 FHD" tvg-logo="" group-title="GERMANY",DE: NETFLIX 10 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/77468
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA FAMILY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78186
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - SKY SELECT - - - - -" tvg-logo="" group-title="GERMANY",- - - - - SKY SELECT - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78187
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 1 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78188
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 2 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78189
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 3 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 3 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78190
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 4 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 4 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78191
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 5 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 5 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78192
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 6 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 6 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78193
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 7 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 7 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78194
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 8 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 8 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78195
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 9 HD" tvg-logo="" group-title="GERMANY",DE: SKY SELECT 9 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/78196
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORTS F1 FHD" tvg-logo="" group-title="GERMANY",DE: SKY SPORTS F1 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/81360
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="GERMANY",DE: SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/81367
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="GERMANY",DE: SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/81368
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="GERMANY",DE: SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/81369
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ATV FHD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ATV FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108514
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ATV HD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ATV HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108515
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ATV2" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ATV2
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108516
-#EXTINF:-1 tvg-id="" tvg-name="AT:  gotv neu" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  gotv neu
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108517
-#EXTINF:-1 tvg-id="" tvg-name="AT:  kabel1 Doku austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  kabel1 Doku austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108518
-#EXTINF:-1 tvg-id="" tvg-name="AT:  Kronehit TV" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  Kronehit TV
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108519
-#EXTINF:-1 tvg-id="" tvg-name="AT:  Melodie TV NEU" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  Melodie TV NEU
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108520
-#EXTINF:-1 tvg-id="" tvg-name="AT:  oe24.TV FHD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  oe24.TV FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108521
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ORF III HD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ORF III HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108522
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ORF SPORT" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ORF SPORT
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108523
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ORF SPORT  HD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ORF SPORT  HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108524
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ORF1 HD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ORF1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108525
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ORF2W HD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ORF2W HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108526
-#EXTINF:-1 tvg-id="" tvg-name="AT:  Pro7 MAXX Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  Pro7 MAXX Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108527
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ProSieben Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ProSieben Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108528
-#EXTINF:-1 tvg-id="" tvg-name="AT:  PULS 24 FHD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  PULS 24 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108529
-#EXTINF:-1 tvg-id="" tvg-name="AT:  PULS 4 Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  PULS 4 Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108530
-#EXTINF:-1 tvg-id="" tvg-name="AT:  PULS 4 FHD  Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  PULS 4 FHD  Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108531
-#EXTINF:-1 tvg-id="" tvg-name="AT:  R9" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  R9
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108532
-#EXTINF:-1 tvg-id="" tvg-name="AT:  RTL Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  RTL Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108533
-#EXTINF:-1 tvg-id="" tvg-name="AT:  RTL2 Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  RTL2 Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108534
-#EXTINF:-1 tvg-id="" tvg-name="AT:  RTLplus Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  RTLplus Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108535
-#EXTINF:-1 tvg-id="" tvg-name="AT:  SAT.1 Gold" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  SAT.1 Gold
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108536
-#EXTINF:-1 tvg-id="" tvg-name="AT:  SAT.1 Gold Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  SAT.1 Gold Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108537
-#EXTINF:-1 tvg-id="" tvg-name="AT:  Schau TV FHD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  Schau TV FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108538
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ServusTV FHD  Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ServusTV FHD  Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108539
-#EXTINF:-1 tvg-id="" tvg-name="AT:  ServusTV Austria HD" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  ServusTV Austria HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108540
-#EXTINF:-1 tvg-id="" tvg-name="AT:  sixx Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  sixx Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108541
-#EXTINF:-1 tvg-id="" tvg-name="AT:  Starparadies A" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  Starparadies A
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108542
-#EXTINF:-1 tvg-id="" tvg-name="AT:  Starparadies AT" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  Starparadies AT
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108543
-#EXTINF:-1 tvg-id="" tvg-name="AT:  Volksmusik" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  Volksmusik
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108544
-#EXTINF:-1 tvg-id="" tvg-name="AT:  VOX Austria" tvg-logo="" group-title="AUSTRIA/OOSTENRIJK",AT:  VOX Austria
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/108545
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF 1 HD" tvg-logo="" group-title=" SWITZERLAND",SH: SRF 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109573
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF INFO HD" tvg-logo="" group-title=" SWITZERLAND",SH: SRF INFO HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109574
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF ZWEI HD" tvg-logo="" group-title=" SWITZERLAND",SH: SRF ZWEI HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109575
-#EXTINF:-1 tvg-id="" tvg-name="SH: 3+ FHD" tvg-logo="" group-title=" SWITZERLAND",SH: 3+ FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109576
-#EXTINF:-1 tvg-id="" tvg-name="SH: 4+ FHD" tvg-logo="" group-title=" SWITZERLAND",SH: 4+ FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109577
-#EXTINF:-1 tvg-id="" tvg-name="SH: 5+ FHD" tvg-logo="" group-title=" SWITZERLAND",SH: 5+ FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109578
-#EXTINF:-1 tvg-id="" tvg-name="SH: 6+ FHD" tvg-logo="" group-title=" SWITZERLAND",SH: 6+ FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109579
-#EXTINF:-1 tvg-id="" tvg-name="SH: PULS 8 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: PULS 8 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109580
-#EXTINF:-1 tvg-id="" tvg-name="SH: TVO HD" tvg-logo="" group-title=" SWITZERLAND",SH: TVO HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109581
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELE M1 HD" tvg-logo="" group-title=" SWITZERLAND",SH: TELE M1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109582
-#EXTINF:-1 tvg-id="" tvg-name="SH: ROUGE TV HD" tvg-logo="" group-title=" SWITZERLAND",SH: ROUGE TV HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109583
-#EXTINF:-1 tvg-id="" tvg-name="SH: RTS UN HD" tvg-logo="" group-title=" SWITZERLAND",SH: RTS UN HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109584
-#EXTINF:-1 tvg-id="" tvg-name="SH: RTS DEUX HD" tvg-logo="" group-title=" SWITZERLAND",SH: RTS DEUX HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109585
-#EXTINF:-1 tvg-id="" tvg-name="SH: RSI LA 1 HD" tvg-logo="" group-title=" SWITZERLAND",SH: RSI LA 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109586
-#EXTINF:-1 tvg-id="" tvg-name="SH: RSI LA 2 HD" tvg-logo="" group-title=" SWITZERLAND",SH: RSI LA 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109587
-#EXTINF:-1 tvg-id="" tvg-name="SH: RTL HD" tvg-logo="" group-title=" SWITZERLAND",SH: RTL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109588
-#EXTINF:-1 tvg-id="" tvg-name="SH: SAT.1 HD" tvg-logo="" group-title=" SWITZERLAND",SH: SAT.1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109589
-#EXTINF:-1 tvg-id="" tvg-name="SH: SF KANALEN HD" tvg-logo="" group-title=" SWITZERLAND",SH: SF KANALEN HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109590
-#EXTINF:-1 tvg-id="" tvg-name="SH: TÉLÉBIELINGUE HD" tvg-logo="" group-title=" SWITZERLAND",SH: TÉLÉBIELINGUE HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109591
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF 1 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: SRF 1 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109592
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF INFO FHD" tvg-logo="" group-title=" SWITZERLAND",SH: SRF INFO FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109593
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF ZWEI FHD" tvg-logo="" group-title=" SWITZERLAND",SH: SRF ZWEI FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109594
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF 1 HEVC" tvg-logo="" group-title=" SWITZERLAND",SH: SRF 1 HEVC
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109595
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF INFO HEVC" tvg-logo="" group-title=" SWITZERLAND",SH: SRF INFO HEVC
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109596
-#EXTINF:-1 tvg-id="" tvg-name="SH: SRF ZWEI HEVC" tvg-logo="" group-title=" SWITZERLAND",SH: SRF ZWEI HEVC
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109597
-#EXTINF:-1 tvg-id="" tvg-name="SH: KABEL EINS FHD" tvg-logo="" group-title=" SWITZERLAND",SH: KABEL EINS FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109598
-#EXTINF:-1 tvg-id="" tvg-name="SH: RTS UN FHD" tvg-logo="" group-title=" SWITZERLAND",SH: RTS UN FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109599
-#EXTINF:-1 tvg-id="" tvg-name="SH: RTS DEUX FHD" tvg-logo="" group-title=" SWITZERLAND",SH: RTS DEUX FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109600
-#EXTINF:-1 tvg-id="" tvg-name="SH: RSI LA 1 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: RSI LA 1 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109601
-#EXTINF:-1 tvg-id="" tvg-name="SH: RSI LA 2 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: RSI LA 2 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109602
-#EXTINF:-1 tvg-id="" tvg-name="SH: S1 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: S1 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109603
-#EXTINF:-1 tvg-id="" tvg-name="SH: TLC FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TLC FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109604
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELE 1 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELE 1 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109605
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELE BÄRN FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELE BÄRN FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109606
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELE Z FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELE Z FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109607
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELE BASEL FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELE BASEL FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109608
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELE TOP FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELE TOP FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109609
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELEZUERI FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELEZUERI FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109610
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELETICINO FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELETICINO FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109611
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELE D FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELE D FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109612
-#EXTINF:-1 tvg-id="" tvg-name="SH: TELEBIELLINGUE FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TELEBIELLINGUE FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109613
-#EXTINF:-1 tvg-id="" tvg-name="SH: TV24 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TV24 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109614
-#EXTINF:-1 tvg-id="" tvg-name="SH: TV25 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TV25 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109615
-#EXTINF:-1 tvg-id="" tvg-name="SH: TVM3 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TVM3 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109616
-#EXTINF:-1 tvg-id="" tvg-name="SH: TV SUEDOSTSCHWEIZ FHD" tvg-logo="" group-title=" SWITZERLAND",SH: TV SUEDOSTSCHWEIZ FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109617
-#EXTINF:-1 tvg-id="" tvg-name="SH: RTS UN HEVC" tvg-logo="" group-title=" SWITZERLAND",SH: RTS UN HEVC
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109618
-#EXTINF:-1 tvg-id="" tvg-name="SH: RTS DEUX HEVC" tvg-logo="" group-title=" SWITZERLAND",SH: RTS DEUX HEVC
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109619
-#EXTINF:-1 tvg-id="" tvg-name="SH: RSI LA 1 HEVC" tvg-logo="" group-title=" SWITZERLAND",SH: RSI LA 1 HEVC
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109620
-#EXTINF:-1 tvg-id="" tvg-name="SH: RSI LA 2 HEVC" tvg-logo="" group-title=" SWITZERLAND",SH: RSI LA 2 HEVC
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109621
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - SPORT - - - - -" tvg-logo="" group-title=" SWITZERLAND",- - - - - SPORT - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109622
-#EXTINF:-1 tvg-id="" tvg-name="SH: BLUE  BUNDESLIGA FHD" tvg-logo="" group-title=" SWITZERLAND",SH: BLUE  BUNDESLIGA FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109623
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS FHD (MULTI)" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS FHD (MULTI)
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109624
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 1 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 1 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109625
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 2 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 2 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109626
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 3 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 3 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109627
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 4 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 4 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109628
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 5 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 5 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109629
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 6 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 6 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109630
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 7 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 7 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109631
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 8 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 8 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109632
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 9 HD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 9 HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109633
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 1 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 1 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109634
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 2 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 2 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109635
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 3 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 3 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109636
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 4 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 4 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109637
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 5 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 5 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109638
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 6 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 6 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109639
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 7 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 7 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109640
-#EXTINF:-1 tvg-id="" tvg-name="SH: MYSPORTS 8 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: MYSPORTS 8 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109641
-#EXTINF:-1 tvg-id="" tvg-name="SH: BLUE SPORT 1 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: BLUE SPORT 1 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109642
-#EXTINF:-1 tvg-id="" tvg-name="SH: BLUE SPORT 2 FHD" tvg-logo="" group-title=" SWITZERLAND",SH: BLUE SPORT 2 FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109643
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - FILM - - - - -" tvg-logo="" group-title=" SWITZERLAND",- - - - - FILM - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109644
-#EXTINF:-1 tvg-id="" tvg-name="SH: STAR TV HD" tvg-logo="" group-title=" SWITZERLAND",SH: STAR TV HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109645
-#EXTINF:-1 tvg-id="" tvg-name="SH: BLUE ACTION FHD" tvg-logo="" group-title=" SWITZERLAND",SH: BLUE ACTION FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109646
-#EXTINF:-1 tvg-id="" tvg-name="SH: BLUE PRIME FHD" tvg-logo="" group-title=" SWITZERLAND",SH: BLUE PRIME FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109647
-#EXTINF:-1 tvg-id="" tvg-name="SH: BLUE STARS FHD" tvg-logo="" group-title=" SWITZERLAND",SH: BLUE STARS FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109648
-#EXTINF:-1 tvg-id="" tvg-name="SH: BLUE ZOOM FHD" tvg-logo="" group-title=" SWITZERLAND",SH: BLUE ZOOM FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109649
-#EXTINF:-1 tvg-id="" tvg-name="SH: COMEDY CENTRAL FHD" tvg-logo="" group-title=" SWITZERLAND",SH: COMEDY CENTRAL FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109650
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - KIDS - - - - -" tvg-logo="" group-title=" SWITZERLAND",- - - - - KIDS - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109651
-#EXTINF:-1 tvg-id="" tvg-name="SH: NICKELODEON HD" tvg-logo="" group-title=" SWITZERLAND",SH: NICKELODEON HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109652
-#EXTINF:-1 tvg-id="" tvg-name="SH: NICK TOONS HD" tvg-logo="" group-title=" SWITZERLAND",SH: NICK TOONS HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109653
-#EXTINF:-1 tvg-id="" tvg-name="SH: CARTOON NETWORK HD" tvg-logo="" group-title=" SWITZERLAND",SH: CARTOON NETWORK HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109654
-#EXTINF:-1 tvg-id="" tvg-name="SH: DISNEY CHANNEL HD" tvg-logo="" group-title=" SWITZERLAND",SH: DISNEY CHANNEL HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109655
-#EXTINF:-1 tvg-id="" tvg-name="SH: DISNEY JUNIOR HD" tvg-logo="" group-title=" SWITZERLAND",SH: DISNEY JUNIOR HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109656
-#EXTINF:-1 tvg-id="" tvg-name="- - - - - DOCUMENTARY - - - - -" tvg-logo="" group-title=" SWITZERLAND",- - - - - DOCUMENTARY - - - - -
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109657
-#EXTINF:-1 tvg-id="" tvg-name="SH: INVESTIGATION DISCOVERY HD" tvg-logo="" group-title=" SWITZERLAND",SH: INVESTIGATION DISCOVERY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109658
-#EXTINF:-1 tvg-id="" tvg-name="SH: HISTORY HD" tvg-logo="" group-title=" SWITZERLAND",SH: HISTORY HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109659
-#EXTINF:-1 tvg-id="" tvg-name="SH: DISCOVERY WORLD HD" tvg-logo="" group-title=" SWITZERLAND",SH: DISCOVERY WORLD HD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109660
-#EXTINF:-1 tvg-id="" tvg-name="SH: DISCOVERY CHANNEL FHD" tvg-logo="" group-title=" SWITZERLAND",SH: DISCOVERY CHANNEL FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109661
-#EXTINF:-1 tvg-id="" tvg-name="SH: BLUE  ANIMAL PLANET FHD" tvg-logo="" group-title=" SWITZERLAND",SH: BLUE  ANIMAL PLANET FHD
-http://medotv.nl:8000/ataa/caBeFNgbFaZN/109662
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7f9cd2b80306c2a2078c41e06f7c7b9.png" group-title="",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR_Fernsehen_BW" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ba34a2aaffa62156c0d73b894b8818d4.png" group-title="",SWR Fernsehen
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9aad7dac2855ae7135f7c0826a85926e.png" group-title="",HR Fernsehen
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR_Fernsehen_Süd" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15feedcda919528e07739ab74b6eb039.png" group-title="",Bayerisches Fernsehen Sud
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR_Fernsehen_Köln" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c5e59621054cf39b4bf3abc24a4dcba.png" group-title="",WDR
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR Fernsehen Niedersachsen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fa0db176f779f3a3b7ba0c56f11c03b4.png" group-title="",NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="MDR-Sachsent.de" tvg-name="MDR-Fernsehen Sachsen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74bae818b7cdbf006e08a2c6eab2f92c.png" group-title="",MDR Fernsehen Sachsen Anhalt
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb_fernsehen_Berlin" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b489b735c4231806e6f42f7a008e835.png" group-title="",RBB
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" group-title="",ZDF Neo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" group-title="",ZDF Info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/832d4632ab0874f179f9225429e22632.png" group-title="",ARD Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="ONE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/782742c89628cf8493c764af96923a2b.png" group-title="",One
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/faef0a0c15cee4c37aa04e7f5f50f3da.png" group-title="",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/60f4478d63bf2836cd6be065e60c6ab4.png" group-title="",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5a688cd1f8d9c6aaee8cd4bbd094497.png" group-title="",Arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2cd6be90d74ccd553c63a50c905da05.png" group-title="",RTL
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53527
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTLZWEI" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/83f3e54518c9d0c9aa8c5fab3a8219d3.png" group-title="",RTL Zwei
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53529
+#EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/dc75cc60e4f9f5903be6b3293f223563.png" group-title="",Super RTL
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55278
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTLup" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/11271a82de80026e96e845af038a4abc.png" group-title="",RTL Up
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/91961
+#EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4974498cb30245ed948c12af1ef3cb84.png" group-title="",Nitro
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53546
+#EXTINF:-1 tvg-id="RTL Crime Germany" tvg-name="RTL Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/97fe89015819d8299061887b2eb1b835.png" group-title="PayTV",RTL-Crime
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53542
+#EXTINF:-1 tvg-id="RTL Living Germany" tvg-name="RTL Living Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7ab0d247e8eacd5a236cd80a3dabdd.png" group-title="PayTV",RTL-Living
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55364
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/36102300778e635e47c8034032095e33.png" group-title="PayTV",RTL Passion
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55349
+#EXTINF:-1 tvg-id="Sat.1.de" tvg-name="Sat.1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9794d8ef1bce7dfc71b8a45b059ab188.png" group-title="",Sat 1
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53521
+#EXTINF:-1 tvg-id="Sat.1 GOLD" tvg-name="Sat.1 GOLD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/246f726393b36fadedb1635065407cf7.png" group-title="",Sat 1 Gold
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53548
+#EXTINF:-1 tvg-id="Sat.1 emotions" tvg-name="Sat.1 emotions" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/29e64bc3eebf9ccb13b62e7d2575150c.png" group-title="PayTV",Sat 1 Emotions
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53550
+#EXTINF:-1 tvg-id="Kabel Eins" tvg-name="Kabel Eins" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3a2730109253be2a219341467adb18d9.png" group-title="",Kabel Eins
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53523
+#EXTINF:-1 tvg-id="Kabel Eins Classics" tvg-name="Kabel Eins Classics" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ccca2dd72cd94ced168e92d166edee9f.png" group-title="",Kabel Eins Classics
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55351
+#EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="",Kabel Eins Doku
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53593
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/45f2fffd906cdd883f2ad72166311fcc.png" group-title="",ProSieben
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53525
+#EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="ProSieben Maxx" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c16f1abb00d20c7fa731d7a814006137.png" group-title="",ProSieben Maxx
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/77628
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12c0a389de73b05920488417e550d910.png" group-title="PayTV",ProSieben Fun
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53538
+#EXTINF:-1 tvg-id="Vox" tvg-name="Vox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dde6dacf731b8089130c2a42271032c.png" group-title="",Vox
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53533
+#EXTINF:-1 tvg-id="VOXup" tvg-name="VOXup" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6d7d07a50194844f82114daa8c35c910.png" group-title="",VOXup
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53534
+#EXTINF:-1 tvg-id="Sixx" tvg-name="Sixx" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7408cc7876c2cd42a1ba581d850110cd.png" group-title="",Sixx
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53751
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a670430d841b5b6c22f9614eb30ec705.png" group-title="",Tele 5
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53552
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/234d55ac82eafc838dc49835335c82a7.jfif" group-title="",TLC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78973
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8a5d7198419e91a163c9bfa9bfca1bb.png" group-title="",Comedy Central
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53536
+#EXTINF:-1 tvg-id="Servus TV" tvg-name="Servus TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8f8047b5124841d96727070e48b31f75.png" group-title="",Servus TV
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53553
+#EXTINF:-1 tvg-id="ANIXE HD Serie" tvg-name="ANIXE HD Serie" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/47d19b959615b07d23081850bfdb740b.png" group-title="",ANIXE Serie
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53608
+#EXTINF:-1 tvg-id="ANIXE+" tvg-name="ANIXE+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6b57164b9bb2a5769224e17207369.png" group-title="",ANIXE+
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5987
+#EXTINF:-1 tvg-id="123 TV" tvg-name="1-2-3.tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6da40cfe3bc1e39bb923f22f83a49933.png" group-title="",1-2-3.tv
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/75798
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5af65e344f7b824fbda309c3606aa1a.png" group-title="",Disney Channel
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55282
+#EXTINF:-1 tvg-id="Cartoon Network Germany" tvg-name="Cartoon Network Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/737c89acac29a375abc84fa6db9f7608.png" group-title="",Cartoon Network
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78832
+#EXTINF:-1 tvg-id="Boomerang Germany" tvg-name="Boomerang Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2c92e41c4aaadb4da7a957299bcdd68.png" group-title="",Boomerang
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92819
+#EXTINF:-1 tvg-id="Toggo Plus" tvg-name="Toggo Plus" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0785762339b57511bc7729cb2db4d031.png" group-title="",Toggo Plus
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53578
+#EXTINF:-1 tvg-id="KIKA" tvg-name="KIKA" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2d870d60c7b8dc656ad0b44fe90e9de.png" group-title="",KIKA
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78838
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b59daee919a2ee113b40f9b24de2dbf.png" group-title="Doku",Discovery Channel
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53585
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12130227dd9613bf9b7854425506d572.png" group-title="Doku",History
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53588
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png" group-title="Doku",National Geographic
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53580
+#EXTINF:-1 tvg-id="National Geographic Wild Germany" tvg-name="National Geographic Wild Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png" group-title="Doku",NAT-GEO-Wild
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53582
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a3416d40631ad2d244f18f3809f255c.png" group-title="Doku",ANIMAL PLANET
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/79456
+#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/784f890f04a5d004128b527fb3b66f09.png" group-title="Doku",Spiegel Geschichte
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53590
+#EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99327f657d95212ff8ca347f73f7eab0.png" group-title="Doku",Spiegel TV Wissen
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78843
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="GEO Television" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a970020b74eb6222254ec1b380e8f69f.png" group-title="Doku",Geo TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/266963
+#EXTINF:-1 tvg-id="Sky Nature Germany" tvg-name="Sky Nature Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbfd4a1361e27a67aaa7b3a64781850c.png" group-title="Doku",Sky Nature
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78835
+#EXTINF:-1 tvg-id="Sky Documentaries Germany" tvg-name="Sky Documentaries Germany" tvg-shift="" radio="" tvg-logo="https://www.sky.de/static/img/entertainment/sky_21-07_sky-documenatries.jpg" group-title="Doku",Sky Documentaries
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78836
+#EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b40af5e0fd6fae7407372abf9aa3f595.png" group-title="Doku",Kabel Eins Doku
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53593
+#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime + Investigation" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1e6d7e1968524d60a190f8d44a2df9dc.png" group-title="Doku",Crime + Investigation
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53591
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" group-title="Doku",ZDF Info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="bergblick" tvg-name="bergblick" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c23bf82567280b3cbfa3f5d2a32dc5fd.png" group-title="Doku",bergblick
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281754
+#EXTINF:-1 tvg-id="Bild" tvg-name="Bild" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Doku",Bild TV
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53727
+#EXTINF:-1 tvg-id="Auto Motor und Sport" tvg-name="Auto Motor und Sport" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0fb29d0c2f553038ade101ecd6eb4bf4.png" group-title="Doku",Auto Motor Sport
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55361
+#EXTINF:-1 tvg-id="Waidwerk" tvg-name="Waidwerk" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/90cd2dc98eb87632227707b562ef8220.png" group-title="Doku",Waidwerk
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/193759
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3787cdd95740aba077bab2663e9ffc0f.png" group-title="Doku",DMAX
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53602
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5b96d08b092c4bb4d477822e94734b4.png" group-title="Doku",N24 Doku
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92822
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dc7be151c538427f9a7133a439c920ea.png" group-title="Doku",HGTV
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53601
+#EXTINF:-1 tvg-id="Bon Gusto" tvg-name="Bon Gusto" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3c97f2b1e0dfc980ecd9e928710ccdbe.png" group-title="Doku",Bon Gusto
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55363
+#EXTINF:-1 tvg-id="Tagesschau24" tvg-name="Tagesschau24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04fd1f475a08d228ab281a7010988ec0.png" group-title="",Tagesschau 24
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53600
+#EXTINF:-1 tvg-id="n-tv" tvg-name="n-tv" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="",n-tv
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78910
+#EXTINF:-1 tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0bfde547a8bd903c5751e2fe274b4315.png" group-title="",DW Deutsch
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/10941
+#EXTINF:-1 tvg-id="Euronews D" tvg-name="Euronews D" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c97d4e4c207813498a3e32202ddf3162.png" group-title="",euronews
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53599
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4f07704f5ad2f88963e357271609b3d6.png" group-title="",MTV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3486
+#EXTINF:-1 tvg-id="Deluxe Music" tvg-name="Deluxe Music" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/69332ee91ef318918ed5c2b89390dd0a.png" group-title="Musik",Deluxe Music
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2111
+#EXTINF:-1 tvg-id="Deluxe Lounge" tvg-name="Deluxe Lounge" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b4940dd7806517b74abbec7cf338a8e1.png" group-title="Musik",Deluxe Lounge
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290381
+#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen" tvg-name="Deutsches Musik Fernsehen" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4d4d33526eaf588a752d1021813efc8e.png" group-title="Musik",Deutsches Musik Fernsehen
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/163081
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2bfee4ac81a297ec69afd0438758db1.png" group-title="Musik",Jukebox
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/12613
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="Sport",DAZN 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/48355
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6701b2c9af26d19ca02e675ec00c13d4.png" group-title="Sport",DAZN 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2387
+#EXTINF:-1 tvg-id="Del Sport 1" tvg-name="Del Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/feb717638b65c33bdc47793d33d61d3a.jpg" group-title="Sport",Del Sport 1
+http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/8214
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5cfaf6528fef14945280363aaf81efcf.png" group-title="",EUROSPORT 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/412
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/44f9f80e44f84ce4533b0cbb3cb62fcd.png" group-title="Sport",EUROSPORT 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2082
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e278484e21302dccc0083bc4570e5d3a.png" group-title="PayTV",SYFY
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53649
+#EXTINF:-1 tvg-id="13th Street" tvg-name="13th Street" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/affc50722b24295a801e25d724bd63c3.png" group-title="PayTV",13th Street
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53644
+#EXTINF:-1 tvg-id="Sony AXN" tvg-name="Sony AXN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4df4f6d272837cabf8055cc973a311d1.png" group-title="PayTV",Sony AXN
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53650
+#EXTINF:-1 tvg-id="Sony Channel Germany" tvg-name="Sony Channel Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e2fee6b2734b02fd526ec435b3d82668.jpg" group-title="PayTV",Sony Channel
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2128
+#EXTINF:-1 tvg-id="Romance TV Germany" tvg-name="Romance TV Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eff97396dced319c2f9034ce017d4837.png" group-title="PayTV",Romance TV
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53656
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9327371a91ab40f216154b8dc2e80d8f.png" group-title="PayTV",Kinowelt TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2127
+#EXTINF:-1 tvg-id="Silverline Movie Channel" tvg-name="Silverline Movie Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fb24daf338d66d8806f505694abf2e0.jpg" group-title="PayTV",SilverLine
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53653
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b7fd47cce1f77856894995648c9b0e5.png" group-title="PayTV",Universal TV
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53647
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="TNT Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e544bd95d6e6ae7bef1951c13d06d4c5.png" group-title="PayTV",Warner TV Comedy
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53639
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT Film" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f13246ba5272f59e5bc74ab07c0a511d.png" group-title="PayTV",Warner TV Film
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53641
+#EXTINF:-1 tvg-id="TNT serie" tvg-name="TNT serie" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/1200px-WarnerTV_Serie_Logo_2021.svg.png" group-title="PayTV",Warner TV serie
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/78826
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53a26073e5ed0e20f546a463740fe707.png" group-title="PayTV",Heimatkanal
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53654
+#EXTINF:-1 tvg-id="Magenta Sport 1" tvg-name="Magenta Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290686
+#EXTINF:-1 tvg-id="Magenta Sport 2" tvg-name="Magenta Sport 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290687
+#EXTINF:-1 tvg-id="Magenta Sport 3" tvg-name="Magenta Sport 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281748
+#EXTINF:-1 tvg-id="Magenta Sport 4" tvg-name="Magenta Sport 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290688
+#EXTINF:-1 tvg-id="Magenta Sport 5" tvg-name="Magenta Sport 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290689
+#EXTINF:-1 tvg-id="Magenta Sport 6" tvg-name="Magenta Sport 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 6
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290690
+#EXTINF:-1 tvg-id="Magenta Sport 7" tvg-name="Magenta Sport 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ec41206bbca4096f5641efd7d9713071.png" group-title="Sport",Magenta Sport 7
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281749
+#EXTINF:-1 tvg-id="Magenta Sport 8" tvg-name="Magenta Sport 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 8
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290691
+#EXTINF:-1 tvg-id="Magenta Sport 9" tvg-name="Magenta Sport 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/aa7250fedd3afc9df02cda266c5d8c8c.png" group-title="Sport",Magenta Sport 9
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290692
+#EXTINF:-1 tvg-id="Magenta Sport 10" tvg-name="Magenta Sport 10" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 10
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295566
+#EXTINF:-1 tvg-id="Magenta Sport 11" tvg-name="Magenta Sport 11" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/202c3bcc061f913d01ccd5c9d3d3bf21.png" group-title="Sport",Magenta Sport 11
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295567
+#EXTINF:-1 tvg-id="Magenta Sport 12" tvg-name="Magenta Sport 12" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 12
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295568
+#EXTINF:-1 tvg-id="Magenta Sport 13" tvg-name="Magenta Sport 13" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/25e3856825db6f3557157a7ae66a1583.png" group-title="Sport",Magenta Sport 13
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295569
+#EXTINF:-1 tvg-id="Magenta Sport 14" tvg-name="Magenta Sport 14" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 14
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295570
+#EXTINF:-1 tvg-id="Magenta Sport 15" tvg-name="Magenta Sport 15" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 15
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295571
+#EXTINF:-1 tvg-id="Magenta Sport 16" tvg-name="Magenta Sport 16" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 16
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295572
+#EXTINF:-1 tvg-id="Magenta Sport 17" tvg-name="Magenta Sport 17" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 17
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295573
+#EXTINF:-1 tvg-id="Magenta Sport 18" tvg-name="Magenta Sport 18" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 18
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297337
+#EXTINF:-1 tvg-id="Magenta Sport 19" tvg-name="Magenta Sport 19" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 19
+http://kardessa.xyz:8080/44EjWw4jGNJX/GPfbMnqqbsTG/195284
+#EXTINF:-1 tvg-id="Magenta Sport 20" tvg-name="Magenta Sport 20" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 20
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297325
+#EXTINF:-1 tvg-id="Max Select 1" tvg-name="Max Select 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2f9b979ea79a5be680a8aa0bbb060774.png" group-title="PayTV",Max Select 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/67435
+#EXTINF:-1 tvg-id="Max Select 2" tvg-name="Max Select 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/36506aed88dc54dfc7e83d1b0b1147f0.png" group-title="PayTV",Max Select 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/279250
+#EXTINF:-1 tvg-id="Max Select 4" tvg-name="Max Select 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dc1c71e932fab9e73ec81d793d77d4e8.png" group-title="PayTV",Max Select 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/278609
+#EXTINF:-1 tvg-id="Max Select 5" tvg-name="Max Select 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5d11574625d6733bd115aac24a7d3a8a.png" group-title="PayTV",Max Select 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148176
+#EXTINF:-1 tvg-id="Max Select 6" tvg-name="Max Select 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b086d7e06ca5ec1114753b17f50f0492.png" group-title="PayTV",Max Select 6
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/67437
+#EXTINF:-1 tvg-id="MDF 1" tvg-name="DE: MDF 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ace5383597c99cd32420d25810af5c3e.png" group-title="",MDF 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/60392
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3f98e508f67551522d9913026f160399.png" group-title="",Motorvision TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/4480
+#EXTINF:-1 tvg-id="RAN 1" tvg-name="RAN 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7ad765708ee01e8623e358b4e547e906.jpg" group-title="Sport",RAN 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/173527
+#EXTINF:-1 tvg-id="RNF" tvg-name="RNF" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/74f90fa6bd5525c47562fd442b26f9b0.png" group-title="",RNF
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5010
+#EXTINF:-1 tvg-id="Sky One Germany" tvg-name="Sky One Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f914300db72dec0e38320710b1e58be7.png" group-title="SKY",Sky One
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2115
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dd07a5c064d859bba8235e6bf76845a5.png" group-title="SKY",Sky Atlantic
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1661
+#EXTINF:-1 tvg-id="Sky Comedy Germany" tvg-name="Sky Comedy Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ae27548598be481113873a6d4da2032f.png" group-title="SKY",Sky Comedy
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/4461
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/93d402107f3ea78539cce8f071ebea3c.png" group-title="SKY",Sky Krimi
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2122
+#EXTINF:-1 tvg-id="Sky Crime Germany" tvg-name="Sky Crime Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3bfd5f515499f17d4606e560ed92d8bb.png" group-title="SKY",Sky Crime
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/291078
+#EXTINF:-1 tvg-id="Sky Replay Germany" tvg-name="Sky Replay Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d793a3ec8b7877502be0c527fa7da4.png" group-title="SKY",Sky Replay
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/407
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c0736e71decc27359ed907ccd077affb.png" group-title="SKY",Sky Cinema Action
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1659
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="Sky Cinema Best Of" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33bebe3398e7b19f19b96a36e0df1dbd.png" group-title="SKY",Sky Cinema Best Of
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2119
+#EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cf0b9eca25b310d3914dd1fa0196c7f4.png" group-title="SKY",Sky Cinema Classics
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/91126
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d2b40c20cd42aee89dc3d9046c2fa329.png" group-title="SKY",Sky Cinema Prem
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298585
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="Sky Cinema Premieren +24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ae711c8f6f85772359e474455109c70f.png" group-title="SKY",Sky Cinema Prem+24
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2414
+#EXTINF:-1 tvg-id="Sky Cinema Family Germany" tvg-name="Sky Cinema Family Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d7a500d20f06dad1bdeb0bb6019f0972.png" group-title="SKY",Sky Cinema Family
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2118
+#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d4ab9d27925e657f7ea5811bf8c1ea6e.png" group-title="SKY",Sky Cinema Fun
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/91120
+#EXTINF:-1 tvg-id="Sky Cinema Special" tvg-name="Sky Cinema Special" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7fbdda6752bbcb91ac1c9de323f8603d.png" group-title="SKY",Sky Cinema Special
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/29070
+#EXTINF:-1 tvg-id="Sky Cinema Thriller Germany" tvg-name="Sky Cinema Thriller Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8e72e2ca6c934e71ac3ec9139a7550d8.png" group-title="SKY",Sky Cinema Thriller
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/91116
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/684c9691eda27cf039529faea97ccfc7.png" group-title="Sport",Sport 1
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53674
+#EXTINF:-1 tvg-id="Sport 1+" tvg-name="Sport 1+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e596e3f7884740a7da86354ba7c965b9.png" group-title="Sport",Sport 1+
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55334
+#EXTINF:-1 tvg-id="Sportdigital Fussball" tvg-name="Sportdigital Fussball" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3902b1a334082146f28bbd26c2272a85.png" group-title="Sport",Sportdigital Fussball
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3509
+#EXTINF:-1 tvg-id="Sky Sport 1 Germany" tvg-name="Sky Sport 1 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f12f66e0590ba09cdb4312c7512849d0.png" group-title="",Sky Sport 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/202100
+#EXTINF:-1 tvg-id="Sky Sport 2 Germany" tvg-name="Sky Sport 2 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/307d0602af9cdc138a2353d8d565641c.png" group-title="SKY",Sky Sport 2
+http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/8215
+#EXTINF:-1 tvg-id="Sky Sport 3 Germany" tvg-name="Sky Sport 3 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9a130d66800619cfa11f847581c4bffd.png" group-title="SKY",Sky Sport 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/72238
+#EXTINF:-1 tvg-id="Sky Sport 4 Germany" tvg-name="Sky Sport 4 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53419dd61d60da397ce1e27e595f182f.png" group-title="SKY",Sky Sport 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/32708
+#EXTINF:-1 tvg-id="Sky Sport 5 Germany" tvg-name="Sky Sport 5 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0dc1530132538daaba4c0b1eebb9496a.png" group-title="SKY",Sky Sport 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/13497
+#EXTINF:-1 tvg-id="Sky Sport 6 Germany" tvg-name="Sky Sport 6 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/892d5cf9e4c70d2b8f04b5f018e81087.png" group-title="SKY",Sky Sport 6
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31445
+#EXTINF:-1 tvg-id="Sky Sport 7 Germany" tvg-name="Sky Sport 7 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9e73c2b075a96c9d4defa94146c2b0af.png" group-title="SKY",Sky Sport 7
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2133
+#EXTINF:-1 tvg-id="Sky Sport 8 Germany" tvg-name="Sky Sport 8 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cee921aeeee33ebdf358a846f72e1ccd.png" group-title="SKY",Sky Sport 8
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/4489
+#EXTINF:-1 tvg-id="Sky Sport 9 Germany" tvg-name="Sky Sport 9 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d450d5930c05ad70194a972760ece466.png" group-title="SKY",Sky Sport 9
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/147341
+#EXTINF:-1 tvg-id="Sky Sport 10 Germany" tvg-name="Sky Sport 10 Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4aac20e5ec5f70c87c5c5b73eac32af0.png" group-title="SKY",Sky Sport 10
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/147342
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="Sky Sport Bundesliga 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="SKY",Sky Sport Bundesliga 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298592
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2" tvg-name="Sky Sport Bundesliga 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/fb2eaf329b2b21db2465a65b6561f37a.png" group-title="SKY",Sky Sport Bundesliga 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/4493
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3" tvg-name="Sky Sport Bundesliga 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7de132a1213bb481524dd15b684e0b3.png" group-title="SKY",Sky Sport Bundesliga 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2135
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4" tvg-name="Sky Sport Bundesliga 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c685e1115586d117d8bd52211fb175ec.png" group-title="SKY",Sky Sport Bundesliga 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3513
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5" tvg-name="Sky Sport Bundesliga 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ae1ff23f60068f326deb088d3751a607.png" group-title="SKY",Sky Sport Bundesliga 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2136
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6" tvg-name="Sky Sport Bundesliga 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b600abfaf8bbe572f199a04457b67a0a.png" group-title="SKY",Sky Sport Bundesliga 6
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/12638
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7" tvg-name="Sky Sport Bundesliga 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/acbb2d746d6270db2b1f28711ecc3cb6.png" group-title="SKY",Sky Sport Bundesliga 7
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2433
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8" tvg-name="Sky Sport Bundesliga 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e32f4dbf139eeda0ca4bef4c31a303c.png" group-title="SKY",Sky Sport Bundesliga 8
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2434
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9" tvg-name="Sky Sport Bundesliga 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/210f77aa7e453d5335c8a4c6b341e4c9.png" group-title="SKY",Sky Sport Bundesliga 9
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/10051
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10" tvg-name="Sky Sport Bundesliga 10" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db1d07a63257ba1ba7ff36c393016fd8.png" group-title="SKY",Sky Sport Bundesliga 10
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2432
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png" group-title="Sport",Sky Sport F1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/174563
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/273bc324c4c9c7d675c01d6b55aa82d6.png" group-title="Sport",Sky Sport News
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1658
+#EXTINF:-1 tvg-id="Stingray Classica" tvg-name="Stingray Classica" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e21a32500f89bfd12f74678754e89662.png" group-title="Musik",Stingray Classica
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298711
+#EXTINF:-1 tvg-id="Welt" tvg-name="Welt" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/466a05dca5843cf9c8a74a457af829a4.png" group-title="Doku",Welt
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2093
+#EXTINF:-1 tvg-id="Welt der Wunder" tvg-name="Welt der Wunder" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/834de0d76be26d5220d27629a30e02f8.png" group-title="Doku",Welt der Wunder TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/29008
+#EXTINF:-1 tvg-id="XITE" tvg-name="XITE" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/43156d70f81982317120ff6cc17232fb.png" group-title="Musik",XITE
+http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/281767
+#EXTINF:-1 tvg-id="swr3.de" tvg-name="SWR3-VisualRadio" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png" group-title="Musik",SWR3-VisualRadio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="Dasding.de" tvg-name="DASDING-VisualRadio" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png" group-title="Musik",DASDING-VisualRadio
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="Rockland.de" tvg-name="Rockland TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png" group-title="Musik",Rockland TV
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png" group-title="Musik",MTV Germany
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png" group-title="Musik",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png" group-title="Musik",Folx TV
+https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8
+#EXTINF:-1 tvg-id="One1MusicTV.de" tvg-name="One 1 Music TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png" group-title="Musik",One 1 Music TV
+https://folxplay-t.b-cdn.net/streams/ch-3/master.m3u8
+#EXTINF:-1 tvg-id="Zwei2MusicTV.de" tvg-name="Zwei 2 Music TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png" group-title="Musik",Zwei 2 Music TV
+https://folxplay-t.b-cdn.net/streams/ch-2/master.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png" group-title="Musik",Deutsches Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png" group-title="Musik",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-id="Kronehit TV" tvg-name="Kronehit TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="Musik",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Melodie TV" tvg-name="Melodie TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png" group-title="Musik",Melodie TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281751
+#EXTINF:-1 tvg-id="TVM3" tvg-name="TVM3" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png" group-title="Musik",TVM3
+https://edge16.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
+#EXTINF:-1 tvg-id="CMC" tvg-name="CMC" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png" group-title="Musik",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 tvg-id="Activa TV" tvg-name="Activa TV" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/activatv.png" group-title="Musik",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="XITE" tvg-name="XITE" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png" group-title="Musik",XITE
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="ORF 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1a0cecb4d3e9d4a525acea5b3659f796.png" group-title="Österreich",ORF 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1665
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/cecb7411f3b52da1683a5cb37d0f4fe9.png" group-title="Österreich",ORF 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1664
+#EXTINF:-1 tvg-id="ORF 3" tvg-name="ORF 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/98ffddd1eb3828a7b01129406a4ca4e7.png" group-title="Österreich",ORF 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3492
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/79bd252e698ff7189c135c93baced6ca.png" group-title="Österreich",ATV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3489
+#EXTINF:-1 tvg-id="ATV2" tvg-name="ATV2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e694b63801476740bda4feff9527bbbe.png" group-title="Österreich",ATV 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/12643
+#EXTINF:-1 tvg-id="Puls 4 HD" tvg-name="Puls 4 HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/c75dc2269446ead8bdf411ac7d6df33b.png" group-title="Österreich",Puls 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/12644
+#EXTINF:-1 tvg-id="PULS24 HD" tvg-name="PULS24 HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/defd1fd7ec97072cbb7aac0e5898cdfc.png" group-title="Österreich",Puls 24
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/174351
+#EXTINF:-1 tvg-id="R9 Österreich" tvg-name="R9 Österreich" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b42643772704c97f7c328fc154f03e98.png" group-title="Österreich",R9
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/193532
+#EXTINF:-1 tvg-id="oe24. TV HD" tvg-name="oe24. TV HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2d9199eacf795a3a7cccc98942f52e87.png" group-title="Österreich",Oe24 TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/18492
+#EXTINF:-1 tvg-id="Tirol TV" tvg-name="Tirol TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9f2d7b28e402c994e4372c1c0fc47faf.png" group-title="Österreich",Tirol TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285321
+#EXTINF:-1 tvg-id="Teins" tvg-name="Teins" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/49772894406f460885c4f8628596a0bc.jpeg" group-title="Österreich",Teins
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290695
+#EXTINF:-1 tvg-id="Dorf TV" tvg-name="Dorf TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/62504b004da7ddec75d8f802729ef712.png" group-title="Österreich",Dorf TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/200462
+#EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3d1d4c235f5dbf5fe5b941b7643d18d2.png" group-title="Österreich",FS1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/44792
+#EXTINF:-1 tvg-id="Krone HIT" tvg-name="Krone HIT" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/14f45bfd0dcb720c5cb5d681f373232a.png" group-title="Österreich",Krone HIT
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/17152
+#EXTINF:-1 tvg-id="krone.tv HD" tvg-name="krone.tv HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/35c89660041f2766896d45f8e076ec01.png" group-title="Österreich",Krone TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/192661
+#EXTINF:-1 tvg-id="MelodieTV" tvg-name="MelodieTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b2d88d04a40699abc0bc3a57eb467910.png" group-title="Österreich",Melodie TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281751
+#EXTINF:-1 tvg-id="ORF Sport+ HD" tvg-name="ORF Sport+ HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8abdd4d3253d178909b231d0c9913dbe.png" group-title="Österreich",ORF Sport+
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2098
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f063001d448b6a86050b98ca02a66897.png" group-title="Österreich",Red Bull TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8792
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e2c7ee1456eafbb32211dfa67d71fac2.jfif" group-title="Österreich",RTV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/294902
+#EXTINF:-1 tvg-id="Schau TV HD" tvg-name="Schau TV HD" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f33122cb6b6d983f635c41584491cb01.png" group-title="Österreich",Schau TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/193533
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" tvg-name="Sky Sport Austria 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3610fcefa8e58c4d9c27af91c71a7996.png" group-title="",Sky Sport Austria 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2130
+#EXTINF:-1 tvg-id="Sky Sport Austria 2" tvg-name="Sky Sport Austria 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9fdbe61de418c860d0f51acab33cd3d5.png" group-title="Österreich",Sky Sport Austria 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/192010
+#EXTINF:-1 tvg-id="Sky Sport Austria 3" tvg-name="Sky Sport Austria 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bf0ec45566171fc1fe07e3bb7fda848f.png" group-title="Österreich",Sky Sport Austria 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/192374
+#EXTINF:-1 tvg-id="Sky Sport Austria 4" tvg-name="Sky Sport Austria 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1411fab83c8bffe7da7727a3d589afa8.png" group-title="Österreich",Sky Sport Austria 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295541
+#EXTINF:-1 tvg-id="Sky Sport Austria 5" tvg-name="Sky Sport Austria 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/65617951bce92e5e47beed8db2dad8a7.png" group-title="Österreich",Sky Sport Austria 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295542
+#EXTINF:-1 tvg-id="Sky Sport Austria 6" tvg-name="Sky Sport Austria 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/da00923e46c4a542ad3396823d35e0e6.png" group-title="Österreich",Sky Sport Austria 6
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295543
+#EXTINF:-1 tvg-id="W24" tvg-name="W24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/92cee47e04b4783bf4d1c9d23d35ae0d.png" group-title="Österreich",W24
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285322
+#EXTINF:-1 tvg-id="SRF 1" tvg-name="SRF 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff137efd29cc494420c97edfb7462ce9.png" group-title="Schweiz",SRF 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/4413
+#EXTINF:-1 tvg-id="SRF Zwei" tvg-name="SRF Zwei" tvg-shift="" radio="" tvg-logo="https://medien.srf.ch/o/adaptive-media/image/5324326/Preview-1000x0/421785.jpg?t=1650625850863" group-title="Schweiz",SRF Zwei
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/294454
+#EXTINF:-1 tvg-id="SRF Info" tvg-name="SRF Info" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/10e1c1a91b05d33a3a07b3b688214138.png" group-title="Schweiz",SRF Info
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2805
+#EXTINF:-1 tvg-id="3+" tvg-name="3+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/271c6d9ef8e5eb671139670ac9ddf1f2.jpg" group-title="Schweiz",3+
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/14266
+#EXTINF:-1 tvg-id="4+" tvg-name="4+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/16a2d4bc6047b7de028e4b12766c5e9a.jpg" group-title="Schweiz",4+
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2809
+#EXTINF:-1 tvg-id="5+" tvg-name="5+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/2f3d71717d14267c3e41aab7034eab72.jpg" group-title="Schweiz",5+
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/14262
+#EXTINF:-1 tvg-id="6+" tvg-name="6+" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/991697814fe1febaeec5bcd7e79190c8.jpg" group-title="Schweiz",6+
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/14264
+#EXTINF:-1 tvg-id="Puls Acht" tvg-name="Puls Acht" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e8d2cb2d76a559bade68e8da4e46ad86.png" group-title="Schweiz",Puls Acht
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/83347
+#EXTINF:-1 tvg-id="Kanal 9" tvg-name="Kanal 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5b347b83d8f53d3a28e9de000f3c6d71.jpg" group-title="Schweiz",Kanal 9
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/24718
+#EXTINF:-1 tvg-id="TV 24" tvg-name="TV 24" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c2202d24de3a6b6df5f472852086394f.png" group-title="Schweiz",TV 24
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/151505
+#EXTINF:-1 tvg-id="TV 25" tvg-name="TV 25" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/010b491d314baee5484235eb971a3d0c.png" group-title="Schweiz",TV 25
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/145403
+#EXTINF:-1 tvg-id="swiss 1" tvg-name="swiss 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/9840224e5afac819d04ba34c85212e33.png" group-title="Schweiz",swiss 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/82686
+#EXTINF:-1 tvg-id="Tele 1" tvg-name="Tele 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/cd2da93882e3ae8ad6733a83b586bda7.jpg" group-title="Schweiz",Tele 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281735
+#EXTINF:-1 tvg-id="Tele Barn" tvg-name="Tele Barn" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/afe4ad3772f5a22fcde046820cf1e126.png" group-title="Schweiz",Tele Barn
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/24297
+#EXTINF:-1 tvg-id="Telebasel" tvg-name="Telebasel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/014cdfd7531a30019da295e18940f392.png" group-title="Schweiz",Telebasel
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/43523
+#EXTINF:-1 tvg-id="TeleZuri" tvg-name="TeleZuri" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/945373d36c1d5489b8704d49fe1a068f.jpg" group-title="Schweiz",TeleZuri
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/83344
+#EXTINF:-1 tvg-id="TV Suedostschweiz" tvg-name="TV Suedostschweiz" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1336c14b2ab3341a26957086709b16f4.png" group-title="Schweiz",TV Suedostschweiz
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157407
+#EXTINF:-1 tvg-id="TVO" tvg-name="TVO" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9eb18b01f408eb24eaa92c6005218be8.jpg" group-title="Schweiz",TVO
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2808
+#EXTINF:-1 tvg-id="TVM 3" tvg-name="TVM 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1fefd2b10ca49bba6abe26c738c810cc.png" group-title="Schweiz",TVM 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/24721
+#EXTINF:-1 tvg-id="Telebielingue" tvg-name="Telebielingue" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4da6595d04f8fe02bb20b5fcaa65b1a.png" group-title="Schweiz",Telebielingue
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165444
+#EXTINF:-1 tvg-id="Tele M1" tvg-name="Tele M1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/786f3f139a3eea6c3b2e45daa08a677b.png" group-title="Schweiz",Tele M1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/14253
+#EXTINF:-1 tvg-id="Blue Sport 1" tvg-name="Blue Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1e3a6ebd017afb3fc7373b14067d6c51.png" group-title="",Blue Sport 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2815
+#EXTINF:-1 tvg-id="Blue Sport 2" tvg-name="Blue Sport 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/100d55fd9acdc34aeb54e4df82f87b1a.png" group-title="Schweiz",Blue Sport 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/6187
+#EXTINF:-1 tvg-id="Blue Zoom D" tvg-name="Blue Zoom D" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54c51d0eac1f0f07d42f5244562b2ca6.png" group-title="Schweiz",Blue Zoom D
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/52435
+#EXTINF:-1 tvg-id="MySports 1" tvg-name="MySports 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9da1168f90f62c51581db76c46519503.png" group-title="Schweiz",MySports 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/280169
+#EXTINF:-1 tvg-id="MySports 2" tvg-name="MySports 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9da1168f90f62c51581db76c46519503.png" group-title="Schweiz",MySports 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/35843
+#EXTINF:-1 tvg-id="MySports 3" tvg-name="MySports 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3e40e700bbc67d8977b90681588e669a.png" group-title="Schweiz",MySports 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/70853
+#EXTINF:-1 tvg-id="MySports 4" tvg-name="MySports 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/154688010fd429c30997af27ef4a7e92.png" group-title="Schweiz",MySports 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/23838
+#EXTINF:-1 tvg-id="MySports 5" tvg-name="MySports 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c2afd899876b86dfd5216bc85ab0e2a6.png" group-title="Schweiz",MySports 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/90859
+#EXTINF:-1 tvg-id="MySports 6" tvg-name="MySports 6" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/060db78d6cef8728f844991cf695c6cb.png" group-title="Schweiz",MySports 6
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148193
+#EXTINF:-1 tvg-id="MySports 7" tvg-name="MySports 7" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7e4698387844e469175e8214d75dd5a9.png" group-title="Schweiz",MySports 7
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148191
+#EXTINF:-1 tvg-id="MySports 8" tvg-name="MySports 8" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/236003a9f4f2078c02e5578884caaaef.png" group-title="Schweiz",MySports 8
+http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/148198
+#EXTINF:-1 tvg-id="MySports 9" tvg-name="MySports 9" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/57635904fa763c7237e69c8f8490e286.png" group-title="Schweiz",MySports 9
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/152345
