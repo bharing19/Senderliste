@@ -32,7 +32,7 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/arte.png" group-title="",Arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rtl.png" group-title="",RTL
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40677
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35183
 #EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTLZWEI" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rtl2%20hd.png" group-title="",RTL Zwei
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40678
 #EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/super%20rtl.png" group-title="",Super RTL
@@ -44,25 +44,25 @@ http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1026
 #EXTINF:-1 tvg-id="RTL Crime Germany" tvg-name="RTL Crime Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rtl%20crime.png" group-title="PayTV",RTL-Crime
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35220
 #EXTINF:-1 tvg-id="RTL Living Germany" tvg-name="RTL Living Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rtl%20living.png" group-title="PayTV",RTL-Living
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40680
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1024
 #EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rtl%20passion.png" group-title="PayTV",RTL Passion
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35224
 #EXTINF:-1 tvg-id="Sat.1.de" tvg-name="Sat.1" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/sat%201.png" group-title="",Sat 1
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35227
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1019
 #EXTINF:-1 tvg-id="Sat.1 GOLD" tvg-name="Sat.1 GOLD" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/sat.1%20gold.png" group-title="",Sat 1 Gold
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35226
 #EXTINF:-1 tvg-id="Sat.1 emotions" tvg-name="Sat.1 emotions" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/sat.1%20emotions.png" group-title="PayTV",Sat 1 Emotions
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40693
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1042
 #EXTINF:-1 tvg-id="Kabel Eins" tvg-name="Kabel Eins" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/kabel%201.png" group-title="",Kabel Eins
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40696
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1034
 #EXTINF:-1 tvg-id="Kabel Eins Classics" tvg-name="Kabel Eins Classics" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/kabel%20eins%20classics.png" group-title="",Kabel Eins Classics
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1036
 #EXTINF:-1 tvg-id="Kabel Eins Doku" tvg-name="Kabel Eins Doku" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/kabel%20eins%20doku.png" group-title="",Kabel Eins Doku
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40696
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35207
 #EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/pro%207.png" group-title="",ProSieben
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1029
 #EXTINF:-1 tvg-id="ProSieben Maxx" tvg-name="ProSieben Maxx" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/pro7%20maxx.png" group-title="",ProSieben Maxx
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1033
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35219
 #EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/pro7%20fun%20hd.png" group-title="PayTV",ProSieben Fun
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40690
 #EXTINF:-1 tvg-id="Vox" tvg-name="Vox" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/vox.png" group-title="",Vox
@@ -100,11 +100,11 @@ http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1199
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/history.png" group-title="Doku",History
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1200
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/nationalgeo%20hd.png" group-title="Doku",National Geographic
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40738
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35214
 #EXTINF:-1 tvg-id="National Geographic Wild Germany" tvg-name="National Geographic Wild Germany" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/natgeo%20wild.png" group-title="Doku",NAT-GEO-Wild
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40739
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35215
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/animal%20planet.png" group-title="Doku",ANIMAL PLANET
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/40741
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1195
 #EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/spiegel%20geschichte.png" group-title="Doku",Spiegel Geschichte
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1202
 #EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-shift="" radio="" tvg-logo="https://press.curiositystream.com/wp-content/uploads/2021/08/CuriosityChannel%E2%84%A2-Logo-Pos.png" group-title="Doku",Spiegel TV Wissen
@@ -166,29 +166,29 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/412
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/44f9f80e44f84ce4533b0cbb3cb62fcd.png" group-title="Sport",EUROSPORT 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2082
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e278484e21302dccc0083bc4570e5d3a.png" group-title="PayTV",SYFY
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/408
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35176
 #EXTINF:-1 tvg-id="13th Street" tvg-name="13th Street" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/affc50722b24295a801e25d724bd63c3.png" group-title="PayTV",13th Street
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3498
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35179
 #EXTINF:-1 tvg-id="Sony AXN" tvg-name="Sony AXN" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4df4f6d272837cabf8055cc973a311d1.png" group-title="PayTV",Sony AXN
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2091
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1075
 #EXTINF:-1 tvg-id="Sony Channel Germany" tvg-name="Sony Channel Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e2fee6b2734b02fd526ec435b3d82668.jpg" group-title="PayTV",Sony Channel
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2128
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1049
 #EXTINF:-1 tvg-id="Romance TV Germany" tvg-name="Romance TV Germany" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eff97396dced319c2f9034ce017d4837.png" group-title="PayTV",Romance TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1662
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1053
 #EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9327371a91ab40f216154b8dc2e80d8f.png" group-title="PayTV",Kinowelt TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2127
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1074
 #EXTINF:-1 tvg-id="Silverline Movie Channel" tvg-name="Silverline Movie Channel" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fb24daf338d66d8806f505694abf2e0.jpg" group-title="PayTV",SilverLine
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148067
 #EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b7fd47cce1f77856894995648c9b0e5.png" group-title="PayTV",Universal TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1654
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/35230
 #EXTINF:-1 tvg-id="TNT Comedy" tvg-name="TNT Comedy" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e544bd95d6e6ae7bef1951c13d06d4c5.png" group-title="PayTV",Warner TV Comedy
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281763
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1071
 #EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT Film" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f13246ba5272f59e5bc74ab07c0a511d.png" group-title="PayTV",Warner TV Film
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2087
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1070
 #EXTINF:-1 tvg-id="TNT serie" tvg-name="TNT serie" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/1200px-WarnerTV_Serie_Logo_2021.svg.png" group-title="PayTV",Warner TV serie
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1655
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1072
 #EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53a26073e5ed0e20f546a463740fe707.png" group-title="PayTV",Heimatkanal
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1668
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1051
 #EXTINF:-1 tvg-id="Magenta Sport 1" tvg-name="Magenta Sport 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 1
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290686
 #EXTINF:-1 tvg-id="Magenta Sport 2" tvg-name="Magenta Sport 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6ae4431f5d911f08b9cc11e8a4b1b851.png" group-title="Sport",Magenta Sport 2
